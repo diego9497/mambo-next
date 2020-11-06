@@ -1,8 +1,9 @@
 import {GridHistory, ContainerTitle, Title, ContainerImagePrincipal, ImagePrincipal, ContentHistory, TitleContentSecond, TextContentHistory, ContainerButtom, ContentSecond, TextContentSecond, FirstEmpty, SecondEmpty, ContainerFirstImage, ContainerSecondImage, ContainerThirdImage, ImageSecond} from './styles'
-
+import DetailHistory from '../DetailHistory'
 
 function HistoryGrid(props) {
   return(
+    <>
     <GridHistory>
       <ContainerTitle>
         <Title color={'blue'}>La historia del MAMBO</Title>
@@ -37,6 +38,8 @@ function HistoryGrid(props) {
         <ImageSecond src={'https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg'} />
       </ContainerThirdImage>
     </GridHistory>
+    <DetailHistory />
+    </>
   )
 }
 

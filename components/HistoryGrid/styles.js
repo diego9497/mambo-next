@@ -51,7 +51,7 @@ export const ContainerButtom = styled.div`
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  border: 2px solid var(--borderColor);
+  border: 2px solid black;
 `
 
 export const ContentSecond = styled.div`
