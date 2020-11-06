@@ -38,7 +38,7 @@ function HistoryGrid(props) {
         <ImageSecond src={'https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg'} />
       </ContainerThirdImage>
     </GridHistory>
-    <DetailHistory />
+   
     </>
   )
 }
