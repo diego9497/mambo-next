@@ -17,16 +17,16 @@ export const Top = styled.div`
   }
   & > div:nth-child(1) {
     padding: 20px;
-    color: #335fd7;
-    font-size: 2.5em;
+    color: ${({ color }) => color};
     line-height: 1;
     h1 {
       width: 60%;
+      font-size: 2.5em;
       font-weight: normal;
     }
   }
   & > div:nth-child(3) {
-    background: #335fd7;
+    background: ${({ color }) => color};
   }
 `;
 
@@ -61,7 +61,7 @@ export const SubtitleContent = styled.div`
   flex-direction: column;
 `;
 export const SubtitleTextContainer = styled.div`
-  background: #335fd7;
+  background: ${({ color }) => color};
   color: white;
   padding: 10px 20px 60px;
   font-size: 1.8em;
