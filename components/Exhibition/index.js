@@ -9,12 +9,12 @@ import {
   SubtitleContent,
 } from "./styles";
 
-const Exhibition = (props) => {
+const Exhibition = ({ title, history, author, color }) => {
   return (
     <Container>
-      <Top>
+      <Top color={color}>
         <div>
-          <h1>MAMBO Pop Up</h1>
+          <h1>{title}</h1>
         </div>
         <div></div>
         <div></div>
@@ -23,17 +23,21 @@ const Exhibition = (props) => {
         <SubtitleContainer>
           <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
           <SubtitleContent>
-            <SubtitleTextContainer>
-              <h3>la historia del mambo</h3>
+            <SubtitleTextContainer color={color}>
+              <h3>{history}</h3>
             </SubtitleTextContainer>
             <SubtitleAuthorContainer>
-              <p>Oscar Monsalve</p>
+              <p>{author}</p>
               <p>Archivo del MAMBO</p>
             </SubtitleAuthorContainer>
           </SubtitleContent>
         </SubtitleContainer>
-        <div></div>
-        <div></div>
+        <SubtitleContainer>
+          <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+        </SubtitleContainer>
+        <SubtitleContainer>
+          <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+        </SubtitleContainer>
       </Bottom>
     </Container>
   );
