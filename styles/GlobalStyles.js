@@ -9,6 +9,6 @@ export default createGlobalStyle`
   }
   :root {
     --headerHeight: 50px;
-    --borderColor: #231f20;
+    --borderColor: #a5a5a5;
   }
 `;

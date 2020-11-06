@@ -32,7 +32,7 @@ export const Content = styled.div`
 
 export const Text = styled.p`
   padding: 15px 20px;
-  height: 120px;
+  height: 35%;
   background: ${({ color }) => color};
   color: white;
 
