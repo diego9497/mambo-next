@@ -3,7 +3,16 @@
   "activity": "activities",
   "questions": "questions",
   "keyConcepts": "Key concepts",
-  "timeline": "timeline",
+  "timeline": "Timeline",
   "map": "map",
-  "back": "back"
+  "back": "back",
+  "mv1": "MAMBO POP UP",
+  "mv2": "MAMBO Traveler Exhibition",
+  "mv3": "Modern Art in the World",
+  "mv4": "Modern Art in Colombia",
+  "mv5": "Conceptual Art in the World",
+  "mv6": "Conceptual Art in Colombia",
+  "mv7": "Contemporary Art in the World",
+  "mv8": "Contemporary art in Colombia",
+  "mv9": "New media"
 }

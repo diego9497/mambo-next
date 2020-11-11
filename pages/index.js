@@ -3,7 +3,10 @@ import Masonry from "../components/Masonry";
 import GlobalStyles from "../styles/GlobalStyles";
 import Head from "next/head";
 
-export default function Home() {
+import esCommon from "../locales/es/common.json";
+import enCommon from "../locales/en/common.json";
+
+function Home({ config }) {
   return (
     <>
       <Head>
@@ -11,7 +14,17 @@ export default function Home() {
       </Head>
       <GlobalStyles />
       <Header />
-      <Masonry />
+      <Masonry config={config} />
     </>
   );
 }
+
+export const getStaticProps = ({ locale }) => {
+  const langCommon = { es: esCommon, en: enCommon };
+  const config = langCommon[locale];
+  return {
+    props: { config },
+  };
+};
+
+export default Home;
