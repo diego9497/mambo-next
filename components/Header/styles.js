@@ -5,6 +5,11 @@ export const Container = styled.header`
   grid-template-columns: 1fr 1fr 1fr;
   border-bottom: 1px solid var(--borderColor);
   height: var(--headerHeight);
+  position: fixed;
+  background: white;
+  z-index: 99999;
+  width: 100%;
+  top: 0;
 
   & > div {
     border-right: 1px solid var(--borderColor);

@@ -1,22 +1,31 @@
-import {ContainerFooter, ItemOption,ContainerIcon, Option, A} from './styles'
-import Link from 'next/link'
-function Footer(props){
-  return(
+import {
+  ContainerFooter,
+  ItemOption,
+  ContainerIcon,
+  Option,
+  A,
+} from "./styles";
+import Before from "../Icons/Before";
+import Activities from "../Icons/Activities";
+import Map from "../Icons/Map";
+import TimeLine from "../Icons/TimeLine";
+import Link from "next/link";
+function Footer({ exhibition, config }) {
+  const { title, id } = exhibition;
+  return (
     <ContainerFooter>
-      <Link href="">
+      <Link href={`/exhibition/${id}`}>
         <A>
           <ItemOption>
-            <ContainerIcon>
-            </ContainerIcon>
-            <Option>Mambo pop up</Option>
+            <Before />
+            <Option>{title}</Option>
           </ItemOption>
         </A>
       </Link>
       <Link href="">
         <A>
           <ItemOption>
-            <ContainerIcon>
-            </ContainerIcon>
+            <ContainerIcon></ContainerIcon>
             <Option>NUEVOS MEDIOS</Option>
           </ItemOption>
         </A>
@@ -24,33 +33,29 @@ function Footer(props){
       <Link href="">
         <A>
           <ItemOption>
-            <ContainerIcon>
-            </ContainerIcon>
-            <Option>ACTVIDADES</Option>
+            <Activities />
+            <Option>{config.activity}</Option>
           </ItemOption>
         </A>
       </Link>
       <Link href="">
         <A>
           <ItemOption>
-            <ContainerIcon>
-            </ContainerIcon>
-            <Option>LINEA DE TIEMPO</Option>
+            <TimeLine />
+            <Option>{config.timeline}</Option>
           </ItemOption>
         </A>
       </Link>
       <Link href="">
         <A>
           <ItemOption>
-            <ContainerIcon>
-            </ContainerIcon>
-            <Option>MAPA</Option>
+            <Map />
+            <Option>{config.map}</Option>
           </ItemOption>
         </A>
       </Link>
-
     </ContainerFooter>
-  )
+  );
 }
 
-export default Footer
+export default Footer;

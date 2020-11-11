@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   Top,
   Bottom,
@@ -5,11 +6,31 @@ import {
   SubtitleAuthorContainer,
   SubtitleBackground,
   SubtitleContainer,
+  SubtitleContainerAnchor,
   SubtitleTextContainer,
   SubtitleContent,
 } from "./styles";
 
-const Exhibition = ({ title, history, author, color }) => {
+const Exhibition = ({ exhibition, config }) => {
+  const { title, history, author, color, id } = exhibition;
+
+  function ChooseLink({ children }) {
+    switch (process.env.NODE_ENV) {
+      case "development":
+        return (
+          <Link href={`${id}/detail`}>
+            <SubtitleContainerAnchor>{children}</SubtitleContainerAnchor>
+          </Link>
+        );
+      case "production":
+        return (
+          <SubtitleContainer>
+            <a href={`./${id}/detail.html`}>{children}</a>
+          </SubtitleContainer>
+        );
+    }
+  }
+
   return (
     <Container>
       <Top color={color}>
@@ -20,18 +41,20 @@ const Exhibition = ({ title, history, author, color }) => {
         <div></div>
       </Top>
       <Bottom>
-        <SubtitleContainer>
-          <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
-          <SubtitleContent>
-            <SubtitleTextContainer color={color}>
-              <h3>{history}</h3>
-            </SubtitleTextContainer>
-            <SubtitleAuthorContainer>
-              <p>{author}</p>
-              <p>Archivo del MAMBO</p>
-            </SubtitleAuthorContainer>
-          </SubtitleContent>
-        </SubtitleContainer>
+        <ChooseLink>
+          <>
+            <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+            <SubtitleContent>
+              <SubtitleTextContainer color={color}>
+                <h3>{history}</h3>
+              </SubtitleTextContainer>
+              <SubtitleAuthorContainer>
+                <span>{author}</span>
+                <span>Archivo del MAMBO</span>
+              </SubtitleAuthorContainer>
+            </SubtitleContent>
+          </>
+        </ChooseLink>
         <SubtitleContainer>
           <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
         </SubtitleContainer>

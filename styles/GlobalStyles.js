@@ -11,4 +11,7 @@ export default createGlobalStyle`
     --headerHeight: 50px;
     --borderColor: #a5a5a5;
   }
+  body {
+    padding-top: var(--headerHeight)
+  }
 `;

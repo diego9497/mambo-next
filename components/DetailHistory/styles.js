@@ -1,43 +1,45 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const ContainerDetail = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 200px 1fr;
-  grid-template-areas: 'Title ContentSecond Menu'
-                       'Content ContentSecond Menu';
+  grid-template-areas:
+    "Title ContentSecond Menu"
+    "Content ContentSecond Menu";
   height: calc(100vh - 2 * var(--headerHeight));
-`
+  margin-bottom: var(--headerHeight);
+`;
 export const ContainerTitle = styled.div`
   grid-area: Title;
   width: 100%;
   padding: 20px;
   border-bottom: 1px solid var(--borderColor);
-`
+`;
 export const Title = styled.h1`
-  color: ${props=> props.color};
+  color: ${(props) => props.color};
   font-size: 3.2em;
   line-height: 1em;
-`
+`;
 export const ContainerContentSecond = styled.div`
   grid-area: ContentSecond;
   width: 100%;
   padding: 20px;
-`
+`;
 export const ContainerContent = styled.div`
   grid-area: Content;
   width: 100%;
   padding: 20px;
-`
+`;
 export const TextContent = styled.p`
   font-size: 1em;
   color: black;
-`
+`;
 export const ContainerMenu = styled.div`
   grid-area: Menu;
   width: 100%;
-  background: rgba(0,0,0,.3);
-`
+  background: rgba(0, 0, 0, 0.3);
+`;
 export const ItemMenu = styled.div`
   width: 100%;
   height: 50px;
@@ -46,19 +48,13 @@ export const ItemMenu = styled.div`
   padding: 20px;
   cursor: pointer;
   border-bottom: 1px solid var(--borderColor);
-`
-export const ContainerIcon = styled.div`
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  border: 2px solid black;
-  margin-right: 10px;
-`
+`;
 export const TextItem = styled.p`
   font-size: 1em;
   text-transform: uppercase;
   font-weight: bold;
-`
+  margin-left: 10px;
+`;
 
 export const ImageBackground = styled.img`
   grid-row: 1/-1;
@@ -66,7 +62,6 @@ export const ImageBackground = styled.img`
   object-fit: cover;
   width: 100%;
   height: 100%;
-  filter: grayscale(.8) brightness(1.2);
+  filter: grayscale(0.8) brightness(1.2);
   z-index: -1;
-
-`
+`;

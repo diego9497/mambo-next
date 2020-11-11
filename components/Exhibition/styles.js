@@ -34,7 +34,8 @@ export const Bottom = styled.div`
   display: flex;
   height: 60%;
 
-  & > div {
+  & > div,
+  > a {
     width: 33.3333333%;
     height: 100%;
     border-right: 1px solid var(--borderColor);
@@ -43,6 +44,10 @@ export const Bottom = styled.div`
 
 export const SubtitleContainer = styled.div`
   position: relative;
+`;
+export const SubtitleContainerAnchor = styled.a`
+  position: relative;
+  cursor: pointer;
 `;
 export const SubtitleBackground = styled.img`
   position: absolute;
@@ -75,6 +80,11 @@ export const SubtitleTextContainer = styled.div`
 export const SubtitleAuthorContainer = styled.p`
   background: rgba(0, 0, 0, 0.5);
   color: white;
+  text-decoration: none;
   padding: 10px 20px;
   font-size: 1em;
+  span {
+    color: white;
+    display: block;
+  }
 `;
