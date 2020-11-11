@@ -21,7 +21,7 @@ export const ContainerDetail = styled.div`
     height: initial;
   }
 `;
-export const ContainerTitlT = styled.div`
+export const ContainerTitle = styled.div`
   grid-area: title;
   width: 100%;
   padding: 20px;
