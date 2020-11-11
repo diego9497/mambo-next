@@ -9,6 +9,17 @@ export const ContainerDetail = styled.div`
     "Content ContentSecond Menu";
   height: calc(100vh - 2 * var(--headerHeight));
   margin-bottom: var(--headerHeight);
+
+  @media screen and (max-width: 575px) {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+      "Title"
+      "Content"
+      "ContentSecond"
+      "Menu";
+    height: initial;
+  }
 `;
 export const ContainerTitle = styled.div`
   grid-area: Title;
@@ -21,6 +32,7 @@ export const Title = styled.h1`
   color: ${(props) => props.color};
   font-size: 3.2em;
   line-height: 1em;
+  font-weight: normal;
 `;
 export const ContainerContentSecond = styled.div`
   grid-area: ContentSecond;
@@ -40,6 +52,7 @@ export const TextContent = styled.p`
 export const ContainerMenu = styled.div`
   grid-area: Menu;
   width: 100%;
+  height: calc(100vh - var(--headerHeight) - var(--headerHeight));
   background: rgba(0, 0, 0, 0.3);
 `;
 export const ItemMenu = styled.div`
@@ -66,13 +79,24 @@ export const ImageBackground = styled.img`
   height: 100%;
   filter: grayscale(0.8) brightness(1.2);
   z-index: -1;
+  @media screen and (max-width: 575px) {
+    grid-column: 1/-1;
+    grid-row: -2/-1;
+  }
 `;
 
 export const MenuContentContainer = styled.div`
   grid-row: 1/-1;
   grid-column: 2/-1;
+  display: grid;
+  grid-template-rows: 63px 1fr;
+  height: calc(100vh - 2 * var(--headerHeight));
   background: ${({ color }) => color};
   color: white;
+  @media screen and (max-width: 575px) {
+    grid-column: 1/-1;
+    grid-row: -2/-1;
+  }
 `;
 
 export const MenuContentTitleContainer = styled.div`
@@ -97,7 +121,6 @@ export const MenuContentTitle = styled.div`
 
 export const MenuContentDetailContainer = styled.div`
   overflow: auto;
-  height: calc(100% - 63px);
   ::-webkit-scrollbar {
     width: 7px;
   }
@@ -119,15 +142,27 @@ export const ConceptContainer = styled.div`
   display: flex;
   padding: 15px 30px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-
+  @media screen and (max-width: 575px) {
+    flex-direction: column;
+  }
   & > img {
     width: 50%;
+    object-fit: contain;
     filter: grayscale(1);
+    @media screen and (max-width: 575px) {
+      width: 100%;
+      margin-bottom: 10px;
+    }
   }
   & p {
     width: 50%;
     padding-left: 20px;
     font-size: 1.15em;
+    @media screen and (max-width: 575px) {
+      width: 100%;
+      padding-left: 0;
+    }
+
     h3 {
       text-transform: uppercase;
       font-weight: normal;
@@ -141,15 +176,27 @@ export const QuestionContainer = styled.div`
   align-items: flex-start;
   padding: 15px 30px;
 
+  @media screen and (max-width: 575px) {
+    flex-direction: column;
+  }
+
   & > img {
     width: 50%;
     object-fit: contain;
     filter: grayscale(1);
+    @media screen and (max-width: 575px) {
+      width: 100%;
+      margin-bottom: 10px;
+    }
   }
   & div {
     width: 50%;
     padding-left: 20px;
     font-size: 1.3em;
+    @media screen and (max-width: 575px) {
+      width: 100%;
+      padding-left: 0;
+    }
     p {
       margin-bottom: 20px;
     }

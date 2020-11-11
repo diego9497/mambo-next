@@ -54,7 +54,32 @@
         "content": "It is the field that promotes learning in the museum, studies audiences, designs activities and pedagogical programs aimed at various audiences.",
         "img": ""
       }
-    ]
+    ],
+    "next": {
+      "id": 2,
+      "title": "MAMBO Traveler Exhibition"
+    }
+  },
+  {
+    "id": 2,
+    "color": "#ED4040",
+    "title": "MAMBO Traveler Exhibition",
+    "history": "Visit the exhibition of the traveling mambo - The Art of Disobedience",
+    "historyDescription": [
+      "In this section it is proposed that teachers and students visit the exhibition The Art of Disobedience, which shows works produced between 1964 and 1985 by modern and contemporary artists who are part of the MAMBO collection. This exhibition was held in the Museum in 2018, then it became a traveling exhibition with a selection of 45 works that have been exhibited in different locations in Bogotá "
+    ],
+    "author": "",
+    "authorContent": "",
+    "forWhat": "",
+    "forWhatContent": "",
+    "previous": {
+      "id": 1,
+      "title": "MAMBO Pop U"
+    },
+    "next": {
+      "id": 3,
+      "title": "Conceptual Art in Colombia"
+    }
   },
   {
     "id": 3,
@@ -97,7 +122,15 @@
         "content": "Term to refer to works that represent images, objects and scenes of life in a realistic and recognizable way.",
         "img": ""
       }
-    ]
+    ],
+    "previous": {
+      "id": 2,
+      "title": "MAMBO Traveler Exhibition"
+    },
+    "next": {
+      "id": 4,
+      "title": "Modern Art in Colombia"
+    }
   },
   {
     "id": 4,
@@ -154,7 +187,15 @@
         "content": "Economic system proposed by Adam Smith where the capital produced by the means of production from the labor force is a private person or company; this being the engine of the market economy and what differentiate socioeconomic classes. ",
         "img": ""
       }
-    ]
+    ],
+    "previous": {
+      "id": 3,
+      "title": "Modern Art in Colombia"
+    },
+    "next": {
+      "id": 5,
+      "title": "Conceptual Art in the World"
+    }
   },
   {
     "id": 5,
@@ -194,7 +235,15 @@
         "content": "It is a philosophical discipline that studies perception, sensations and criteria to value beauty and taste in art.",
         "img": ""
       }
-    ]
+    ],
+    "previous": {
+      "id": 4,
+      "title": "Modern Art in Colombia"
+    },
+    "next": {
+      "id": 6,
+      "title": "Conceptual Art in Colombia"
+    }
   },
   {
     "id": 6,
@@ -235,7 +284,15 @@
         "content": "Annual exhibition that was inaugurated in 1940 by the then Minister of Education Jorge Eliécer Gaitán and President Eduardo Santos. This event, in which the most outstanding artists were awarded, was a platform for national exhibition and debate that documented important proposals of modern and contemporary art during the following decades. ",
         "img": ""
       }
-    ]
+    ],
+    "previous": {
+      "id": 5,
+      "title": "Conceptual Art in the World"
+    },
+    "next": {
+      "id": 7,
+      "title": "Contemporary Art in the World"
+    }
   },
   {
     "id": 7,
@@ -284,7 +341,15 @@
         "content": "Works of art that conceive social relations as the raw material of artistic creation, therefore many of these works have been performances and happenings.",
         "img": ""
       }
-    ]
+    ],
+    "previous": {
+      "id": 6,
+      "title": "Conceptual Art in Colombia"
+    },
+    "next": {
+      "id": 8,
+      "title": "Contemporary art in Colombia"
+    }
   },
   {
     "id": 8,
@@ -324,7 +389,15 @@
         "content": "The National Constituent Assembly of 1991 was the result of the peace agreement between the government of Belisario Betancur and the guerrilla group M - 19. In this assembly, the Political Constitution of Colombia was drawn up, a document that consolidated democracy in our country.",
         "img": ""
       }
-    ]
+    ],
+    "previous": {
+      "id": 7,
+      "title": "Contemporary Art in the World"
+    },
+    "next": {
+      "id": 9,
+      "title": "New media"
+    }
   },
   {
     "id": 9,
@@ -342,6 +415,10 @@
     "author": "Natalia Rivera",
     "authorContent": "Use everyday objects to make installations. In this work he reconstructs a scene from a beauty reign with three pairs of heels, questioning the viewer about the stereotypes of the female body.",
     "forWhat": "New media today?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the new media in contemporary art, identifying its historical origin and its appearance in Colombia."
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the new media in contemporary art, identifying its historical origin and its appearance in Colombia.",
+    "previous": {
+      "id": 8,
+      "title": "Contemporary art in Colombia"
+    }
   }
 ]

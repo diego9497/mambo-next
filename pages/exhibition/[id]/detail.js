@@ -15,6 +15,7 @@ const Detail = ({ exhibition, config }) => {
     <>
       <Head>
         <title>{exhibition.title} | MAMBO Viajero</title>
+        <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
       <GlobalStyles />
       <Header />

@@ -12,6 +12,7 @@ const Timeline = ({ config }) => {
     <>
       <Head>
         <title>{config?.timeline} | MAMBO Viajero</title>
+        <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
       <GlobalStyles />
       <Header />

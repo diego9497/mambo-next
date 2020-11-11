@@ -5,7 +5,8 @@ export default createGlobalStyle`
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Founders Grotesk', "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Founders Grotesk';
   }
   :root {
     --headerHeight: 50px;

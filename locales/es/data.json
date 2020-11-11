@@ -57,7 +57,28 @@
     ],
     "next": {
       "id": 2,
-      "title": ""
+      "title": "Exposición MAMBO Viajero"
+    }
+  },
+  {
+    "id": 2,
+    "color": "#ED4040",
+    "title": "Exposición MAMBO Viajero",
+    "history": "Visita la exposición del mambo viajero — El Arte de la desobediencia",
+    "historyDescription": [
+      "En esta sección se propone que los docentes y estudiantes visiten la exposición El Arte de la Desobediencia, que muestra obras producidas entre los años 1964 y 1985 por artistas modernos y contemporáneos que hacen parte de la colección del MAMBO. Esta exposición se realizó en el Museo en el año 2018, luego se transformó en una exposición itinerante con una selección de 45 obras que han sido expuestas en diferentes localidades de Bogotá"
+    ],
+    "author": "",
+    "authorContent": "",
+    "forWhat": "",
+    "forWhatContent": "",
+    "previous": {
+      "id": 1,
+      "title": "MAMBO Pop U"
+    },
+    "next": {
+      "id": 3,
+      "title": "Arte Conceptual en Colombia"
     }
   },
   {
@@ -102,9 +123,9 @@
         "img": ""
       }
     ],
-    "previus": {
+    "previous": {
       "id": 2,
-      "title": ""
+      "title": "Exposición MAMBO Viajero"
     },
     "next": {
       "id": 4,
@@ -167,7 +188,7 @@
         "img": ""
       }
     ],
-    "previus": {
+    "previous": {
       "id": 3,
       "title": "Arte Moderno en Colombia"
     },
@@ -215,7 +236,7 @@
         "img": ""
       }
     ],
-    "previus": {
+    "previous": {
       "id": 4,
       "title": "Arte Moderno en Colombia"
     },
@@ -264,7 +285,7 @@
         "img": ""
       }
     ],
-    "previus": {
+    "previous": {
       "id": 5,
       "title": "Arte Conceptual en el Mundo"
     },
@@ -321,7 +342,7 @@
         "img": ""
       }
     ],
-    "previus": {
+    "previous": {
       "id": 6,
       "title": "Arte Conceptual en Colombia"
     },
@@ -369,7 +390,7 @@
         "img": ""
       }
     ],
-    "previus": {
+    "previous": {
       "id": 7,
       "title": "Arte Contemporáneo en el Mundo"
     },
@@ -395,7 +416,7 @@
     "authorContent": "Utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con tres pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino. ",
     "forWhat": "¿Nuevos medios hoy?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre los nuevos medios en el arte contemporáneo, identificando su origen histórico y su aparición en Colombia. ",
-    "previus": {
+    "previous": {
       "id": 8,
       "title": "Arte contemporáneo en Colombia"
     }

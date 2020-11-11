@@ -1,4 +1,10 @@
-import { ContainerFooter, ItemOption, Option, A } from "./styles";
+import {
+  ContainerFooter,
+  ContainerBack,
+  ItemOption,
+  Option,
+  A,
+} from "./styles";
 import Before from "../Icons/Before";
 import Activities from "../Icons/Activities";
 import TimeLine from "../Icons/TimeLine";
@@ -9,14 +15,16 @@ function Footer({ exhibition, config }) {
   const { title, id } = exhibition;
   return (
     <ContainerFooter>
-      <Link href={`/exhibition/${id}`}>
-        <A>
-          <ItemOption>
-            <Before />
-            <Option>{title ? title : config.back}</Option>
-          </ItemOption>
-        </A>
-      </Link>
+      <ContainerBack>
+        <Link href={`/exhibition/${id}`}>
+          <A>
+            <ItemOption>
+              <Before />
+              <Option>{title ? title : config.back}</Option>
+            </ItemOption>
+          </A>
+        </Link>
+      </ContainerBack>
       <Link
         href={
           exhibition.next ? `/exhibition/${exhibition.next.id}/detail` : "#"

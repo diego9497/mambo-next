@@ -11,6 +11,7 @@ function Home({ config }) {
     <>
       <Head>
         <title>MAMBO Viajero</title>
+        <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
       <GlobalStyles />
       <Header />

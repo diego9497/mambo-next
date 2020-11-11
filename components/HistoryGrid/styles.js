@@ -8,6 +8,17 @@ export const GridHistory = styled.div`
     "Title ImagePrincipal Content"
     "ContentSecond FirstEmpty SecondEmpty"
     "FirstImage SecondImage ThirdImage";
+  @media screen and (max-width: 575px) {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+      "Title"
+      "ImagePrincipal"
+      "Content"
+      "ContentSecond"
+      "Menu";
+    height: initial;
+  }
 `;
 
 export const ContainerTitle = styled.div`
