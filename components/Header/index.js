@@ -19,11 +19,11 @@ const Header = (props) => {
         <div></div>
         <div></div>
         <div>
-          <Link href={router.asPath} locale="en">
+          <Link href={router.asPath} locale="en" scroll={false}>
             <a>EN</a>
           </Link>
           |
-          <Link href={router.asPath} locale="es">
+          <Link href={router.asPath} locale="es" scroll={false}>
             <a>ES</a>
           </Link>
         </div>
