@@ -143,9 +143,6 @@ export const ConceptContainer = styled.div`
   display: flex;
   padding: 15px 30px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  @media screen and (max-width: 575px) {
-    flex-direction: column;
-  }
   & > img {
     width: 50%;
     object-fit: contain;
@@ -168,6 +165,10 @@ export const ConceptContainer = styled.div`
       text-transform: uppercase;
       font-weight: normal;
       margin-bottom: 10px;
+    }
+
+    @media screen and (max-width: 575px) {
+      flex-direction: column;
     }
   }
 `;
