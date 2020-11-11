@@ -16,7 +16,7 @@ function Footer({ exhibition, config }) {
   return (
     <ContainerFooter>
       <ContainerBack>
-        <Link href={`/exhibition/${id}`}>
+        <Link href={title ? `/exhibition/${id}` : "/"}>
           <A>
             <ItemOption>
               <Before />
