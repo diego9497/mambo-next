@@ -22,7 +22,7 @@ export const GridHistory = styled.div`
 `;
 
 export const ContainerTitle = styled.div`
-  grid-area: title;
+  grid-area: Title;
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
 `;
