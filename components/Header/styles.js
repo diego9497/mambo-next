@@ -19,6 +19,7 @@ export const Container = styled.header`
     display: flex;
     align-items: center;
     padding-left: 20px;
+    padding-right: 10px;
     svg {
       cursor: pointer;
       user-select: none;
@@ -26,6 +27,9 @@ export const Container = styled.header`
   }
   & > div:last-child {
     border-right: none;
+  }
+  @media screen and (max-width: 575px) {
+    grid-template-columns: auto 1fr 2fr;
   }
 `;
 
@@ -63,4 +67,24 @@ export const Options = styled.div`
       cursor: pointer;
     }
   }
+  @media screen and (max-width: 575px) {
+    display: none;
+  }
+`;
+
+export const MenuButtonContainer = styled.div`
+  display: none;
+
+  @media screen and (max-width: 575px) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+`;
+
+export const MenuButton = styled.button`
+  border: none;
+  background: none;
+  outline: none;
+  cursor: pointer;
 `;

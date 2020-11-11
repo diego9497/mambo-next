@@ -11,6 +11,11 @@ export const Container = styled.div`
   & > div:last-child {
     border-right: none;
   }
+
+  @media screen and (max-width: 575px) {
+    grid-template-columns: initial;
+    grid-template-rows: repeat(3, 1fr);
+  }
 `;
 
 export const Left = styled.div`
@@ -22,6 +27,9 @@ export const Left = styled.div`
   }
   & > div:last-child {
     border-bottom: none;
+  }
+  @media screen and (max-width: 575px) {
+    grid-template-rows: repeat(2, 1fr);
   }
 `;
 
@@ -40,6 +48,10 @@ export const Center = styled.div`
   & > div:nth-child(3) {
     border-right: 1px solid var(--borderColor);
   }
+  @media screen and (max-width: 575px) {
+    grid-template-columns: initial;
+    grid-template-rows: repeat(4, 1fr);
+  }
 `;
 
 export const Right = styled.div`
@@ -51,5 +63,9 @@ export const Right = styled.div`
   }
   & > div:last-child {
     border-bottom: none;
+  }
+
+  @media screen and (max-width: 575px) {
+    grid-template-rows: repeat(3, 1fr);
   }
 `;

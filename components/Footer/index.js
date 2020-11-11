@@ -1,14 +1,9 @@
-import {
-  ContainerFooter,
-  ItemOption,
-  ContainerIcon,
-  Option,
-  A,
-} from "./styles";
+import { ContainerFooter, ItemOption, Option, A } from "./styles";
 import Before from "../Icons/Before";
 import Activities from "../Icons/Activities";
-import Map from "../Icons/Map";
 import TimeLine from "../Icons/TimeLine";
+import Map from "../Icons/Map";
+import Next from "../Icons/Next";
 import Link from "next/link";
 function Footer({ exhibition, config }) {
   const { title, id } = exhibition;
@@ -22,20 +17,28 @@ function Footer({ exhibition, config }) {
           </ItemOption>
         </A>
       </Link>
-      <Link href="">
+      <Link
+        href={
+          exhibition.next ? `/exhibition/${exhibition.next.id}/detail` : "#"
+        }
+      >
         <A>
-          <ItemOption>
-            <ContainerIcon></ContainerIcon>
-            <Option>NUEVOS MEDIOS</Option>
-          </ItemOption>
+          {exhibition.next && (
+            <ItemOption>
+              <Next />
+              <Option>{exhibition.next.title}</Option>
+            </ItemOption>
+          )}
         </A>
       </Link>
       <Link href="">
         <A>
-          <ItemOption>
-            <Activities />
-            <Option>{config.activity}</Option>
-          </ItemOption>
+          {exhibition.activity && (
+            <ItemOption>
+              <Activities />
+              <Option>{config.activity}</Option>
+            </ItemOption>
+          )}
         </A>
       </Link>
       <Link href="">

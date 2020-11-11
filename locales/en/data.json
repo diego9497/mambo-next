@@ -13,7 +13,48 @@
     "author": "Oscar Monsalve",
     "authorContent": "He was the museum's official photographer for several years, consolidating an important visual memory of modern and contemporary art in Colombia. In this series of photographs, you can see the construction of the current museum headquarters and the assembly of some representative exhibitions. ",
     "forWhat": "A revolution for what?",
-    "forWhatContent": "Museums are democratizing, inclusive and polyphonic spaces for critical dialogue about the past and the future. Recognizing and addressing the conflicts and challenges of the present, they safeguard artifacts and specimens for society, safeguard diverse memories for future generations, and guarantee equal rights and equal access to heritage for all peoples. Museums are not for profit.  They are participatory and transparent, and they work in active collaboration with and for diverse communities in order to collect, preserve, investigate, interpret, exhibit, and broaden understanding of the world, with the purpose of contributing to human dignity and social justice, to global equality and planetary welfare. (Icom, 2019)"
+    "forWhatContent": "Museums are democratizing, inclusive and polyphonic spaces for critical dialogue about the past and the future. Recognizing and addressing the conflicts and challenges of the present, they safeguard artifacts and specimens for society, safeguard diverse memories for future generations, and guarantee equal rights and equal access to heritage for all peoples. Museums are not for profit.  They are participatory and transparent, and they work in active collaboration with and for diverse communities in order to collect, preserve, investigate, interpret, exhibit, and broaden understanding of the world, with the purpose of contributing to human dignity and social justice, to global equality and planetary welfare. (Icom, 2019)",
+    "questions": [
+      "Why was the creation of the Museum of Modern Art important for the modernization of the country?",
+      "How do you think museums expand understanding of the world?",
+      "What is it to be democratic, inclusive and polyphonic?",
+      "Why do museums seek to safeguard diverse memories for future generations?",
+      "How can a museum contribute to human dignity, social justice and planetary well-being?"
+    ],
+    "didYouKnow": "In your city you have the Museum of Modern Art of Bogotá - MAMBO, with a collection of more than 4,500 pieces of art, which are part of the cultural heritage of our country.",
+    "activity": "Mambo Pop Up: Design and build your imaginary museum out of paper and show it to your class.",
+    "keyConcepts": [
+      {
+        "title": "Curatorship",
+        "content": "It is the exercise of selecting and organizing a series of works of art for the realization of an exhibition under a thematic framework defined by a (a) curator (a).",
+        "img": ""
+      },
+      {
+        "title": "Museography",
+        "content": "Discipline that deals with developing methods and techniques for the operation of a museum, mainly the architectural and spatial aspects of the exhibitions and the collection.",
+        "img": ""
+      },
+      {
+        "title": "cultural heritage",
+        "content": "It is a set of tangible and intangible goods that constitute the memory and identity of a human group and have a symbolic, historical and economic value.",
+        "img": ""
+      },
+      {
+        "title": "collection",
+        "content": "It is the set of material products of culture that are part of an institution dedicated to preserving heritage. They can be various objects such as tools and clothing in the case of anthropology museums or paintings and sculptures in the case of art museums. ",
+        "img": ""
+      },
+      {
+        "title": "democracy",
+        "content": "It is a system of social organization where power is attributed to citizens from collective decision-making, which guarantee a majority participation of society.",
+        "img": ""
+      },
+      {
+        "title": "education in museums",
+        "content": "It is the field that promotes learning in the museum, studies audiences, designs activities and pedagogical programs aimed at various audiences.",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 3,
@@ -28,7 +69,35 @@
     "author": "Edouard Manet",
     "authorContent": "He was one of the forerunners of impressionism and modern painting. This work called Olympia, an ironic reference to Greek history, generated controversy for presenting a nude woman who was apparently a sex worker, challenging moral codes and the tradition of the female nude in art. ",
     "forWhat": "A revolution for what?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the Industrial Revolution, the French Revolution and the origin of Modern Art that rebels against historical tradition."
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the Industrial Revolution, the French Revolution and the origin of Modern Art that rebels against historical tradition.",
+    "didYouKnow": "Photography radically modified the materiality of works of art, the way of producing images and of relating to the world.",
+    "questions": [
+      "Why was it important for artists of the time to question classical beauty ideals?",
+      "Why is rebelling and questioning important for artistic creation?",
+      "Why do you think there should be spaces for free expression?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "academic art",
+        "content": "Artistic current that arises in the School of Fine Arts in Paris at the beginning of the 14th century that takes up the interests of classical art, it is also known as Neoclassicism: a romantic and idealistic current, in which art was associated to beauty, perfection and mastery of technique. ",
+        "img": ""
+      },
+      {
+        "title": "vanguards",
+        "content": "Anti-academic and experimental artistic movements of the early twentieth century that emerged in the context of war and postwar Europe. Avant-gardes such as Cubism, Dadaism and Futurism, were decisive for the consolidation of modern art.",
+        "img": ""
+      },
+      {
+        "title": "abstract art",
+        "content": "Term to refer to works that do not represent any object or scene exactly.",
+        "img": ""
+      },
+      {
+        "title": "figurative art",
+        "content": "Term to refer to works that represent images, objects and scenes of life in a realistic and recognizable way.",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 4,
@@ -45,7 +114,47 @@
     "author": "Alejandro Obregón",
     "authorContent": "From the age of 6 he lived in the country, was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that were torn between figuration and abstraction (figurative expressionism), highlighting the expressive brushstrokes and the spot of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality.",
     "forWhat": "Politics and art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the political context and art, and the need to build nationalist discourses in the face of foreign influences."
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the political context and art, and the need to build nationalist discourses in the face of foreign influences.",
+    "didYouKnow": "The period known as La Violencia, characterized by clashes between the liberal and conservative parties, prompted artists to demonstrate in the face of the social and political situation.",
+    "activity": "Research your family tree, identify the origins and traits of your family, and draw a face or design a logo to represent them. Explain why.",
+    "questions": [
+      "What were the ideological differences between socialist realism and abstract expressionism?",
+      "How would you define national identity?",
+      "What traditional and modern values ​​do you identify in your family?",
+      "If morals, beliefs and values ​​are not the same for everyone, how can consensus be reached and violence avoided?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "cold war",
+        "content": "Military, political and cultural confrontation that took place between 1945 and 1989 between the western bloc, represented by the United States in defense of capitalism against the Soviet Union (U.R.R.S) in defense of communism.",
+        "img": ""
+      },
+      {
+        "title": "el bogotazo",
+        "content": "Popular revolts that took place in Bogotá after the assassination of Jorge Eliécer Gaitán on April 9, 1948, which originated the period known as La Violencia in which the liberal and conservative parties clashed.",
+        "img": ""
+      },
+      {
+        "title": "socialist realism",
+        "content": "Artistic current that emerged in the 1920s in the Soviet Union, motivated by the representation of reality for ideological purposes and often with content of denunciation. It was influential in the creation of Latin American movements that defended social realism as an instrument against imperialism. ",
+        "img": ""
+      },
+      {
+        "title": "North American expressionism",
+        "content": "It is considered the first current of abstract art in the United States, characterized by pictorial works on large-format canvases where paint was thrown spontaneously, creating free and expressive images. This current was opposed to socialist realism and was used as a tool for expanding the ideas expressed by the capitalist bloc in the Cold War. ",
+        "img": ""
+      },
+      {
+        "title": "communism",
+        "content": "Economic system proposed by Karl Marx in which there is no private property and the profit produced by the workers is distributed equitably, all means of production being administered by the State.",
+        "img": ""
+      },
+      {
+        "title": "capitalism",
+        "content": "Economic system proposed by Adam Smith where the capital produced by the means of production from the labor force is a private person or company; this being the engine of the market economy and what differentiate socioeconomic classes. ",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 5,
@@ -62,7 +171,30 @@
     "author": "Cildo Merireles",
     "authorContent": "He is recognized for his contributions to Latin American conceptual art, with works made from the analysis of Latin American economic and political systems. In this series, the artist recreates a series of counterfeit bills to reflect on capital, power and exploitation. ",
     "forWhat": "A concept for what?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the implications of understanding art as an intellectual process based on ideas and concepts."
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the implications of understanding art as an intellectual process based on ideas and concepts.",
+    "didYouKnow": "One of the first works of conceptual art was a chamber pot installed in a gallery by Marcel Duchamp.",
+    "questions": [
+      "What does it mean that content is more important than form?",
+      "What do you think is art and what is not?",
+      "What are the artists' research methods?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "counterculture",
+        "content": "The counterculture is the values ​​and social expressions that are opposed to those established in a society. The term appears in 1968, in one of the books of the historian Theodore Roszak to refer to the beat generation, the movement hippie, the sexual revolution and the American peace movements. ",
+        "img": ""
+      },
+      {
+        "title": "context",
+        "content": "It is the set of physical, socio-political and cultural conditions that surround an object or a circumstance. It defines the use, customs and values ​​of a specific human group.",
+        "img": ""
+      },
+      {
+        "title": "aesthetics",
+        "content": "It is a philosophical discipline that studies perception, sensations and criteria to value beauty and taste in art.",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 6,
@@ -78,7 +210,32 @@
     "author": "Bernardo Salcedo",
     "authorContent": "He was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as a tribute to the life of Dante Alighieri and his muse Beatriz Portinari with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art, with the use of minimalist volumes and irony in its name.",
     "forWhat": "Context and art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the counterculture (the social movements of the 60s and 70s) and the creation of new artistic expressions in Colombia."
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the counterculture (the social movements of the 60s and 70s) and the creation of new artistic expressions in Colombia.",
+    "didYouKnow": "One of the first performances in Colombia was carried out by a group of artists who took down their paintings from the National Artists' Hall and later burned some coffins in the center of Bogotá.",
+    "activity": "Develop a conceptual work in which you capture a problem in your local context.",
+    "questions": [
+      "How is democracy reflected in art?",
+      "What elements could you recognize from the historical context in a work of art?",
+      "Why do you think artists manifest themselves with disruptive works and actions?",
+      "What struggles of the social movements of the 60s and 70s are still valid and why?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "coup",
+        "content": "Civil or military overthrow of a democratically elected government. In the Colombian case, it refers to the military government led by Gustavo Rojas Pinilla, established after a coup against the conservative president Laureano Gómez, characterized by a high restriction of rights and civil liberties and the construction of important infrastructure works for the country. ",
+        "img": ""
+      },
+      {
+        "title": "national front",
+        "content": "Period of restricted democracy between 1957 and 1974 in which the liberal and conservative parties took the presidency. The origin of the armed conflict is attributed to this period due to the exclusion of socialist ideas from the political scene.",
+        "img": ""
+      },
+      {
+        "title": "national art salon",
+        "content": "Annual exhibition that was inaugurated in 1940 by the then Minister of Education Jorge Eliécer Gaitán and President Eduardo Santos. This event, in which the most outstanding artists were awarded, was a platform for national exhibition and debate that documented important proposals of modern and contemporary art during the following decades. ",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 7,
@@ -94,7 +251,40 @@
     "author": "Damien Hirst",
     "authorContent": "He is one of the most sought-after contemporary artists on the art market. Make this series of sculptures with animals stuffed in formaldehyde to question the public about the ephemeral and the limits between life and death. ",
     "forWhat": "Infinite possibilities?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on transdisciplinarity in art, the use of technologies and the multiple possibilities of interaction with the viewer. "
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on transdisciplinarity in art, the use of technologies and the multiple possibilities of interaction with the viewer. ",
+    "didYouKnow": "The international art market has recently grown as an investment, with high-priced works circulating among private collectors and museums.",
+    "questions": [
+      "What do you think are the possibilities that arise when approaching art as a transdisciplinary practice?",
+      "How does technology affect our relationship with the world?",
+      "What are the opportunities offered by works that involve the viewer?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "transdisciplinary",
+        "content": "It is the practice of comprehensive knowledge that transcends the division of disciplines to stimulate innovation and creativity. For example, art in dialogue with other disciplines such as science, sociology or design.",
+        "img": ""
+      },
+      {
+        "title": "globalization",
+        "content": "Global exchange and communication process enhanced by the internet, virtual technologies and the expansion of the economic development model.",
+        "img": ""
+      },
+      {
+        "title": "interactive art",
+        "content": "Works of art that propose an exchange with the viewer through mechanical systems or digital or virtual interfaces that generate action and reaction between the public and the work.",
+        "img": ""
+      },
+      {
+        "title": "immersive art",
+        "content": "Most of them are installations where the viewer not only contemplates the work but is part of it and experiences it through the senses.",
+        "img": ""
+      },
+      {
+        "title": "relational art",
+        "content": "Works of art that conceive social relations as the raw material of artistic creation, therefore many of these works have been performances and happenings.",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 8,
@@ -110,7 +300,31 @@
     "author": "Beatriz González",
     "authorContent": " She is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using images from popular culture in everyday objects to communicate her reflections on the Colombian context and the problems associated with conflict, gender and landscape. In this work, the artist intervenes a wooden bed with a religious image. ",
     "forWhat": "Today's art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context. "
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context. ",
+    "didYouKnow": "In the 1991 Constitution the State recognizes its duty to promote access to art and culture in society as a guarantee of the rights of all citizens to the free expression of their identity.",
+    "activity": "After making this journey from Modern Art in the world to Contemporary Art in Colombia, you already have the creative tools to make a work of art. We invite you to propose a work of art with the means you have available and that expresses a personal disagreement. ",
+    "questions": [
+      "What have been the influences of art in the history of Colombia?",
+      "On what subjects would you like to make art today?",
+      "How can art influence the change of stereotypes and discrimination?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "new media",
+        "content": "Techniques and strategies of contemporary art such as readymade, video, performance and installation among others, which expanded the tradition of art history based on drawing, painting and sculpture.",
+        "img": ""
+      },
+      {
+        "title": "armed conflict",
+        "content": "Armed confrontation with more than eight million victims that arose in the 1960s with the founding of the guerrilla of the Revolutionary Armed Forces of Colombia FARC and culminated in the peace agreement signed in the government of Juan Manuel Santos in 2016. However, although this agreement ended a historic conflict, in some regions the violence continues. ",
+        "img": ""
+      },
+      {
+        "title": "constitution of 91",
+        "content": "The National Constituent Assembly of 1991 was the result of the peace agreement between the government of Belisario Betancur and the guerrilla group M - 19. In this assembly, the Political Constitution of Colombia was drawn up, a document that consolidated democracy in our country.",
+        "img": ""
+      }
+    ]
   },
   {
     "id": 9,

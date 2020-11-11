@@ -1,5 +1,6 @@
-import { Container, Options } from "./styles";
+import { Container, Options, MenuButtonContainer, MenuButton } from "./styles";
 import Accessibility from "../Icons/Accessibility";
+import Menu from "../Icons/Menu";
 import Logo from "../Icons/Logo";
 import Link from "next/link";
 import { useRouter } from "next/router";
@@ -32,6 +33,11 @@ const Header = (props) => {
           </button>
         </div>
       </Options>
+      <MenuButtonContainer>
+        <MenuButton>
+          <Menu />
+        </MenuButton>
+      </MenuButtonContainer>
     </Container>
   );
 };

@@ -13,12 +13,57 @@
     "author": "Oscar Monsalve",
     "authorContent": "Fue el fotógrafo oficial del Museo durante varios años, consolidando una importante memoria visual del arte moderno y contemporáneo en Colombia. En esta serie de fotografías, se pueden observar la construcción de la sede actual del museo y el montaje de algunas exposiciones representativas. ",
     "forWhat": "¿Una revolución para qué?",
-    "forWhatContent": "Los museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro.\n Son participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)"
+    "forWhatContent": "Los museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro.\n Son participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)",
+    "questions": [
+      "¿Por qué la creación del Museo de Arte Moderno fue importante para la modernización del país?",
+      " ¿Cómo crees que amplían la comprensión del mundo los museos?",
+      " ¿Qué es ser democrático, inclusivo y polifónico?",
+      " ¿Por qué los museos buscan salvaguardar memorias diversas para las generaciones futuras?",
+      " ¿Cómo puede un museo contribuir a la dignidad humana, la justicia social y el bienestar planetario? "
+    ],
+    "didYouKnow": "En tu ciudad tienes el Museo de Arte Moderno de Bogotá - MAMBO, con una colección de más de 4.500 piezas de arte, las cuales hacen parte del patrimonio cultural de nuestro país.",
+    "activity": "Mambo Pop Up: Diseña y construye tu museo imaginario con papel y muéstralo a tu clase.",
+    "keyConcepts": [
+      {
+        "title": "Curaduría",
+        "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
+        "img": ""
+      },
+      {
+        "title": "Museografía",
+        "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
+        "img": ""
+      },
+      {
+        "title": "patrimonio cultural",
+        "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
+        "img": ""
+      },
+      {
+        "title": "colección",
+        "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
+        "img": ""
+      },
+      {
+        "title": "democracia",
+        "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
+        "img": ""
+      },
+      {
+        "title": "educación en la museos",
+        "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
+        "img": ""
+      }
+    ],
+    "next": {
+      "id": 2,
+      "title": ""
+    }
   },
   {
     "id": 3,
     "color": "#EFB8BC",
-    "title": "Arte Mderno en el Mundo",
+    "title": "Arte Moderno en el Mundo",
     "history": "Cómo surgió el arte moderno",
     "historyDescription": [
       "El arte moderno fue un proceso de transformación en el cual pintores, escultores y escritores de ese periodo buscaron nuevas formas de representación. Se dio aproximadamente entre 1850 y 1970, como consecuencia de la Revolución industrial, la Revolución Francesa y la caída de la monarquía. Los artistas se rebelaron frente a la inspiración renacentista del arte académico,",
@@ -28,7 +73,43 @@
     "author": "Edouard Manet",
     "authorContent": "Fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que al parecer era una trabajadora sexual, desafiando los códigos morales y la tradición del desnudo femenino en el arte. ",
     "forWhat": "¿Una revolución para qué?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica."
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.",
+    "didYouKnow": "La fotografía modificó radicalmente la materialidad de las obras de arte, la forma de producir imágenes y de relacionarnos con el mundo. ",
+    "questions": [
+      "¿Por qué fue importante para los artistas de la época cuestionar los ideales de belleza clásicos? ",
+      "¿Por qué rebelarse y cuestionarse es importante para la creación artística?",
+      "¿Por qué crees que deben existir espacios para la libre expresión?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "arte académico",
+        "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
+        "img": ""
+      },
+      {
+        "title": "vanguardias",
+        "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
+        "img": ""
+      },
+      {
+        "title": "arte abstracto",
+        "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
+        "img": ""
+      },
+      {
+        "title": "arte figurativo",
+        "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
+        "img": ""
+      }
+    ],
+    "previus": {
+      "id": 2,
+      "title": ""
+    },
+    "next": {
+      "id": 4,
+      "title": "Arte Moderno en Colombia"
+    }
   },
   {
     "id": 4,
@@ -45,7 +126,55 @@
     "author": "Alejandro Obregón",
     "authorContent": "Desde los 6 años vivió en el país, hizo parte del Grupo de Barranquilla y fue un referente de la pintura moderna y contemporánea en Colombia. Creó imágenes que se debatían entre la figuración y la abstracción (expresionismo figurativo), resaltando las pinceladas expresivas y la mancha de color. Esta emblemática obra es un reflejo de su interés por denunciar la crudeza de la realidad nacional.",
     "forWhat": "¿Política y arte?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionalistas frente a las influencias extranjeras."
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionalistas frente a las influencias extranjeras.",
+    "didYouKnow": "La época conocida como La Violencia, caracterizada por los enfrentamientos entre los partidos liberal y conservador, impulsó a los artistas a manifestarse ante la situación social y política. ",
+    "activity": "Investiga tu árbol genealógico, identifica los orígenes y rasgos de tu familia, y dibuja un rostro o diseña un logo que los represente. Explica por qué. ",
+    "questions": [
+      "¿Cuáles eran las diferencias ideológicas entre el realismo socialista y el expresionismo abstracto?",
+      "¿Cómo definirías la identidad nacional?",
+      "¿Qué valores tradicionales y modernos identificas en tu familia?",
+      "¿Si la moral, las creencias y los valores no son los mismos para todos y todas, cómo se puede llegar a un consenso y evitar la violencia? "
+    ],
+    "keyConcepts": [
+      {
+        "title": "guerra fría",
+        "content": "Enfrentamiento militar, político y cultural que se desarrolló entre los años 1945 y 1989 entre el bloque occidental, representado por Estados Unidos en defensa del capitalismo contra la Unión Soviética (U.R.R.S) en defensa del comunismo. ",
+        "img": ""
+      },
+      {
+        "title": "el bogotazo",
+        "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
+        "img": ""
+      },
+      {
+        "title": "realismo socialista",
+        "content": "Corriente artística que surge en los años 20 en la Unión Soviética, motivada por la representación de la realidad con fines ideológicos y muchas veces con contenido de denuncia. Fue influyente en la creación de movimientos latinoamericanos que defendieron el realismo social como un instrumento contra el imperialismo. ",
+        "img": ""
+      },
+      {
+        "title": "expresionismo norteamericano",
+        "content": "Se considera la primera corriente de arte abstracto en Estados Unidos, caracterizada por obras pictóricas en lienzos de gran formato en donde arrojaban la pintura espontáneamente, creando imágenes libres y expresivas. Esta corriente se opuso al realismo socialista y se usó como una herramienta de expansión de las ideas expresadas por el bloque capitalista en la Guerra Fría.",
+        "img": ""
+      },
+      {
+        "title": "comunismo",
+        "content": "Sistema económico propuesto por Karl Marx en el cual no existe la propiedad privada y la ganancia producida por los trabajadores se distribuye equitativamente, siendo todos los medios de producción administrados por el Estado. ",
+        "img": ""
+      },
+      {
+        "title": "capitalismo",
+        "content": "Sistema económico propuesto por Adam Smith en donde el capital producido por los medios de producción a partir de la fuerza de trabajo obrera es de una persona o empresa privada; siendo éste, el motor de la economía de mercados y lo que diferencia las clases socioeconómicas.",
+        "img": ""
+      }
+    ],
+    "previus": {
+      "id": 3,
+      "title": "Arte Moderno en Colombia"
+    },
+    "next": {
+      "id": 5,
+      "title": "Arte Conceptual en el Mundo"
+    }
   },
   {
     "id": 5,
@@ -62,7 +191,38 @@
     "author": "Cildo Merireles",
     "authorContent": "Es reconocido por sus aportes al arte conceptual latinoamericano, con obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericano. En esta serie, el artista recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. ",
     "forWhat": "¿Un concepto para qué?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos."
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
+    "didYouKnow": "Una de las primeras obras de arte conceptual fue un orinal instalado en una galería por Marcel Duchamp.",
+    "questions": [
+      "¿Qué significa que el contenido sea más importante que la forma?",
+      "¿Qué crees que es arte y qué no?",
+      "¿Cuáles son los métodos de investigación de los artistas? "
+    ],
+    "keyConcepts": [
+      {
+        "title": "contracultura",
+        "content": "La contracultura son los valores y las expresiones sociales que se oponen a las establecidas en una sociedad. El término aparece en el año 1968, en uno de los libros del historiador Theodore Roszak para referirse a la generación beat, el movimiento hippie, la revolución sexual y los movimientos pacifistas estadounidenses.",
+        "img": ""
+      },
+      {
+        "title": "contexto",
+        "content": "Es el conjunto de condiciones físicas, sociopolíticas y culturales que rodean a un objeto o a una circunstancia. Define el uso, las costumbres y los valores de un grupo humano específico.",
+        "img": ""
+      },
+      {
+        "title": "estética",
+        "content": "Es una disciplina filosófica que estudia la percepción, las sensaciones y los criterios para valorar la belleza y el gusto en el arte.",
+        "img": ""
+      }
+    ],
+    "previus": {
+      "id": 4,
+      "title": "Arte Moderno en Colombia"
+    },
+    "next": {
+      "id": 6,
+      "title": "Arte Conceptual en Colombia"
+    }
   },
   {
     "id": 6,
@@ -78,7 +238,40 @@
     "author": "Bernardo Salcedo",
     "authorContent": "Fue uno de los pioneros del arte conceptual en Colombia. Trabajó combinando elementos de la pintura, la escritura y la escultura, para generar cuestionamientos sobre el contexto sociohistórico. Esta obra surge como homenaje a la vida de Dante Alighieri y a su musa Beatriz Portinari con quien nunca consumó su amor. Esta obra fue premiada por reflejar las nuevas propuestas del arte conceptual, con el uso de los volúmenes minimalistas y la ironía en su nombre. ",
     "forWhat": "¿Contexto y arte?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la contracultura (los movimientos sociales de los 60 y 70) y la creación de nuevas expresiones artísticas en Colombia. "
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la contracultura (los movimientos sociales de los 60 y 70) y la creación de nuevas expresiones artísticas en Colombia. ",
+    "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá.",
+    "activity": "Desarrolla una obra conceptual en la cual plasmes una problemática de tu contexto local.",
+    "questions": [
+      "¿Cómo se refleja la democracia en el arte?",
+      "¿Qué elementos podrías reconocer del contexto histórico en una obra de arte?",
+      "¿Por qué crees que los artistas se manifiestan con obras y acciones disruptivas?",
+      "¿Cuáles luchas de los movimientos sociales de los 60 y 70 siguen vigentes y por qué?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "golpe de estado",
+        "content": "Derrocamiento civil o militar de un gobierno elegido democráticamente. En el caso Colombiano se refiere al gobierno militar liderado por Gustavo Rojas Pinilla instaurado después de un golpe de estado al presidente conservador Laureano Gómez, caracterizado por una alta restricción de derechos y libertades civiles y la construcción de importantes obras de infraestructura para el país.",
+        "img": ""
+      },
+      {
+        "title": "frente nacional",
+        "content": "Periodo de democracia restringida entre 1957 y 1974 en el que los partidos liberal y conservador se tomaron la presidencia. Se le atribuye a este periodo el origen del conflicto armado por la exclusión de las ideas socialistas del escenario político.",
+        "img": ""
+      },
+      {
+        "title": "salón nacional de arte",
+        "content": "Exposición anual que se inauguró en 1940 por el entonces Ministro de Educación Jorge Eliécer Gaitán y el presidente Eduardo Santos. Este evento, en el que se premiaba a los artistas más destacados, fue una plataforma de exhibición y debate nacional que documentó importantes propuestas del arte moderno y contemporáneo durante las siguientes décadas.",
+        "img": ""
+      }
+    ],
+    "previus": {
+      "id": 5,
+      "title": "Arte Conceptual en el Mundo"
+    },
+    "next": {
+      "id": 7,
+      "title": "Arte Contemporáneo en el Mundo"
+    }
   },
   {
     "id": 7,
@@ -94,7 +287,48 @@
     "author": "Damien Hirst",
     "authorContent": "Es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte. ",
     "forWhat": "¿Infinitas posibilidades?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador. "
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador. ",
+    "didYouKnow": "El mercado del arte internacional ha crecido recientemente como una inversión, con obras de altos precios que circulan entre coleccionistas privados y museos.",
+    "questions": [
+      "¿Cuáles crees que son las posibilidades que se presentan al abordar el arte como una práctica transdisciplinar?",
+      "¿Cómo afecta la tecnología nuestra relación con el mundo?",
+      "¿Cuáles son las oportunidades que ofrecen las obras que involucran al espectador?"
+    ],
+    "keyConcepts": [
+      {
+        "title": "transdisciplinar",
+        "content": "Es la práctica de un conocimiento integral que trasciende la división de las disciplinas para estimular la innovación y creatividad. Por ejemplo el arte en diálogo con otras disciplinas como la ciencia, la sociología o el diseño.",
+        "img": ""
+      },
+      {
+        "title": "globalización",
+        "content": "Proceso de intercambio y comunicación global potenciado por el internet, las tecnologías virtuales y la expansión del modelo económico de desarrollo.",
+        "img": ""
+      },
+      {
+        "title": "arte interactivo",
+        "content": "Obras de arte que proponen un intercambio con el espectador a través de sistemas mecánicos o interfaces digitales o virtuales que generan acción y reacción entre el público y la obra.",
+        "img": ""
+      },
+      {
+        "title": "arte inmersivo",
+        "content": "En su mayoría son instalaciones en donde el espectador ya no solo contempla la obra sino que es parte de ella y la experimenta a través de los sentidos.",
+        "img": ""
+      },
+      {
+        "title": "arte relacional",
+        "content": "Obras de arte que conciben las relaciones sociales como materia prima de la creación artística, por lo tanto muchas de estas obras han sido performances y happenings.",
+        "img": ""
+      }
+    ],
+    "previus": {
+      "id": 6,
+      "title": "Arte Conceptual en Colombia"
+    },
+    "next": {
+      "id": 8,
+      "title": "Arte contemporáneo en Colombia"
+    }
   },
   {
     "id": 8,
@@ -110,7 +344,39 @@
     "author": "Beatriz González",
     "authorContent": "Es una de las artistas más reconocidas de Colombia, su trabajo ha explorado los límites entre la pintura y la escultura, usando imágenes de la cultura popular en objetos cotidianos para comunicar sus reflexiones sobre el contexto colombiano y las problemáticas asociadas al conflicto, el género y el paisaje. En esta obra, la artista interviene una cama de madera con una imagen religiosa.",
     "forWhat": "¿Arte de hoy?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las expresiones particulares del arte contemporáneo y el rol de los artistas en el contexto social, político y cultural colombiano. "
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las expresiones particulares del arte contemporáneo y el rol de los artistas en el contexto social, político y cultural colombiano. ",
+    "didYouKnow": "En la Constitución de 1991 el Estado reconoce su deber de fomentar el acceso al arte y la cultura en la sociedad como garantía de los derechos de toda la ciudadanía a la libre expresión de su identidad.",
+    "activity": "Después de realizar este recorrido desde el Arte Moderno en el mundo hasta el Arte Contemporáneo en Colombia, ya tienes las herramientas creativas para realizar una obra de arte. Te invitamos a proponer una obra de arte con los medios que tengas disponibles y que exprese una inconformidad personal.",
+    "questions": [
+      "¿Cuáles han sido las influencias del arte en la historia de Colombia?",
+      "¿Sobre qué temas te gustaría hacer arte hoy?",
+      "¿Cómo el arte puede incidir en el cambio de los estereotipos y la discriminación? "
+    ],
+    "keyConcepts": [
+      {
+        "title": "nuevos medios",
+        "content": "Técnicas y estrategias del arte contemporáneo como el readymade, el video, el performance y la instalación entre otras, que ampliaron la tradición de la historia del arte fundamentada en el dibujo, la pintura y la escultura.",
+        "img": ""
+      },
+      {
+        "title": "conflicto armado",
+        "content": "Enfrentamiento armado con más de ocho millones de víctimas que surgió en los años 60 con la fundación de la guerrilla de las Fuerzas Armadas Revolucionarias de Colombia FARC y culminó con el acuerdo de paz firmado en el gobierno de Juan Manuel Santos en el 2016. Sin embargo, aunque este acuerdo puso fin a un conflicto histórico, en algunas regiones la violencia continúa.",
+        "img": ""
+      },
+      {
+        "title": "constitución del 91",
+        "content": "La Asamblea Nacional Constituyente del año 1991 fue resultado del acuerdo de paz entre el gobierno de Belisario Betancur y el grupo guerrillero M - 19. En esta asamblea, se elaboró la Constitución Política de Colombia, documento que consolidó la democracia en nuestro país.",
+        "img": ""
+      }
+    ],
+    "previus": {
+      "id": 7,
+      "title": "Arte Contemporáneo en el Mundo"
+    },
+    "next": {
+      "id": 9,
+      "title": "Nuevos medios"
+    }
   },
   {
     "id": 9,
@@ -128,6 +394,10 @@
     "author": "Natalia Rivera",
     "authorContent": "Utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con tres pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino. ",
     "forWhat": "¿Nuevos medios hoy?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre los nuevos medios en el arte contemporáneo, identificando su origen histórico y su aparición en Colombia. "
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre los nuevos medios en el arte contemporáneo, identificando su origen histórico y su aparición en Colombia. ",
+    "previus": {
+      "id": 8,
+      "title": "Arte contemporáneo en Colombia"
+    }
   }
 ]

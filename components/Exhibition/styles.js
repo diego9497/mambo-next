@@ -14,6 +14,10 @@ export const Top = styled.div`
     border-right: 1px solid var(--borderColor);
     display: flex;
     align-items: center;
+    @media screen and (max-width: 575px) {
+      width: 100%;
+      border-right: none;
+    }
   }
   & > div:nth-child(1) {
     padding: 20px;
@@ -25,8 +29,16 @@ export const Top = styled.div`
       font-weight: normal;
     }
   }
+  & > div:nth-child(2) {
+    @media screen and (max-width: 575px) {
+      display: none;
+    }
+  }
   & > div:nth-child(3) {
     background: ${({ color }) => color};
+    @media screen and (max-width: 575px) {
+      display: none;
+    }
   }
 `;
 

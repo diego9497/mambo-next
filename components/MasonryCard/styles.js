@@ -3,6 +3,10 @@ import styled from "styled-components";
 export const Container = styled.a`
   position: relative;
   cursor: pointer;
+
+  @media screen and (max-width: 575px) {
+    min-height: 200px;
+  }
 `;
 
 export const Background = styled.img`
@@ -37,4 +41,8 @@ export const Text = styled.p`
   color: white;
 
   ${({ always }) => (always ? "display: initial " : "display: none")}
+
+  @media screen and (max-width: 575px) {
+    display: initial;
+  }
 `;
