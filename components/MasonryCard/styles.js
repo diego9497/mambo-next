@@ -40,7 +40,7 @@ export const Text = styled.p`
   background: ${({ color }) => color};
   color: white;
 
-  ${({ always }) => (always ? "display: initial " : "display: none")}
+  ${({ always }) => (always ? "display: initial " : "display: none")};
 
   @media screen and (max-width: 575px) {
     display: initial;
