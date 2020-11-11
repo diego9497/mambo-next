@@ -7,8 +7,9 @@ export const ContainerFooter = styled.div`
   position: fixed;
   bottom: 0;
   width: 100%;
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  justify-items: flex-start;
 `;
 export const ItemOption = styled.div`
   padding: 0 15px;
