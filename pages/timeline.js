@@ -1,24 +1,32 @@
+import Head from "next/head";
+import GlobalStyles from "../styles/GlobalStyles";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+import TimelineComponent from "../components/Timeline";
 
-import Head from 'next/head'
-import GlobalStyles from '../styles/GlobalStyles'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
-import TimelineComponent from '../components/Timeline'
+import esCommon from "../locales/es/common.json";
+import enCommon from "../locales/en/common.json";
 
-const Timeline = ({ exhibition, config }) => {
+const Timeline = ({ config }) => {
   return (
     <>
       <Head>
-        <title>{exhibition?.title} | MAMBO Viajero</title>
+        <title>{config?.timeline} | MAMBO Viajero</title>
       </Head>
       <GlobalStyles />
       <Header />
       <TimelineComponent />
-      {/* <Footer exhibition={exhibition} config={config} /> */}
-
+      <Footer exhibition={{}} config={config} />
     </>
   );
 };
 
-export default Timeline
+export const getStaticProps = ({ locale }) => {
+  const langCommon = { es: esCommon, en: enCommon };
+  const config = langCommon[locale];
+  return {
+    props: { config },
+  };
+};
 
+export default Timeline;

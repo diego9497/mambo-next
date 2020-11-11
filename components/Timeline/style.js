@@ -13,16 +13,28 @@ export const ContainerList = styled.div`
   justify-content: center;
   padding-top: 40px;
   overflow-y: scroll;
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(175, 175, 175, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(175, 175, 175, 0.3);
+    border-radius: 4px;
+  }
 `;
 export const LeftList = styled.div`
   width: 260px;
   border-right: 1px solid gray;
   padding: 14px;
+  height: fit-content;
 `;
 export const RightList = styled.div`
   padding: 14px;
   width: 260px;
   border-left: 1px solid gray;
+  height: fit-content;
 `;
 export const TitleCard = styled.p`
   font-size: 1.1.em;

@@ -13,7 +13,7 @@ function Footer({ exhibition, config }) {
         <A>
           <ItemOption>
             <Before />
-            <Option>{title}</Option>
+            <Option>{title ? title : config.back}</Option>
           </ItemOption>
         </A>
       </Link>
@@ -41,7 +41,7 @@ function Footer({ exhibition, config }) {
           )}
         </A>
       </Link>
-      <Link href="">
+      <Link href="/timeline">
         <A>
           <ItemOption>
             <TimeLine />
