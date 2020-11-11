@@ -11,19 +11,27 @@ import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
 import Next from "../Icons/Next";
 import Link from "next/link";
+import { useRouter } from "next/router";
 function Footer({ exhibition, config }) {
   const { title, id } = exhibition;
+  const router = useRouter();
+
+  const handleBack = () => {
+    if (title) {
+      router.push(`/exhibition/${id}`);
+    } else {
+      router.back();
+    }
+  };
   return (
     <ContainerFooter>
-      <ContainerBack>
-        <Link href={title ? `/exhibition/${id}` : "/"}>
-          <A>
-            <ItemOption>
-              <Before />
-              <Option>{title ? title : config.back}</Option>
-            </ItemOption>
-          </A>
-        </Link>
+      <ContainerBack onClick={handleBack}>
+        <A>
+          <ItemOption>
+            <Before />
+            <Option>{title ? title : config.back}</Option>
+          </ItemOption>
+        </A>
       </ContainerBack>
       <Link
         href={

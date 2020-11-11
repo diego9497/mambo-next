@@ -52,9 +52,13 @@ export const Options = styled.div`
     line-height: 1;
     a {
       margin: 0 8px;
+      margin-top: 6px;
       color: black;
       text-decoration: none;
       cursor: pointer;
+    }
+    p {
+      margin-top: 6px;
     }
   }
   & > div:nth-child(4) {
@@ -65,6 +69,7 @@ export const Options = styled.div`
       border: none;
       background: none;
       cursor: pointer;
+      display: flex;
     }
   }
   @media screen and (max-width: 575px) {

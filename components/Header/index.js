@@ -22,7 +22,7 @@ const Header = (props) => {
           <Link href={router.asPath} locale="en" scroll={false}>
             <a>EN</a>
           </Link>
-          |
+          <p>|</p>
           <Link href={router.asPath} locale="es" scroll={false}>
             <a>ES</a>
           </Link>

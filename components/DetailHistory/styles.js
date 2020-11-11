@@ -69,6 +69,7 @@ export const TextItem = styled.p`
   text-transform: uppercase;
   font-weight: bold;
   margin-left: 10px;
+  margin-top: 7px;
 `;
 
 export const ImageBackground = styled.img`

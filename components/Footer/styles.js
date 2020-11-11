@@ -11,10 +11,11 @@ export const ContainerFooter = styled.div`
   justify-content: space-between;
 `;
 export const ItemOption = styled.div`
-  padding: 5px 15px;
+  padding: 0 15px;
   display: flex;
   align-items: center;
   width: 100%;
+  height: 100%;
   cursor: pointer;
   @media screen and (max-width: 575px) {
     flex-direction: column;
@@ -32,6 +33,7 @@ export const Option = styled.p`
   font-size: 1.2em;
   line-height: 1;
   margin-left: 6px;
+  margin-top: 6px;
   text-transform: uppercase;
   @media screen and (max-width: 575px) {
     font-size: 0.7em;
@@ -44,6 +46,7 @@ export const A = styled.a`
   display: flex;
   align-items: center;
   width: 100%;
+  height: 100%;
   border-right: 1px solid var(--borderColor);
 
   :nth-child(5) {
