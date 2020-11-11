@@ -5,8 +5,8 @@ export const ContainerDetail = styled.div`
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 200px 1fr;
   grid-template-areas:
-    "Title ContentSecond Menu"
-    "Content ContentSecond Menu";
+    "title contentSecond menu"
+    "content contentSecond menu";
   height: calc(100vh - 2 * var(--headerHeight));
   margin-bottom: var(--headerHeight);
 
@@ -14,15 +14,15 @@ export const ContainerDetail = styled.div`
     grid-template-columns: 1fr;
     grid-template-rows: auto auto auto auto;
     grid-template-areas:
-      "Title"
-      "Content"
-      "ContentSecond"
-      "Menu";
+      "title"
+      "content"
+      "contentSecond"
+      "menu";
     height: initial;
   }
 `;
-export const ContainerTitle = styled.div`
-  grid-area: Title;
+export const ContainerTitlT = styled.div`
+  grid-area: title;
   width: 100%;
   padding: 20px;
   border-bottom: 1px solid var(--borderColor);
@@ -35,12 +35,12 @@ export const Title = styled.h1`
   font-weight: normal;
 `;
 export const ContainerContentSecond = styled.div`
-  grid-area: ContentSecond;
+  grid-area: contentSecond;
   width: 100%;
   padding: 20px;
 `;
 export const ContainerContent = styled.div`
-  grid-area: Content;
+  grid-area: content;
   width: 100%;
   padding: 20px;
   border-right: 1px solid var(--borderColor);
@@ -50,7 +50,7 @@ export const TextContent = styled.p`
   color: black;
 `;
 export const ContainerMenu = styled.div`
-  grid-area: Menu;
+  grid-area: menu;
   width: 100%;
   height: calc(100vh - var(--headerHeight) - var(--headerHeight));
   background: rgba(0, 0, 0, 0.3);
