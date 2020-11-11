@@ -11,7 +11,6 @@ const Masonry = ({ config }) => {
           color=" rgba(51, 95, 215, 1)"
           title={config.mv1}
           img="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-          always
         />
         <MasonryCard
           id="4"
@@ -34,7 +33,6 @@ const Masonry = ({ config }) => {
           filter="rgba(233, 66, 31, 0.4)"
           color="rgba(233, 66, 31, 1)"
           title={config.mv2}
-          always
           img="https://premioluiscaballero.gov.co/2017/wp-content/uploads/2017/06/mambo.jpg"
         />
         <MasonryCard
@@ -72,7 +70,6 @@ const Masonry = ({ config }) => {
           filter="rgba(23, 51, 28, .5)"
           title={config.mv5}
           img="https://www.revistaarcadia.com/resizer/vHqmtYfWaXShJsr7235EBJScFdA=/arc-anglerfish-arc2-prod-semana/public/RBXZEVRSEFGNZA2BKWJUCNUR3I.jpg"
-          always
         />
       </Right>
     </Container>
