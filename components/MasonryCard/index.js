@@ -11,8 +11,13 @@ const MasonryCard = ({ img, title, filter, color, always, id }) => {
           </Link>
         );
       case "production":
+        // return (
+        //   <Container href={`./exhibition/${id}.html`}>{children}</Container>
+        // );
         return (
-          <Container href={`./exhibition/${id}.html`}>{children}</Container>
+          <Link href={`/exhibition/${id}`}>
+            <Container>{children}</Container>
+          </Link>
         );
     }
   }

@@ -23,10 +23,15 @@ const Exhibition = ({ exhibition, config }) => {
           </Link>
         );
       case "production":
+        // return (
+        //   <SubtitleContainer>
+        //     <a href={`./${id}/detail.html`}>{children}</a>
+        //   </SubtitleContainer>
+        // );
         return (
-          <SubtitleContainer>
-            <a href={`./${id}/detail.html`}>{children}</a>
-          </SubtitleContainer>
+          <Link href={`${id}/detail`}>
+            <SubtitleContainerAnchor>{children}</SubtitleContainerAnchor>
+          </Link>
         );
     }
   }
