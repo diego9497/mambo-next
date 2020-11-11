@@ -59,6 +59,16 @@ export const TextContentHistory = styled.p`
   font-size: 1.1em;
   color: black;
 `;
+
+export const ContentControls = styled.div`
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+
+  & div {
+    cursor: pointer;
+  }
+`;
 export const ContainerButtom = styled.div`
   width: 30px;
   height: 30px;

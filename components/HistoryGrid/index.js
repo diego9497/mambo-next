@@ -15,9 +15,12 @@ import {
   ContainerSecondImage,
   ContainerThirdImage,
   ImageSecond,
+  ContentControls,
 } from "./styles";
 import DetailHistory from "../DetailHistory";
 import Next from "../Icons/Next";
+import Before from "../Icons/Before";
+import { useState } from "react";
 
 function HistoryGrid({ exhibition, config }) {
   const {
@@ -29,6 +32,20 @@ function HistoryGrid({ exhibition, config }) {
     forWhat,
     forWhatContent,
   } = exhibition;
+
+  const [index, setIndex] = useState(0);
+
+  const nextText = () => {
+    if (index < historyDescription.length - 1) {
+      setIndex(index + 1);
+    }
+  };
+  const previousText = () => {
+    if (index > 0) {
+      setIndex(index - 1);
+    }
+  };
+
   return (
     <>
       <GridHistory>
@@ -43,8 +60,23 @@ function HistoryGrid({ exhibition, config }) {
           />
         </ContainerImagePrincipal>
         <ContentHistory>
-          <TextContentHistory>{historyDescription[0]}</TextContentHistory>
-          <Next />
+          <TextContentHistory>{historyDescription[index]}</TextContentHistory>
+          <ContentControls>
+            <div>
+              {index !== 0 && (
+                <div onClick={previousText}>
+                  <Before />
+                </div>
+              )}
+            </div>
+            <div>
+              {index !== historyDescription.length - 1 && (
+                <div onClick={nextText}>
+                  <Next />
+                </div>
+              )}
+            </div>
+          </ContentControls>
         </ContentHistory>
         <ContentSecond background={color}>
           <TitleContentSecond color="white">{author}</TitleContentSecond>
