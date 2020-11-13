@@ -6,36 +6,63 @@ export const icons = css`
   justify-content: center;
   align-items: center;
   cursor: pointer;
+
+  @media screen and (max-width: 768px) {
+    fill: green;
+  }
 `;
 
 export const ContainerInfo = styled.div`
   width: 100%;
   height: 100%;
-  background: ${(props) => props.color};
   color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: grid;
+  grid-template-rows: 1fr 68px;
+  @media screen and (max-width: 376px) {
+    overflow-y: scroll;
+  }
 `;
-export const ContainerTop = styled.div``;
-export const ContainerBottom = styled.div``;
+export const ContainerTop = styled.div`
+  background: green;
+  @media screen and (max-width: 768px) {
+    background: white;
+  }
+`;
+export const ContainerBottom = styled.div`
+  background: green;
+  @media screen and (max-width: 768px) {
+    background: white;
+    padding: 0 30px;
+  }
+`;
 export const HeaderInfo = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 15px;
+  background: green;
+  @media screen and (max-width: 768px) {
+    height: 80px;
+  }
 `;
 export const ContainerIconHeader = styled.div`
   width: 35px;
   height: 35px;
   border-radius: 50%;
   ${icons};
+  @media screen and (max-width: 768px) {
+    fill: white;
+  }
 `;
 export const ContainerIconClose = styled.div`
   width: 30px;
   height: 30px;
   ${icons};
   border: none;
+  @media screen and (max-width: 768px) {
+    border: 2px solid white;
+    border-radius: 50%;
+  }
 `;
 export const ContainerIconBtn = styled.div`
   width: 28px;
@@ -54,6 +81,9 @@ export const ContainerImage = styled.div`
   width: 100%;
   height: 250px;
   background: gray;
+  @media screen and (max-width: 768px) {
+    height: 200px;
+  }
 `;
 export const ImageInfo = styled.img`
   width: 100%;
@@ -63,6 +93,11 @@ export const ImageInfo = styled.img`
 `;
 export const ContainerContent = styled.div`
   padding: 10px 15px;
+  background: green;
+  @media screen and (max-width: 768px) {
+    color: black;
+    background: white;
+  }
 `;
 
 export const TitleInformation = styled.p`
@@ -78,13 +113,23 @@ export const SubtitleInfo = styled.p`
   font-size: 1em;
   font-weight: bold;
   margin-bottom: 10px;
+  @media screen and (max-width: 768px) {
+    margin-bottom: 20px;
+  }
 `;
 export const TextContent = styled.p`
   font-size: 0.9em;
   font-weight: 100;
+  @media screen and (max-width: 768px) {
+    padding: 0px 15px;
+  }
 `;
 export const ContainerButtons = styled.div`
   display: flex;
   justify-content: space-between;
   padding: 20px 15px;
+  @media screen and (max-width: 768px) {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 `;
