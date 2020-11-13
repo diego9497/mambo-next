@@ -10,7 +10,11 @@ import {
 
 function CardTimeline(props) {
   return (
-    <ContainerCard pointUbication={props.ubication} color={props.color}>
+    <ContainerCard
+      onClick={props.onClick}
+      pointUbication={props.ubication}
+      color={props.color}
+    >
       <ContainerTitleYear>
         <Title>{props.content}</Title>
         <Year>1910</Year>

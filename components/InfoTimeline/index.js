@@ -24,12 +24,12 @@ import Timeline from "../Icons/TimeLine";
 function InfoTimeline(props) {
   return (
     <ContainerInfo color={props.color}>
-      <ContainerTop>
+      <ContainerTop color={props.color}>
         <HeaderInfo>
-          <ContainerIconHeader>
+          <ContainerIconHeader color={props.color}>
             <Timeline />
           </ContainerIconHeader>
-          <TitleHeader>Ready-made</TitleHeader>
+          <TitleHeader>{props.title}</TitleHeader>
           <ContainerIconClose>X</ContainerIconClose>
         </HeaderInfo>
         <ContainerImage>
@@ -39,14 +39,10 @@ function InfoTimeline(props) {
           <TitleInformation>Objeto no encontrado</TitleInformation>
           <TitleContentInfo>Nuevos medios</TitleContentInfo>
           <SubtitleInfo>Ready-Made (1910)</SubtitleInfo>
-          <TextContent>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque
-            explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque
-            exercitationem voluptas, unde porro! Doloremque provident eveniet.
-          </TextContent>
+          <TextContent>{props.content}</TextContent>
         </ContainerContent>
       </ContainerTop>
-      <ContainerBottom>
+      <ContainerBottom color={props.color}>
         <ContainerButtons>
           <ContainerIconBtn>
             <Before />

@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-export const icons = css`
+export const icons = (color) => css`
   fill: white;
   display: flex;
   justify-content: center;
@@ -8,7 +8,7 @@ export const icons = css`
   cursor: pointer;
 
   @media screen and (max-width: 768px) {
-    fill: green;
+    fill: ${color};
   }
 `;
 
@@ -23,13 +23,13 @@ export const ContainerInfo = styled.div`
   }
 `;
 export const ContainerTop = styled.div`
-  background: green;
+  background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
     background: white;
   }
 `;
 export const ContainerBottom = styled.div`
-  background: green;
+  background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
     background: white;
     padding: 0 30px;
@@ -40,7 +40,7 @@ export const HeaderInfo = styled.div`
   justify-content: space-between;
   align-items: center;
   padding: 10px 15px;
-  background: green;
+  background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
     height: 80px;
   }
@@ -49,7 +49,7 @@ export const ContainerIconHeader = styled.div`
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  ${icons};
+  ${({ color }) => icons(color)};
   @media screen and (max-width: 768px) {
     fill: white;
   }
@@ -93,7 +93,7 @@ export const ImageInfo = styled.img`
 `;
 export const ContainerContent = styled.div`
   padding: 10px 15px;
-  background: green;
+  background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
     color: black;
     background: white;
