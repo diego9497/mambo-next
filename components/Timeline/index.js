@@ -121,7 +121,7 @@ function Timeline(props) {
           <InfoTimeline {...infoCard} />
         </ContainerInfo>
       )}
-      <ContainerList>
+      <ContainerList open={open}>
         <ContainerHeaderTimeline>
           <TextHeaderTimeline>Linea de tiempo</TextHeaderTimeline>
           <ContainerIconHeaderTimeline>

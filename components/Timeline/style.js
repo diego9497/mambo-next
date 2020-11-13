@@ -9,7 +9,7 @@ export const Container = styled.div`
 `;
 
 export const ContainerList = styled.div`
-  width: 65%;
+  width: ${({ open }) => (open ? "100%" : "65%")};
   height: 100%;
   padding-top: 40px;
   overflow-y: scroll;

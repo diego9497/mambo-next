@@ -12,7 +12,7 @@ const KnowMore = ({ config }) => {
       <GlobalStyles />
       <Header />
 
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };
