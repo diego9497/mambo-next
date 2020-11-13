@@ -2,24 +2,22 @@ import styled from "styled-components";
 
 export const GridHistory = styled.div`
   display: grid;
+  height: calc(100vh - 2 * var(--headerHeight) + 1px);
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, auto);
+  grid-template-rows: 4fr 2fr;
   grid-template-areas:
     "title imagePrincipal content"
-    "contentSecond firstEmpty secondEmpty"
-    "gallery gallery gallery";
-  border-bottom: 1px solid var(--borderColor);
+    "contentSecond firstEmpty secondEmpty";
 
   @media screen and (max-width: 575px) {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(6, auto);
+    grid-template-rows: repeat(5, auto);
     grid-template-areas:
       "title"
       "imagePrincipal"
       "content"
       "contentSecond"
-      "menu"
-      "gallery";
+      "menu";
     height: initial;
   }
 `;
@@ -39,9 +37,13 @@ export const Title = styled.h1`
 export const ContainerImagePrincipal = styled.div`
   grid-area: imagePrincipal;
   width: 100%;
-  height: 350px;
+  height: 100%;
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
+
+  & img {
+    filter: grayscale(1);
+  }
 `;
 export const ImagePrincipal = styled.img`
   height: 500px;
@@ -110,8 +112,11 @@ export const SecondEmpty = styled.div`
   border-bottom: 1px solid var(--borderColor);
 `;
 
+export const GalleryContainer = styled.section`
+  border-bottom: 1px solid var(--borderColor);
+`;
 export const Gallery = styled.div`
-  grid-area: gallery;
+  width: 100%;
   overflow-y: auto;
   display: flex;
 

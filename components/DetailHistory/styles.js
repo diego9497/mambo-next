@@ -52,7 +52,7 @@ export const TextContent = styled.p`
 export const ContainerMenu = styled.div`
   grid-area: menu;
   width: 100%;
-  height: calc(100vh - var(--headerHeight) - var(--headerHeight));
+  height: calc(100vh - 2 * var(--headerHeight));
   background: rgba(0, 0, 0, 0.3);
 `;
 export const ItemMenu = styled.div`

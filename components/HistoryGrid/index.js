@@ -18,6 +18,7 @@ import {
   ContentControls,
   Gallery,
   GalleryImageContainer,
+  GalleryContainer,
 } from "./styles";
 import DetailHistory from "../DetailHistory";
 import Next from "../Icons/Next";
@@ -83,6 +84,8 @@ function HistoryGrid({ exhibition, config }) {
         </ContentSecond>
         <FirstEmpty />
         <SecondEmpty />
+      </GridHistory>
+      <GalleryContainer>
         <Gallery>
           <GalleryImageContainer>
             <img
@@ -109,7 +112,7 @@ function HistoryGrid({ exhibition, config }) {
             />
           </GalleryImageContainer>
         </Gallery>
-      </GridHistory>
+      </GalleryContainer>
       <DetailHistory exhibition={exhibition} config={config} />
     </>
   );
