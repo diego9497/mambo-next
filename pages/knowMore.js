@@ -3,7 +3,7 @@ import GlobalStyles from "../styles/GlobalStyles";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-export default KnowMore = ({ config }) => {
+export default function KnowMore({ config }) {
   return (
     <>
       <Head>
@@ -15,4 +15,4 @@ export default KnowMore = ({ config }) => {
       {/* <Footer /> */}
     </>
   );
-};
+}
