@@ -28,21 +28,35 @@ export const Content = styled.div`
 
   :hover {
     background-color: ${({ filter }) => filter};
-    & p {
-      display: initial;
+    & > div {
+      display: flex;
     }
   }
 `;
 
-export const Text = styled.p`
+export const Text = styled.div`
   padding: 15px 20px;
   height: 35%;
   background: ${({ color }) => color};
   color: white;
+  display: flex;
+  justify-content: space-between;
+  fill: white;
 
-  ${({ always }) => (always ? "display: initial " : "display: none")};
+  & svg {
+    display: none;
+  }
+
+  ${({ always }) => (always ? "display: flex " : "display: none")};
 
   @media screen and (max-width: 575px) {
-    display: initial;
+    display: flex;
+    align-items: center;
+
+    & svg {
+      display: initial;
+      width: 23px;
+      height: 23px;
+    }
   }
 `;
