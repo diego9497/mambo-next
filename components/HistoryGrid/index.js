@@ -16,6 +16,8 @@ import {
   ContainerThirdImage,
   ImageSecond,
   ContentControls,
+  Gallery,
+  GalleryImageContainer,
 } from "./styles";
 import DetailHistory from "../DetailHistory";
 import Next from "../Icons/Next";
@@ -84,27 +86,32 @@ function HistoryGrid({ exhibition, config }) {
         </ContentSecond>
         <FirstEmpty />
         <SecondEmpty />
-        <ContainerFirstImage>
-          <ImageSecond
-            src={
-              "https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-            }
-          />
-        </ContainerFirstImage>
-        <ContainerSecondImage>
-          <ImageSecond
-            src={
-              "https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-            }
-          />
-        </ContainerSecondImage>
-        <ContainerThirdImage>
-          <ImageSecond
-            src={
-              "https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-            }
-          />
-        </ContainerThirdImage>
+        <Gallery>
+          <GalleryImageContainer>
+            <img
+              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
+              alt=""
+            />
+          </GalleryImageContainer>
+          <GalleryImageContainer>
+            <img
+              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
+              alt=""
+            />
+          </GalleryImageContainer>
+          <GalleryImageContainer>
+            <img
+              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
+              alt=""
+            />
+          </GalleryImageContainer>
+          <GalleryImageContainer>
+            <img
+              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
+              alt=""
+            />
+          </GalleryImageContainer>
+        </Gallery>
       </GridHistory>
       <DetailHistory exhibition={exhibition} config={config} />
     </>

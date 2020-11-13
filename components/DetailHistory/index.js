@@ -24,6 +24,8 @@ import {
   ConceptContainer,
   QuestionContainer,
   CloseButton,
+  ConceptImageContainer,
+  ConceptInfoContainer,
 } from "./styles";
 
 const menu = {
@@ -123,16 +125,18 @@ function DetailHistory({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              {keyConcepts.map((keyConcept) => (
-                <ConceptContainer>
-                  <img
-                    src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-                    alt=""
-                  />
-                  <p>
+              {keyConcepts.map((keyConcept, index) => (
+                <ConceptContainer key={index}>
+                  <ConceptImageContainer>
+                    <img
+                      src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
+                      alt=""
+                    />
+                  </ConceptImageContainer>
+                  <ConceptInfoContainer>
                     <h3>{keyConcept.title}</h3>
                     <span>{keyConcept.content}</span>
-                  </p>
+                  </ConceptInfoContainer>
                 </ConceptContainer>
               ))}
             </MenuContentDetailContainer>

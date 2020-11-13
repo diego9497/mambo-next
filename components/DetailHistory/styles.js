@@ -143,33 +143,40 @@ export const ConceptContainer = styled.div`
   display: flex;
   padding: 15px 30px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  & > img {
-    width: 50%;
-    object-fit: contain;
-    filter: grayscale(1);
-    @media screen and (max-width: 575px) {
-      width: 100%;
-      margin-bottom: 10px;
-    }
+
+  @media screen and (max-width: 575px) {
+    flex-direction: column;
   }
-  & p {
-    width: 50%;
-    padding-left: 20px;
-    font-size: 1.15em;
-    @media screen and (max-width: 575px) {
-      width: 100%;
-      padding-left: 0;
-    }
+`;
+export const ConceptImageContainer = styled.div`
+  width: 50%;
+  object-fit: contain;
+  filter: grayscale(1);
 
-    h3 {
-      text-transform: uppercase;
-      font-weight: normal;
-      margin-bottom: 10px;
-    }
+  @media screen and (max-width: 575px) {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  & img {
+    width: 100%;
+    object-fit: contain;
+  }
+`;
 
-    @media screen and (max-width: 575px) {
-      flex-direction: column;
-    }
+export const ConceptInfoContainer = styled.div`
+  width: 50%;
+  padding-left: 20px;
+  font-size: 1.15em;
+
+  @media screen and (max-width: 575px) {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-bottom: 10px;
   }
 `;
 
