@@ -12,7 +12,7 @@ export default createGlobalStyle`
     --headerHeight: 50px;
     --borderColor: #a5a5a5;
   }
-  body {
+  #__next {
     padding-top: var(--headerHeight)
   }
 `;

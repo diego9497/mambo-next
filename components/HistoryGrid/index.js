@@ -23,6 +23,7 @@ import DetailHistory from "../DetailHistory";
 import Next from "../Icons/Next";
 import Before from "../Icons/Before";
 import { useState } from "react";
+import { MAMBOImage } from "../MAMBOImage";
 
 function HistoryGrid({ exhibition, config }) {
   const {
@@ -55,11 +56,7 @@ function HistoryGrid({ exhibition, config }) {
           <Title color={color}>{history}</Title>
         </ContainerTitle>
         <ContainerImagePrincipal>
-          <ImagePrincipal
-            src={
-              "https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-            }
-          />
+          <MAMBOImage src="/image/mambo-diagonal.jpg" />
         </ContainerImagePrincipal>
         <ContentHistory>
           <TextContentHistory>{historyDescription[index]}</TextContentHistory>

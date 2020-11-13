@@ -54,12 +54,15 @@ export const Bottom = styled.div`
   }
 `;
 
-export const SubtitleContainer = styled.div`
-  position: relative;
-`;
 export const SubtitleContainerAnchor = styled.a`
   position: relative;
   cursor: pointer;
+  & > div {
+    display: none;
+  }
+  :hover > div {
+    display: flex;
+  }
 `;
 export const SubtitleBackground = styled.img`
   position: absolute;
@@ -80,7 +83,7 @@ export const SubtitleContent = styled.div`
 export const SubtitleTextContainer = styled.div`
   background: ${({ color }) => color};
   color: white;
-  padding: 10px 20px 60px;
+  padding: 20px 20px 60px;
   font-size: 1.8em;
   text-transform: uppercase;
   line-height: 1;

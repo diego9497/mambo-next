@@ -148,7 +148,7 @@ function DetailHistory({ exhibition, config }) {
   }
 
   return (
-    <ContainerDetail>
+    <ContainerDetail id="content2">
       <ContainerTitle>
         <Title color={color}>{forWhat}</Title>
       </ContainerTitle>

@@ -38,6 +38,8 @@ export const Title = styled.h1`
 `;
 export const ContainerImagePrincipal = styled.div`
   grid-area: imagePrincipal;
+  width: 100%;
+  height: 350px;
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
 `;

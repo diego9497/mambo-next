@@ -12,29 +12,7 @@ import {
 } from "./styles";
 
 const Exhibition = ({ exhibition, config }) => {
-  const { title, history, author, color, id } = exhibition;
-
-  function ChooseLink({ children }) {
-    switch (process.env.NODE_ENV) {
-      case "development":
-        return (
-          <Link href={`${id}/detail`}>
-            <SubtitleContainerAnchor>{children}</SubtitleContainerAnchor>
-          </Link>
-        );
-      case "production":
-        // return (
-        //   <SubtitleContainer>
-        //     <a href={`./${id}/detail.html`}>{children}</a>
-        //   </SubtitleContainer>
-        // );
-        return (
-          <Link href={`${id}/detail`}>
-            <SubtitleContainerAnchor>{children}</SubtitleContainerAnchor>
-          </Link>
-        );
-    }
-  }
+  const { title, history, forWhat, author, color, id } = exhibition;
 
   return (
     <Container>
@@ -46,8 +24,8 @@ const Exhibition = ({ exhibition, config }) => {
         <div></div>
       </Top>
       <Bottom>
-        <ChooseLink>
-          <>
+        <Link href={`${id}/detail#content1`}>
+          <SubtitleContainerAnchor>
             <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
@@ -55,17 +33,39 @@ const Exhibition = ({ exhibition, config }) => {
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>
-                <span>Archivo del MAMBO</span>
+                <span>{config.archive}</span>
               </SubtitleAuthorContainer>
             </SubtitleContent>
-          </>
-        </ChooseLink>
-        <SubtitleContainer>
-          <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
-        </SubtitleContainer>
-        <SubtitleContainer>
-          <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
-        </SubtitleContainer>
+          </SubtitleContainerAnchor>
+        </Link>
+        <Link href={`${id}/detail#content2`}>
+          <SubtitleContainerAnchor>
+            <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+            <SubtitleContent>
+              <SubtitleTextContainer color={color}>
+                <h3>{forWhat}</h3>
+              </SubtitleTextContainer>
+              <SubtitleAuthorContainer>
+                <span>{author}</span>
+                <span>{config.archive}</span>
+              </SubtitleAuthorContainer>
+            </SubtitleContent>
+          </SubtitleContainerAnchor>
+        </Link>
+        <Link href={`${id}/more`}>
+          <SubtitleContainerAnchor>
+            <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+            <SubtitleContent>
+              <SubtitleTextContainer color={color}>
+                <h3>{config.more}</h3>
+              </SubtitleTextContainer>
+              <SubtitleAuthorContainer>
+                <span>{author}</span>
+                <span>{config.archive}</span>
+              </SubtitleAuthorContainer>
+            </SubtitleContent>
+          </SubtitleContainerAnchor>
+        </Link>
       </Bottom>
     </Container>
   );
