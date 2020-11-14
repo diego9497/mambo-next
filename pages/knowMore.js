@@ -2,17 +2,20 @@ import Head from "next/head";
 import GlobalStyles from "../styles/GlobalStyles";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import KnowMoreGrid from "../components/KnowMoreGrid";
 
-const KnowMore = ({ config }) => {
+const KnowMore = () => {
   return (
     <>
       <Head>
-        <title>{config?.timeline} | MAMBO Viajero</title>
+        <title>| MAMBO Viajero</title>
       </Head>
       <GlobalStyles />
       <Header />
-
-      <Footer />
+      <KnowMoreGrid />
+      {/* <Footer /> */}
     </>
   );
 };
+
+export default KnowMore;
