@@ -12,8 +12,9 @@
     ],
     "author": "Oscar Monsalve",
     "authorContent": "Fue el fotógrafo oficial del Museo durante varios años, consolidando una importante memoria visual del arte moderno y contemporáneo en Colombia. En esta serie de fotografías, se pueden observar la construcción de la sede actual del museo y el montaje de algunas exposiciones representativas. ",
-    "forWhat": "¿Una revolución para qué?",
+    "forWhat": "¿Un museo para qué?",
     "forWhatContent": "Los museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro.\n Son participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)",
+    "proposal": "En esta sección se propone reflexionar sobre el valor de los museos, teniendo en cuenta la nueva definición global que aún está en discusión y la historia del Museo de Arte Moderno (MAMBO)",
     "questions": [
       "¿Por qué la creación del Museo de Arte Moderno fue importante para la modernización del país?",
       " ¿Cómo crees que amplían la comprensión del mundo los museos?",
@@ -27,38 +28,79 @@
       {
         "title": "Curaduría",
         "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c1.png"
+        }
       },
       {
         "title": "Museografía",
         "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c2.png"
+        }
       },
       {
         "title": "patrimonio cultural",
         "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c3.png"
+        }
       },
       {
         "title": "colección",
         "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c4.png"
+        }
       },
       {
         "title": "democracia",
         "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c5.png"
+        }
       },
       {
         "title": "educación en la museos",
         "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c6.png"
+        }
       }
     ],
     "next": {
       "id": 2,
       "title": "Exposición MAMBO Viajero"
-    }
+    },
+    "img1": {
+      "src": "/image/mv1/1.png"
+    },
+    "img2": {
+      "src": "/image/mv1/2.png"
+    },
+    "img3": {
+      "src": "/image/mv1/3.png"
+    },
+    "img4": {
+      "src": "/image/mv1/4.png"
+    },
+    "gallery": [
+      {
+        "src": "/image/mv1/g1.png"
+      },
+      {
+        "src": "/image/mv1/g2.png"
+      },
+      {
+        "src": "/image/mv1/g3.png"
+      },
+      {
+        "src": "/image/mv1/g4.png"
+      },
+      {
+        "src": "/image/mv1/g5.png"
+      }
+    ]
   },
   {
     "id": 2,

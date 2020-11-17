@@ -5,6 +5,8 @@ import Questions from "../Icons/Questions";
 import KeyConcepts from "../Icons/KeyConcepts";
 import Close from "../Icons/Close";
 
+import MAMBOImage from "../MAMBOImage";
+
 import {
   ContainerDetail,
   ContainerTitle,
@@ -39,10 +41,12 @@ function DetailHistory({ exhibition, config }) {
     color,
     forWhat,
     forWhatContent,
+    proposal,
     questions,
     didYouKnow,
     activity,
     keyConcepts,
+    img4,
   } = exhibition;
 
   const [current, setCurrent] = useState("");
@@ -128,10 +132,7 @@ function DetailHistory({ exhibition, config }) {
               {keyConcepts.map((keyConcept, index) => (
                 <ConceptContainer key={index}>
                   <ConceptImageContainer>
-                    <img
-                      src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-                      alt=""
-                    />
+                    <MAMBOImage src={keyConcept.img.src} />
                   </ConceptImageContainer>
                   <ConceptInfoContainer>
                     <h3>{keyConcept.title}</h3>
@@ -156,12 +157,7 @@ function DetailHistory({ exhibition, config }) {
         <TextContent>{forWhatContent}</TextContent>
       </ContainerContent>
       <ContainerContentSecond>
-        <TextContent>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-          corporis harum maxime veniam, odit doloribus neque ea error suscipit
-          dolorum iure, in laborum voluptate quia alias! Maiores ipsum dolore
-          maxime?
-        </TextContent>
+        <TextContent>{proposal}</TextContent>
       </ContainerContentSecond>
       <ContainerMenu>
         {didYouKnow && (
@@ -189,7 +185,7 @@ function DetailHistory({ exhibition, config }) {
           </ItemMenu>
         )}
       </ContainerMenu>
-      <ImageBackground src="https://ivital.mx/wp-content/uploads/2020/02/James-Turrell_Foto-Florian-Holzerr_Museo-Jumex-4.jpg" />
+      <ImageBackground src={img4.src} />
       {current !== "" && (
         <MenuContentContainer color={color}>
           {renderCurrentItem(current)}

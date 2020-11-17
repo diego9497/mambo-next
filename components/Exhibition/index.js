@@ -5,14 +5,23 @@ import {
   Container,
   SubtitleAuthorContainer,
   SubtitleBackground,
-  SubtitleContainer,
   SubtitleContainerAnchor,
   SubtitleTextContainer,
   SubtitleContent,
 } from "./styles";
 
 const Exhibition = ({ exhibition, config }) => {
-  const { title, history, forWhat, author, color, id } = exhibition;
+  const {
+    title,
+    history,
+    forWhat,
+    author,
+    color,
+    id,
+    img1,
+    img2,
+    img3,
+  } = exhibition;
 
   return (
     <Container>
@@ -26,7 +35,7 @@ const Exhibition = ({ exhibition, config }) => {
       <Bottom>
         <Link href={`${id}/detail#content1`}>
           <SubtitleContainerAnchor>
-            <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+            <SubtitleBackground src={img1.src} />
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
                 <h3>{history}</h3>
@@ -40,7 +49,7 @@ const Exhibition = ({ exhibition, config }) => {
         </Link>
         <Link href={`${id}/detail#content2`}>
           <SubtitleContainerAnchor>
-            <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+            <SubtitleBackground src={img2.src} />
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
                 <h3>{forWhat}</h3>
@@ -54,7 +63,7 @@ const Exhibition = ({ exhibition, config }) => {
         </Link>
         <Link href={`${id}/more`}>
           <SubtitleContainerAnchor>
-            <SubtitleBackground src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg" />
+            <SubtitleBackground src={img3.src} />
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
                 <h3>{config.more}</h3>

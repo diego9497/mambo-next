@@ -3,7 +3,6 @@ import {
   ContainerTitle,
   Title,
   ContainerImagePrincipal,
-  ImagePrincipal,
   ContentHistory,
   TitleContentSecond,
   TextContentHistory,
@@ -11,20 +10,13 @@ import {
   TextContentSecond,
   FirstEmpty,
   SecondEmpty,
-  ContainerFirstImage,
-  ContainerSecondImage,
-  ContainerThirdImage,
-  ImageSecond,
-  ContentControls,
   Gallery,
   GalleryImageContainer,
   GalleryContainer,
 } from "./styles";
 import DetailHistory from "../DetailHistory";
-import Next from "../Icons/Next";
-import Before from "../Icons/Before";
-import { useState } from "react";
-import { MAMBOImage } from "../MAMBOImage";
+import MAMBOImage from "../MAMBOImage";
+import MAMBOGallery from "../MAMBOGallery";
 
 function HistoryGrid({ exhibition, config }) {
   const {
@@ -33,22 +25,9 @@ function HistoryGrid({ exhibition, config }) {
     color,
     author,
     authorContent,
-    forWhat,
-    forWhatContent,
+    img1,
+    gallery,
   } = exhibition;
-
-  const [index, setIndex] = useState(0);
-
-  const nextText = () => {
-    if (index < historyDescription.length - 1) {
-      setIndex(index + 1);
-    }
-  };
-  const previousText = () => {
-    if (index > 0) {
-      setIndex(index - 1);
-    }
-  };
 
   return (
     <>
@@ -57,26 +36,10 @@ function HistoryGrid({ exhibition, config }) {
           <Title color={color}>{history}</Title>
         </ContainerTitle>
         <ContainerImagePrincipal>
-          <MAMBOImage src="/image/mambo-diagonal.jpg" />
+          <MAMBOImage src={img1.src} />
         </ContainerImagePrincipal>
         <ContentHistory>
-          <TextContentHistory>{historyDescription[index]}</TextContentHistory>
-          <ContentControls>
-            <div>
-              {index !== 0 && (
-                <div onClick={previousText}>
-                  <Before />
-                </div>
-              )}
-            </div>
-            <div>
-              {index !== historyDescription.length - 1 && (
-                <div onClick={nextText}>
-                  <Next />
-                </div>
-              )}
-            </div>
-          </ContentControls>
+          <TextContentHistory>{historyDescription}</TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color}>
           <TitleContentSecond color="white">{author}</TitleContentSecond>
@@ -87,30 +50,11 @@ function HistoryGrid({ exhibition, config }) {
       </GridHistory>
       <GalleryContainer>
         <Gallery>
-          <GalleryImageContainer>
-            <img
-              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-              alt=""
-            />
-          </GalleryImageContainer>
-          <GalleryImageContainer>
-            <img
-              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-              alt=""
-            />
-          </GalleryImageContainer>
-          <GalleryImageContainer>
-            <img
-              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-              alt=""
-            />
-          </GalleryImageContainer>
-          <GalleryImageContainer>
-            <img
-              src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-              alt=""
-            />
-          </GalleryImageContainer>
+          {gallery.map((img, index) => (
+            <GalleryImageContainer>
+              <MAMBOGallery gallery={gallery} index={index} />
+            </GalleryImageContainer>
+          ))}
         </Gallery>
       </GalleryContainer>
       <DetailHistory exhibition={exhibition} config={config} />

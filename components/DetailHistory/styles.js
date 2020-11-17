@@ -78,7 +78,7 @@ export const ImageBackground = styled.img`
   object-fit: cover;
   width: 100%;
   height: 100%;
-  filter: grayscale(0.8) brightness(1.2);
+  filter: grayscale(1);
   z-index: -1;
   @media screen and (max-width: 575px) {
     grid-column: 1/-1;

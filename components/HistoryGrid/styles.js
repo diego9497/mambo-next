@@ -61,6 +61,18 @@ export const ContentHistory = styled.div`
   justify-content: space-between;
   align-items: flex-end;
   padding: 20px;
+  overflow-y: auto;
+
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(202, 202, 202, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(187, 187, 187, 0.3);
+    border-radius: 4px;
+  }
 `;
 export const TextContentHistory = styled.p`
   font-size: 1.1em;
