@@ -8,7 +8,7 @@ import {
   CloseContainer,
   ContainerImage,
   Description,
-} from "./style";
+} from "./styles";
 
 export default function MAMBOImage({ src, alt, fit = "cover" }) {
   const [open, setOpen] = useState(false);

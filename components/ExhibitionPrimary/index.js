@@ -14,11 +14,11 @@ import {
   GalleryImageContainer,
   GalleryContainer,
 } from "./styles";
-import DetailHistory from "../DetailHistory";
+
 import MAMBOImage from "../MAMBOImage";
 import MAMBOGallery from "../MAMBOGallery";
 
-function HistoryGrid({ exhibition, config }) {
+export default function ExhibitionPrimary({ exhibition, config }) {
   const {
     history,
     historyDescription,
@@ -28,7 +28,6 @@ function HistoryGrid({ exhibition, config }) {
     img1,
     gallery,
   } = exhibition;
-
   return (
     <>
       <GridHistory>
@@ -57,9 +56,6 @@ function HistoryGrid({ exhibition, config }) {
           ))}
         </Gallery>
       </GalleryContainer>
-      <DetailHistory exhibition={exhibition} config={config} />
     </>
   );
 }
-
-export default HistoryGrid;

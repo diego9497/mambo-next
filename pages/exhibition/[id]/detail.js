@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
-import HistoryGrid from "../../../components/HistoryGrid";
+import Exhibition from "../../../components/Exhibition";
 import GlobalStyles from "../../../styles/GlobalStyles";
 import Head from "next/head";
 
@@ -19,7 +19,7 @@ const Detail = ({ exhibition, config }) => {
       </Head>
       <GlobalStyles />
       <Header />
-      <HistoryGrid exhibition={exhibition} config={config} />
+      <Exhibition exhibition={exhibition} config={config} />
       <Footer exhibition={exhibition} config={config} />
     </>
   );

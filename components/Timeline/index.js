@@ -26,84 +26,98 @@ function Timeline(props) {
       title: "Esto puede ser largo",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
     },
     {
       color: "#ED4040",
       title: "ready mode",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 2",
+      type: "image",
     },
     {
       color: "#EFB8BC",
       title: "Puede ser mas que largo, muy largo el texto",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 3",
+      type: "video",
     },
     {
       color: "#F7D44A",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 4",
+      type: "video",
     },
     {
       color: "#162D1C",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 5",
+      type: "image",
     },
     {
       color: "#4A8F5C",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 6",
+      type: "video",
     },
     {
       color: "#6133A1",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 7",
+      type: "video",
     },
     {
       color: "#9ED1F2",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 8",
+      type: "image",
     },
     {
       color: "#1A1A1A",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 9",
+      type: "image",
     },
     {
       color: "#162D1C",
       title: "lorem ipsum algo 2",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 10",
+      type: "video",
     },
     {
       color: "#162D1C",
       title: "lorem ipsum",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 11",
+      type: "video",
     },
     {
       color: "#ED4040",
       title: "ready mode lorem",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 12",
+      type: "image",
     },
     {
       color: "#ED4040",
       title: "ready mode",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 13",
+      type: "image",
     },
     {
       color: "#ED4040",
       title: "ready",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 14",
+      type: "video",
     },
   ];
 
@@ -114,11 +128,15 @@ function Timeline(props) {
     setInfoCard(event);
     setOpen(true);
   };
+  const handleClose = () => {
+    setInfoCard(null);
+    setOpen(false);
+  };
   return (
     <Container>
       {open && (
         <ContainerInfo>
-          <InfoTimeline {...infoCard} />
+          <InfoTimeline {...infoCard} handleClose={handleClose} />
         </ContainerInfo>
       )}
       <ContainerList open={open}>
@@ -139,8 +157,9 @@ function Timeline(props) {
                   ubication="right"
                   color={event.color}
                   content={event.title}
+                  type={event.type}
                 />
-                <ContainerEmpty />
+                {index === left.length - 1 ? null : <ContainerEmpty />}
               </>
             ))}
           </LeftList>
@@ -153,8 +172,9 @@ function Timeline(props) {
                   ubication="left"
                   color={event.color}
                   content={event.title}
+                  type={event.type}
                 />
-                <ContainerEmpty />
+                {index === right.length - 1 ? null : <ContainerEmpty />}
               </>
             ))}
           </RightList>

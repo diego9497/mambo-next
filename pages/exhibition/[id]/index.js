@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Exhibition from "../../../components/Exhibition";
+import ExhibitionChoose from "../../../components/ExhibitionChoose";
 import Header from "../../../components/Header";
 import GlobalStyles from "../../../styles/GlobalStyles";
 
@@ -17,7 +17,7 @@ const ExhibitionPage = ({ exhibition, config }) => {
       </Head>
       <GlobalStyles />
       <Header />
-      <Exhibition exhibition={exhibition} config={config} />
+      <ExhibitionChoose exhibition={exhibition} config={config} />
     </>
   );
 };

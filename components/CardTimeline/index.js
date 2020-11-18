@@ -1,12 +1,12 @@
-import { Container } from "../Header/styles";
+import Video from "../Icons/Video";
+import Photo from "../Icons/Photo";
 import {
   ContainerCard,
   ContainerTitleYear,
   Title,
   Year,
   ContainerImage,
-  ImageCard,
-} from "./style";
+} from "./styles";
 
 function CardTimeline(props) {
   return (
@@ -19,7 +19,9 @@ function CardTimeline(props) {
         <Title>{props.content}</Title>
         <Year>1910</Year>
       </ContainerTitleYear>
-      <ContainerImage />
+      <ContainerImage>
+        {props.type === "image" ? <Photo /> : <Video />}
+      </ContainerImage>
     </ContainerCard>
   );
 }

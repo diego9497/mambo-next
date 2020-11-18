@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const ContainerCard = styled.div`
   background: ${(props) => props.color};
@@ -62,7 +62,7 @@ export const Year = styled.p`
 export const ContainerImage = styled.div`
   width: 30px;
   height: 30px;
-  background: gray;
+  fill: white;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -1,82 +1,25 @@
-import Link from "next/link";
-import {
-  Top,
-  Bottom,
-  Container,
-  SubtitleAuthorContainer,
-  SubtitleBackground,
-  SubtitleContainerAnchor,
-  SubtitleTextContainer,
-  SubtitleContent,
-} from "./styles";
+import ExhibitionPrimary from "../ExhibitionPrimary";
+import ExhibitionSecondary from "../ExhibitionSecondary";
+import { useEffect, useRef } from "react";
+import { useRouter } from "next/router";
 
-const Exhibition = ({ exhibition, config }) => {
-  const {
-    title,
-    history,
-    forWhat,
-    author,
-    color,
-    id,
-    img1,
-    img2,
-    img3,
-  } = exhibition;
+function Exhibition({ exhibition, config }) {
+  const ref = useRef();
+  const router = useRouter();
+
+  useEffect(() => {
+    if (router.query.content2 === "true") {
+      ref.current.scrollIntoView();
+    }
+  }, []);
 
   return (
-    <Container>
-      <Top color={color}>
-        <div>
-          <h1>{title}</h1>
-        </div>
-        <div></div>
-        <div></div>
-      </Top>
-      <Bottom>
-        <Link href={`${id}/detail#content1`}>
-          <SubtitleContainerAnchor>
-            <SubtitleBackground src={img1.src} />
-            <SubtitleContent>
-              <SubtitleTextContainer color={color}>
-                <h3>{history}</h3>
-              </SubtitleTextContainer>
-              <SubtitleAuthorContainer>
-                <span>{author}</span>
-                <span>{config.archive}</span>
-              </SubtitleAuthorContainer>
-            </SubtitleContent>
-          </SubtitleContainerAnchor>
-        </Link>
-        <Link href={`${id}/detail#content2`}>
-          <SubtitleContainerAnchor>
-            <SubtitleBackground src={img2.src} />
-            <SubtitleContent>
-              <SubtitleTextContainer color={color}>
-                <h3>{forWhat}</h3>
-              </SubtitleTextContainer>
-              <SubtitleAuthorContainer>
-                <span>{author}</span>
-                <span>{config.archive}</span>
-              </SubtitleAuthorContainer>
-            </SubtitleContent>
-          </SubtitleContainerAnchor>
-        </Link>
-        <Link href={`${id}/more`}>
-          <SubtitleContainerAnchor>
-            <SubtitleBackground src={img3.src} />
-            <SubtitleContent>
-              <SubtitleTextContainer color={color}>
-                <h3>{config.more}</h3>
-              </SubtitleTextContainer>
-              <SubtitleAuthorContainer>
-                <span>{author}</span>
-                <span>{config.archive}</span>
-              </SubtitleAuthorContainer>
-            </SubtitleContent>
-          </SubtitleContainerAnchor>
-        </Link>
-      </Bottom>
-    </Container>
+    <>
+      <ExhibitionPrimary exhibition={exhibition} config={config} />
+      <div ref={ref}></div>
+      <ExhibitionSecondary exhibition={exhibition} config={config} />
+    </>
   );
-};
+}
+
 export default Exhibition;

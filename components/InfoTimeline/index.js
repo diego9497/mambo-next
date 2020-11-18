@@ -3,7 +3,6 @@ import {
   HeaderInfo,
   ContainerIconHeader,
   TitleHeader,
-  ContainerIconClose,
   ContainerImage,
   ImageInfo,
   ContainerContent,
@@ -15,34 +14,37 @@ import {
   ContainerIconBtn,
   ContainerBottom,
   ContainerTop,
-} from "./style";
+} from "./styles";
 
 import Next from "../Icons/Next";
 import Before from "../Icons/Before";
 import Timeline from "../Icons/TimeLine";
+import Close from "../Icons/Close";
 
-function InfoTimeline(props) {
+function InfoTimeline({ color, content, title, handleClose }) {
   return (
-    <ContainerInfo color={props.color}>
-      <ContainerTop color={props.color}>
+    <ContainerInfo color={color}>
+      <ContainerTop color={color}>
         <HeaderInfo>
-          <ContainerIconHeader color={props.color}>
+          <ContainerIconHeader color={color}>
             <Timeline />
           </ContainerIconHeader>
-          <TitleHeader>{props.title}</TitleHeader>
-          <ContainerIconClose>X</ContainerIconClose>
+          <TitleHeader>{title}</TitleHeader>
+          <button onClick={handleClose}>
+            <Close />
+          </button>
         </HeaderInfo>
-        <ContainerImage>
+        <ContainerImage color={color}>
           <ImageInfo />
         </ContainerImage>
         <ContainerContent>
           <TitleInformation>Objeto no encontrado</TitleInformation>
           <TitleContentInfo>Nuevos medios</TitleContentInfo>
           <SubtitleInfo>Ready-Made (1910)</SubtitleInfo>
-          <TextContent>{props.content}</TextContent>
+          <TextContent>{content}</TextContent>
         </ContainerContent>
       </ContainerTop>
-      <ContainerBottom color={props.color}>
+      <ContainerBottom color={color}>
         <ContainerButtons>
           <ContainerIconBtn>
             <Before />

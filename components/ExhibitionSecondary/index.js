@@ -36,7 +36,7 @@ const menu = {
   QUESTIONS: "questions",
   CONCEPTS: "concepts",
 };
-function DetailHistory({ exhibition, config }) {
+function ExhibitionSecondary({ exhibition, config }) {
   const {
     color,
     forWhat,
@@ -203,4 +203,4 @@ function DetailHistory({ exhibition, config }) {
     </ContainerDetail>
   );
 }
-export default DetailHistory;
+export default ExhibitionSecondary;

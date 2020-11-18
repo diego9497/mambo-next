@@ -1,6 +1,7 @@
 import styled, { css } from "styled-components";
 
 export const icons = (color) => css`
+  background: none;
   fill: white;
   display: flex;
   justify-content: center;
@@ -44,6 +45,17 @@ export const HeaderInfo = styled.div`
   @media screen and (max-width: 768px) {
     height: 80px;
   }
+
+  button {
+    width: 30px;
+    height: 30px;
+    ${icons};
+    border: none;
+    @media screen and (max-width: 768px) {
+      border: 2px solid white;
+      border-radius: 50%;
+    }
+  }
 `;
 export const ContainerIconHeader = styled.div`
   width: 35px;
@@ -52,16 +64,6 @@ export const ContainerIconHeader = styled.div`
   ${({ color }) => icons(color)};
   @media screen and (max-width: 768px) {
     fill: white;
-  }
-`;
-export const ContainerIconClose = styled.div`
-  width: 30px;
-  height: 30px;
-  ${icons};
-  border: none;
-  @media screen and (max-width: 768px) {
-    border: 2px solid white;
-    border-radius: 50%;
   }
 `;
 export const ContainerIconBtn = styled.div`
@@ -80,7 +82,7 @@ export const TitleHeader = styled.p`
 export const ContainerImage = styled.div`
   width: 100%;
   height: 250px;
-  background: gray;
+  background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
     height: 200px;
   }

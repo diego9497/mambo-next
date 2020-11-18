@@ -9,7 +9,7 @@ export const Container = styled.div`
 `;
 
 export const ContainerList = styled.div`
-  width: ${({ open }) => (open ? "100%" : "65%")};
+  width: 100%;
   height: 100%;
   padding-top: 40px;
   overflow-y: scroll;
@@ -50,10 +50,10 @@ export const ContainerListLeftRight = styled.div`
   display: flex;
   justify-content: center;
   width: 100%;
+  padding-bottom: 25px;
   @media screen and (max-width: 500px) {
-    padding: 10px;
+    padding: 10px 10px 20px;
   }
-  /* display: none; */
 `;
 export const TextHeaderTimeline = styled.div`
   font-size: 1.2em;
@@ -77,11 +77,12 @@ export const ContainerLists = css`
   }
 `;
 export const LeftList = styled.div`
-  border-right: 1px solid gray;
+  border-right: 2px solid gray;
   ${ContainerLists}
 `;
 export const RightList = styled.div`
-  border-left: 1px solid gray;
+  margin-left: -2px;
+  border-left: 2px solid gray;
   ${ContainerLists}
 `;
 export const TitleCard = styled.p`

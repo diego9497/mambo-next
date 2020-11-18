@@ -10,7 +10,7 @@ import {
   ImageContainer,
   LeftButton,
   RightButton,
-} from "./style";
+} from "./styles";
 
 import Next from "../Icons/Next";
 import Previous from "../Icons/Before";
