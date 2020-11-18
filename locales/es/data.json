@@ -81,9 +81,6 @@
     "img3": {
       "src": "/image/mv1/3.png"
     },
-    "img4": {
-      "src": "/image/mv1/4.png"
-    },
     "gallery": [
       {
         "src": "/image/mv1/g1.png"
@@ -100,7 +97,16 @@
       {
         "src": "/image/mv1/g5.png"
       }
-    ]
+    ],
+    "didYouKnowImg": {
+      "src": "/image/mv1/did_you_know.png"
+    },
+    "questionImg": {
+      "src": "/image/mv1/question.png"
+    },
+    "activityImg": {
+      "src": "/image/mv1/activity.png"
+    }
   },
   {
     "id": 2,
@@ -147,22 +153,30 @@
       {
         "title": "arte académico",
         "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c1.png"
+        }
       },
       {
         "title": "vanguardias",
         "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c2.png"
+        }
       },
       {
         "title": "arte abstracto",
         "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c3.png"
+        }
       },
       {
         "title": "arte figurativo",
         "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c4.png"
+        }
       }
     ],
     "previous": {
@@ -172,6 +186,21 @@
     "next": {
       "id": 4,
       "title": "Arte Moderno en Colombia"
+    },
+    "img1": {
+      "src": "/image/mv3/1.png"
+    },
+    "img2": {
+      "src": "/image/mv3/2.png"
+    },
+    "img3": {
+      "src": "/image/mv3/3.png"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv3/did_you_know.jpg"
+    },
+    "questionImg": {
+      "src": "/image/mv3/question.jpg"
     }
   },
   {
@@ -202,32 +231,44 @@
       {
         "title": "guerra fría",
         "content": "Enfrentamiento militar, político y cultural que se desarrolló entre los años 1945 y 1989 entre el bloque occidental, representado por Estados Unidos en defensa del capitalismo contra la Unión Soviética (U.R.R.S) en defensa del comunismo. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c1.jpg"
+        }
       },
       {
         "title": "el bogotazo",
         "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c2.png"
+        }
       },
       {
         "title": "realismo socialista",
         "content": "Corriente artística que surge en los años 20 en la Unión Soviética, motivada por la representación de la realidad con fines ideológicos y muchas veces con contenido de denuncia. Fue influyente en la creación de movimientos latinoamericanos que defendieron el realismo social como un instrumento contra el imperialismo. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c3.jpg"
+        }
       },
       {
         "title": "expresionismo norteamericano",
         "content": "Se considera la primera corriente de arte abstracto en Estados Unidos, caracterizada por obras pictóricas en lienzos de gran formato en donde arrojaban la pintura espontáneamente, creando imágenes libres y expresivas. Esta corriente se opuso al realismo socialista y se usó como una herramienta de expansión de las ideas expresadas por el bloque capitalista en la Guerra Fría.",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c4.jpg"
+        }
       },
       {
         "title": "comunismo",
         "content": "Sistema económico propuesto por Karl Marx en el cual no existe la propiedad privada y la ganancia producida por los trabajadores se distribuye equitativamente, siendo todos los medios de producción administrados por el Estado. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c5.jpg"
+        }
       },
       {
         "title": "capitalismo",
         "content": "Sistema económico propuesto por Adam Smith en donde el capital producido por los medios de producción a partir de la fuerza de trabajo obrera es de una persona o empresa privada; siendo éste, el motor de la economía de mercados y lo que diferencia las clases socioeconómicas.",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c6.jpg"
+        }
       }
     ],
     "previous": {
@@ -237,6 +278,24 @@
     "next": {
       "id": 5,
       "title": "Arte Conceptual en el Mundo"
+    },
+    "img1": {
+      "src": "/image/mv4/1.png"
+    },
+    "img2": {
+      "src": "/image/mv4/2.png"
+    },
+    "img3": {
+      "src": "/image/mv4/3.png"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv4/did_you_know.png"
+    },
+    "questionImg": {
+      "src": "/image/mv4/question.png"
+    },
+    "activityImg": {
+      "src": "/image/mv4/activity.png"
     }
   },
   {
@@ -265,17 +324,23 @@
       {
         "title": "contracultura",
         "content": "La contracultura son los valores y las expresiones sociales que se oponen a las establecidas en una sociedad. El término aparece en el año 1968, en uno de los libros del historiador Theodore Roszak para referirse a la generación beat, el movimiento hippie, la revolución sexual y los movimientos pacifistas estadounidenses.",
-        "img": ""
+        "img": {
+          "src": "/image/mv5/c1.jpg"
+        }
       },
       {
         "title": "contexto",
         "content": "Es el conjunto de condiciones físicas, sociopolíticas y culturales que rodean a un objeto o a una circunstancia. Define el uso, las costumbres y los valores de un grupo humano específico.",
-        "img": ""
+        "img": {
+          "src": "/image/mv5/c2.png"
+        }
       },
       {
         "title": "estética",
         "content": "Es una disciplina filosófica que estudia la percepción, las sensaciones y los criterios para valorar la belleza y el gusto en el arte.",
-        "img": ""
+        "img": {
+          "src": "/image/mv5/c3.png"
+        }
       }
     ],
     "previous": {
@@ -285,6 +350,21 @@
     "next": {
       "id": 6,
       "title": "Arte Conceptual en Colombia"
+    },
+    "img1": {
+      "src": "/image/mv5/1.png"
+    },
+    "img2": {
+      "src": "/image/mv5/2.png"
+    },
+    "img3": {
+      "src": "/image/mv5/3.png"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv5/did_you_know.png"
+    },
+    "questionImg": {
+      "src": "/image/mv5/question.png"
     }
   },
   {
@@ -314,17 +394,23 @@
       {
         "title": "golpe de estado",
         "content": "Derrocamiento civil o militar de un gobierno elegido democráticamente. En el caso Colombiano se refiere al gobierno militar liderado por Gustavo Rojas Pinilla instaurado después de un golpe de estado al presidente conservador Laureano Gómez, caracterizado por una alta restricción de derechos y libertades civiles y la construcción de importantes obras de infraestructura para el país.",
-        "img": ""
+        "img": {
+          "src": "/image/mv6/c1.png"
+        }
       },
       {
         "title": "frente nacional",
         "content": "Periodo de democracia restringida entre 1957 y 1974 en el que los partidos liberal y conservador se tomaron la presidencia. Se le atribuye a este periodo el origen del conflicto armado por la exclusión de las ideas socialistas del escenario político.",
-        "img": ""
+        "img": {
+          "src": "/image/mv6/c2.png"
+        }
       },
       {
         "title": "salón nacional de arte",
         "content": "Exposición anual que se inauguró en 1940 por el entonces Ministro de Educación Jorge Eliécer Gaitán y el presidente Eduardo Santos. Este evento, en el que se premiaba a los artistas más destacados, fue una plataforma de exhibición y debate nacional que documentó importantes propuestas del arte moderno y contemporáneo durante las siguientes décadas.",
-        "img": ""
+        "img": {
+          "src": "/image/mv6/c3.png"
+        }
       }
     ],
     "previous": {
@@ -334,6 +420,24 @@
     "next": {
       "id": 7,
       "title": "Arte Contemporáneo en el Mundo"
+    },
+    "img1": {
+      "src": "/image/mv6/1.png"
+    },
+    "img2": {
+      "src": "/image/mv6/2.png"
+    },
+    "img3": {
+      "src": "/image/mv6/3.png"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv6/did_you_know.png"
+    },
+    "questionImg": {
+      "src": "/image/mv6/question.png"
+    },
+    "activityImg": {
+      "src": "/image/mv6/activity.png"
     }
   },
   {
@@ -361,27 +465,37 @@
       {
         "title": "transdisciplinar",
         "content": "Es la práctica de un conocimiento integral que trasciende la división de las disciplinas para estimular la innovación y creatividad. Por ejemplo el arte en diálogo con otras disciplinas como la ciencia, la sociología o el diseño.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c1.png"
+        }
       },
       {
         "title": "globalización",
         "content": "Proceso de intercambio y comunicación global potenciado por el internet, las tecnologías virtuales y la expansión del modelo económico de desarrollo.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c2.png"
+        }
       },
       {
         "title": "arte interactivo",
         "content": "Obras de arte que proponen un intercambio con el espectador a través de sistemas mecánicos o interfaces digitales o virtuales que generan acción y reacción entre el público y la obra.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c3.png"
+        }
       },
       {
         "title": "arte inmersivo",
         "content": "En su mayoría son instalaciones en donde el espectador ya no solo contempla la obra sino que es parte de ella y la experimenta a través de los sentidos.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c4.png"
+        }
       },
       {
         "title": "arte relacional",
         "content": "Obras de arte que conciben las relaciones sociales como materia prima de la creación artística, por lo tanto muchas de estas obras han sido performances y happenings.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c5.png"
+        }
       }
     ],
     "previous": {
@@ -391,6 +505,21 @@
     "next": {
       "id": 8,
       "title": "Arte contemporáneo en Colombia"
+    },
+    "img1": {
+      "src": "/image/mv7/1.png"
+    },
+    "img2": {
+      "src": "/image/mv7/2.png"
+    },
+    "img3": {
+      "src": "/image/mv7/3.png"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv7/did_you_know.jpg"
+    },
+    "questionImg": {
+      "src": "/image/mv7/question.png"
     }
   },
   {
@@ -419,17 +548,23 @@
       {
         "title": "nuevos medios",
         "content": "Técnicas y estrategias del arte contemporáneo como el readymade, el video, el performance y la instalación entre otras, que ampliaron la tradición de la historia del arte fundamentada en el dibujo, la pintura y la escultura.",
-        "img": ""
+        "img": {
+          "src": "/image/mv8/c1.png"
+        }
       },
       {
         "title": "conflicto armado",
         "content": "Enfrentamiento armado con más de ocho millones de víctimas que surgió en los años 60 con la fundación de la guerrilla de las Fuerzas Armadas Revolucionarias de Colombia FARC y culminó con el acuerdo de paz firmado en el gobierno de Juan Manuel Santos en el 2016. Sin embargo, aunque este acuerdo puso fin a un conflicto histórico, en algunas regiones la violencia continúa.",
-        "img": ""
+        "img": {
+          "src": "/image/mv8/c2.png"
+        }
       },
       {
         "title": "constitución del 91",
         "content": "La Asamblea Nacional Constituyente del año 1991 fue resultado del acuerdo de paz entre el gobierno de Belisario Betancur y el grupo guerrillero M - 19. En esta asamblea, se elaboró la Constitución Política de Colombia, documento que consolidó la democracia en nuestro país.",
-        "img": ""
+        "img": {
+          "src": "/image/mv8/c3.png"
+        }
       }
     ],
     "previous": {
@@ -439,6 +574,24 @@
     "next": {
       "id": 9,
       "title": "Nuevos medios"
+    },
+    "img1": {
+      "src": "/image/mv8/1.png"
+    },
+    "img2": {
+      "src": "/image/mv8/2.png"
+    },
+    "img3": {
+      "src": "/image/mv8/3.png"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv8/did_you_know.png"
+    },
+    "questionImg": {
+      "src": "/image/mv8/question.png"
+    },
+    "activityImg": {
+      "src": "/image/mv8/activity.png"
     }
   },
   {

@@ -46,7 +46,10 @@ function DetailHistory({ exhibition, config }) {
     didYouKnow,
     activity,
     keyConcepts,
-    img4,
+    img2,
+    didYouKnowImg,
+    activityImg,
+    questionImg,
   } = exhibition;
 
   const [current, setCurrent] = useState("");
@@ -68,7 +71,10 @@ function DetailHistory({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <BigFont>{didYouKnow}</BigFont>
+              <BigFont>
+                <MAMBOImage src={didYouKnowImg.src} />
+                {didYouKnow}
+              </BigFont>
             </MenuContentDetailContainer>
           </>
         );
@@ -85,7 +91,10 @@ function DetailHistory({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <BigFont>{activity}</BigFont>
+              <BigFont>
+                <MAMBOImage src={activityImg.src} />
+                {activity}
+              </BigFont>
             </MenuContentDetailContainer>
           </>
         );
@@ -103,10 +112,7 @@ function DetailHistory({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <QuestionContainer>
-                <img
-                  src="https://www.mambogota.com/wp-content/uploads/2020/04/DSC_0343.jpg"
-                  alt=""
-                />
+                <MAMBOImage src={questionImg.src} />
                 <div>
                   {questions.map((question) => (
                     <p>{question}</p>
@@ -185,7 +191,7 @@ function DetailHistory({ exhibition, config }) {
           </ItemMenu>
         )}
       </ContainerMenu>
-      <ImageBackground src={img4.src} />
+      <ImageBackground src={img2.src} />
       {current !== "" && (
         <MenuContentContainer color={color}>
           {renderCurrentItem(current)}

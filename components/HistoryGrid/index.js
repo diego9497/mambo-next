@@ -50,7 +50,7 @@ function HistoryGrid({ exhibition, config }) {
       </GridHistory>
       <GalleryContainer>
         <Gallery>
-          {gallery.map((img, index) => (
+          {gallery?.map((img, index) => (
             <GalleryImageContainer>
               <MAMBOGallery gallery={gallery} index={index} />
             </GalleryImageContainer>
