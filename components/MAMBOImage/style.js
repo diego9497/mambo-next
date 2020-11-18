@@ -21,11 +21,16 @@ export const Container = styled.div`
   flex-direction: column;
 `;
 
-export const ModalImage = styled.img`
+export const ContainerImage = styled.div`
   width: 90vw;
   height: 70vh;
-  object-fit: contain;
   margin: 0 auto;
+`;
+
+export const ModalImage = styled.img`
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
 `;
 
 export const CloseContainer = styled.div`
@@ -34,4 +39,10 @@ export const CloseContainer = styled.div`
   right: 20px;
   fill: white;
   cursor: pointer;
+`;
+
+export const Description = styled.p`
+  padding: 10px 20px;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
 `;

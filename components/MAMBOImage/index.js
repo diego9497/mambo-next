@@ -1,9 +1,16 @@
 import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Close from "../Icons/Close";
-import { Image, Container, ModalImage, CloseContainer } from "./style";
+import {
+  Image,
+  Container,
+  ModalImage,
+  CloseContainer,
+  ContainerImage,
+  Description,
+} from "./style";
 
-export default function MAMBOImage({ src, alt, description, fit = "cover" }) {
+export default function MAMBOImage({ src, alt, fit = "cover" }) {
   const [open, setOpen] = useState(false);
 
   const openModal = () => {
@@ -19,7 +26,10 @@ export default function MAMBOImage({ src, alt, description, fit = "cover" }) {
       {open && (
         <ClientPortal selector="#modal">
           <Container>
-            <ModalImage src={src} />
+            <ContainerImage>
+              <ModalImage src={src} />
+              <Description>{alt}</Description>
+            </ContainerImage>
             <CloseContainer onClick={closeModal}>
               <Close />
             </CloseContainer>

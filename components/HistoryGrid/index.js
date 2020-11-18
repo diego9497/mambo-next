@@ -36,7 +36,7 @@ function HistoryGrid({ exhibition, config }) {
           <Title color={color}>{history}</Title>
         </ContainerTitle>
         <ContainerImagePrincipal>
-          <MAMBOImage src={img1.src} />
+          <MAMBOImage src={img1.src} alt={img1.alt} />
         </ContainerImagePrincipal>
         <ContentHistory>
           <TextContentHistory>{historyDescription}</TextContentHistory>

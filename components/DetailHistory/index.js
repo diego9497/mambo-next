@@ -72,7 +72,7 @@ function DetailHistory({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <BigFont>
-                <MAMBOImage src={didYouKnowImg.src} />
+                <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
                 {didYouKnow}
               </BigFont>
             </MenuContentDetailContainer>
@@ -92,7 +92,7 @@ function DetailHistory({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <BigFont>
-                <MAMBOImage src={activityImg.src} />
+                <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
                 {activity}
               </BigFont>
             </MenuContentDetailContainer>
@@ -112,7 +112,7 @@ function DetailHistory({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <QuestionContainer>
-                <MAMBOImage src={questionImg.src} />
+                <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
                 <div>
                   {questions.map((question) => (
                     <p>{question}</p>
@@ -138,7 +138,10 @@ function DetailHistory({ exhibition, config }) {
               {keyConcepts.map((keyConcept, index) => (
                 <ConceptContainer key={index}>
                   <ConceptImageContainer>
-                    <MAMBOImage src={keyConcept.img.src} />
+                    <MAMBOImage
+                      src={keyConcept.img.src}
+                      alt={keyConcept.img.alt}
+                    />
                   </ConceptImageContainer>
                   <ConceptInfoContainer>
                     <h3>{keyConcept.title}</h3>
