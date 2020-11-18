@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Container = styled.header`
   display: grid;
@@ -50,13 +50,6 @@ export const Options = styled.div`
     align-items: center;
     font-size: 1.3em;
     line-height: 1;
-    a {
-      margin: 0 8px;
-      margin-top: 6px;
-      color: black;
-      text-decoration: none;
-      cursor: pointer;
-    }
     p {
       margin-top: 6px;
     }
@@ -75,6 +68,22 @@ export const Options = styled.div`
   @media screen and (max-width: 575px) {
     display: none;
   }
+`;
+
+export const Lang = styled.a`
+  padding-top: 8px;
+  margin: 0 8px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  ${({ active }) =>
+    active &&
+    css`
+      padding: 0 4px;
+      padding-top: 8px;
+      background: black;
+      color: white;
+    `}
 `;
 
 export const MenuButtonContainer = styled.div`

@@ -2,30 +2,10 @@ import Link from "next/link";
 import Next from "../Icons/Next";
 import { Container, Background, Content, Text } from "./styles";
 
-const MasonryCard = ({ img, title, filter, color, always, id }) => {
-  function ChooseLink({ children }) {
-    switch (process.env.NODE_ENV) {
-      case "development":
-        return (
-          <Link href={`/exhibition/${id}`}>
-            <Container>{children}</Container>
-          </Link>
-        );
-      case "production":
-        // return (
-        //   <Container href={`./exhibition/${id}.html`}>{children}</Container>
-        // );
-        return (
-          <Link href={`/exhibition/${id}`}>
-            <Container>{children}</Container>
-          </Link>
-        );
-    }
-  }
-
+const MasonryCard = ({ img, title, filter, color, always, href }) => {
   return (
-    <ChooseLink>
-      <>
+    <Link href={href}>
+      <Container>
         <Background src={img} />
         <Content filter={filter}>
           <Text always={always} color={color}>
@@ -33,8 +13,8 @@ const MasonryCard = ({ img, title, filter, color, always, id }) => {
             <Next />
           </Text>
         </Content>
-      </>
-    </ChooseLink>
+      </Container>
+    </Link>
   );
 };
 export default MasonryCard;

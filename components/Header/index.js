@@ -1,4 +1,10 @@
-import { Container, Options, MenuButtonContainer, MenuButton } from "./styles";
+import {
+  Container,
+  Options,
+  MenuButtonContainer,
+  MenuButton,
+  Lang,
+} from "./styles";
 import Accessibility from "../Icons/Accessibility";
 import Menu from "../Icons/Menu";
 import Logo from "../Icons/Logo";
@@ -7,6 +13,7 @@ import { useRouter } from "next/router";
 
 const Header = (props) => {
   const router = useRouter();
+  console.log(router);
   return (
     <Container>
       <Link href="/">
@@ -20,11 +27,11 @@ const Header = (props) => {
         <div></div>
         <div>
           <Link href={router.asPath} locale="en" scroll={false}>
-            <a>EN</a>
+            <Lang active={router.locale === "en"}>EN</Lang>
           </Link>
           <p>|</p>
           <Link href={router.asPath} locale="es" scroll={false}>
-            <a>ES</a>
+            <Lang active={router.locale === "es"}>ES</Lang>
           </Link>
         </div>
         <div>

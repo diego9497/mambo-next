@@ -6,15 +6,69 @@
   "timeline": "Timeline",
   "map": "map",
   "back": "back",
-  "mv1": "MAMBO POP UP",
-  "mv2": "MAMBO Traveler Exhibition",
-  "mv3": "Modern Art in the World",
-  "mv4": "Modern Art in Colombia",
-  "mv5": "Conceptual Art in the World",
-  "mv6": "Conceptual Art in Colombia",
-  "mv7": "Contemporary Art in the World",
-  "mv8": "Contemporary art in Colombia",
-  "mv9": "New media",
+  "mv1": {
+    "title": "MAMBO POP UP",
+    "img": {
+      "src": "/image/1.png",
+      "alt": "1979. Fence of the inauguration of the First Stage of MAMBO in the current headquarters. Photograph by Oscar Monsalve."
+    }
+  },
+  "mv2": {
+    "title": "MAMBO Traveler Exhibition",
+    "img": {
+      "src": "/image/2.png",
+      "alt": "Bernardo Salcedo. First lesson. 1970. Source: MAMBO Collection."
+    }
+  },
+  "mv3": {
+    "title": "Modern Art in the World",
+    "img": {
+      "src": "/image/3.png",
+      "alt": "Lyubov Popova. The pianist. 1914. Source: Wikimedia Commons under public domain."
+    }
+  },
+  "mv4": {
+    "title": "Modern Art in Colombia",
+    "img": {
+      "src": "/image/4.png",
+      "alt": "Andrés de Santa María. The river. 1904. Source: MAMBO Collection."
+    }
+  },
+  "mv5": {
+    "title": "Conceptual Art in the World",
+    "img": {
+      "src": "/image/5.png",
+      "alt": "Andy Warhol. Marilyn Monroe. 1968. Source: MAMBO Collection."
+    }
+  },
+  "mv6": {
+    "title": "Conceptual Art in Colombia",
+    "img": {
+      "src": "/image/6.png",
+      "alt": "Alicia Barney. Bocagrande 1. 1979. Source: MAMBO Collection."
+    }
+  },
+  "mv7": {
+    "title": "Contemporary Art in the World",
+    "img": {
+      "src": "/image/7.png",
+      "alt": "Rebecca Horn. The wounded star. 1992. Source: Wikimedia Commons licensed under CC BY SA 3.0"
+    }
+  },
+  "mv8": {
+    "title": "Contemporary Art in Colombia",
+    "img": {
+      "src": "/image/8.png",
+      "alt": "Elsa Zambrano. Piece 11. 2006. Source: MAMBO Collection."
+    }
+  },
+  "mv9": {
+    "title": "New media",
+    "img": {
+      "src": "/image/9.png",
+      "alt": "José Alejandro Restrepo. Atrium and central nave. 1996. Video installation. Source: MAMBO Collection."
+    }
+  },
   "archive": "MAMBO Archive",
   "more": "know more"
 }

@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2,
+    "color": "#ED4040",
+    "title": "MAMBO Traveler Exhibition",
+    "history": "Visit the exhibition of the traveling mambo - The Art of Disobedience",
+    "historyDescription": [
+      "In this section it is proposed that teachers and students visit the exhibition The Art of Disobedience, which shows works produced between 1964 and 1985 by modern and contemporary artists who are part of the MAMBO collection. This exhibition was held in the Museum in 2018, then it became a traveling exhibition with a selection of 45 works that have been exhibited in different locations in Bogotá "
+    ],
+    "author": "",
+    "authorContent": "",
+    "forWhat": "",
+    "forWhatContent": "",
+    "previous": {
+      "id": 1,
+      "title": "MAMBO Pop U"
+    },
+    "next": {
+      "id": 3,
+      "title": "Conceptual Art in Colombia"
+    }
+  },
+  {
+    "id": 9,
+    "color": "#1A1A1A",
+    "title": "New media",
+    "history": "Expressions of Contemporary Art in Colombia",
+    "historyDescription": [
+      "READY MADE",
+      "PERFORMANCE",
+      "FOTOGRAFÍA",
+      "VIDEO",
+      "INSTALACIÓN",
+      "GRÁFICA"
+    ],
+    "author": "Natalia Rivera",
+    "authorContent": "Use everyday objects to make installations. In this work he reconstructs a scene from a beauty reign with three pairs of heels, questioning the viewer about the stereotypes of the female body.",
+    "forWhat": "New media today?",
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the new media in contemporary art, identifying its historical origin and its appearance in Colombia.",
+    "previous": {
+      "id": 8,
+      "title": "Contemporary art in Colombia"
+    }
+  }
+]

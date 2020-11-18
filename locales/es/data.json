@@ -126,27 +126,6 @@
     }
   },
   {
-    "id": 2,
-    "color": "#ED4040",
-    "title": "Exposición MAMBO Viajero",
-    "history": "Visita la exposición del mambo viajero — El Arte de la desobediencia",
-    "historyDescription": [
-      "En esta sección se propone que los docentes y estudiantes visiten la exposición El Arte de la Desobediencia, que muestra obras producidas entre los años 1964 y 1985 por artistas modernos y contemporáneos que hacen parte de la colección del MAMBO. Esta exposición se realizó en el Museo en el año 2018, luego se transformó en una exposición itinerante con una selección de 45 obras que han sido expuestas en diferentes localidades de Bogotá"
-    ],
-    "author": "",
-    "authorContent": "",
-    "forWhat": "",
-    "forWhatContent": "",
-    "previous": {
-      "id": 1,
-      "title": "MAMBO Pop U"
-    },
-    "next": {
-      "id": 3,
-      "title": "Arte Conceptual en Colombia"
-    }
-  },
-  {
     "id": 3,
     "color": "#EFB8BC",
     "title": "Arte Moderno en el Mundo",
@@ -462,7 +441,7 @@
         "content": "Exposición anual que se inauguró en 1940 por el entonces Ministro de Educación Jorge Eliécer Gaitán y el presidente Eduardo Santos. Este evento, en el que se premiaba a los artistas más destacados, fue una plataforma de exhibición y debate nacional que documentó importantes propuestas del arte moderno y contemporáneo durante las siguientes décadas.",
         "img": {
           "src": "/image/mv6/c3.png",
-           "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
+          "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
         }
       }
     ],
@@ -614,14 +593,14 @@
       "¿Sobre qué temas te gustaría hacer arte hoy?",
       "¿Cómo el arte puede incidir en el cambio de los estereotipos y la discriminación? "
     ],
-    "proposal":"En esta sección se propone reflexionar sobre las expresiones particulares del arte contemporáneo y el papel de los artistas en el contexto social, político y cultural colombiano. ",
+    "proposal": "En esta sección se propone reflexionar sobre las expresiones particulares del arte contemporáneo y el papel de los artistas en el contexto social, político y cultural colombiano. ",
     "keyConcepts": [
       {
         "title": "nuevos medios",
         "content": "Técnicas y estrategias del arte contemporáneo como el readymade, el video, el performance y la instalación entre otras, que ampliaron la tradición de la historia del arte fundamentada en el dibujo, la pintura y la escultura.",
         "img": {
           "src": "/image/mv8/c1.png",
-          "alt":"José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
+          "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
         }
       },
       {
@@ -629,7 +608,7 @@
         "content": "Enfrentamiento armado con más de ocho millones de víctimas que surgió en los años 60 con la fundación de la guerrilla de las Fuerzas Armadas Revolucionarias de Colombia FARC y culminó con el acuerdo de paz firmado en el gobierno de Juan Manuel Santos en el 2016. Sin embargo, aunque este acuerdo puso fin a un conflicto histórico, en algunas regiones la violencia continúa.",
         "img": {
           "src": "/image/mv8/c2.png",
-          "alt":"Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: Wikimedia Commons bajo licencia CC BY 2.0"
+          "alt": "Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: Wikimedia Commons bajo licencia CC BY 2.0"
         }
       },
       {
@@ -637,7 +616,7 @@
         "content": "La Asamblea Nacional Constituyente del año 1991 fue resultado del acuerdo de paz entre el gobierno de Belisario Betancur y el grupo guerrillero M - 19. En esta asamblea, se elaboró la Constitución Política de Colombia, documento que consolidó la democracia en nuestro país.",
         "img": {
           "src": "/image/mv8/c3.png",
-          "alt":"Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
+          "alt": "Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
         }
       }
     ],
@@ -651,49 +630,27 @@
     },
     "img1": {
       "src": "/image/mv8/1.png",
-          "alt":"Beatriz González. Naturaleza casi muerta. 1970. Esmalte sintético sobre lámina de metal ensamblada en muebles. Fuente: Colección MAMBO"
+      "alt": "Beatriz González. Naturaleza casi muerta. 1970. Esmalte sintético sobre lámina de metal ensamblada en muebles. Fuente: Colección MAMBO"
     },
     "img2": {
       "src": "/image/mv8/2.png",
-          "alt":"Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO"
+      "alt": "Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO"
     },
     "img3": {
       "src": "/image/mv8/3.png",
-          "alt":"Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO"
+      "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO"
     },
     "didYouKnowImg": {
       "src": "/image/mv8/did_you_know.png",
-      "alt":"Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
+      "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
     },
     "questionImg": {
       "src": "/image/mv8/question.png",
-      "alt":"Clemencia Lucena. Yo no soy un hombre. Yo soy un programa. 1970. Fuente: Colección MAMBO. "
+      "alt": "Clemencia Lucena. Yo no soy un hombre. Yo soy un programa. 1970. Fuente: Colección MAMBO. "
     },
     "activityImg": {
       "src": "/image/mv8/activity.png",
-          "alt":"New Orleans Square Caricature Artist Tools. 2014. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.0"
-    }
-  },
-  {
-    "id": 9,
-    "color": "#1A1A1A",
-    "title": "Nuevos medios",
-    "history": "Expresiones del Arte Contemporáneo en Colombia",
-    "historyDescription": [
-      "READY MADE",
-      "PERFORMANCE",
-      "FOTOGRAFÍA",
-      "VIDEO",
-      "INSTALACIÓN",
-      "GRÁFICA"
-    ],
-    "author": "Natalia Rivera",
-    "authorContent": "Utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con tres pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino. ",
-    "forWhat": "¿Nuevos medios hoy?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre los nuevos medios en el arte contemporáneo, identificando su origen histórico y su aparición en Colombia. ",
-    "previous": {
-      "id": 8,
-      "title": "Arte contemporáneo en Colombia"
+      "alt": "New Orleans Square Caricature Artist Tools. 2014. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.0"
     }
   }
 ]

@@ -129,6 +129,7 @@ export const GalleryContainer = styled.section`
 `;
 export const Gallery = styled.div`
   width: 100%;
+  min-height: 250px;
   overflow-y: auto;
   display: flex;
 

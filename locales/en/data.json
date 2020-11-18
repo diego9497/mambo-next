@@ -3,17 +3,18 @@
     "id": 1,
     "color": "#3D57D5",
     "title": "MAMBO Pop Up",
-    "history": "History of MAMBO Museum",
+    "history": "History of the MAMBO Museum",
     "historyDescription": [
-      "In 1953, Rojas Pinilla led a coup d'état with which he established a Military Junta as a government during the following years, which were characterized by the restriction of freedoms and rights. However, during the military regime, important works were carried out for the modernization process of Colombia, including the founding of the Museum of Modern Art. ",
-      "With an act signed by intellectuals, artists and ministers, the creation of the Museum was decreed in 1955. Before the construction of the current building, the Museum lasted several years without a fixed headquarters, moving through different areas of the city such as the University Nacional and the District Planetarium, among others. The critic and manager Marta Traba promoted the opening of the Museum to the public from 1962 until her expulsion from the country in 1967, for questioning",
-      "the military intervention in the University where the museum had its headquarters. In 1969, Gloria Zea took over the direction of the Museum when it left the university campus, Zea managed several venues until finally a lot was acquired in 1974 where the current headquarters of the Museum was built between 1979 and 1985 (Zea, 1994, p.50 - p.78). The Museum building is located in the center of the city and adjoins the Bicentennial Park, the",
-      "Independence Park and the District Planetarium. It was designed by the architect Rogelio Salmona as a sample of the geometric criteria of abstract art and modern architecture in Bogotá (Moreno and Medina, 1994. p.88 - p.92). The MAMBO, for 57 years, has worked to investigate, preserve and promote the manifestations of modern and contemporary art. In 2016, the artist Claudia Hakim assumed the direction of the Museum with a new team that proposes a Museum with all citizens and with various proposals for curatorship, museography and education."
+      "In 1953, Rojas Pinilla led a coup d'état with which he established a Military Junta as a government during the following years, which were characterized by the restriction of freedoms and rights. However, during the military regime important events were carried out works for the modernization process of Colombia, among them, the foundation of the Museum of Modern Art. ",
+      "With an act signed by intellectuals, artists and ministers, the creation of the Museum was decreed in 1955. Before the construction of the current building, the Museum lasted several years without a fixed headquarters, moving through different areas of the city such as the National University and the District Planetarium, among others. The critic and manager Marta Traba promoted the opening of the Museum to the public from 1962 until his expulsion from the country in 1967, for questioning",
+      "The military intervention in the University where the museum had its headquarters. In 1969, Gloria Zea took over the direction of the Museum when it left the university campus, Zea managed several headquarters until finally a lot was acquired in 1974 where the current headquarters was built of the Museum between 1979 and 1985 (Zea, 1994, p.50 - p.78). The Museum building is located in the center of the city and is adjacent to the Bicentennial Park, the ",
+      "Parque de la Independencia and the District Planetarium. It was designed by the architect Rogelio Salmona as a sample of the geometric criteria of abstract art and modern architecture in Bogotá (Moreno and Medina, 1994. p.88 - p.92). MAMBO, for 57 years, has worked to investigate, preserve and promote the manifestations of modern and contemporary art. In 2016, the artist Claudia Hakim assumed the direction of the Museum with a new team that proposes a Museum with all citizens and with various proposals for curatorship, museography and education. "
     ],
     "author": "Oscar Monsalve",
-    "authorContent": "He was the museum's official photographer for several years, consolidating an important visual memory of modern and contemporary art in Colombia. In this series of photographs, you can see the construction of the current museum headquarters and the assembly of some representative exhibitions. ",
-    "forWhat": "A revolution for what?",
-    "forWhatContent": "Museums are democratizing, inclusive and polyphonic spaces for critical dialogue about the past and the future. Recognizing and addressing the conflicts and challenges of the present, they safeguard artifacts and specimens for society, safeguard diverse memories for future generations, and guarantee equal rights and equal access to heritage for all peoples. Museums are not for profit.  They are participatory and transparent, and they work in active collaboration with and for diverse communities in order to collect, preserve, investigate, interpret, exhibit, and broaden understanding of the world, with the purpose of contributing to human dignity and social justice, to global equality and planetary welfare. (Icom, 2019)",
+    "authorContent": "He was the official photographer of the Museum for several years, consolidating an important visual memory of modern and contemporary art in Colombia. In this series of photographs, you can see the construction of the current museum headquarters and the assembly of some representative exhibitions. ",
+    "forWhat": "A museum for what?",
+    "forWhatContent": "Museums are democratizing, inclusive and polyphonic spaces for critical dialogue about the past and the future. Recognizing and addressing the conflicts and challenges of the present, they safeguard artifacts and specimens for society, safeguard diverse memories for future generations , and guarantee equal rights and equal access to heritage for all peoples. Museums are non-profit making. \n They are participatory and transparent, and work in active collaboration with and for various communities in order to collect, preserve , investigate, interpret, expose, and expand understanding of the world, with the purpose of contributing to human dignity and social justice, global equality and planetary well-being. (Icom, 2019) ",
+    "proposal": "This section proposes to reflect on the value of museums, taking into account the new global definition that is still under discussion and the history of the Museum of Modern Art (MAMBO)",
     "questions": [
       "Why was the creation of the Museum of Modern Art important for the modernization of the country?",
       "How do you think museums expand understanding of the world?",
@@ -22,63 +23,106 @@
       "How can a museum contribute to human dignity, social justice and planetary well-being?"
     ],
     "didYouKnow": "In your city you have the Museum of Modern Art of Bogotá - MAMBO, with a collection of more than 4,500 pieces of art, which are part of the cultural heritage of our country.",
-    "activity": "Mambo Pop Up: Design and build your imaginary museum out of paper and show it to your class.",
+    "activity": "Mambo Pop Up: Design and build your imaginary museum with paper and show it to your class.",
     "keyConcepts": [
       {
         "title": "Curatorship",
-        "content": "It is the exercise of selecting and organizing a series of works of art for the realization of an exhibition under a thematic framework defined by a (a) curator (a).",
-        "img": ""
+        "content": "It is the exercise of selecting and organizing a series of works of art for the realization of an exhibition under a thematic framework defined by a curator.",
+        "img": {
+          "src": "/image/mv1/c1.png",
+          "alt": "1978. Eduardo Serrano next to the sculpture 'Toro de lidia' by Maria Cristina Franco. Assembly of the IV Salón Atenas. Photograph by Oscar Monsalve."
+        }
       },
       {
         "title": "Museography",
         "content": "Discipline that deals with developing methods and techniques for the operation of a museum, mainly the architectural and spatial aspects of the exhibitions and the collection.",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c2.png",
+          "alt": "1981. Editing of 'Yellows and Reds' by Pedro Ramoss at the VII Salón Atenas. Photograph by Oscar Monsalve."
+        }
       },
       {
         "title": "cultural heritage",
         "content": "It is a set of tangible and intangible goods that constitute the memory and identity of a human group and have a symbolic, historical and economic value.",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c3.png",
+          "alt": "1983. Construction of the third floor of the current headquarters. Photograph by Oscar Monsalve."
+        }
       },
       {
         "title": "collection",
         "content": "It is the set of material products of culture that are part of an institution dedicated to preserving heritage. They can be various objects such as tools and clothing in the case of anthropology museums or paintings and sculptures in the case of art museums. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c4.png",
+          "alt": "1981. Works by Mónica Negret and Pedro Ramos in the VII Salón Atenas. Photograph by Oscar Monsalve."
+        }
       },
       {
         "title": "democracy",
         "content": "It is a system of social organization where power is attributed to citizens from collective decision-making, which guarantee a majority participation of society.",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c5.png",
+          "alt": "1982. Educational workshop with children and Daniel Castro. Photograph of Oscar Monsalve"
+        }
       },
       {
         "title": "education in museums",
         "content": "It is the field that promotes learning in the museum, studies audiences, designs activities and pedagogical programs aimed at various audiences.",
-        "img": ""
+        "img": {
+          "src": "/image/mv1/c6.png",
+          "alt": "1982. Auditorium of the Museum of Modern Art. Photograph by Oscar Monsalve."
+        }
       }
     ],
     "next": {
       "id": 2,
       "title": "MAMBO Traveler Exhibition"
-    }
-  },
-  {
-    "id": 2,
-    "color": "#ED4040",
-    "title": "MAMBO Traveler Exhibition",
-    "history": "Visit the exhibition of the traveling mambo - The Art of Disobedience",
-    "historyDescription": [
-      "In this section it is proposed that teachers and students visit the exhibition The Art of Disobedience, which shows works produced between 1964 and 1985 by modern and contemporary artists who are part of the MAMBO collection. This exhibition was held in the Museum in 2018, then it became a traveling exhibition with a selection of 45 works that have been exhibited in different locations in Bogotá "
-    ],
-    "author": "",
-    "authorContent": "",
-    "forWhat": "",
-    "forWhatContent": "",
-    "previous": {
-      "id": 1,
-      "title": "MAMBO Pop U"
     },
-    "next": {
-      "id": 3,
-      "title": "Conceptual Art in Colombia"
+    "img1": {
+      "src": "/image/mv1/1.png",
+      "alt": "1979. Fence of the inauguration of the First Stage of MAMBO in the current headquarters. Photograph by Oscar Monsalve."
+    },
+    "img2": {
+      "src": "/image/mv1/2.png",
+      "alt": "1979. School visit to the Museum of Modern Art. Photograph by Oscar Monsalve."
+    },
+    "img3": {
+      "src": "/image/mv1/3.png",
+      "alt": "1977. Selection of works by Colombian artists in the MAMBO collection, District Planetarium headquarters. Photography by Oscar Monsalve."
+    },
+    "gallery": [
+      {
+        "src": "/image/mv1/g1.png",
+        "alt": "1965. Facade of the Museum of Modern Art, headquarters of the National University of Colombia. Photograph by Efraín García.jpg"
+      },
+      {
+        "src": "/image/mv1/g2.png",
+        "alt": "1979. Fence 'Museum of Modern Art 25 years later'. Photograph by Oscar Monsalve."
+      },
+      {
+        "src": "/image/mv1/g3.png",
+        "alt": "1982. Construction of the third floor of the current headquarters. Photograph by Oscar Monsalve."
+      },
+      {
+        "src": "/image/mv1/g4.png",
+        "alt": "1976. Santiago Cárdenas, headquarters of the District Planetarium. Photograph of Oscar Monsalve."
+      },
+      {
+        "src": "/image/mv1/g5.png",
+        "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano and John Stringer during assembly at the headquarters of the District Planetarium. Photograph by Oscar Monsalve."
+      }
+    ],
+    "didYouKnowImg": {
+      "src": "/image/mv1/did_you_know.png",
+      "alt": "Instagram: @mambogota\nFacebook: @fanmambogota \nTwitter: @_mambogota \nYouTube: Museum of Modern Art of Bogotá"
+    },
+    "questionImg": {
+      "src": "/image/mv1/question.png",
+      "alt": "1978. Construction of the current headquarters of the Museum. Photograph of Oscar Monsalve"
+    },
+    "activityImg": {
+      "src": "/image/mv1/activity.png",
+      "alt": "Museum plans. Designs by Rogelio Salmona. Source: Moreno and Medina (1994. pp.88-92)."
     }
   },
   {
@@ -87,12 +131,12 @@
     "title": "Modern Art in the World",
     "history": "How modern art came about",
     "historyDescription": [
-      "Modern art was a process of transformation in which painters, sculptors, and writers of that period sought new forms of representation. It occurred approximately between 1850 and 1970, as a consequence of the Industrial Revolution, the French Revolution and the fall of the monarchy. Artists rebelled against the Renaissance inspiration of academic art,",
-      " based on religion, Greek mythology, portraiture and still life, to capture his own interests and questions in his works. (Gallerix, 2009) The invention of the camera and photography around the 1830s prompted artists to break with the tradition of figurative representation to create works from their personal aesthetics.",
-      " The European avant-gardes are an example of the different formal and conceptual explorations of the artists of this period who experimented with new themes, materials, techniques and processes, expanding the concept of art, its limits and functions. (Play Academy, 2016) "
+      "Modern art was a process of transformation in which painters, sculptors and writers of that period sought new forms of representation. It occurred approximately between 1850 and 1970, as a consequence of the Industrial Revolution, the French Revolution and the fall of the monarchy The artists rebelled against the Renaissance inspiration of academic art, ",
+      "based on religion, Greek mythology, portraiture and still life, to capture their own interests and questions in their works. (Gallerix, 2009) The invention of the camera and photography around the 1830s prompted the artists to break with the tradition of figurative representation to create works from their personal aesthetics. ",
+      "The European avant-gardes are an example of the different formal and conceptual explorations of the artists of this periodor those who experimented with new themes, materials, techniques and processes, expanding the concept of art, its limits and functions. (Play Academy, 2016) "
     ],
     "author": "Edouard Manet",
-    "authorContent": "He was one of the forerunners of impressionism and modern painting. This work called Olympia, an ironic reference to Greek history, generated controversy for presenting a nude woman who was apparently a sex worker, challenging moral codes and the tradition of the female nude in art. ",
+    "authorContent": "He was one of the forerunners of impressionism and modern painting. This work called Olympia, an ironic reference to Greek history, generated controversy for presenting a nude woman who apparently was a sex worker, defying the codes morals and the tradition of the female nude in art. ",
     "forWhat": "A revolution for what?",
     "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the Industrial Revolution, the French Revolution and the origin of Modern Art that rebels against historical tradition.",
     "didYouKnow": "Photography radically modified the materiality of works of art, the way of producing images and of relating to the world.",
@@ -105,24 +149,37 @@
       {
         "title": "academic art",
         "content": "Artistic current that arises in the School of Fine Arts in Paris at the beginning of the 14th century that takes up the interests of classical art, it is also known as Neoclassicism: a romantic and idealistic current, in which art was associated to beauty, perfection and mastery of technique. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c1.png",
+          "alt": "Ricardo Acevedo Bernal. Model in Paris, 1889. Source: MAMBO Collection."
+        }
       },
       {
         "title": "vanguards",
         "content": "Anti-academic and experimental artistic movements of the early twentieth century that emerged in the context of war and postwar Europe. Avant-gardes such as Cubism, Dadaism and Futurism, were decisive for the consolidation of modern art.",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c2.png",
+          "alt": "Salvador Dalí. The Venus with the head of arrows. No date. Source: MAMBO Collection."
+        }
       },
       {
         "title": "abstract art",
         "content": "Term to refer to works that do not represent any object or scene exactly.",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c3.png",
+          "alt": "Amelia Peláez. Untitled, 1967. Source: MAMBO Collection."
+        }
       },
       {
         "title": "figurative art",
         "content": "Term to refer to works that represent images, objects and scenes of life in a realistic and recognizable way.",
-        "img": ""
+        "img": {
+          "src": "/image/mv3/c4.png",
+          "alt": "Liliana Porter. Tear, 1974. Source: MAMBO Collection."
+        }
       }
     ],
+    "proposal": "This section proposes to reflect on the relationship between the Industrial Revolution, the French Revolution and the origin of Modern Art that rebels against historical tradition.",
     "previous": {
       "id": 2,
       "title": "MAMBO Traveler Exhibition"
@@ -130,6 +187,26 @@
     "next": {
       "id": 4,
       "title": "Modern Art in Colombia"
+    },
+    "img1": {
+      "src": "/image/mv3/1.png",
+      "alt": "Édouard Manet. Olympia. 1863. Oil on canvas. Source: Wikimedia Foundation under the license C.C. BY 2.0."
+    },
+    "img2": {
+      "src": "/image/mv3/2.png",
+      "alt": "Camille Claudel. The Old Age. 1899. Bronze. Source: Wikimedia Commons under the GNU Free Documentation License."
+    },
+    "img3": {
+      "src": "/image/mv3/3.png",
+      "alt": "Pablo Picasso. The young ladies of Avignon. 1907. Oil on canvas. Source: Wikimedia Commons under the license C.C. BY 2.0"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv3/did_you_know.jpg",
+      "alt": "Nicéphore Niépce, untitled. 1826. Source: Wikimedia Commons under public domain."
+    },
+    "questionImg": {
+      "src": "/image/mv3/question.jpg",
+      "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Source: Wikimedia Commons under the CC BY 3.0 license"
     }
   },
   {
@@ -138,14 +215,14 @@
     "title": "Modern Art in Colombia",
     "history": "How modern art came about",
     "historyDescription": [
-      "At the beginning of the 20th century, the first examples of modern painting are seen in Colombia, artists sought new forms of painting and sculpture, appropriating the heritage of Dadaism and Cubism to detach themselves from the aesthetics of the beautiful.",
-      " Colombia was also the scene of the world debate between capitalism vs. Communism and the drive to transform its context led artists to question established morality and propose works of art with transgressive political content.",
-      " The desire to disassociate the history of Colombian art from the European tradition motivated the artists of the “Bachué” group to investigate symbols and images of local indigenous and peasant expressions.",
-      " 01 From the 50s influenced by political events such as El Bogotazo, artists assumed strong political positions, expressed in the confrontation between those who defended socialist realism and the defense of",
-      " an own identity, against those who supported abstract expressionism. This contrast between abstraction and figurative art was decisive for the artists of the sixties and the origin of contemporary art. (Jaramillo, 2012. p. 129 - p. 206)"
+      "At the beginning of the 20th century the first examples of modern painting are seen in Colombia, the artists sought new forms of painting and sculpture, appropriating the heritage of Dadaism and Cubism to detach themselves from the aesthetics of the beautiful.",
+      "Colombia was also the scene of the global debate between capitalism vs. communism and the impulse to transform its context led artists to question established morality and propose works of art with transgressive political content.",
+      "The desire to unlinkColombian art history of the European tradition, motivated the artists of the “Bachué” group to investigate symbols and images of local indigenous and peasant expressions. ",
+      "01 From the 50s influenced by political events such as El Bogotazo, the artists assumed strong political positions, expressed in the confrontation between those who defended socialist realism and the defense of",
+      "an own identity, against those who supported abstract expressionism. This contrast between abstraction and figurative art was decisive for the artists of the sixties and the origin of contemporary art. (Jaramillo, 2012. p. 129 - p. 206) "
     ],
     "author": "Alejandro Obregón",
-    "authorContent": "From the age of 6 he lived in the country, was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that were torn between figuration and abstraction (figurative expressionism), highlighting the expressive brushstrokes and the spot of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality.",
+    "authorContent": "From the age of 6 he lived in the country, he was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that debated between figuration and abstraction (figurative expressionism), highlighting the expressive brushstrokes and the stain of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality. ",
     "forWhat": "Politics and art?",
     "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the political context and art, and the need to build nationalist discourses in the face of foreign influences.",
     "didYouKnow": "The period known as La Violencia, characterized by clashes between the liberal and conservative parties, prompted artists to demonstrate in the face of the social and political situation.",
@@ -156,36 +233,55 @@
       "What traditional and modern values ​​do you identify in your family?",
       "If morals, beliefs and values ​​are not the same for everyone, how can consensus be reached and violence avoided?"
     ],
+    "proposal": "This section proposes to reflect on the relationship between the political context and art, and the need to build national discourses in the face of foreign influences.",
     "keyConcepts": [
       {
         "title": "cold war",
         "content": "Military, political and cultural confrontation that took place between 1945 and 1989 between the western bloc, represented by the United States in defense of capitalism against the Soviet Union (U.R.R.S) in defense of communism.",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c1.jpg",
+          "alt": "Unknown author. Photograph of the Berlin Wall. 1989. Source: Wikimedia Commons under the GNU license."
+        }
       },
       {
         "title": "el bogotazo",
         "content": "Popular revolts that took place in Bogotá after the assassination of Jorge Eliécer Gaitán on April 9, 1948, which originated the period known as La Violencia in which the liberal and conservative parties clashed.",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c2.png",
+          "alt": "Sady González. Tram on fire. 1948. Source: MAMBO Collection."
+        }
       },
       {
         "title": "socialist realism",
         "content": "Artistic current that emerged in the 1920s in the Soviet Union, motivated by the representation of reality for ideological purposes and often with content of denunciation. It was influential in the creation of Latin American movements that defended social realism as an instrument against imperialism. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c3.jpg",
+          "alt": "Unknown author. Monument to the fighters of the October revolution. in Almaty, Kasakhstan. Source: Wikimedia Commons under public domain."
+        }
       },
       {
         "title": "North American expressionism",
         "content": "It is considered the first current of abstract art in the United States, characterized by pictorial works on large-format canvases where paint was thrown spontaneously, creating free and expressive images. This current was opposed to socialist realism and was used as a tool for expanding the ideas expressed by the capitalist bloc in the Cold War. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c4.jpg",
+          "alt": "Jackson Pollock. Head. 1938-1941. Source: Wikimedia Commons under the CC BY 2.0 license."
+        }
       },
       {
         "title": "communism",
         "content": "Economic system proposed by Karl Marx in which there is no private property and the profit produced by the workers is distributed equitably, all means of production being administered by the State.",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c5.jpg",
+          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Source: Wikimedia Commons under public domain."
+        }
       },
       {
         "title": "capitalism",
         "content": "Economic system proposed by Adam Smith where the capital produced by the means of production from the labor force is a private person or company; this being the engine of the market economy and what differentiate socioeconomic classes. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv4/c6.jpg",
+          "alt": "Author unknown. Portrait of Adam Smith. 1800. Source: Wikimedia Commons under public domain."
+        }
       }
     ],
     "previous": {
@@ -195,6 +291,30 @@
     "next": {
       "id": 5,
       "title": "Conceptual Art in the World"
+    },
+    "img1": {
+      "src": "/image/mv4/1.png",
+      "alt": "Beatriz Daza. Two yellow days. 1966. Porcelain, glass, ceramic, plaster and metal on wood. Source: MAMBO Collection"
+    },
+    "img2": {
+      "src": "/image/mv4/2.png",
+      "alt": "Alejandro Obregón. Violence. 1962. Obregón. Hernán Díaz. Source: MAMBO Collection"
+    },
+    "img3": {
+      "src": "/image/mv4/3.png",
+      "alt": "Edgar Negret. Face of Christ. 1949. Steel and Wood. Source: MAMBO Collection"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv4/did_you_know.png",
+      "alt": "Sady González. Corpses in the cemetery, April 9, Bogotá. 1948. Source: MAMBO Collection."
+    },
+    "questionImg": {
+      "src": "/image/mv4/question.png",
+      "alt": "León Ruiz. Untitled. 1981. Source: MAMBO Collection."
+    },
+    "activityImg": {
+      "src": "/image/mv4/activity.png",
+      "alt": "Gertjan Bartelsman. Floralba. 1976. Source: MAMBO Collection."
     }
   },
   {
@@ -203,11 +323,11 @@
     "title": "Conceptual Art in the World",
     "history": "What is conceptual art?",
     "historyDescription": [
-      "This trend appeared around the 60s and consists of recognizing art not only for its aesthetic value but also for its intellectual value. Conceptual art does not use a specific medium since it does not depend on the form but on the content and the ability to communicate an idea, that is why it can be an installation,",
-      " photography, ready-made, performance, graphic work or video-art. Conceptual artists are interested in their context, they appropriate a theme and by means of a work they re-signify objects, images and concepts. In Land Art, for example, interest in space led artists to alter",
-      " the landscape and to use the available materials; on the other hand, in Minimalism, artists were interested in perception, moving away from realistic representation. (Tate, n.d) 01 The period between the 60s and 70s was characterized by great social changes generated by various activist movements in the world such as:",
-      " feminist and LGBT movements, anti-racist organizations, demonstrations against the war in Vietnam and the riots in Paris in May 68. In conceptual art, problems of the social, political, religious or social environment are often identified and denounced. ecological, frequently using irony and satire.",
-      " In addition, the very meaning of art is questioned, stating that the artist's subjectivity defines what art is and the viewer completes the work with his interpretation. (EcuRed, 2019)"
+      "This trend appeared around the 1960s and consists of recognizing art not only for its aesthetic value but also for its intellectual value. Conceptual art does not use a specific medium since it does not depend on the form but on the content and capacity of communicate an idea, so it can be an installation, ",
+      "Photography, ready-made, performance, graphic work or video-art. Conceptual artists are interested in their context, they appropriate a theme and by means of a work they resignify objects, images and concepts. In Land Art, for example, interest in space led artists to alter ",
+      "The landscape and using the available materials; on the other hand, in Minimalism the artists were interested in perception, moving away from realistic representation. (Tate, nd) 01 The period between the 60s and 70s was characterized by great social changes generated by various activist movements around the world such as: ",
+      "feminist and LGBT movements, anti-racist organizations, demonstrations against the war in Vietnam and the riots in Paris in May 68. In conceptual art, problems of the social, political, religious environment are often identified and denounced or ecological, frequently using irony and satire. ",
+      "In addition, the very meaning of art is questioned, stating that the artist's subjectivity defines what art is and the viewer completes the work with his interpretation. (EcuRed, 2019)"
     ],
     "author": "Cildo Merireles",
     "authorContent": "He is recognized for his contributions to Latin American conceptual art, with works made from the analysis of Latin American economic and political systems. In this series, the artist recreates a series of counterfeit bills to reflect on capital, power and exploitation. ",
@@ -219,21 +339,31 @@
       "What do you think is art and what is not?",
       "What are the artists' research methods?"
     ],
+    "proposal": "This section proposes to reflect on the implications of understanding art as an intellectual process based on ideas and concepts.",
     "keyConcepts": [
       {
         "title": "counterculture",
-        "content": "The counterculture is the values ​​and social expressions that are opposed to those established in a society. The term appears in 1968, in one of the books of the historian Theodore Roszak to refer to the beat generation, the movement hippie, the sexual revolution and the American peace movements. ",
-        "img": ""
+        "content": "The counterculture is the values ​​and social expressions that are opposed to those established in a society. The term appears in 1968, in one of the books of the historian Theodore Roszak to refer to the beat generation, the movement hippie, the sexual revolution and the pacifist movements andAmericans. ",
+        "img": {
+          "src": "/image/mv5/c1.jpg",
+          "alt": "Mark Goff. Woodstock festival opening ceremony. 1969. Source: Wikimedia Commons under public domain."
+        }
       },
       {
         "title": "context",
         "content": "It is the set of physical, socio-political and cultural conditions that surround an object or a circumstance. It defines the use, customs and values ​​of a specific human group.",
-        "img": ""
+        "img": {
+          "src": "/image/mv5/c2.png",
+          "alt": "Carlos Caicedo. Bogotá, 1975. Source: MAMBO Collection."
+        }
       },
       {
         "title": "aesthetics",
         "content": "It is a philosophical discipline that studies perception, sensations and criteria to value beauty and taste in art.",
-        "img": ""
+        "img": {
+          "src": "/image/mv5/c3.png",
+          "alt": "Francisco Antonio Cano. Still life. 1912. Source: MAMBO Collection."
+        }
       }
     ],
     "previous": {
@@ -243,6 +373,26 @@
     "next": {
       "id": 6,
       "title": "Conceptual Art in Colombia"
+    },
+    "img1": {
+      "src": "/image/mv5/1.png",
+      "alt": "Cildo Meireles. Zero cruzeiro. 1974. Lithograph. Source: MAMBO Collection."
+    },
+    "img2": {
+      "src": "/image/mv5/2.png",
+      "alt": "Andy Warhol. Campbell's soup cans. 1962. Special edition. 2015. Source: Wikimedia Commons under the Creative Commons Attribution 3.0 Unported license."
+    },
+    "img3": {
+      "src": "/image/mv5/3.png",
+      "alt": "Nancy Holt. Sun Tunnels. 1976. Leaky cement pipes. Source: Wikimedia Commons under the C.C. 2.0 license."
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv5/did_you_know.png",
+      "alt": "Marcel Duchamp. The Fountain. 1917. Source: Wikimedia Commons under public domain."
+    },
+    "questionImg": {
+      "src": "/image/mv5/question.png",
+      "alt": "Luis Camnitzer. Window with landscape on wall covered with flowers, 1968. Source: MAMBO Collection."
     }
   },
   {
@@ -251,13 +401,13 @@
     "title": "Conceptual Art in Colombia",
     "history": "Why did conceptual art emerge in Colombia?",
     "historyDescription": [
-      "In Colombia, as in most Latin American countries, there was a state of social and political tension reflected in a period of restricted democracy that began with the Rojas Pinilla coup in 1953 and continued for 16 years in the period known as Frente National.",
-      " Conceptual art arises as a reaction against the arbitrariness of artistic and political institutions, which is why some artists, such as Feliza Bursztyn, were persecuted and had to go into exile. Conceptual artists in Colombia experimented with new media and formats, combining different artistic disciplines such as ready-made, photography, and installation, among others.",
-      " 01 The artists created collectives such as El Grupo de Arte Experimental 'El Sindicato' to question individualism and propose new ideas about society, consigned in their manifestos (Barrios, A. 1999). The use of means of reproduction such as photocopies and serigraphs was a tool for",
-      " remove art from official places and democratize their creations. The debates and controversies associated with the National Salon of Artists show the desire of artists to transgress this institution, which until 1978 recognized the proposals of conceptual art, awarding the first prize to the work 'A-la-cena con Zapatos' of 'The Syndicate'. (Herrera, 2011)"
+      "In Colombia, as in most Latin American countries, there was a state of social and political tension reflected in a period of restricted democracy that began with the Rojas Pinilla coup in 1953 and continued for 16 years in the period known as National Front. ",
+      "Conceptual art arises as a reaction against the arbitrariness of artistic and political institutions, which is why some artists, such as Feliza Bursztyn, were persecuted and had to go into exile. Conceptual artists in Colombia experimented with new media and formats, combining different artistic disciplines such as ready-made, photography and installation, among others. ",
+      "01 The artists created collectives such as El Grupo de Arte Experimental 'El Sindicato' to question individualism and propose new ideas about society, consigned in their manifestos (Barrios, A. 1999). The use of means of reproduction such as photocopies and serigraphs was a tool for ",
+      "Take art out of official places and democratize its creations. The debates and controversies associated with the National Artists' Hall show the desire of artists to transgress this institution, which until 1978 recognized the proposals of conceptual art, granting it the first prize to the work “A-la-cena con Zapatos” by “El Sindicato” (Herrera, 2011) "
     ],
     "author": "Bernardo Salcedo",
-    "authorContent": "He was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as a tribute to the life of Dante Alighieri and his muse Beatriz Portinari with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art, with the use of minimalist volumes and irony in its name.",
+    "authorContent": "He was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as a tribute to the life of Dante Alighieri and his muse Beatriz Portinari with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art, with the use of minimalist volumes and irony in its name. ",
     "forWhat": "Context and art?",
     "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the counterculture (the social movements of the 60s and 70s) and the creation of new artistic expressions in Colombia.",
     "didYouKnow": "One of the first performances in Colombia was carried out by a group of artists who took down their paintings from the National Artists' Hall and later burned some coffins in the center of Bogotá.",
@@ -265,24 +415,34 @@
     "questions": [
       "How is democracy reflected in art?",
       "What elements could you recognize from the historical context in a work of art?",
-      "Why do you think artists manifest themselves with disruptive works and actions?",
+      "Why do you think artists manifest themselves with works and actionsdisruptive? ",
       "What struggles of the social movements of the 60s and 70s are still valid and why?"
     ],
+    "proposal": "This section proposes to reflect on the relationship between the counterculture (the social movements of the 1960s and 1970s) and the creation of new artistic expressions in Colombia.",
     "keyConcepts": [
       {
         "title": "coup",
         "content": "Civil or military overthrow of a democratically elected government. In the Colombian case, it refers to the military government led by Gustavo Rojas Pinilla, established after a coup against the conservative president Laureano Gómez, characterized by a high restriction of rights and civil liberties and the construction of important infrastructure works for the country. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv6/c1.png",
+          "alt": "Unknown author. Portrait of Gustavo Rojas Pinilla. S, f. Source: Wikimedia Commons under the CC BY SA 4.0 license."
+        }
       },
       {
         "title": "national front",
         "content": "Period of restricted democracy between 1957 and 1974 in which the liberal and conservative parties took the presidency. The origin of the armed conflict is attributed to this period due to the exclusion of socialist ideas from the political scene.",
-        "img": ""
+        "img": {
+          "src": "/image/mv6/c2.png",
+          "alt": "Semana Magazine. General Gustavo Rojas Pinilla, President of Colombia surrounded by his cabinet. 1956. Source: Wikimedia Commons under public domain."
+        }
       },
       {
         "title": "national art salon",
         "content": "Annual exhibition that was inaugurated in 1940 by the then Minister of Education Jorge Eliécer Gaitán and President Eduardo Santos. This event, in which the most outstanding artists were awarded, was a platform for national exhibition and debate that documented important proposals of modern and contemporary art during the following decades. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv6/c3.png",
+          "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional in Re-View of Art and Architecture in Latin America (Medellín, Colombia) - Vol. 2 no. 6, pp. 17-21, 1981. Courtesy Familia Sierra Maya. "
+        }
       }
     ],
     "previous": {
@@ -292,6 +452,30 @@
     "next": {
       "id": 7,
       "title": "Contemporary Art in the World"
+    },
+    "img1": {
+      "src": "/image/mv6/1.png",
+      "alt": "Feliza Bursztyn. Cuja. 1972. Source: MAMBO Collection"
+    },
+    "img2": {
+      "src": "/image/mv6/2.png",
+      "alt": "Jonier Marín. Paper and Pencil. 1976. Source: MAMBO Collection"
+    },
+    "img3": {
+      "src": "/image/mv6/3.png",
+      "alt": "Álvaro Barrios. The Great Plexi. 1979. Source: MAMBO Collection"
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv6/did_you_know.png",
+      "alt": "Leo Tint. The Rejected. 1952. Collection of the Bank of the Republic."
+    },
+    "questionImg": {
+      "src": "/image/mv6/question.png",
+      "alt": "Carlos Echeverry. He who sows collects, 1982. Printing. Source: MAMBO Collection."
+    },
+    "activityImg": {
+      "src": "/image/mv6/activity.png",
+      "alt": ""
     }
   },
   {
@@ -300,46 +484,62 @@
     "title": "Contemporary Art in the World",
     "history": "Origins of contemporary art",
     "historyDescription": [
-      "Contemporary art emerged in the second half of the 20th century and is characterized by a multiplicity of theoretical and technical approaches. Contemporary artists take art practices to their limits, and seek to generate in the viewer a critical reflection based on their personal research.",
-      "The artists begin to cover the different fields of knowledge in a transdisciplinary way. Globalization and internet access have allowed the expansion of new technologies, providing the public",
-      " a new approach to the image through the screen (Ampudia, M. 2016). The incursion of technology and new media propose different relationships between works of art, the public and the artists, resulting in frequently interactive and relational proposals such as the happening and the performance.",
-      " Many times, in contemporary art, the viewer becomes a participant in the work, offering them the possibility of immersing themselves in environments that involve all the senses. (Pazos, A. 2018)"
+      "Contemporary art arises in the second half of the 20th century and is characterized by a multiplicity of theoretical and technical approaches. Contemporary artists take art practices to their limits, and seek to generate a reflection in the viewer criticism from his personal research. ",
+      "Artists are beginning to cover the different fields of knowledge in a transdisciplinary way. Globalization and access to the internet have allowed the expansion of new technologies, providing the public",
+      "a new approach to the image through the screen (Ampudia, M. 2016). The incursion of technology and new media propose different relationships between works of art, the public and artists, resulting in frequent proposals interactive and relational like the happening and the performance. ",
+      "Many times, in contemporary art, the viewer becomes a participant in the work, offering them the possibility of immersing themselves in environments that involve all the senses. (Pazos, A. 2018)"
     ],
     "author": "Damien Hirst",
-    "authorContent": "He is one of the most sought-after contemporary artists on the art market. Make this series of sculptures with animals stuffed in formaldehyde to question the public about the ephemeral and the limits between life and death. ",
+    "authorContent": "He is one of the most sought-after contemporary artists on the art market. He makes this series of sculptures with animals dissected in formaldehyde to question the public about the ephemeral and the limits between life and death.",
     "forWhat": "Infinite possibilities?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on transdisciplinarity in art, the use of technologies and the multiple possibilities of interaction with the viewer. ",
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on transdisciplinarity in art, the use of technologies andthe multiple possibilities of interaction with the viewer. ",
     "didYouKnow": "The international art market has recently grown as an investment, with high-priced works circulating among private collectors and museums.",
     "questions": [
       "What do you think are the possibilities that arise when approaching art as a transdisciplinary practice?",
       "How does technology affect our relationship with the world?",
       "What are the opportunities offered by works that involve the viewer?"
     ],
+    "proposal": "This section proposes to reflect on transdisciplinarity in art, the use of technologies and the multiple possibilities of interaction with the viewer.",
     "keyConcepts": [
       {
         "title": "transdisciplinary",
         "content": "It is the practice of comprehensive knowledge that transcends the division of disciplines to stimulate innovation and creativity. For example, art in dialogue with other disciplines such as science, sociology or design.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c1.png",
+          "alt": "Blake Patterson. The art of video games exhibition crowd. Source: Wikimedia Commons under CC BY 2.0"
+        }
       },
       {
         "title": "globalization",
         "content": "Global exchange and communication process enhanced by the internet, virtual technologies and the expansion of the economic development model.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c2.png",
+          "alt": "Internet map. The Opte Project. Source: Wikimedia Commons licensed under CC BY S.A 2.5"
+        }
       },
       {
         "title": "interactive art",
         "content": "Works of art that propose an exchange with the viewer through mechanical systems or digital or virtual interfaces that generate action and reaction between the public and the work.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c3.png",
+          "alt": "Interactive whiteboard. Source: Wikimedia Commons under public domain."
+        }
       },
       {
         "title": "immersive art",
         "content": "Most of them are installations where the viewer not only contemplates the work but is part of it and experiences it through the senses.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c4.png",
+          "alt": "Immersive shadow. Source: Wikimedia Commons under Public Domain."
+        }
       },
       {
         "title": "relational art",
         "content": "Works of art that conceive social relations as the raw material of artistic creation, therefore many of these works have been performances and happenings.",
-        "img": ""
+        "img": {
+          "src": "/image/mv7/c5.png",
+          "alt": "Le tunnel sous l’atlantique, Moben. Source: Wikimedia Commons licensed under CC BY SA 3.0"
+        }
       }
     ],
     "previous": {
@@ -349,6 +549,26 @@
     "next": {
       "id": 8,
       "title": "Contemporary art in Colombia"
+    },
+    "img1": {
+      "src": "/image/mv7/1.png",
+      "alt": "Damien Hirst. The physical impossibility of death in the mind of the living. 1991. Source: Wikimedia Commons under the Creative Commons Generic Attribution / Share-Alike 3.0 license."
+    },
+    "img2": {
+      "src": "/image/mv7/2.png",
+      "alt": "Yayoi Kusama. Point obsession. 1999. Source: Wikimedia Commons under the CC BY 2.0 license."
+    },
+    "img3": {
+      "src": "/image/mv7/3.png",
+      "alt": "Banksy. Lovers. 2006. Source: Wikimedia Commons under the CC BY 2.0 license."
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv7/did_you_know.jpg",
+      "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Source: Wikimedia Commons licensed under 3.0"
+    },
+    "questionImg": {
+      "src": "/image/mv7/question.png",
+      "alt": "Computer chips circuits. 2013. Source: Wikimedia Commons under public domain."
     }
   },
   {
@@ -357,15 +577,15 @@
     "title": "Contemporary art in Colombia",
     "history": "Expressions of contemporary art in Colombia",
     "historyDescription": [
-      "Beginning in the 1950s, Colombia experienced important social transformations marked by rapid urban growth, caused by displacement and modernization. The new representations of the city were a recurring theme for artists such as Fernell Franco, Carlos Caicedo or Dora Franco, who used photography artistically, connecting with other areas of visual production such as design, advertising, popular graphics and the media of communication.",
-      " The struggles for gender rights and freedoms motivated the creation of works around the body, homoeroticism and sexuality, opening in art a space for free expression. Artists such as María Evelia Marmolejo, Luis Caballero or Karen Lamassonne, ",
-      " they made works around their gender identity, combining different techniques such as drawing, video and performance. The political and social tensions of the 60s and 70s, prompted the production of works that questioned the patriotic, religious and cultural symbols; this is reflected in the works of Antonio Caro and Bernardo Salcedo. (Jaramillo, Suarez and Wills, 2018) ",
-      " The Museum of Modern Art of Bogotá - MAMBO was connected with the Museums of Modern Art of Medellín, Cali and Barranquilla, to make visible artists from different regions. Two decisive events for Contemporary Art in Colombia took place at MAMBO: the exhibition Espacios Ambientales, which introduced the installation, and the Salones Atenas, which strengthened the emergence of contemporary art. (Jaramillo, 2012)"
+      "Beginning in the 50s, Colombia experienced important social transformations marked by rapid urban growth, caused by displacement and modernization. The new representations of the city were a recurring theme for artists such as Fernell Franco, Carlos Caicedo or Dora Franco, who they used photography artistically, connecting with other areas of visual production such as design, advertising, popular graphics and the media. ",
+      "The struggles for gender rights and freedoms motivated the creation of works around the body, homoeroticism and sexuality, opening in art a space for free expression. Artists such as María Evelia Marmolejo, Luis Caballero or Karen Lamassonne,",
+      "they made works around their gender identity, combining differenttechniques such as drawing, video and performance. The political and social tensions of the 60s and 70s, prompted the production of works that questioned the patriotic, religious and cultural symbols; this is reflected in the works of Antonio Caro and Bernardo Salcedo. (Jaramillo, Suarez and Wills, 2018) ",
+      "The Museum of Modern Art of Bogotá - MAMBO was connected with the Museums of Modern Art of Medellín, Cali and Barranquilla, to make visible artists from different regions. Two decisive events for Contemporary Art in Colombia happened at MAMBO: the exhibition Environmental Spaces which introduced the installation and the Atenas Salons that strengthened the emergence of contemporary art. (Jaramillo, 2012) "
     ],
     "author": "Beatriz González",
-    "authorContent": " She is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using images from popular culture in everyday objects to communicate her reflections on the Colombian context and the problems associated with conflict, gender and landscape. In this work, the artist intervenes a wooden bed with a religious image. ",
+    "authorContent": "She is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using popular culture images in everyday objects to communicate her reflections on the Colombian context and the problems associated with it. conflict, gender and landscape. In this work, the artist intervenes a wooden bed with a religious image. ",
     "forWhat": "Today's art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context. ",
+    "forWhatContent": "In this section it is proposed that teachers and students reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context.",
     "didYouKnow": "In the 1991 Constitution the State recognizes its duty to promote access to art and culture in society as a guarantee of the rights of all citizens to the free expression of their identity.",
     "activity": "After making this journey from Modern Art in the world to Contemporary Art in Colombia, you already have the creative tools to make a work of art. We invite you to propose a work of art with the means you have available and that expresses a personal disagreement. ",
     "questions": [
@@ -373,21 +593,31 @@
       "On what subjects would you like to make art today?",
       "How can art influence the change of stereotypes and discrimination?"
     ],
+    "proposal": "This section proposes to reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context.",
     "keyConcepts": [
       {
         "title": "new media",
         "content": "Techniques and strategies of contemporary art such as readymade, video, performance and installation among others, which expanded the tradition of art history based on drawing, painting and sculpture.",
-        "img": ""
+        "img": {
+          "src": "/image/mv8/c1.png",
+          "alt": "José Alejandro Restrepo. Atrium and central nave. 1996. Video installation. Source: MAMBO Collection."
+        }
       },
       {
         "title": "armed conflict",
         "content": "Armed confrontation with more than eight million victims that arose in the 1960s with the founding of the guerrilla of the Revolutionary Armed Forces of Colombia FARC and culminated in the peace agreement signed in the government of Juan Manuel Santos in 2016. However, although this agreement ended a historic conflict, in some regions the violence continues. ",
-        "img": ""
+        "img": {
+          "src": "/image/mv8/c2.png",
+          "alt": "Head of State participates in the Peace Signing ceremony between the Government of Colombia and the FARC E.P. Government of Chile. 2016. Source: Wikimedia Commons under license CC BY 2.0"
+        }
       },
       {
         "title": "constitution of 91",
         "content": "The National Constituent Assembly of 1991 was the result of the peace agreement between the government of Belisario Betancur and the guerrilla group M - 19. In this assembly, the Political Constitution of Colombia was drawn up, a document that consolidated democracy in our country.",
-        "img": ""
+        "img": {
+          "src": "/image/mv8/c3.png",
+          "alt": "Photograph of a publication of the Colombian constitution. The book was printed in December 1991, at the IMPREANDES, SA workshops, Bogotá, Colombia. 2019. Source: Wikimedia Commons under license CC BY SA 3.0 "
+        }
       }
     ],
     "previous": {
@@ -397,28 +627,30 @@
     "next": {
       "id": 9,
       "title": "New media"
-    }
-  },
-  {
-    "id": 9,
-    "color": "#1A1A1A",
-    "title": "New media",
-    "history": "Expressions of Contemporary Art in Colombia",
-    "historyDescription": [
-      "READY MADE",
-      "PERFORMANCE",
-      "FOTOGRAFÍA",
-      "VIDEO",
-      "INSTALACIÓN",
-      "GRÁFICA"
-    ],
-    "author": "Natalia Rivera",
-    "authorContent": "Use everyday objects to make installations. In this work he reconstructs a scene from a beauty reign with three pairs of heels, questioning the viewer about the stereotypes of the female body.",
-    "forWhat": "New media today?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the new media in contemporary art, identifying its historical origin and its appearance in Colombia.",
-    "previous": {
-      "id": 8,
-      "title": "Contemporary art in Colombia"
+    },
+    "img1": {
+      "src": "/image/mv8/1.png",
+      "alt": "Beatriz González. Almost still life. 1970. Synthetic enamel on metal sheet assembled in furniture. Source: MAMBO Collection"
+    },
+    "img2": {
+      "src": "/image/mv8/2.png",
+      "alt": "Óscar Muñoz. Shower curtains. 1986. Acrylic on plastic. Source: MAMBO Collection"
+    },
+    "img3": {
+      "src": "/image/mv8/3.png",
+      "alt": "Maria Fernanda Cardoso. Crown for a chibcha princess. Lizards and Metal. 1990.Source: MAMBO Collection "
+    },
+    "didYouKnowImg": {
+      "src": "/image/mv8/did_you_know.png",
+      "alt": "Student demonstration. April 7, 2011. Source: Wikimedia Commons under license CC BY S.A 3. ="
+    },
+    "questionImg": {
+      "src": "/image/mv8/question.png",
+      "alt": "Clemencia Lucena. I am not a man. I am a program. 1970. Source: MAMBO Collection."
+    },
+    "activityImg": {
+      "src": "/image/mv8/activity.png",
+      "alt": "New Orleans Square Caricature Artist Tools. 2014. Source: Wikimedia Commons licensed under CC BY S.A 3.0"
     }
   }
 ]

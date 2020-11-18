@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2,
+    "color": "#ED4040",
+    "title": "Exposición MAMBO Viajero",
+    "history": "Visita la exposición del mambo viajero — El Arte de la desobediencia",
+    "historyDescription": [
+      "En esta sección se propone que los docentes y estudiantes visiten la exposición El Arte de la Desobediencia, que muestra obras producidas entre los años 1964 y 1985 por artistas modernos y contemporáneos que hacen parte de la colección del MAMBO. Esta exposición se realizó en el Museo en el año 2018, luego se transformó en una exposición itinerante con una selección de 45 obras que han sido expuestas en diferentes localidades de Bogotá"
+    ],
+    "author": "",
+    "authorContent": "",
+    "forWhat": "",
+    "forWhatContent": "",
+    "previous": {
+      "id": 1,
+      "title": "MAMBO Pop U"
+    },
+    "next": {
+      "id": 3,
+      "title": "Arte Conceptual en Colombia"
+    }
+  },
+  {
+    "id": 9,
+    "color": "#1A1A1A",
+    "title": "Nuevos medios",
+    "history": "Expresiones del Arte Contemporáneo en Colombia",
+    "historyDescription": [
+      "READY MADE",
+      "PERFORMANCE",
+      "FOTOGRAFÍA",
+      "VIDEO",
+      "INSTALACIÓN",
+      "GRÁFICA"
+    ],
+    "author": "Natalia Rivera",
+    "authorContent": "Utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con tres pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino. ",
+    "forWhat": "¿Nuevos medios hoy?",
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre los nuevos medios en el arte contemporáneo, identificando su origen histórico y su aparición en Colombia. ",
+    "previous": {
+      "id": 8,
+      "title": "Arte contemporáneo en Colombia"
+    }
+  }
+]
