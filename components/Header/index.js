@@ -13,7 +13,6 @@ import { useRouter } from "next/router";
 
 const Header = (props) => {
   const router = useRouter();
-  console.log(router);
   return (
     <Container>
       <Link href="/">

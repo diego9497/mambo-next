@@ -29,7 +29,7 @@
         "title": "Curatorship",
         "content": "It is the exercise of selecting and organizing a series of works of art for the realization of an exhibition under a thematic framework defined by a curator.",
         "img": {
-          "src": "/image/mv1/c1.png",
+          "src": "/image/mv1/c1.jpg",
           "alt": "1978. Eduardo Serrano next to the sculpture 'Toro de lidia' by Maria Cristina Franco. Assembly of the IV Salón Atenas. Photograph by Oscar Monsalve."
         }
       },
@@ -37,7 +37,7 @@
         "title": "Museography",
         "content": "Discipline that deals with developing methods and techniques for the operation of a museum, mainly the architectural and spatial aspects of the exhibitions and the collection.",
         "img": {
-          "src": "/image/mv1/c2.png",
+          "src": "/image/mv1/c2.jpg",
           "alt": "1981. Editing of 'Yellows and Reds' by Pedro Ramoss at the VII Salón Atenas. Photograph by Oscar Monsalve."
         }
       },
@@ -45,7 +45,7 @@
         "title": "cultural heritage",
         "content": "It is a set of tangible and intangible goods that constitute the memory and identity of a human group and have a symbolic, historical and economic value.",
         "img": {
-          "src": "/image/mv1/c3.png",
+          "src": "/image/mv1/c3.jpg",
           "alt": "1983. Construction of the third floor of the current headquarters. Photograph by Oscar Monsalve."
         }
       },
@@ -53,7 +53,7 @@
         "title": "collection",
         "content": "It is the set of material products of culture that are part of an institution dedicated to preserving heritage. They can be various objects such as tools and clothing in the case of anthropology museums or paintings and sculptures in the case of art museums. ",
         "img": {
-          "src": "/image/mv1/c4.png",
+          "src": "/image/mv1/c4.jpg",
           "alt": "1981. Works by Mónica Negret and Pedro Ramos in the VII Salón Atenas. Photograph by Oscar Monsalve."
         }
       },
@@ -61,7 +61,7 @@
         "title": "democracy",
         "content": "It is a system of social organization where power is attributed to citizens from collective decision-making, which guarantee a majority participation of society.",
         "img": {
-          "src": "/image/mv1/c5.png",
+          "src": "/image/mv1/c5.jpg",
           "alt": "1982. Educational workshop with children and Daniel Castro. Photograph of Oscar Monsalve"
         }
       },
@@ -69,7 +69,7 @@
         "title": "education in museums",
         "content": "It is the field that promotes learning in the museum, studies audiences, designs activities and pedagogical programs aimed at various audiences.",
         "img": {
-          "src": "/image/mv1/c6.png",
+          "src": "/image/mv1/c6.jpg",
           "alt": "1982. Auditorium of the Museum of Modern Art. Photograph by Oscar Monsalve."
         }
       }
@@ -79,49 +79,49 @@
       "title": "MAMBO Traveler Exhibition"
     },
     "img1": {
-      "src": "/image/mv1/1.png",
+      "src": "/image/mv1/1.jpg",
       "alt": "1979. Fence of the inauguration of the First Stage of MAMBO in the current headquarters. Photograph by Oscar Monsalve."
     },
     "img2": {
-      "src": "/image/mv1/2.png",
+      "src": "/image/mv1/2.jpg",
       "alt": "1979. School visit to the Museum of Modern Art. Photograph by Oscar Monsalve."
     },
     "img3": {
-      "src": "/image/mv1/3.png",
+      "src": "/image/mv1/3.jpg",
       "alt": "1977. Selection of works by Colombian artists in the MAMBO collection, District Planetarium headquarters. Photography by Oscar Monsalve."
     },
     "gallery": [
       {
-        "src": "/image/mv1/g1.png",
+        "src": "/image/mv1/g1.jpg",
         "alt": "1965. Facade of the Museum of Modern Art, headquarters of the National University of Colombia. Photograph by Efraín García.jpg"
       },
       {
-        "src": "/image/mv1/g2.png",
+        "src": "/image/mv1/g2.jpg",
         "alt": "1979. Fence 'Museum of Modern Art 25 years later'. Photograph by Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g3.png",
+        "src": "/image/mv1/g3.jpg",
         "alt": "1982. Construction of the third floor of the current headquarters. Photograph by Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g4.png",
+        "src": "/image/mv1/g4.jpg",
         "alt": "1976. Santiago Cárdenas, headquarters of the District Planetarium. Photograph of Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g5.png",
+        "src": "/image/mv1/g5.jpg",
         "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano and John Stringer during assembly at the headquarters of the District Planetarium. Photograph by Oscar Monsalve."
       }
     ],
     "didYouKnowImg": {
-      "src": "/image/mv1/did_you_know.png",
+      "src": "/image/mv1/did_you_know.jpg",
       "alt": "Instagram: @mambogota\nFacebook: @fanmambogota \nTwitter: @_mambogota \nYouTube: Museum of Modern Art of Bogotá"
     },
     "questionImg": {
-      "src": "/image/mv1/question.png",
+      "src": "/image/mv1/question.jpg",
       "alt": "1978. Construction of the current headquarters of the Museum. Photograph of Oscar Monsalve"
     },
     "activityImg": {
-      "src": "/image/mv1/activity.png",
+      "src": "/image/mv1/activity.jpg",
       "alt": "Museum plans. Designs by Rogelio Salmona. Source: Moreno and Medina (1994. pp.88-92)."
     }
   },
@@ -150,7 +150,7 @@
         "title": "academic art",
         "content": "Artistic current that arises in the School of Fine Arts in Paris at the beginning of the 14th century that takes up the interests of classical art, it is also known as Neoclassicism: a romantic and idealistic current, in which art was associated to beauty, perfection and mastery of technique. ",
         "img": {
-          "src": "/image/mv3/c1.png",
+          "src": "/image/mv3/c1.jpg",
           "alt": "Ricardo Acevedo Bernal. Model in Paris, 1889. Source: MAMBO Collection."
         }
       },
@@ -158,7 +158,7 @@
         "title": "vanguards",
         "content": "Anti-academic and experimental artistic movements of the early twentieth century that emerged in the context of war and postwar Europe. Avant-gardes such as Cubism, Dadaism and Futurism, were decisive for the consolidation of modern art.",
         "img": {
-          "src": "/image/mv3/c2.png",
+          "src": "/image/mv3/c2.jpg",
           "alt": "Salvador Dalí. The Venus with the head of arrows. No date. Source: MAMBO Collection."
         }
       },
@@ -166,7 +166,7 @@
         "title": "abstract art",
         "content": "Term to refer to works that do not represent any object or scene exactly.",
         "img": {
-          "src": "/image/mv3/c3.png",
+          "src": "/image/mv3/c3.jpg",
           "alt": "Amelia Peláez. Untitled, 1967. Source: MAMBO Collection."
         }
       },
@@ -174,7 +174,7 @@
         "title": "figurative art",
         "content": "Term to refer to works that represent images, objects and scenes of life in a realistic and recognizable way.",
         "img": {
-          "src": "/image/mv3/c4.png",
+          "src": "/image/mv3/c4.jpg",
           "alt": "Liliana Porter. Tear, 1974. Source: MAMBO Collection."
         }
       }
@@ -189,15 +189,15 @@
       "title": "Modern Art in Colombia"
     },
     "img1": {
-      "src": "/image/mv3/1.png",
+      "src": "/image/mv3/1.jpg",
       "alt": "Édouard Manet. Olympia. 1863. Oil on canvas. Source: Wikimedia Foundation under the license C.C. BY 2.0."
     },
     "img2": {
-      "src": "/image/mv3/2.png",
+      "src": "/image/mv3/2.jpg",
       "alt": "Camille Claudel. The Old Age. 1899. Bronze. Source: Wikimedia Commons under the GNU Free Documentation License."
     },
     "img3": {
-      "src": "/image/mv3/3.png",
+      "src": "/image/mv3/3.jpg",
       "alt": "Pablo Picasso. The young ladies of Avignon. 1907. Oil on canvas. Source: Wikimedia Commons under the license C.C. BY 2.0"
     },
     "didYouKnowImg": {
@@ -247,7 +247,7 @@
         "title": "el bogotazo",
         "content": "Popular revolts that took place in Bogotá after the assassination of Jorge Eliécer Gaitán on April 9, 1948, which originated the period known as La Violencia in which the liberal and conservative parties clashed.",
         "img": {
-          "src": "/image/mv4/c2.png",
+          "src": "/image/mv4/c2.jpg",
           "alt": "Sady González. Tram on fire. 1948. Source: MAMBO Collection."
         }
       },
@@ -293,27 +293,27 @@
       "title": "Conceptual Art in the World"
     },
     "img1": {
-      "src": "/image/mv4/1.png",
+      "src": "/image/mv4/1.jpg",
       "alt": "Beatriz Daza. Two yellow days. 1966. Porcelain, glass, ceramic, plaster and metal on wood. Source: MAMBO Collection"
     },
     "img2": {
-      "src": "/image/mv4/2.png",
+      "src": "/image/mv4/2.jpg",
       "alt": "Alejandro Obregón. Violence. 1962. Obregón. Hernán Díaz. Source: MAMBO Collection"
     },
     "img3": {
-      "src": "/image/mv4/3.png",
+      "src": "/image/mv4/3.jpg",
       "alt": "Edgar Negret. Face of Christ. 1949. Steel and Wood. Source: MAMBO Collection"
     },
     "didYouKnowImg": {
-      "src": "/image/mv4/did_you_know.png",
+      "src": "/image/mv4/did_you_know.jpg",
       "alt": "Sady González. Corpses in the cemetery, April 9, Bogotá. 1948. Source: MAMBO Collection."
     },
     "questionImg": {
-      "src": "/image/mv4/question.png",
+      "src": "/image/mv4/question.jpg",
       "alt": "León Ruiz. Untitled. 1981. Source: MAMBO Collection."
     },
     "activityImg": {
-      "src": "/image/mv4/activity.png",
+      "src": "/image/mv4/activity.jpg",
       "alt": "Gertjan Bartelsman. Floralba. 1976. Source: MAMBO Collection."
     }
   },
@@ -353,7 +353,7 @@
         "title": "context",
         "content": "It is the set of physical, socio-political and cultural conditions that surround an object or a circumstance. It defines the use, customs and values ​​of a specific human group.",
         "img": {
-          "src": "/image/mv5/c2.png",
+          "src": "/image/mv5/c2.jpg",
           "alt": "Carlos Caicedo. Bogotá, 1975. Source: MAMBO Collection."
         }
       },
@@ -361,7 +361,7 @@
         "title": "aesthetics",
         "content": "It is a philosophical discipline that studies perception, sensations and criteria to value beauty and taste in art.",
         "img": {
-          "src": "/image/mv5/c3.png",
+          "src": "/image/mv5/c3.jpg",
           "alt": "Francisco Antonio Cano. Still life. 1912. Source: MAMBO Collection."
         }
       }
@@ -375,23 +375,23 @@
       "title": "Conceptual Art in Colombia"
     },
     "img1": {
-      "src": "/image/mv5/1.png",
+      "src": "/image/mv5/1.jpg",
       "alt": "Cildo Meireles. Zero cruzeiro. 1974. Lithograph. Source: MAMBO Collection."
     },
     "img2": {
-      "src": "/image/mv5/2.png",
+      "src": "/image/mv5/2.jpg",
       "alt": "Andy Warhol. Campbell's soup cans. 1962. Special edition. 2015. Source: Wikimedia Commons under the Creative Commons Attribution 3.0 Unported license."
     },
     "img3": {
-      "src": "/image/mv5/3.png",
+      "src": "/image/mv5/3.jpg",
       "alt": "Nancy Holt. Sun Tunnels. 1976. Leaky cement pipes. Source: Wikimedia Commons under the C.C. 2.0 license."
     },
     "didYouKnowImg": {
-      "src": "/image/mv5/did_you_know.png",
+      "src": "/image/mv5/did_you_know.jpg",
       "alt": "Marcel Duchamp. The Fountain. 1917. Source: Wikimedia Commons under public domain."
     },
     "questionImg": {
-      "src": "/image/mv5/question.png",
+      "src": "/image/mv5/question.jpg",
       "alt": "Luis Camnitzer. Window with landscape on wall covered with flowers, 1968. Source: MAMBO Collection."
     }
   },
@@ -424,7 +424,7 @@
         "title": "coup",
         "content": "Civil or military overthrow of a democratically elected government. In the Colombian case, it refers to the military government led by Gustavo Rojas Pinilla, established after a coup against the conservative president Laureano Gómez, characterized by a high restriction of rights and civil liberties and the construction of important infrastructure works for the country. ",
         "img": {
-          "src": "/image/mv6/c1.png",
+          "src": "/image/mv6/c1.jpg",
           "alt": "Unknown author. Portrait of Gustavo Rojas Pinilla. S, f. Source: Wikimedia Commons under the CC BY SA 4.0 license."
         }
       },
@@ -432,7 +432,7 @@
         "title": "national front",
         "content": "Period of restricted democracy between 1957 and 1974 in which the liberal and conservative parties took the presidency. The origin of the armed conflict is attributed to this period due to the exclusion of socialist ideas from the political scene.",
         "img": {
-          "src": "/image/mv6/c2.png",
+          "src": "/image/mv6/c2.jpg",
           "alt": "Semana Magazine. General Gustavo Rojas Pinilla, President of Colombia surrounded by his cabinet. 1956. Source: Wikimedia Commons under public domain."
         }
       },
@@ -440,7 +440,7 @@
         "title": "national art salon",
         "content": "Annual exhibition that was inaugurated in 1940 by the then Minister of Education Jorge Eliécer Gaitán and President Eduardo Santos. This event, in which the most outstanding artists were awarded, was a platform for national exhibition and debate that documented important proposals of modern and contemporary art during the following decades. ",
         "img": {
-          "src": "/image/mv6/c3.png",
+          "src": "/image/mv6/c3.jpg",
           "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional in Re-View of Art and Architecture in Latin America (Medellín, Colombia) - Vol. 2 no. 6, pp. 17-21, 1981. Courtesy Familia Sierra Maya. "
         }
       }
@@ -454,27 +454,27 @@
       "title": "Contemporary Art in the World"
     },
     "img1": {
-      "src": "/image/mv6/1.png",
+      "src": "/image/mv6/1.jpg",
       "alt": "Feliza Bursztyn. Cuja. 1972. Source: MAMBO Collection"
     },
     "img2": {
-      "src": "/image/mv6/2.png",
+      "src": "/image/mv6/2.jpg",
       "alt": "Jonier Marín. Paper and Pencil. 1976. Source: MAMBO Collection"
     },
     "img3": {
-      "src": "/image/mv6/3.png",
+      "src": "/image/mv6/3.jpg",
       "alt": "Álvaro Barrios. The Great Plexi. 1979. Source: MAMBO Collection"
     },
     "didYouKnowImg": {
-      "src": "/image/mv6/did_you_know.png",
+      "src": "/image/mv6/did_you_know.jpg",
       "alt": "Leo Tint. The Rejected. 1952. Collection of the Bank of the Republic."
     },
     "questionImg": {
-      "src": "/image/mv6/question.png",
+      "src": "/image/mv6/question.jpg",
       "alt": "Carlos Echeverry. He who sows collects, 1982. Printing. Source: MAMBO Collection."
     },
     "activityImg": {
-      "src": "/image/mv6/activity.png",
+      "src": "/image/mv6/activity.jpg",
       "alt": ""
     }
   },
@@ -505,7 +505,7 @@
         "title": "transdisciplinary",
         "content": "It is the practice of comprehensive knowledge that transcends the division of disciplines to stimulate innovation and creativity. For example, art in dialogue with other disciplines such as science, sociology or design.",
         "img": {
-          "src": "/image/mv7/c1.png",
+          "src": "/image/mv7/c1.jpg",
           "alt": "Blake Patterson. The art of video games exhibition crowd. Source: Wikimedia Commons under CC BY 2.0"
         }
       },
@@ -513,7 +513,7 @@
         "title": "globalization",
         "content": "Global exchange and communication process enhanced by the internet, virtual technologies and the expansion of the economic development model.",
         "img": {
-          "src": "/image/mv7/c2.png",
+          "src": "/image/mv7/c2.jpg",
           "alt": "Internet map. The Opte Project. Source: Wikimedia Commons licensed under CC BY S.A 2.5"
         }
       },
@@ -521,7 +521,7 @@
         "title": "interactive art",
         "content": "Works of art that propose an exchange with the viewer through mechanical systems or digital or virtual interfaces that generate action and reaction between the public and the work.",
         "img": {
-          "src": "/image/mv7/c3.png",
+          "src": "/image/mv7/c3.jpg",
           "alt": "Interactive whiteboard. Source: Wikimedia Commons under public domain."
         }
       },
@@ -529,7 +529,7 @@
         "title": "immersive art",
         "content": "Most of them are installations where the viewer not only contemplates the work but is part of it and experiences it through the senses.",
         "img": {
-          "src": "/image/mv7/c4.png",
+          "src": "/image/mv7/c4.jpg",
           "alt": "Immersive shadow. Source: Wikimedia Commons under Public Domain."
         }
       },
@@ -537,7 +537,7 @@
         "title": "relational art",
         "content": "Works of art that conceive social relations as the raw material of artistic creation, therefore many of these works have been performances and happenings.",
         "img": {
-          "src": "/image/mv7/c5.png",
+          "src": "/image/mv7/c5.jpg",
           "alt": "Le tunnel sous l’atlantique, Moben. Source: Wikimedia Commons licensed under CC BY SA 3.0"
         }
       }
@@ -551,15 +551,15 @@
       "title": "Contemporary art in Colombia"
     },
     "img1": {
-      "src": "/image/mv7/1.png",
+      "src": "/image/mv7/1.jpg",
       "alt": "Damien Hirst. The physical impossibility of death in the mind of the living. 1991. Source: Wikimedia Commons under the Creative Commons Generic Attribution / Share-Alike 3.0 license."
     },
     "img2": {
-      "src": "/image/mv7/2.png",
+      "src": "/image/mv7/2.jpg",
       "alt": "Yayoi Kusama. Point obsession. 1999. Source: Wikimedia Commons under the CC BY 2.0 license."
     },
     "img3": {
-      "src": "/image/mv7/3.png",
+      "src": "/image/mv7/3.jpg",
       "alt": "Banksy. Lovers. 2006. Source: Wikimedia Commons under the CC BY 2.0 license."
     },
     "didYouKnowImg": {
@@ -567,7 +567,7 @@
       "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Source: Wikimedia Commons licensed under 3.0"
     },
     "questionImg": {
-      "src": "/image/mv7/question.png",
+      "src": "/image/mv7/question.jpg",
       "alt": "Computer chips circuits. 2013. Source: Wikimedia Commons under public domain."
     }
   },
@@ -599,7 +599,7 @@
         "title": "new media",
         "content": "Techniques and strategies of contemporary art such as readymade, video, performance and installation among others, which expanded the tradition of art history based on drawing, painting and sculpture.",
         "img": {
-          "src": "/image/mv8/c1.png",
+          "src": "/image/mv8/c1.jpg",
           "alt": "José Alejandro Restrepo. Atrium and central nave. 1996. Video installation. Source: MAMBO Collection."
         }
       },
@@ -607,7 +607,7 @@
         "title": "armed conflict",
         "content": "Armed confrontation with more than eight million victims that arose in the 1960s with the founding of the guerrilla of the Revolutionary Armed Forces of Colombia FARC and culminated in the peace agreement signed in the government of Juan Manuel Santos in 2016. However, although this agreement ended a historic conflict, in some regions the violence continues. ",
         "img": {
-          "src": "/image/mv8/c2.png",
+          "src": "/image/mv8/c2.jpg",
           "alt": "Head of State participates in the Peace Signing ceremony between the Government of Colombia and the FARC E.P. Government of Chile. 2016. Source: Wikimedia Commons under license CC BY 2.0"
         }
       },
@@ -615,7 +615,7 @@
         "title": "constitution of 91",
         "content": "The National Constituent Assembly of 1991 was the result of the peace agreement between the government of Belisario Betancur and the guerrilla group M - 19. In this assembly, the Political Constitution of Colombia was drawn up, a document that consolidated democracy in our country.",
         "img": {
-          "src": "/image/mv8/c3.png",
+          "src": "/image/mv8/c3.jpg",
           "alt": "Photograph of a publication of the Colombian constitution. The book was printed in December 1991, at the IMPREANDES, SA workshops, Bogotá, Colombia. 2019. Source: Wikimedia Commons under license CC BY SA 3.0 "
         }
       }
@@ -629,27 +629,27 @@
       "title": "New media"
     },
     "img1": {
-      "src": "/image/mv8/1.png",
+      "src": "/image/mv8/1.jpg",
       "alt": "Beatriz González. Almost still life. 1970. Synthetic enamel on metal sheet assembled in furniture. Source: MAMBO Collection"
     },
     "img2": {
-      "src": "/image/mv8/2.png",
+      "src": "/image/mv8/2.jpg",
       "alt": "Óscar Muñoz. Shower curtains. 1986. Acrylic on plastic. Source: MAMBO Collection"
     },
     "img3": {
-      "src": "/image/mv8/3.png",
+      "src": "/image/mv8/3.jpg",
       "alt": "Maria Fernanda Cardoso. Crown for a chibcha princess. Lizards and Metal. 1990.Source: MAMBO Collection "
     },
     "didYouKnowImg": {
-      "src": "/image/mv8/did_you_know.png",
+      "src": "/image/mv8/did_you_know.jpg",
       "alt": "Student demonstration. April 7, 2011. Source: Wikimedia Commons under license CC BY S.A 3. ="
     },
     "questionImg": {
-      "src": "/image/mv8/question.png",
+      "src": "/image/mv8/question.jpg",
       "alt": "Clemencia Lucena. I am not a man. I am a program. 1970. Source: MAMBO Collection."
     },
     "activityImg": {
-      "src": "/image/mv8/activity.png",
+      "src": "/image/mv8/activity.jpg",
       "alt": "New Orleans Square Caricature Artist Tools. 2014. Source: Wikimedia Commons licensed under CC BY S.A 3.0"
     }
   }

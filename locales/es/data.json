@@ -29,7 +29,7 @@
         "title": "Curaduría",
         "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
         "img": {
-          "src": "/image/mv1/c1.png",
+          "src": "/image/mv1/c1.jpg",
           "alt": "1978. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
@@ -37,7 +37,7 @@
         "title": "Museografía",
         "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
         "img": {
-          "src": "/image/mv1/c2.png",
+          "src": "/image/mv1/c2.jpg",
           "alt": "1981. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
@@ -45,7 +45,7 @@
         "title": "patrimonio cultural",
         "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
         "img": {
-          "src": "/image/mv1/c3.png",
+          "src": "/image/mv1/c3.jpg",
           "alt": "1983. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
         }
       },
@@ -53,7 +53,7 @@
         "title": "colección",
         "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
         "img": {
-          "src": "/image/mv1/c4.png",
+          "src": "/image/mv1/c4.jpg",
           "alt": "1981. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
@@ -61,7 +61,7 @@
         "title": "democracia",
         "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
         "img": {
-          "src": "/image/mv1/c5.png",
+          "src": "/image/mv1/c5.jpg",
           "alt": "1982. Taller educativo con niños y Daniel Castro. Fotografía de Oscar Monsalve"
         }
       },
@@ -69,7 +69,7 @@
         "title": "educación en la museos",
         "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
         "img": {
-          "src": "/image/mv1/c6.png",
+          "src": "/image/mv1/c6.jpg",
           "alt": "1982. Auditorio del Museo de Arte Moderno. Fotografía de Oscar Monsalve."
         }
       }
@@ -79,49 +79,49 @@
       "title": "Exposición MAMBO Viajero"
     },
     "img1": {
-      "src": "/image/mv1/1.png",
+      "src": "/image/mv1/1.jpg",
       "alt": "1979. Valla de la inauguración de la Primera Etapa del MAMBO en la sede actual. Fotografía de Oscar Monsalve."
     },
     "img2": {
-      "src": "/image/mv1/2.png",
+      "src": "/image/mv1/2.jpg",
       "alt": "1979. Visita de colegios al Museo de Arte Moderno. Fotografía de Oscar Monsalve."
     },
     "img3": {
-      "src": "/image/mv1/3.png",
+      "src": "/image/mv1/3.jpg",
       "alt": "1977. Selección de obras de artistas colombianos en la colección del MAMBO, sede Planetario Distrital. Fotografía de Oscar Monsalve."
     },
     "gallery": [
       {
-        "src": "/image/mv1/g1.png",
+        "src": "/image/mv1/g1.jpg",
         "alt": "1965. Fachada del Museo de Arte Moderno, sede Universidad Nacional de Colombia. Fotografía de Efraín García.jpg"
       },
       {
-        "src": "/image/mv1/g2.png",
+        "src": "/image/mv1/g2.jpg",
         "alt": "1979. Valla 'Museo de Arte Moderno 25 años después'. Fotografía de Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g3.png",
+        "src": "/image/mv1/g3.jpg",
         "alt": "1982. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g4.png",
+        "src": "/image/mv1/g4.jpg",
         "alt": "1976. Santiago Cárdenas, sede del Planetario Distrital. Fotografía de Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g5.png",
+        "src": "/image/mv1/g5.jpg",
         "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano y John Stringer durante montaje en la sede del Planetario Distrital. Fotografía de Oscar Monsalve."
       }
     ],
     "didYouKnowImg": {
-      "src": "/image/mv1/did_you_know.png",
+      "src": "/image/mv1/did_you_know.jpg",
       "alt": "Instagram: @mambogota \nFacebook: @fanmambogota\nTwitter: @_mambogota\nYouTube: Museo de Arte Moderno de Bogotá"
     },
     "questionImg": {
-      "src": "/image/mv1/question.png",
+      "src": "/image/mv1/question.jpg",
       "alt": "1978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
     },
     "activityImg": {
-      "src": "/image/mv1/activity.png",
+      "src": "/image/mv1/activity.jpg",
       "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
     }
   },
@@ -150,7 +150,7 @@
         "title": "arte académico",
         "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
         "img": {
-          "src": "/image/mv3/c1.png",
+          "src": "/image/mv3/c1.jog",
           "alt": "Ricardo Acevedo Bernal. Modelo en París, 1889. Fuente: Colección MAMBO."
         }
       },
@@ -158,7 +158,7 @@
         "title": "vanguardias",
         "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
         "img": {
-          "src": "/image/mv3/c2.png",
+          "src": "/image/mv3/c2.jpg",
           "alt": "Salvador Dalí. La venus con cabeza de flechas. Sin fecha. Fuente: Colección MAMBO."
         }
       },
@@ -166,7 +166,7 @@
         "title": "arte abstracto",
         "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
         "img": {
-          "src": "/image/mv3/c3.png",
+          "src": "/image/mv3/c3.jpg",
           "alt": "Amelia Peláez. Sin título, 1967. Fuente: Colección MAMBO."
         }
       },
@@ -174,7 +174,7 @@
         "title": "arte figurativo",
         "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
         "img": {
-          "src": "/image/mv3/c4.png",
+          "src": "/image/mv3/c4.jpg",
           "alt": "Liliana Porter. Rasgadura, 1974. Fuente: Colección MAMBO."
         }
       }
@@ -189,15 +189,15 @@
       "title": "Arte Moderno en Colombia"
     },
     "img1": {
-      "src": "/image/mv3/1.png",
+      "src": "/image/mv3/1.jpg",
       "alt": "Édouard Manet. Olimpia. 1863. Óleo sobre lienzo. Fuente: Fundación Wikimedia bajo la licencia C.C. BY 2.0. "
     },
     "img2": {
-      "src": "/image/mv3/2.png",
+      "src": "/image/mv3/2.jpg",
       "alt": "Camille Claudel. La Edad Madura. 1899. Bronce. Fuente: Wikimedia Commons bajo la licencia de documentación libre de GNU. "
     },
     "img3": {
-      "src": "/image/mv3/3.png",
+      "src": "/image/mv3/3.jpg",
       "alt": "Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo. Fuente: Wikimedia Commons bajo la licencia C.C. BY 2.0 "
     },
     "didYouKnowImg": {
@@ -247,7 +247,7 @@
         "title": "el bogotazo",
         "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
         "img": {
-          "src": "/image/mv4/c2.png",
+          "src": "/image/mv4/c2.jpg",
           "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
         }
       },
@@ -293,27 +293,27 @@
       "title": "Arte Conceptual en el Mundo"
     },
     "img1": {
-      "src": "/image/mv4/1.png",
+      "src": "/image/mv4/1.jpg",
       "alt": "Beatriz Daza. Dos días amarillos. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera. Fuente: Colección MAMBO"
     },
     "img2": {
-      "src": "/image/mv4/2.png",
+      "src": "/image/mv4/2.jpg",
       "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO"
     },
     "img3": {
-      "src": "/image/mv4/3.png",
+      "src": "/image/mv4/3.jpg",
       "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO"
     },
     "didYouKnowImg": {
-      "src": "/image/mv4/did_you_know.png",
+      "src": "/image/mv4/did_you_know.jpg",
       "alt": "Sady González. Cadáveres en el cementerio, 9 de abril, Bogotá. 1948. Fuente: Colección MAMBO. "
     },
     "questionImg": {
-      "src": "/image/mv4/question.png",
+      "src": "/image/mv4/question.jpg",
       "alt": "León Ruiz. Sin título. 1981. Fuente: Colección MAMBO. "
     },
     "activityImg": {
-      "src": "/image/mv4/activity.png",
+      "src": "/image/mv4/activity.jpg",
       "alt": "Gertjan Bartelsman. Floralba. 1976. Fuente: Colección MAMBO. "
     }
   },
@@ -353,7 +353,7 @@
         "title": "contexto",
         "content": "Es el conjunto de condiciones físicas, sociopolíticas y culturales que rodean a un objeto o a una circunstancia. Define el uso, las costumbres y los valores de un grupo humano específico.",
         "img": {
-          "src": "/image/mv5/c2.png",
+          "src": "/image/mv5/c2.jpg",
           "alt": "Carlos Caicedo. Bogotá, 1975. Fuente: Colección MAMBO. "
         }
       },
@@ -361,7 +361,7 @@
         "title": "estética",
         "content": "Es una disciplina filosófica que estudia la percepción, las sensaciones y los criterios para valorar la belleza y el gusto en el arte.",
         "img": {
-          "src": "/image/mv5/c3.png",
+          "src": "/image/mv5/c3.jpg",
           "alt": "Francisco Antonio Cano. Bodegón. 1912. Fuente: Colección MAMBO. "
         }
       }
@@ -375,23 +375,23 @@
       "title": "Arte Conceptual en Colombia"
     },
     "img1": {
-      "src": "/image/mv5/1.png",
+      "src": "/image/mv5/1.jpg",
       "alt": "Cildo Meireles. Zero cruzeiro. 1974. Litografía. Fuente: Colección MAMBO. "
     },
     "img2": {
-      "src": "/image/mv5/2.png",
+      "src": "/image/mv5/2.jpg",
       "alt": "Andy Warhol. Campbell's soup cans. 1962. Edición especial. 2015. Fuente: Wikimedia Commons bajo la licencia Creative Commons Attribution 3.0 Unported."
     },
     "img3": {
-      "src": "/image/mv5/3.png",
+      "src": "/image/mv5/3.jpg",
       "alt": "Nancy Holt. Sun Tunnels.  1976. Tubos de cemento agujereados. Fuente: Wikimedia Commons bajo la licencia C.C. 2.0."
     },
     "didYouKnowImg": {
-      "src": "/image/mv5/did_you_know.png",
+      "src": "/image/mv5/did_you_know.jpg",
       "alt": "Marcel Duchamp. The Fountain. 1917. Fuente: Wikimedia Commons bajo dominio público."
     },
     "questionImg": {
-      "src": "/image/mv5/question.png",
+      "src": "/image/mv5/question.jpg",
       "alt": "Luis Camnitzer. Ventana con paisaje sobre pared empapelada de flores, 1968. Fuente: Colección MAMBO."
     }
   },
@@ -424,7 +424,7 @@
         "title": "golpe de estado",
         "content": "Derrocamiento civil o militar de un gobierno elegido democráticamente. En el caso Colombiano se refiere al gobierno militar liderado por Gustavo Rojas Pinilla instaurado después de un golpe de estado al presidente conservador Laureano Gómez, caracterizado por una alta restricción de derechos y libertades civiles y la construcción de importantes obras de infraestructura para el país.",
         "img": {
-          "src": "/image/mv6/c1.png",
+          "src": "/image/mv6/c1.jpg",
           "alt": "Autor desconocido. Retrato de Gustavo Rojas Pinilla. S,f. Fuente: Wikimedia Commons bajo la licencia CC BY SA 4.0."
         }
       },
@@ -432,7 +432,7 @@
         "title": "frente nacional",
         "content": "Periodo de democracia restringida entre 1957 y 1974 en el que los partidos liberal y conservador se tomaron la presidencia. Se le atribuye a este periodo el origen del conflicto armado por la exclusión de las ideas socialistas del escenario político.",
         "img": {
-          "src": "/image/mv6/c2.png",
+          "src": "/image/mv6/c2.jpg",
           "alt": "Revista Semana. General Gustavo Rojas Pinilla, Presidente de Colombia rodeado por su gabinete. 1956. Fuente: Wikimedia Commons bajo dominio público. "
         }
       },
@@ -440,7 +440,7 @@
         "title": "salón nacional de arte",
         "content": "Exposición anual que se inauguró en 1940 por el entonces Ministro de Educación Jorge Eliécer Gaitán y el presidente Eduardo Santos. Este evento, en el que se premiaba a los artistas más destacados, fue una plataforma de exhibición y debate nacional que documentó importantes propuestas del arte moderno y contemporáneo durante las siguientes décadas.",
         "img": {
-          "src": "/image/mv6/c3.png",
+          "src": "/image/mv6/c3.jpg",
           "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
         }
       }
@@ -454,27 +454,27 @@
       "title": "Arte Contemporáneo en el Mundo"
     },
     "img1": {
-      "src": "/image/mv6/1.png",
+      "src": "/image/mv6/1.jpg",
       "alt": "Feliza Bursztyn. Cuja. 1972. Fuente: Colección MAMBO"
     },
     "img2": {
-      "src": "/image/mv6/2.png",
+      "src": "/image/mv6/2.jpg",
       "alt": "Jonier Marín. Papel Y Lápiz.  1976. Fuente: Colección MAMBO"
     },
     "img3": {
-      "src": "/image/mv6/3.png",
+      "src": "/image/mv6/3.jpg",
       "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO"
     },
     "didYouKnowImg": {
-      "src": "/image/mv6/did_you_know.png",
+      "src": "/image/mv6/did_you_know.jpg",
       "alt": "Leo Matiz. Los Rechazados. 1952. Colección del Banco de la República. "
     },
     "questionImg": {
-      "src": "/image/mv6/question.png",
+      "src": "/image/mv6/question.jpg",
       "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
     },
     "activityImg": {
-      "src": "/image/mv6/activity.png",
+      "src": "/image/mv6/activity.jpg",
       "alt": ""
     }
   },
@@ -505,7 +505,7 @@
         "title": "transdisciplinar",
         "content": "Es la práctica de un conocimiento integral que trasciende la división de las disciplinas para estimular la innovación y creatividad. Por ejemplo el arte en diálogo con otras disciplinas como la ciencia, la sociología o el diseño.",
         "img": {
-          "src": "/image/mv7/c1.png",
+          "src": "/image/mv7/c1.jpg",
           "alt": "Blake Patterson. The art of video games exhibition crowd. Fuente: Wikimedia Commons bajo CC BY 2.0"
         }
       },
@@ -513,7 +513,7 @@
         "title": "globalización",
         "content": "Proceso de intercambio y comunicación global potenciado por el internet, las tecnologías virtuales y la expansión del modelo económico de desarrollo.",
         "img": {
-          "src": "/image/mv7/c2.png",
+          "src": "/image/mv7/c2.jpg",
           "alt": "Internet map. The Opte Project. Fuente: Wikimedia Commons bajo licencia CC BY S.A 2.5"
         }
       },
@@ -521,7 +521,7 @@
         "title": "arte interactivo",
         "content": "Obras de arte que proponen un intercambio con el espectador a través de sistemas mecánicos o interfaces digitales o virtuales que generan acción y reacción entre el público y la obra.",
         "img": {
-          "src": "/image/mv7/c3.png",
+          "src": "/image/mv7/c3.jpg",
           "alt": "Interactive whiteboard. Fuente: Wikimedia Commons bajo dominio público. "
         }
       },
@@ -529,7 +529,7 @@
         "title": "arte inmersivo",
         "content": "En su mayoría son instalaciones en donde el espectador ya no solo contempla la obra sino que es parte de ella y la experimenta a través de los sentidos.",
         "img": {
-          "src": "/image/mv7/c4.png",
+          "src": "/image/mv7/c4.jpg",
           "alt": "Immersive shadow. Fuente: Wikimedia Commons bajo dominio público. "
         }
       },
@@ -537,7 +537,7 @@
         "title": "arte relacional",
         "content": "Obras de arte que conciben las relaciones sociales como materia prima de la creación artística, por lo tanto muchas de estas obras han sido performances y happenings.",
         "img": {
-          "src": "/image/mv7/c5.png",
+          "src": "/image/mv7/c5.jpg",
           "alt": "Le tunnel sous l’atlantique, Moben. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
         }
       }
@@ -551,15 +551,15 @@
       "title": "Arte contemporáneo en Colombia"
     },
     "img1": {
-      "src": "/image/mv7/1.png",
+      "src": "/image/mv7/1.jpg",
       "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: Wikimedia Commons bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 3.0."
     },
     "img2": {
-      "src": "/image/mv7/2.png",
+      "src": "/image/mv7/2.jpg",
       "alt": "Yayoi Kusama. Obsesión de puntos. 1999. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
     },
     "img3": {
-      "src": "/image/mv7/3.png",
+      "src": "/image/mv7/3.jpg",
       "alt": "Banksy. Lovers.  2006. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
     },
     "didYouKnowImg": {
@@ -567,7 +567,7 @@
       "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Fuente: Wikimedia Commons bajo licencia 3.0"
     },
     "questionImg": {
-      "src": "/image/mv7/question.png",
+      "src": "/image/mv7/question.jpg",
       "alt": "Computer chips circuits. 2013. Fuente: Wikimedia Commons bajo dominio público."
     }
   },
@@ -599,7 +599,7 @@
         "title": "nuevos medios",
         "content": "Técnicas y estrategias del arte contemporáneo como el readymade, el video, el performance y la instalación entre otras, que ampliaron la tradición de la historia del arte fundamentada en el dibujo, la pintura y la escultura.",
         "img": {
-          "src": "/image/mv8/c1.png",
+          "src": "/image/mv8/c1.jpg",
           "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
         }
       },
@@ -607,7 +607,7 @@
         "title": "conflicto armado",
         "content": "Enfrentamiento armado con más de ocho millones de víctimas que surgió en los años 60 con la fundación de la guerrilla de las Fuerzas Armadas Revolucionarias de Colombia FARC y culminó con el acuerdo de paz firmado en el gobierno de Juan Manuel Santos en el 2016. Sin embargo, aunque este acuerdo puso fin a un conflicto histórico, en algunas regiones la violencia continúa.",
         "img": {
-          "src": "/image/mv8/c2.png",
+          "src": "/image/mv8/c2.jpg",
           "alt": "Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: Wikimedia Commons bajo licencia CC BY 2.0"
         }
       },
@@ -615,7 +615,7 @@
         "title": "constitución del 91",
         "content": "La Asamblea Nacional Constituyente del año 1991 fue resultado del acuerdo de paz entre el gobierno de Belisario Betancur y el grupo guerrillero M - 19. En esta asamblea, se elaboró la Constitución Política de Colombia, documento que consolidó la democracia en nuestro país.",
         "img": {
-          "src": "/image/mv8/c3.png",
+          "src": "/image/mv8/c3.jpg",
           "alt": "Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
         }
       }
@@ -629,27 +629,27 @@
       "title": "Nuevos medios"
     },
     "img1": {
-      "src": "/image/mv8/1.png",
+      "src": "/image/mv8/1.jpg",
       "alt": "Beatriz González. Naturaleza casi muerta. 1970. Esmalte sintético sobre lámina de metal ensamblada en muebles. Fuente: Colección MAMBO"
     },
     "img2": {
-      "src": "/image/mv8/2.png",
+      "src": "/image/mv8/2.jpg",
       "alt": "Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO"
     },
     "img3": {
-      "src": "/image/mv8/3.png",
+      "src": "/image/mv8/3.jpg",
       "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO"
     },
     "didYouKnowImg": {
-      "src": "/image/mv8/did_you_know.png",
+      "src": "/image/mv8/did_you_know.jpg",
       "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
     },
     "questionImg": {
-      "src": "/image/mv8/question.png",
+      "src": "/image/mv8/question.jpg",
       "alt": "Clemencia Lucena. Yo no soy un hombre. Yo soy un programa. 1970. Fuente: Colección MAMBO. "
     },
     "activityImg": {
-      "src": "/image/mv8/activity.png",
+      "src": "/image/mv8/activity.jpg",
       "alt": "New Orleans Square Caricature Artist Tools. 2014. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.0"
     }
   }
