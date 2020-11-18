@@ -29,42 +29,48 @@
         "title": "Curaduría",
         "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
         "img": {
-          "src": "/image/mv1/c1.png"
+          "src": "/image/mv1/c1.png",
+          "alt": "1978. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
         "title": "Museografía",
         "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
         "img": {
-          "src": "/image/mv1/c2.png"
+          "src": "/image/mv1/c2.png",
+          "alt": "1981. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
         "title": "patrimonio cultural",
         "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
         "img": {
-          "src": "/image/mv1/c3.png"
+          "src": "/image/mv1/c3.png",
+          "alt": "1983. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
         }
       },
       {
         "title": "colección",
         "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
         "img": {
-          "src": "/image/mv1/c4.png"
+          "src": "/image/mv1/c4.png",
+          "alt": "1981. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
         "title": "democracia",
         "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
         "img": {
-          "src": "/image/mv1/c5.png"
+          "src": "/image/mv1/c5.png",
+          "alt": "1982. Taller educativo con niños y Daniel Castro. Fotografía de Oscar Monsalve"
         }
       },
       {
         "title": "educación en la museos",
         "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
         "img": {
-          "src": "/image/mv1/c6.png"
+          "src": "/image/mv1/c6.png",
+          "alt": "1982. Auditorio del Museo de Arte Moderno. Fotografía de Oscar Monsalve."
         }
       }
     ],
@@ -73,39 +79,50 @@
       "title": "Exposición MAMBO Viajero"
     },
     "img1": {
-      "src": "/image/mv1/1.png"
+      "src": "/image/mv1/1.png",
+      "alt": "1979. Valla de la inauguración de la Primera Etapa del MAMBO en la sede actual. Fotografía de Oscar Monsalve."
     },
     "img2": {
-      "src": "/image/mv1/2.png"
+      "src": "/image/mv1/2.png",
+      "alt": "1979. Visita de colegios al Museo de Arte Moderno. Fotografía de Oscar Monsalve."
     },
     "img3": {
-      "src": "/image/mv1/3.png"
+      "src": "/image/mv1/3.png",
+      "alt": "1977. Selección de obras de artistas colombianos en la colección del MAMBO, sede Planetario Distrital. Fotografía de Oscar Monsalve."
     },
     "gallery": [
       {
-        "src": "/image/mv1/g1.png"
+        "src": "/image/mv1/g1.png",
+        "alt": "1965. Fachada del Museo de Arte Moderno, sede Universidad Nacional de Colombia. Fotografía de Efraín García.jpg"
       },
       {
-        "src": "/image/mv1/g2.png"
+        "src": "/image/mv1/g2.png",
+        "alt": "1979. Valla 'Museo de Arte Moderno 25 años después'. Fotografía de Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g3.png"
+        "src": "/image/mv1/g3.png",
+        "alt": "1982. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g4.png"
+        "src": "/image/mv1/g4.png",
+        "alt": "1976. Santiago Cárdenas, sede del Planetario Distrital. Fotografía de Oscar Monsalve."
       },
       {
-        "src": "/image/mv1/g5.png"
+        "src": "/image/mv1/g5.png",
+        "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano y John Stringer durante montaje en la sede del Planetario Distrital. Fotografía de Oscar Monsalve."
       }
     ],
     "didYouKnowImg": {
-      "src": "/image/mv1/did_you_know.png"
+      "src": "/image/mv1/did_you_know.png",
+      "alt": "Instagram: @mambogota \nFacebook: @fanmambogota\nTwitter: @_mambogota\nYouTube: Museo de Arte Moderno de Bogotá"
     },
     "questionImg": {
-      "src": "/image/mv1/question.png"
+      "src": "/image/mv1/question.png",
+      "alt": "1978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
     },
     "activityImg": {
-      "src": "/image/mv1/activity.png"
+      "src": "/image/mv1/activity.png",
+      "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
     }
   },
   {
@@ -154,31 +171,36 @@
         "title": "arte académico",
         "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
         "img": {
-          "src": "/image/mv3/c1.png"
+          "src": "/image/mv3/c1.png",
+          "alt": "Ricardo Acevedo Bernal. Modelo en París, 1889. Fuente: Colección MAMBO."
         }
       },
       {
         "title": "vanguardias",
         "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
         "img": {
-          "src": "/image/mv3/c2.png"
+          "src": "/image/mv3/c2.png",
+          "alt": "Salvador Dalí. La venus con cabeza de flechas. Sin fecha. Fuente: Colección MAMBO."
         }
       },
       {
         "title": "arte abstracto",
         "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
         "img": {
-          "src": "/image/mv3/c3.png"
+          "src": "/image/mv3/c3.png",
+          "alt": "Amelia Peláez. Sin título, 1967. Fuente: Colección MAMBO."
         }
       },
       {
         "title": "arte figurativo",
         "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
         "img": {
-          "src": "/image/mv3/c4.png"
+          "src": "/image/mv3/c4.png",
+          "alt": "Liliana Porter. Rasgadura, 1974. Fuente: Colección MAMBO."
         }
       }
     ],
+    "proposal": "En esta sección se propone reflexionar sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.",
     "previous": {
       "id": 2,
       "title": "Exposición MAMBO Viajero"
@@ -188,19 +210,24 @@
       "title": "Arte Moderno en Colombia"
     },
     "img1": {
-      "src": "/image/mv3/1.png"
+      "src": "/image/mv3/1.png",
+      "alt": "Édouard Manet. Olimpia. 1863. Óleo sobre lienzo. Fuente: Fundación Wikimedia bajo la licencia C.C. BY 2.0. "
     },
     "img2": {
-      "src": "/image/mv3/2.png"
+      "src": "/image/mv3/2.png",
+      "alt": "Camille Claudel. La Edad Madura. 1899. Bronce. Fuente: Wikimedia Commons bajo la licencia de documentación libre de GNU. "
     },
     "img3": {
-      "src": "/image/mv3/3.png"
+      "src": "/image/mv3/3.png",
+      "alt": "Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo. Fuente: Wikimedia Commons bajo la licencia C.C. BY 2.0 "
     },
     "didYouKnowImg": {
-      "src": "/image/mv3/did_you_know.jpg"
+      "src": "/image/mv3/did_you_know.jpg",
+      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
     },
     "questionImg": {
-      "src": "/image/mv3/question.jpg"
+      "src": "/image/mv3/question.jpg",
+      "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Fuente: Wikimedia Commons bajo la licencia CC BY 3.0"
     }
   },
   {
@@ -227,47 +254,54 @@
       "¿Qué valores tradicionales y modernos identificas en tu familia?",
       "¿Si la moral, las creencias y los valores no son los mismos para todos y todas, cómo se puede llegar a un consenso y evitar la violencia? "
     ],
+    "proposal": "En esta sección se propone reflexionar sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionales frente a las influencias extranjeras.",
     "keyConcepts": [
       {
         "title": "guerra fría",
         "content": "Enfrentamiento militar, político y cultural que se desarrolló entre los años 1945 y 1989 entre el bloque occidental, representado por Estados Unidos en defensa del capitalismo contra la Unión Soviética (U.R.R.S) en defensa del comunismo. ",
         "img": {
-          "src": "/image/mv4/c1.jpg"
+          "src": "/image/mv4/c1.jpg",
+          "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: Wikimedia Commons bajo la licencia GNU. "
         }
       },
       {
         "title": "el bogotazo",
         "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
         "img": {
-          "src": "/image/mv4/c2.png"
+          "src": "/image/mv4/c2.png",
+          "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
         }
       },
       {
         "title": "realismo socialista",
         "content": "Corriente artística que surge en los años 20 en la Unión Soviética, motivada por la representación de la realidad con fines ideológicos y muchas veces con contenido de denuncia. Fue influyente en la creación de movimientos latinoamericanos que defendieron el realismo social como un instrumento contra el imperialismo. ",
         "img": {
-          "src": "/image/mv4/c3.jpg"
+          "src": "/image/mv4/c3.jpg",
+          "alt": "Autor desconocido. Monumento a los combatiantes de la revolución de Octubre. en Almaty, Kasakhstan. Fuente: Wikimedia Commons bajo dominio público."
         }
       },
       {
         "title": "expresionismo norteamericano",
         "content": "Se considera la primera corriente de arte abstracto en Estados Unidos, caracterizada por obras pictóricas en lienzos de gran formato en donde arrojaban la pintura espontáneamente, creando imágenes libres y expresivas. Esta corriente se opuso al realismo socialista y se usó como una herramienta de expansión de las ideas expresadas por el bloque capitalista en la Guerra Fría.",
         "img": {
-          "src": "/image/mv4/c4.jpg"
+          "src": "/image/mv4/c4.jpg",
+          "alt": "Jackson Pollock. Head. 1938-1941. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
         }
       },
       {
         "title": "comunismo",
         "content": "Sistema económico propuesto por Karl Marx en el cual no existe la propiedad privada y la ganancia producida por los trabajadores se distribuye equitativamente, siendo todos los medios de producción administrados por el Estado. ",
         "img": {
-          "src": "/image/mv4/c5.jpg"
+          "src": "/image/mv4/c5.jpg",
+          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Fuente: Wikimedia Commons bajo dominio público. "
         }
       },
       {
         "title": "capitalismo",
         "content": "Sistema económico propuesto por Adam Smith en donde el capital producido por los medios de producción a partir de la fuerza de trabajo obrera es de una persona o empresa privada; siendo éste, el motor de la economía de mercados y lo que diferencia las clases socioeconómicas.",
         "img": {
-          "src": "/image/mv4/c6.jpg"
+          "src": "/image/mv4/c6.jpg",
+          "alt": "Autor desconocido. Retrato de Adam Smith. 1800. Fuente: Wikimedia Commons bajo dominio público. "
         }
       }
     ],
@@ -280,22 +314,28 @@
       "title": "Arte Conceptual en el Mundo"
     },
     "img1": {
-      "src": "/image/mv4/1.png"
+      "src": "/image/mv4/1.png",
+      "alt": "Beatriz Daza. Dos días amarillos. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera. Fuente: Colección MAMBO"
     },
     "img2": {
-      "src": "/image/mv4/2.png"
+      "src": "/image/mv4/2.png",
+      "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO"
     },
     "img3": {
-      "src": "/image/mv4/3.png"
+      "src": "/image/mv4/3.png",
+      "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO"
     },
     "didYouKnowImg": {
-      "src": "/image/mv4/did_you_know.png"
+      "src": "/image/mv4/did_you_know.png",
+      "alt": "Sady González. Cadáveres en el cementerio, 9 de abril, Bogotá. 1948. Fuente: Colección MAMBO. "
     },
     "questionImg": {
-      "src": "/image/mv4/question.png"
+      "src": "/image/mv4/question.png",
+      "alt": "León Ruiz. Sin título. 1981. Fuente: Colección MAMBO. "
     },
     "activityImg": {
-      "src": "/image/mv4/activity.png"
+      "src": "/image/mv4/activity.png",
+      "alt": "Gertjan Bartelsman. Floralba. 1976. Fuente: Colección MAMBO. "
     }
   },
   {
