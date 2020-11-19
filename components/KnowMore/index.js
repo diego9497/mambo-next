@@ -8,12 +8,12 @@ import {
   ContentInfo,
 } from "./styles";
 
-function KnowMore(props) {
-  let color = "#335FD7";
+function KnowMore({ exhibition, config }) {
+  const { color } = exhibition;
   return (
     <Container>
       <ContainerSection>
-        <Title color={color}>Conoce más</Title>
+        <Title color={color}>{config.more}</Title>
       </ContainerSection>
       <ContainerSection color={color}>
         <ContentInfo>IG @mambogota</ContentInfo>
