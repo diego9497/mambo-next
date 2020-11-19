@@ -5,6 +5,7 @@ import {
   Anchor,
   Option,
   ItemOption,
+  ContainerActivities,
 } from "./styles";
 import Before from "../Icons/Before";
 import Activities from "../Icons/Activities";
@@ -12,10 +13,13 @@ import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useCallback } from "react";
+import { useCallback, useState } from "react";
 function Footer({ exhibition, config, index, choose }) {
+  const [openActivities, setOpenActivities] = useState(false);
+
   const router = useRouter();
-  const { title, color, id } = exhibition;
+  let { title, color, id } = exhibition;
+  color = color ? color : config.mv1.color;
 
   const handleBack = useCallback(() => {
     if (choose) {
@@ -26,6 +30,10 @@ function Footer({ exhibition, config, index, choose }) {
       router.push(`/exhibition/${id}`);
     }
   }, [router]);
+
+  const clickActivities = () => {
+    setOpenActivities(!openActivities);
+  };
   return (
     <ContainerFooter>
       <LeftContainer>
@@ -44,16 +52,33 @@ function Footer({ exhibition, config, index, choose }) {
             </ItemOption>
           </Anchor>
         </Link>
-        <Link href="">
-          <Anchor color={color}>
-            {exhibition.activity && (
-              <ItemOption>
-                <Activities />
-                <Option>{config.activity}</Option>
-              </ItemOption>
-            )}
-          </Anchor>
-        </Link>
+        <Anchor color={color} onClick={clickActivities} active={openActivities}>
+          {index && (
+            <ItemOption>
+              <Activities />
+              <Option>{config.activity}</Option>
+            </ItemOption>
+          )}
+          {openActivities && (
+            <ContainerActivities>
+              <Link href="/exhibition/1/detail?content2=true">
+                <a>{config.mv1.title}</a>
+              </Link>
+              <Link href="/exhibition/3/detail?content2=true">
+                <a>{config.mv3.title}</a>
+              </Link>
+              <Link href="/exhibition/4/detail?content2=true">
+                <a>{config.mv4.title}</a>
+              </Link>
+              <Link href="/exhibition/6/detail?content2=true">
+                <a>{config.mv6.title}</a>
+              </Link>
+              <Link href="/exhibition/8/detail?content2=true">
+                <a>{config.mv8.title}</a>
+              </Link>
+            </ContainerActivities>
+          )}
+        </Anchor>
       </LeftContainer>
       <TimeLineMapContainer>
         <Link href="/timeline">

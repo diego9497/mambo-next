@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const ContainerFooter = styled.div`
   height: var(--headerHeight);
@@ -56,6 +56,7 @@ export const Option = styled.p`
 `;
 
 export const Anchor = styled.a`
+  position: relative;
   text-decoration: none;
   display: flex;
   align-items: center;
@@ -72,6 +73,14 @@ export const Anchor = styled.a`
     fill: white;
   }
 
+  ${({ active }) =>
+    active &&
+    css`
+      background: ${({ color }) => color};
+      color: white;
+      fill: white;
+    `}
+
   :active {
     filter: grayscale(0.3);
   }
@@ -83,6 +92,28 @@ export const Anchor = styled.a`
   :first-child {
     @media screen and (max-width: 575px) {
       display: none;
+    }
+  }
+`;
+
+export const ContainerActivities = styled.div`
+  position: absolute;
+  bottom: calc(var(--footerHeight) + 15px);
+  color: black;
+  width: 100%;
+  min-width: 240px;
+  background: white;
+  border-radius: 7px;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+
+  a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 25px;
+    :hover {
+      background: #eeeeee;
     }
   }
 `;
