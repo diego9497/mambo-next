@@ -18,7 +18,7 @@ const Detail = ({ exhibition, config }) => {
         <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
       <GlobalStyles />
-      <Header />
+      <Header config={config} />
       <Exhibition exhibition={exhibition} config={config} />
       <Footer exhibition={exhibition} config={config} />
     </>

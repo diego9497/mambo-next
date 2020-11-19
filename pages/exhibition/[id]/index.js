@@ -16,7 +16,7 @@ const ExhibitionPage = ({ exhibition, config }) => {
         <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
       <GlobalStyles />
-      <Header />
+      <Header config={config} />
       <ExhibitionChoose exhibition={exhibition} config={config} />
     </>
   );

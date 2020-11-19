@@ -15,7 +15,7 @@ const Timeline = ({ config }) => {
         <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
       <GlobalStyles />
-      <Header />
+      <Header config={config} />
       <TimelineComponent />
       <Footer exhibition={{}} config={config} />
     </>

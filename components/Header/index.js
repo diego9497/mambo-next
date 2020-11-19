@@ -6,13 +6,23 @@ import {
   Lang,
 } from "./styles";
 import Accessibility from "../Icons/Accessibility";
-import Menu from "../Icons/Menu";
+import MenuIcon from "../Icons/Menu";
 import Logo from "../Icons/Logo";
+import Close from "../Icons/Close";
+import Menu from "../Menu";
 import Link from "next/link";
-import { useRouter } from "next/router";
 
-const Header = (props) => {
+import { useRouter } from "next/router";
+import { useState } from "react";
+
+const Header = ({ config }) => {
   const router = useRouter();
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  const menuClick = () => {
+    setMenuOpen(!menuOpen);
+  };
+
   return (
     <Container>
       <Link href="/">
@@ -40,10 +50,11 @@ const Header = (props) => {
         </div>
       </Options>
       <MenuButtonContainer>
-        <MenuButton>
-          <Menu />
+        <MenuButton onClick={menuClick}>
+          {menuOpen ? <Close /> : <MenuIcon />}
         </MenuButton>
       </MenuButtonContainer>
+      {menuOpen && <Menu config={config} />}
     </Container>
   );
 };
