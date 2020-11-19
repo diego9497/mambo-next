@@ -23,6 +23,10 @@ const Header = ({ config }) => {
     setMenuOpen(!menuOpen);
   };
 
+  const handleClose = () => {
+    setMenuOpen(false);
+  };
+
   return (
     <Container>
       <Link href="/">
@@ -44,17 +48,14 @@ const Header = ({ config }) => {
           </Link>
         </div>
         <div>
-          <button>
-            <Accessibility />
-          </button>
+          <MenuButtonContainer>
+            <MenuButton onClick={menuClick}>
+              {menuOpen ? <Close /> : <MenuIcon />}
+            </MenuButton>
+          </MenuButtonContainer>
         </div>
       </Options>
-      <MenuButtonContainer>
-        <MenuButton onClick={menuClick}>
-          {menuOpen ? <Close /> : <MenuIcon />}
-        </MenuButton>
-      </MenuButtonContainer>
-      {menuOpen && <Menu config={config} />}
+      {menuOpen && <Menu close={handleClose} config={config} />}
     </Container>
   );
 };

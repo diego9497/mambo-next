@@ -87,13 +87,17 @@ export const Lang = styled.a`
 `;
 
 export const MenuButtonContainer = styled.div`
-  display: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* display: none;
 
   @media screen and (max-width: 575px) {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+  } */
 `;
 
 export const MenuButton = styled.button`

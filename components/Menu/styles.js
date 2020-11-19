@@ -16,6 +16,10 @@ export const Container = styled.div`
   width: 75%;
   max-width: 320px;
   height: 100%;
+
+  @media screen and (min-width: 768px) {
+    max-width: 420px;
+  }
 `;
 
 export const Language = styled.div`
@@ -57,11 +61,16 @@ export const Options = styled.ul`
   display: flex;
   flex-direction: column;
   padding-top: 35px;
-`;
-export const Option = styled.li`
-  color: black;
-  fill: black;
-  border-bottom: 1px solid black;
+
+  li {
+    cursor: pointer;
+    color: black;
+    fill: black;
+    border-bottom: 1px solid black;
+    :hover {
+      background: #eeeeee;
+    }
+  }
 `;
 
 export const OptionContent = styled.a`
