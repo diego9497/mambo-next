@@ -57,6 +57,11 @@ export const Bottom = styled.div`
 export const SubtitleContainerAnchor = styled.a`
   position: relative;
   cursor: pointer;
+
+  :active {
+    filter: brightness(1.2);
+  }
+
   & > div {
     display: none;
   }

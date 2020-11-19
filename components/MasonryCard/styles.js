@@ -3,6 +3,9 @@ import styled from "styled-components";
 export const Container = styled.a`
   position: relative;
   cursor: pointer;
+  :active {
+    filter: brightness(1.2);
+  }
 
   @media screen and (max-width: 575px) {
     min-height: 200px;
