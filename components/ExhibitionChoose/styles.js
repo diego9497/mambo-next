@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.section`
-  height: calc(100vh - var(--headerHeight));
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
 `;
 export const Top = styled.div`
   display: flex;

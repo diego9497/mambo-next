@@ -1,21 +1,21 @@
 import Head from "next/head";
-import ExhibitionChoose from "../../../components/ExhibitionChoose";
+import KnowMore from "../../../components/KnowMore";
 
 import es from "../../../locales/es/data.json";
 import en from "../../../locales/en/data.json";
 import esCommon from "../../../locales/es/common.json";
 import enCommon from "../../../locales/en/common.json";
 
-const ExhibitionPage = ({ exhibition, config }) => {
+function More({ exhibition, config }) {
   return (
     <>
       <Head>
-        <title>{exhibition.title} | MAMBO</title>
+        <title>{config?.more} | MAMBO Viajero</title>
       </Head>
-      <ExhibitionChoose exhibition={exhibition} config={config} />
+      <KnowMore exhibition={exhibition} config={config} />
     </>
   );
-};
+}
 
 export const getStaticPaths = ({ locales }) => {
   const paths = [];
@@ -41,8 +41,8 @@ export const getStaticProps = ({ locale, params }) => {
   );
   const config = langCommon[locale];
   return {
-    props: { exhibition, config, choose: true },
+    props: { exhibition, config },
   };
 };
 
-export default ExhibitionPage;
+export default More;

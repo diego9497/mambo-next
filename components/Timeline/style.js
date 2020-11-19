@@ -5,7 +5,7 @@ export const Container = styled.div`
   height: 100%;
   display: flex;
   margin: 0 auto;
-  height: calc(100vh - var(--headerHeight) * 2);
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
 `;
 
 export const ContainerList = styled.div`

@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const GridHistory = styled.div`
   display: grid;
-  height: calc(100vh - 2 * var(--headerHeight) + 1px);
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight) + 1px);
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 4fr 2fr;
   grid-template-areas:

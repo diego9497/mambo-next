@@ -10,6 +10,7 @@ export default createGlobalStyle`
   }
   :root {
     --headerHeight: 50px;
+    --footerHeight: 50px;
     --borderColor: #a5a5a5;
   }
   #__next {

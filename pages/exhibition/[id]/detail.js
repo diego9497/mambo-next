@@ -1,8 +1,5 @@
 import React from "react";
-import Footer from "../../../components/Footer";
-import Header from "../../../components/Header";
 import Exhibition from "../../../components/Exhibition";
-import GlobalStyles from "../../../styles/GlobalStyles";
 import Head from "next/head";
 
 import es from "../../../locales/es/data.json";
@@ -15,12 +12,8 @@ const Detail = ({ exhibition, config }) => {
     <>
       <Head>
         <title>{exhibition.title} | MAMBO Viajero</title>
-        <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
-      <GlobalStyles />
-      <Header config={config} />
       <Exhibition exhibition={exhibition} config={config} />
-      <Footer exhibition={exhibition} config={config} />
     </>
   );
 };

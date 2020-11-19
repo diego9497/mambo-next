@@ -1,7 +1,4 @@
 import Head from "next/head";
-import GlobalStyles from "../styles/GlobalStyles";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
 import TimelineComponent from "../components/Timeline";
 
 import esCommon from "../locales/es/common.json";
@@ -12,12 +9,8 @@ const Timeline = ({ config }) => {
     <>
       <Head>
         <title>{config?.timeline} | MAMBO Viajero</title>
-        <link rel="stylesheet" href="/fonts/stylesheet.css" />
       </Head>
-      <GlobalStyles />
-      <Header config={config} />
       <TimelineComponent />
-      <Footer exhibition={{}} config={config} />
     </>
   );
 };

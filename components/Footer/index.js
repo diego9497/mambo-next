@@ -12,25 +12,30 @@ import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
 import Link from "next/link";
 import { useRouter } from "next/router";
-function Footer({ exhibition, config }) {
-  const { title, color, id } = exhibition;
+import { useCallback } from "react";
+function Footer({ exhibition, config, index, choose }) {
   const router = useRouter();
+  const { title, color, id } = exhibition;
 
-  const handleBack = () => {
-    if (title) {
-      router.push(`/exhibition/${id}`);
-    } else {
+  const handleBack = useCallback(() => {
+    if (choose) {
+      router.push("/");
+    } else if (!title) {
       router.back();
+    } else {
+      router.push(`/exhibition/${id}`);
     }
-  };
+  }, [router]);
   return (
     <ContainerFooter>
       <LeftContainer>
         <Anchor onClick={handleBack} color={color}>
-          <ItemOption>
-            <Before />
-            <Option>{title ? title : config.back}</Option>
-          </ItemOption>
+          {!index && (
+            <ItemOption>
+              <Before />
+              <Option>{!title || choose ? config.back : title}</Option>
+            </ItemOption>
+          )}
         </Anchor>
         <Link href={`/exhibition/9/detail`}>
           <Anchor color={color}>

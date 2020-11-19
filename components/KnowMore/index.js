@@ -8,7 +8,7 @@ import {
   ContentInfo,
 } from "./styles";
 
-function KnowMoreGrid(props) {
+function KnowMore(props) {
   let color = "#335FD7";
   return (
     <Container>
@@ -53,4 +53,4 @@ function KnowMoreGrid(props) {
   );
 }
 
-export default KnowMoreGrid;
+export default KnowMore;

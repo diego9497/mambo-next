@@ -7,8 +7,8 @@ export const ContainerDetail = styled.div`
   grid-template-areas:
     "title contentSecond menu"
     "content contentSecond menu";
-  height: calc(100vh - 2 * var(--headerHeight));
-  margin-bottom: var(--headerHeight);
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+  margin-bottom: var(--footerHeight);
 
   @media screen and (max-width: 575px) {
     grid-template-columns: 1fr;
