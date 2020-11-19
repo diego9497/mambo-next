@@ -11,7 +11,7 @@ function Accessibility(props) {
           r={29.58}
           transform="translate(1837.766 17.833)"
           fill="none"
-          stroke="#231f20"
+          stroke="inherit"
           strokeMiterlimit={10}
           strokeWidth={2}
         />

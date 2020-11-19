@@ -44,6 +44,7 @@ export const ContainerContent = styled.div`
   width: 100%;
   padding: 20px;
   border-right: 1px solid var(--borderColor);
+  position: relative;
 `;
 export const TextContent = styled.p`
   font-size: 1.1em;
@@ -226,4 +227,17 @@ export const CloseButton = styled.button`
   outline: none;
   cursor: pointer;
   padding: 5px;
+`;
+
+export const AudioContainer = styled.div`
+  float: right;
+  padding: 5px;
+  stroke: black;
+  cursor: pointer;
+`;
+
+export const AudioContainerAlt = styled.p`
+  fill: white;
+  stroke: white;
+  cursor: pointer;
 `;

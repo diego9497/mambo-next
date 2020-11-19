@@ -92,6 +92,7 @@ export const SubtitleTextContainer = styled.div`
   font-size: 1.8em;
   text-transform: uppercase;
   line-height: 1;
+  position: relative;
   h3 {
     width: 60%;
     font-weight: normal;
@@ -107,4 +108,12 @@ export const SubtitleAuthorContainer = styled.p`
     color: white;
     display: block;
   }
+`;
+
+export const AudioContainer = styled.div`
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  fill: white;
+  stroke: white;
 `;

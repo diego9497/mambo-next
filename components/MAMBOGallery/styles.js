@@ -29,8 +29,9 @@ export const ImageSlider = styled.div`
 export const ImageContainer = styled.div`
   min-width: 100vw;
   padding: 0 10px;
-  height: 70vh;
+  height: 80vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 `;
@@ -71,4 +72,27 @@ export const LeftButton = styled.button`
 export const RightButton = styled.button`
   right: 20px;
   ${ButtonStyle};
+`;
+
+export const Description = styled.p`
+  margin-top: 10px;
+  padding: 20px 20px;
+  padding-right: 60px;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
+  position: relative;
+  max-width: 45%;
+
+  @media screen and (max-width: 575px) {
+    max-width: 80%;
+  }
+`;
+
+export const AudioContainer = styled.div`
+  stroke: black;
+  fill: black;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
 `;

@@ -13,8 +13,11 @@ import {
   Gallery,
   GalleryImageContainer,
   GalleryContainer,
+  AudioContainer,
+  AudioContainerHistory,
 } from "./styles";
 
+import Accessibility from "../Icons/Accessibility";
 import MAMBOImage from "../MAMBOImage";
 import MAMBOGallery from "../MAMBOGallery";
 
@@ -38,11 +41,19 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           <MAMBOImage src={img1.src} alt={img1.alt} />
         </ContainerImagePrincipal>
         <ContentHistory>
-          <TextContentHistory>{historyDescription}</TextContentHistory>
+          <TextContentHistory>
+            <AudioContainerHistory>
+              <Accessibility />
+            </AudioContainerHistory>
+            {historyDescription}
+          </TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color}>
           <TitleContentSecond color="white">{author}</TitleContentSecond>
           <TextContentSecond color="white">{authorContent}</TextContentSecond>
+          <AudioContainer>
+            <Accessibility />
+          </AudioContainer>
         </ContentSecond>
         <FirstEmpty />
         <SecondEmpty />

@@ -10,10 +10,13 @@ import {
   ImageContainer,
   LeftButton,
   RightButton,
+  Description,
+  AudioContainer,
 } from "./styles";
 
 import Next from "../Icons/Next";
 import Previous from "../Icons/Before";
+import Accessibility from "../Icons/Accessibility";
 
 export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
   const [open, setOpen] = useState(false);
@@ -63,6 +66,12 @@ export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
               {gallery.map((img) => (
                 <ImageContainer>
                   <ModalImage src={img.src} />
+                  <Description>
+                    {img.alt}
+                    <AudioContainer>
+                      <Accessibility />
+                    </AudioContainer>
+                  </Description>
                 </ImageContainer>
               ))}
             </ImageSlider>

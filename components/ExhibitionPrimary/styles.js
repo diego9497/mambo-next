@@ -36,20 +36,20 @@ export const Title = styled.h1`
 `;
 export const ContainerImagePrincipal = styled.div`
   grid-area: imagePrincipal;
+  position: relative;
   width: 100%;
   height: 100%;
   border-right: 1px solid var(--borderColor);
 
   & img {
     filter: grayscale(1);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    filter: grayscale(1);
+    display: block;
   }
-`;
-export const ImagePrincipal = styled.img`
-  height: 500px;
-  width: 100%;
-  object-fit: cover;
-  filter: grayscale(1);
-  display: block;
 `;
 
 export const ContentHistory = styled.div`
@@ -101,6 +101,7 @@ export const ContentSecond = styled.div`
   background: ${(props) => props.background};
   border-right: 1px solid var(--borderColor);
   border-bottom: 1px solid var(--borderColor);
+  position: relative;
 `;
 export const TitleContentSecond = styled.h3`
   font-size: 1.3em;
@@ -172,4 +173,20 @@ export const ImageSecond = styled.img`
   object-fit: cover;
   filter: grayscale(1);
   display: block;
+`;
+
+export const AudioContainer = styled.div`
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  fill: white;
+  stroke: white;
+  cursor: pointer;
+`;
+
+export const AudioContainerHistory = styled.div`
+  float: left;
+  cursor: pointer;
+  stroke: black;
+  padding-right: 10px;
 `;

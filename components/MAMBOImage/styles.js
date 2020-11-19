@@ -23,8 +23,12 @@ export const Container = styled.div`
 
 export const ContainerImage = styled.div`
   width: 90vw;
-  height: 70vh;
+  height: 80vh;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 `;
 
 export const ModalImage = styled.img`
@@ -42,7 +46,23 @@ export const CloseContainer = styled.div`
 `;
 
 export const Description = styled.p`
-  padding: 10px 20px;
+  margin-top: 20px;
+  padding: 20px 20px;
   background: rgba(255, 255, 255, 0.9);
   color: black;
+  position: relative;
+  max-width: 45%;
+
+  @media screen and (max-width: 575px) {
+    max-width: 80%;
+  }
+`;
+
+export const AudioContainer = styled.div`
+  stroke: black;
+  fill: black;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
 `;

@@ -8,7 +8,9 @@ import {
   SubtitleContainerAnchor,
   SubtitleTextContainer,
   SubtitleContent,
+  AudioContainer,
 } from "./styles";
+import Accessibility from "../Icons/Accessibility";
 
 const ExhibitionChoose = ({ exhibition, config }) => {
   const {
@@ -39,6 +41,9 @@ const ExhibitionChoose = ({ exhibition, config }) => {
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
                 <h3>{history}</h3>
+                <AudioContainer>
+                  <Accessibility />
+                </AudioContainer>
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>
@@ -53,6 +58,9 @@ const ExhibitionChoose = ({ exhibition, config }) => {
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
                 <h3>{forWhat}</h3>
+                <AudioContainer>
+                  <Accessibility />
+                </AudioContainer>
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>
@@ -67,6 +75,9 @@ const ExhibitionChoose = ({ exhibition, config }) => {
             <SubtitleContent>
               <SubtitleTextContainer color={color}>
                 <h3>{config.more}</h3>
+                <AudioContainer>
+                  <Accessibility />
+                </AudioContainer>
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>

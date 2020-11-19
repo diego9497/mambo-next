@@ -1,5 +1,6 @@
 import { useState } from "react";
 import ClientPortal from "../ClientPortal";
+import Accessibility from "../Icons/Accessibility";
 import Close from "../Icons/Close";
 import {
   Image,
@@ -8,6 +9,7 @@ import {
   CloseContainer,
   ContainerImage,
   Description,
+  AudioContainer,
 } from "./styles";
 
 export default function MAMBOImage({ src, alt, fit = "cover" }) {
@@ -28,7 +30,12 @@ export default function MAMBOImage({ src, alt, fit = "cover" }) {
           <Container>
             <ContainerImage>
               <ModalImage src={src} />
-              <Description>{alt}</Description>
+              <Description>
+                {alt}
+                <AudioContainer>
+                  <Accessibility />
+                </AudioContainer>
+              </Description>
             </ContainerImage>
             <CloseContainer onClick={closeModal}>
               <Close />
