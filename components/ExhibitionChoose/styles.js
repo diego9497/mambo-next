@@ -40,6 +40,9 @@ export const Top = styled.div`
       display: none;
     }
   }
+  @media screen and (max-width: 575px) {
+    height: 20vh;
+  }
 `;
 
 export const Bottom = styled.div`
@@ -51,6 +54,16 @@ export const Bottom = styled.div`
     width: 33.3333333%;
     height: 100%;
     border-right: 1px solid var(--borderColor);
+    @media screen and (max-width: 575px) {
+      width: 100%;
+      height: initial;
+      min-height: 350px;
+      border-right: none;
+    }
+  }
+  @media screen and (max-width: 575px) {
+    flex-direction: column;
+    height: initial;
   }
 `;
 
@@ -67,6 +80,11 @@ export const SubtitleContainerAnchor = styled.a`
   }
   :hover > div {
     display: flex;
+  }
+  @media screen and (max-width: 575px) {
+    & > div {
+      display: flex;
+    }
   }
 `;
 export const SubtitleBackground = styled.img`
@@ -96,6 +114,9 @@ export const SubtitleTextContainer = styled.div`
   h3 {
     width: 60%;
     font-weight: normal;
+  }
+  @media screen and (max-width: 575px) {
+    padding: 15px 15px 20px;
   }
 `;
 export const SubtitleAuthorContainer = styled.p`
