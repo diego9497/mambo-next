@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  height: calc(100vh - var(--headerHeight));
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
 
   & > div {
     border-right: 1px solid var(--borderColor);
