@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components";
 
 export const ContainerFooter = styled.div`
-  height: var(--headerHeight);
+  height: var(--footerHeight);
   background: white;
   border-top: 1px solid var(--borderColor);
   position: fixed;
@@ -11,11 +11,22 @@ export const ContainerFooter = styled.div`
   grid-template-columns: repeat(3, 1fr);
   justify-items: flex-start;
   grid-template-areas: "left left right";
+
+  @media screen and (max-width: 575px) {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "left  right";
+  }
 `;
 export const LeftContainer = styled.div`
   grid-area: left;
   display: flex;
   width: 100%;
+
+  & a:first-child {
+    @media screen and (max-width: 575px) {
+      display: none;
+    }
+  }
 `;
 export const TimeLineMapContainer = styled.div`
   grid-area: right;
@@ -27,11 +38,13 @@ export const ItemOption = styled.div`
   padding: 0 15px;
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 100%;
   height: 100%;
   cursor: pointer;
   @media screen and (max-width: 575px) {
     flex-direction: column;
+    padding: 0 7px;
   }
 `;
 export const ContainerIcon = styled.div`
@@ -87,12 +100,6 @@ export const Anchor = styled.a`
 
   :nth-child(5) {
     border-right: 0px;
-  }
-
-  :first-child {
-    @media screen and (max-width: 575px) {
-      display: none;
-    }
   }
 `;
 

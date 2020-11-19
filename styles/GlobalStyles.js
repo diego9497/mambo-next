@@ -12,8 +12,12 @@ export default createGlobalStyle`
     --headerHeight: 50px;
     --footerHeight: 50px;
     --borderColor: #a5a5a5;
+    @media screen and (max-width: 575px) {
+      --footerHeight: 60px; 
+    }
   }
   #__next {
     padding-top: var(--headerHeight)
   }
+  
 `;
