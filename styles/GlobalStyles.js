@@ -17,7 +17,8 @@ export default createGlobalStyle`
     }
   }
   #__next {
-    padding-top: var(--headerHeight)
+    padding-top: var(--headerHeight);
+    padding-bottom: var(--footerHeight);  
   }
   
 `;

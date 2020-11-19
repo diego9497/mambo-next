@@ -2,13 +2,14 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   display: grid;
-  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight) + 1px);
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1fr 1fr;
   grid-template-areas:
     "Title Information EmptyO"
     "Author EmptyTw EmptyTh";
   font-size: 17px;
+  border-top: 1px solid var(--borderColor);
 `;
 export const ContainerSection = styled.div`
   position: relative;
@@ -20,6 +21,8 @@ export const ContainerSection = styled.div`
   :nth-child(1) {
     grid-area: Title;
     padding: 30px;
+    border-right: 1px solid var(--borderColor);
+    border-bottom: 1px solid var(--borderColor);
   }
   :nth-child(2) {
     background: red;
@@ -27,15 +30,20 @@ export const ContainerSection = styled.div`
     padding: 20px;
     background: ${(props) => props.color};
     color: white;
+    border-right: 1px solid var(--borderColor);
+    border-bottom: 1px solid var(--borderColor);
   }
   :nth-child(3) {
     grid-area: EmptyO;
+    border-bottom: 1px solid var(--borderColor);
   }
   :nth-child(4) {
     grid-area: Author;
+    border-right: 1px solid var(--borderColor);
   }
   :nth-child(5) {
     grid-area: EmptyTw;
+    border-right: 1px solid var(--borderColor);
   }
   :nth-child(6) {
     grid-area: EmptyTh;

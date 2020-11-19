@@ -69,7 +69,7 @@ const ExhibitionChoose = ({ exhibition, config }) => {
             </SubtitleContent>
           </SubtitleContainerAnchor>
         </Link>
-        <Link href={`${id}/more`}>
+        <Link href={`${id}/detail?content3=true`}>
           <SubtitleContainerAnchor>
             <SubtitleBackground src={img3.src} />
             <SubtitleContent>
