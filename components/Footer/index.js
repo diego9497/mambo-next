@@ -1,19 +1,19 @@
 import {
   ContainerFooter,
-  ContainerBack,
-  ItemOption,
+  TimeLineMapContainer,
+  LeftContainer,
+  Anchor,
   Option,
-  A,
+  ItemOption,
 } from "./styles";
 import Before from "../Icons/Before";
 import Activities from "../Icons/Activities";
 import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
-import Next from "../Icons/Next";
 import Link from "next/link";
 import { useRouter } from "next/router";
 function Footer({ exhibition, config }) {
-  const { title, id } = exhibition;
+  const { title, color, id } = exhibition;
   const router = useRouter();
 
   const handleBack = () => {
@@ -25,54 +25,49 @@ function Footer({ exhibition, config }) {
   };
   return (
     <ContainerFooter>
-      <ContainerBack onClick={handleBack}>
-        <A>
+      <LeftContainer>
+        <Anchor onClick={handleBack} color={color}>
           <ItemOption>
             <Before />
             <Option>{title ? title : config.back}</Option>
           </ItemOption>
-        </A>
-      </ContainerBack>
-      <Link
-        href={
-          exhibition.next ? `/exhibition/${exhibition.next.id}/detail` : "#"
-        }
-      >
-        <A>
-          {exhibition.next && (
+        </Anchor>
+        <Link href={`/exhibition/9/detail`}>
+          <Anchor color={color}>
             <ItemOption>
-              <Next />
-              <Option>{exhibition.next.title}</Option>
+              <Option>{config.mv9.title}</Option>
             </ItemOption>
-          )}
-        </A>
-      </Link>
-      <Link href="">
-        <A>
-          {exhibition.activity && (
+          </Anchor>
+        </Link>
+        <Link href="">
+          <Anchor color={color}>
+            {exhibition.activity && (
+              <ItemOption>
+                <Activities />
+                <Option>{config.activity}</Option>
+              </ItemOption>
+            )}
+          </Anchor>
+        </Link>
+      </LeftContainer>
+      <TimeLineMapContainer>
+        <Link href="/timeline">
+          <Anchor color={color}>
             <ItemOption>
-              <Activities />
-              <Option>{config.activity}</Option>
+              <TimeLine />
+              <Option>{config.timeline}</Option>
             </ItemOption>
-          )}
-        </A>
-      </Link>
-      <Link href="/timeline">
-        <A>
-          <ItemOption>
-            <TimeLine />
-            <Option>{config.timeline}</Option>
-          </ItemOption>
-        </A>
-      </Link>
-      <Link href="">
-        <A>
-          <ItemOption>
-            <Map />
-            <Option>{config.map}</Option>
-          </ItemOption>
-        </A>
-      </Link>
+          </Anchor>
+        </Link>
+        <Link href="">
+          <Anchor color={color}>
+            <ItemOption>
+              <Map />
+              <Option>{config.map}</Option>
+            </ItemOption>
+          </Anchor>
+        </Link>
+      </TimeLineMapContainer>
     </ContainerFooter>
   );
 }

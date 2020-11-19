@@ -38,7 +38,6 @@ export const ContainerImagePrincipal = styled.div`
   grid-area: imagePrincipal;
   width: 100%;
   height: 100%;
-  border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
 
   & img {
@@ -55,13 +54,14 @@ export const ImagePrincipal = styled.img`
 
 export const ContentHistory = styled.div`
   grid-area: content;
-  border-bottom: 1px solid var(--borderColor);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end;
   padding: 20px;
   overflow-y: auto;
+  padding-bottom: 0px;
+  margin-bottom: 15px;
 
   ::-webkit-scrollbar {
     width: 7px;
@@ -75,7 +75,7 @@ export const ContentHistory = styled.div`
   }
 `;
 export const TextContentHistory = styled.p`
-  font-size: 1.1em;
+  font-size: 1.17em;
   color: black;
 `;
 
@@ -109,18 +109,19 @@ export const TitleContentSecond = styled.h3`
   color: ${(props) => props.color};
 `;
 export const TextContentSecond = styled.p`
-  font-size: 1em;
+  font-size: 1.17em;
   color: ${(props) => props.color};
 `;
 
 export const FirstEmpty = styled.div`
   grid-area: firstEmpty;
+  border-top: 1px solid var(--borderColor);
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
-  border-bottom: 1px solid var(--borderColor);
 `;
 export const SecondEmpty = styled.div`
   grid-area: secondEmpty;
+  border-top: 1px solid var(--borderColor);
   border-bottom: 1px solid var(--borderColor);
 `;
 

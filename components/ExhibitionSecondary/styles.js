@@ -46,7 +46,7 @@ export const ContainerContent = styled.div`
   border-right: 1px solid var(--borderColor);
 `;
 export const TextContent = styled.p`
-  font-size: 1em;
+  font-size: 1.1em;
   color: black;
 `;
 export const ContainerMenu = styled.div`
@@ -63,6 +63,13 @@ export const ItemMenu = styled.div`
   padding: 20px;
   cursor: pointer;
   border-bottom: 1px solid var(--borderColor);
+  transition: background 0.2s ease;
+
+  :hover {
+    background: ${({ color }) => color};
+    color: white;
+    fill: white;
+  }
 `;
 export const TextItem = styled.p`
   font-size: 1em;

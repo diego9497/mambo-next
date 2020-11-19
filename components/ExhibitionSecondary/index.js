@@ -170,25 +170,28 @@ function ExhibitionSecondary({ exhibition, config }) {
       </ContainerContentSecond>
       <ContainerMenu>
         {didYouKnow && (
-          <ItemMenu onClick={() => changeCurrent(menu.DID_YOU_KNOW)}>
+          <ItemMenu
+            color={color}
+            onClick={() => changeCurrent(menu.DID_YOU_KNOW)}
+          >
             <DidYouKnow />
             <TextItem>{config.didYouKnow}</TextItem>
           </ItemMenu>
         )}
         {activity && (
-          <ItemMenu onClick={() => changeCurrent(menu.ACTIVITY)}>
+          <ItemMenu color={color} onClick={() => changeCurrent(menu.ACTIVITY)}>
             <Activities />
             <TextItem>{config.activity}</TextItem>
           </ItemMenu>
         )}
         {questions && (
-          <ItemMenu onClick={() => changeCurrent(menu.QUESTIONS)}>
+          <ItemMenu color={color} onClick={() => changeCurrent(menu.QUESTIONS)}>
             <Questions />
             <TextItem>{config.questions}</TextItem>
           </ItemMenu>
         )}
         {keyConcepts && (
-          <ItemMenu onClick={() => changeCurrent(menu.CONCEPTS)}>
+          <ItemMenu color={color} onClick={() => changeCurrent(menu.CONCEPTS)}>
             <KeyConcepts />
             <TextItem>{config.keyConcepts}</TextItem>
           </ItemMenu>

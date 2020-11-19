@@ -8,9 +8,21 @@ export const ContainerFooter = styled.div`
   bottom: 0;
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(5, auto);
+  grid-template-columns: repeat(3, 1fr);
   justify-items: flex-start;
+  grid-template-areas: "left left right";
 `;
+export const LeftContainer = styled.div`
+  grid-area: left;
+  display: flex;
+  width: 100%;
+`;
+export const TimeLineMapContainer = styled.div`
+  grid-area: right;
+  display: flex;
+  width: 100%;
+`;
+
 export const ItemOption = styled.div`
   padding: 0 15px;
   display: flex;
@@ -30,7 +42,7 @@ export const ContainerIcon = styled.div`
   margin-right: 10px;
 `;
 export const Option = styled.p`
-  color: black;
+  color: inherit;
   font-size: 1.2em;
   line-height: 1;
   margin-left: 6px;
@@ -42,21 +54,34 @@ export const Option = styled.p`
     margin-top: 4px;
   }
 `;
-export const A = styled.a`
+export const Anchor = styled.a`
   text-decoration: none;
   display: flex;
   align-items: center;
   width: 100%;
   height: 100%;
   border-right: 1px solid var(--borderColor);
+  color: black;
+  fill: black;
+  transition: background 0.3s ease;
+
+  :hover {
+    background: ${({ color }) => color};
+    color: white;
+    fill: white;
+  }
+
+  :active {
+    filter: grayscale(0.3);
+  }
 
   :nth-child(5) {
     border-right: 0px;
   }
-`;
 
-export const ContainerBack = styled.div`
-  @media screen and (max-width: 575px) {
-    display: none;
+  :first-child {
+    @media screen and (max-width: 575px) {
+      display: none;
+    }
   }
 `;
