@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.section`
   height: calc(100vh - var(--headerHeight) - var(--footerHeight));
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 2fr 1fr;
 
   @media screen and (max-width: 768px) {
     grid-template-columns: 1fr;
@@ -11,9 +11,8 @@ export const Container = styled.section`
 `;
 
 export const ContainerList = styled.article`
-  grid-column: 1/2;
+  grid-column: 2/3;
   grid-row: 1/2;
-  border-right: 1px solid var(--borderColor);
 
   @media screen and (max-width: 768px) {
     display: ${({ open }) => (open ? "initial" : "none")};
@@ -28,8 +27,10 @@ export const ContainerList = styled.article`
 `;
 
 export const ContainerMap = styled.article`
-  grid-column: 2/3;
+  grid-column: 1/2;
   grid-row: 1/2;
+  border-right: 1px solid var(--borderColor);
+
   @media screen and (max-width: 768px) {
     grid-column: 1/-1;
   }
@@ -49,7 +50,7 @@ export const ContainerMap = styled.article`
 `;
 
 export const ContainerDetail = styled.article`
-  grid-column: 1/2;
+  grid-column: 2/3;
   grid-row: 1/2;
   background: rgba(0, 0, 0, 0.2);
   border-right: 1px solid var(--borderColor);

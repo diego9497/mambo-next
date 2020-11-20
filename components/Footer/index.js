@@ -45,13 +45,15 @@ function Footer({ exhibition, config, index, choose }) {
             </ItemOption>
           )}
         </Anchor>
-        <Link href={`/exhibition/9/detail`}>
-          <Anchor color={color}>
-            <ItemOption>
-              <Option>{config.mv9.title}</Option>
-            </ItemOption>
-          </Anchor>
-        </Link>
+        {!index && (
+          <Link href={`/exhibition/9/detail`}>
+            <Anchor color={color}>
+              <ItemOption>
+                <Option>{config.mv9.title}</Option>
+              </ItemOption>
+            </Anchor>
+          </Link>
+        )}
         <Anchor color={color} onClick={clickActivities} active={openActivities}>
           {index && (
             <ItemOption>

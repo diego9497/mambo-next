@@ -168,17 +168,9 @@ function Timeline({ config }) {
   };
   return (
     <Container>
-      {open && (
-        <ContainerInfo>
-          <InfoTimeline {...infoCard} handleClose={handleClose} />
-        </ContainerInfo>
-      )}
       <ContainerList open={open}>
         <ContainerHeaderTimeline color={config.mv1.color}>
           <TextHeaderTimeline>{config.timeline}</TextHeaderTimeline>
-          {/* <ContainerIconHeaderTimeline>
-            <Menu fill="white" />
-          </ContainerIconHeaderTimeline> */}
         </ContainerHeaderTimeline>
         <ContainerListLeftRight>
           <LeftList>
@@ -214,6 +206,11 @@ function Timeline({ config }) {
           </RightList>
         </ContainerListLeftRight>
       </ContainerList>
+      {open && (
+        <ContainerInfo>
+          <InfoTimeline {...infoCard} handleClose={handleClose} />
+        </ContainerInfo>
+      )}
     </Container>
   );
 }
