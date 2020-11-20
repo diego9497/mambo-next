@@ -16,108 +16,138 @@ import Menu from "../Icons/Menu";
 
 import React, { useState } from "react";
 
-function Timeline(props) {
+function Timeline({ config }) {
   const [infoCard, setInfoCard] = useState();
   const [open, setOpen] = useState(false);
 
   const events = [
     {
-      color: "#3D57D5",
+      id: 1,
       title: "Esto puede ser largo",
+      year: "1992",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#ED4040",
-      title: "ready mode",
+      id: 3,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 2",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#EFB8BC",
-      title: "Puede ser mas que largo, muy largo el texto",
+      id: 1,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 3",
-      type: "video",
-    },
-    {
-      color: "#F7D44A",
-      title: "lorem ipsum",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 4",
-      type: "video",
-    },
-    {
-      color: "#162D1C",
-      title: "lorem ipsum",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 5",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#4A8F5C",
-      title: "lorem ipsum",
+      id: 2,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 6",
-      type: "video",
-    },
-    {
-      color: "#6133A1",
-      title: "lorem ipsum",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 7",
-      type: "video",
-    },
-    {
-      color: "#9ED1F2",
-      title: "lorem ipsum",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 8",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#1A1A1A",
-      title: "lorem ipsum",
+      id: 8,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 9",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#162D1C",
-      title: "lorem ipsum algo 2",
+      id: 4,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 10",
-      type: "video",
-    },
-    {
-      color: "#162D1C",
-      title: "lorem ipsum",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 11",
-      type: "video",
-    },
-    {
-      color: "#ED4040",
-      title: "ready mode lorem",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 12",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#ED4040",
-      title: "ready mode",
+      id: 5,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 13",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
       type: "image",
     },
     {
-      color: "#ED4040",
-      title: "ready",
+      id: 7,
+      title: "Esto puede ser largo",
+      year: "1992",
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 14",
-      type: "video",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 8,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 5,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 2,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 6,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 9,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 5,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 2,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
+    },
+    {
+      id: 7,
+      title: "Esto puede ser largo",
+      year: "1992",
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
+      type: "image",
     },
   ];
 
@@ -125,7 +155,11 @@ function Timeline(props) {
   const right = events.filter((event, index) => index % 2 !== 0);
 
   const handleClick = (event) => {
-    setInfoCard(event);
+    setInfoCard({
+      ...event,
+      color: config[`mv${event.id}`].color,
+      topic: config[`mv${event.id}`].title,
+    });
     setOpen(true);
   };
   const handleClose = () => {
@@ -140,11 +174,11 @@ function Timeline(props) {
         </ContainerInfo>
       )}
       <ContainerList open={open}>
-        <ContainerHeaderTimeline>
-          <TextHeaderTimeline>Linea de tiempo</TextHeaderTimeline>
-          <ContainerIconHeaderTimeline>
+        <ContainerHeaderTimeline color={config.mv1.color}>
+          <TextHeaderTimeline>{config.timeline}</TextHeaderTimeline>
+          {/* <ContainerIconHeaderTimeline>
             <Menu fill="white" />
-          </ContainerIconHeaderTimeline>
+          </ContainerIconHeaderTimeline> */}
         </ContainerHeaderTimeline>
         <ContainerListLeftRight>
           <LeftList>
@@ -155,7 +189,7 @@ function Timeline(props) {
                   key={index}
                   onClick={() => handleClick(event)}
                   ubication="right"
-                  color={event.color}
+                  color={config[`mv${event.id}`].color}
                   content={event.title}
                   type={event.type}
                 />
@@ -170,7 +204,7 @@ function Timeline(props) {
                   key={index}
                   onClick={() => handleClick(event)}
                   ubication="left"
-                  color={event.color}
+                  color={config[`mv${event.id}`].color}
                   content={event.title}
                   type={event.type}
                 />

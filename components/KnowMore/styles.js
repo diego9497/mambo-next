@@ -10,6 +10,13 @@ export const Container = styled.div`
     "Author EmptyTw EmptyTh";
   font-size: 17px;
   border-top: 1px solid var(--borderColor);
+
+  @media screen and (max-width: 575px) {
+    height: initial;
+    grid-template-columns: 1fr;
+    grid-template-rows: 150px 200px 200px 200px 200px 200px 200px;
+    grid-template-areas: "Title" "Information" "Empty0" "Author" "EmptyTw" "EmptyTh";
+  }
 `;
 export const ContainerSection = styled.div`
   position: relative;

@@ -1,20 +1,19 @@
 import Head from "next/head";
-import TimelineComponent from "../components/Timeline";
 
 import esCommon from "../locales/es/common.json";
 import enCommon from "../locales/en/common.json";
+import MapPage from "../components/MapPage";
 
-const Timeline = ({ config }) => {
+function Map({ config }) {
   return (
     <>
       <Head>
-        <title>{config?.timeline} | MAMBO Viajero</title>
+        <title>{config.map} | MAMBO Viajero</title>
       </Head>
-      <TimelineComponent config={config} />
+      <MapPage config={config} />
     </>
   );
-};
-
+}
 export const getStaticProps = ({ locale }) => {
   const langCommon = { es: esCommon, en: enCommon };
   const config = langCommon[locale];
@@ -23,4 +22,4 @@ export const getStaticProps = ({ locale }) => {
   };
 };
 
-export default Timeline;
+export default Map;

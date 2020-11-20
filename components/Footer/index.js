@@ -89,7 +89,7 @@ function Footer({ exhibition, config, index, choose }) {
             </ItemOption>
           </Anchor>
         </Link>
-        <Link href="">
+        <Link href="/map">
           <Anchor color={color}>
             <ItemOption>
               <Map />

@@ -65,6 +65,7 @@ export const Option = styled.p`
     font-size: 0.7em;
     margin-left: 0;
     margin-top: 4px;
+    text-align: center;
   }
 `;
 

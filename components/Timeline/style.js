@@ -1,11 +1,11 @@
 import styled, { css } from "styled-components";
 
 export const Container = styled.div`
-  max-width: 1400px;
   height: 100%;
   display: flex;
   margin: 0 auto;
   height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+  position: relative;
 `;
 
 export const ContainerList = styled.div`
@@ -29,13 +29,12 @@ export const ContainerList = styled.div`
   @media screen and (max-width: 768px) {
     width: 100%;
     padding-top: 0;
-    display: none;
   }
 `;
 export const ContainerHeaderTimeline = styled.div`
   display: none;
   height: 60px;
-  background: blue;
+  background: ${({ color }) => color};
   width: 100%;
   justify-content: space-between;
   align-items: center;
@@ -94,6 +93,8 @@ export const ContainerInfo = styled.div`
   height: 100%;
   @media screen and (max-width: 768px) {
     width: 100%;
+    position: absolute;
+    z-index: 999999;
   }
 `;
 export const ContainerEmpty = styled.div`
