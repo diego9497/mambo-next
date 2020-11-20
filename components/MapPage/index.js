@@ -104,6 +104,10 @@ export default function MapPage({ config }) {
             {openList ? <Close /> : <MenuIcon />}
           </HeaderMapIconContainer>
         </HeaderMap>
+        <div className="map">
+          <img src="/image/mapa.png" alt="" />
+          <span>Imagen de referencia</span>
+        </div>
       </ContainerMap>
       {open && (
         <ContainerDetail>

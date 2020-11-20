@@ -23,6 +23,7 @@ export const ContainerList = styled.article`
     margin-left: auto;
     padding-left: 3px;
     background: ${({ color }) => color};
+    z-index: 999999;
   }
 `;
 
@@ -31,6 +32,19 @@ export const ContainerMap = styled.article`
   grid-row: 1/2;
   @media screen and (max-width: 768px) {
     grid-column: 1/-1;
+  }
+
+  .map {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 100%;
+  }
+  img {
+    width: 100%;
+    object-fit: contain;
   }
 `;
 
