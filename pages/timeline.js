@@ -19,7 +19,7 @@ export const getStaticProps = ({ locale }) => {
   const langCommon = { es: esCommon, en: enCommon };
   const config = langCommon[locale];
   return {
-    props: { config },
+    props: { config, index: true },
   };
 };
 

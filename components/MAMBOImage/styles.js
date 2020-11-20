@@ -52,6 +52,7 @@ export const Description = styled.p`
   color: black;
   position: relative;
   max-width: 45%;
+  padding-right: 50px;
 
   @media screen and (max-width: 575px) {
     max-width: 80%;

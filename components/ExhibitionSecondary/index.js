@@ -75,11 +75,11 @@ function ExhibitionSecondary({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <BigFont>
-                <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
-                {didYouKnow}
                 <AudioContainerAlt>
                   <Accessibility />
                 </AudioContainerAlt>
+                <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
+                {didYouKnow}
               </BigFont>
             </MenuContentDetailContainer>
           </>
@@ -98,11 +98,11 @@ function ExhibitionSecondary({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <BigFont>
-                <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
-                {activity}
                 <AudioContainerAlt>
                   <Accessibility />
                 </AudioContainerAlt>
+                <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
+                {activity}
               </BigFont>
             </MenuContentDetailContainer>
           </>
@@ -123,12 +123,12 @@ function ExhibitionSecondary({ exhibition, config }) {
               <QuestionContainer>
                 <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
                 <div>
-                  {questions.map((question) => (
-                    <p>{question}</p>
-                  ))}
                   <AudioContainerAlt>
                     <Accessibility />
                   </AudioContainerAlt>
+                  {questions.map((question) => (
+                    <p>{question}</p>
+                  ))}
                 </div>
               </QuestionContainer>
             </MenuContentDetailContainer>
@@ -156,11 +156,11 @@ function ExhibitionSecondary({ exhibition, config }) {
                     />
                   </ConceptImageContainer>
                   <ConceptInfoContainer>
-                    <h3>{keyConcept.title}</h3>
-                    <span>{keyConcept.content}</span>
                     <AudioContainerAlt>
                       <Accessibility />
                     </AudioContainerAlt>
+                    <h3>{keyConcept.title}</h3>
+                    <span>{keyConcept.content}</span>
                   </ConceptInfoContainer>
                 </ConceptContainer>
               ))}
@@ -175,19 +175,20 @@ function ExhibitionSecondary({ exhibition, config }) {
   return (
     <ContainerDetail id="content2">
       <ContainerTitle>
-        <Title color={color}>{forWhat}</Title>
-      </ContainerTitle>
-      <ContainerContent>
-        <TextContent>
+        <Title color={color}>
           <AudioContainer>
             <Accessibility />
           </AudioContainer>
+          {forWhat}
+        </Title>
+      </ContainerTitle>
+      <ContainerContent>
+        <TextContent>
+          {proposal}
           {forWhatContent}
         </TextContent>
       </ContainerContent>
-      <ContainerContentSecond>
-        <TextContent>{proposal}</TextContent>
-      </ContainerContentSecond>
+      <ContainerContentSecond></ContainerContentSecond>
       <ContainerMenu>
         {didYouKnow && (
           <ItemMenu

@@ -77,7 +77,7 @@ export const RightButton = styled.button`
 export const Description = styled.p`
   margin-top: 10px;
   padding: 20px 20px;
-  padding-right: 60px;
+  padding-right: 50px;
   background: rgba(255, 255, 255, 0.9);
   color: black;
   position: relative;

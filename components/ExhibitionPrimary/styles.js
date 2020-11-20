@@ -42,12 +42,10 @@ export const ContainerImagePrincipal = styled.div`
   border-right: 1px solid var(--borderColor);
 
   & img {
-    filter: grayscale(1);
     position: absolute;
     height: 100%;
     width: 100%;
     object-fit: cover;
-    filter: grayscale(1);
     display: block;
   }
 `;
@@ -176,16 +174,14 @@ export const ImageSecond = styled.img`
 `;
 
 export const AudioContainer = styled.div`
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
+  float: right;
   fill: white;
   stroke: white;
   cursor: pointer;
 `;
 
 export const AudioContainerHistory = styled.div`
-  float: left;
+  float: right;
   cursor: pointer;
   stroke: black;
   padding-right: 10px;

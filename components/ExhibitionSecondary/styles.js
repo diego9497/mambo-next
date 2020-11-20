@@ -44,6 +44,18 @@ export const ContainerContent = styled.div`
   padding: 20px;
   border-right: 1px solid var(--borderColor);
   position: relative;
+  overflow-y: auto;
+
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(202, 202, 202, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(187, 187, 187, 0.3);
+    border-radius: 4px;
+  }
 `;
 export const TextContent = styled.p`
   font-size: 1.1em;
@@ -85,7 +97,6 @@ export const ImageBackground = styled.img`
   object-fit: cover;
   width: 100%;
   height: 100%;
-  filter: grayscale(1);
   z-index: -1;
   @media screen and (max-width: 575px) {
     grid-column: 1/-1;
@@ -236,6 +247,7 @@ export const AudioContainer = styled.div`
 `;
 
 export const AudioContainerAlt = styled.p`
+  float: right;
   fill: white;
   stroke: white;
   cursor: pointer;
