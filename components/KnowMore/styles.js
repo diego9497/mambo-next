@@ -18,7 +18,7 @@ export const Container = styled.div`
     grid-template-areas: "Title" "Information" "Empty0" "Author" "EmptyTw" "EmptyTh";
   }
 `;
-export const ContainerSection = styled.div`
+export const ContainerSection = styled.a`
   position: relative;
   color: ${({ text }) => text};
   :hover {

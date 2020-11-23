@@ -136,7 +136,33 @@
     "activityImg": {
       "src": "/image/mv1/activity.jpg",
       "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
-    }
+    },
+    "knowMore": [
+      {
+        "title": "¿Cómo se hace una curaduría? \nCarolina Ponce de León y Santiago Rueda",
+        "link": "https://www.youtube.com/watch?v=DfxT_lg-DUA",
+        "img": {
+          "src": "/image/mv1/m1.jpg",
+          "alt": "¿Cómo se hace una curaduría? \nCarolina Ponce de León y Santiago Rueda"
+        }
+      },
+      {
+        "title": "Museos y educación.\nEVE Museos. 2018.",
+        "link": "https://evemuseografia.com/2014/05/14/museos-y-educacion/",
+        "img": {
+          "src": "/image/mv1/m2.jpg",
+          "alt": "Museos y educación.\nEVE Museos. 2018."
+        }
+      },
+      {
+        "title": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar.",
+        "link": "https://www.archdaily.co/co/910192/guia-de-arquitectura-moderna-de-bogota",
+        "img": {
+          "src": "/image/mv1/m3.jpg",
+          "alt": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar."
+        }
+      }
+    ]
   },
   {
     "id": 3,
@@ -259,7 +285,17 @@
     "questionImg": {
       "src": "/image/mv3/question.jpg",
       "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Fuente: Wikimedia Commons bajo la licencia CC BY 3.0"
-    }
+    },
+    "knowMore": [
+      {
+        "title": "",
+        "link": "",
+        "img": {
+          "src": "",
+          "alt": ""
+        }
+      }
+    ]
   },
   {
     "id": 4,
