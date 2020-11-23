@@ -23,6 +23,8 @@
       " ¿Por qué los museos buscan salvaguardar memorias diversas para las generaciones futuras?",
       " ¿Cómo puede un museo contribuir a la dignidad humana, la justicia social y el bienestar planetario? "
     ],
+
+
     "didYouKnow": "En tu ciudad tienes el Museo de Arte Moderno de Bogotá - MAMBO, con una colección de más de 4.500 piezas de arte, las cuales hacen parte del patrimonio cultural de nuestro país.",
     "activity": "Mambo Pop Up: Diseña y construye tu museo imaginario con papel y muéstralo a tu clase.",
     "keyConcepts": [
@@ -111,7 +113,16 @@
       {
         "src": "/image/mv1/g5.jpg",
         "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano y John Stringer durante montaje en la sede del Planetario Distrital. Fotografía de Oscar Monsalve."
-      }
+      },{
+      "src": "/image/mv1/did_you_know.jpg",
+      "alt": "Instagram: @mambogota \nFacebook: @fanmambogota\nTwitter: @_mambogota\nYouTube: Museo de Arte Moderno de Bogotá"
+    },{
+      "src": "/image/mv1/question.jpg",
+      "alt": "1978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
+    },{
+      "src": "/image/mv1/activity.jpg",
+      "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
+    }
     ],
     "didYouKnowImg": {
       "src": "/image/mv1/did_you_know.jpg",
@@ -146,6 +157,48 @@
       "¿Por qué fue importante para los artistas de la época cuestionar los ideales de belleza clásicos? ",
       "¿Por qué rebelarse y cuestionarse es importante para la creación artística?",
       "¿Por qué crees que deben existir espacios para la libre expresión?"
+    ],
+    "gallery": [
+      {
+          "src": "/image/mv3/c1.jog",
+          "alt": "Ricardo Acevedo Bernal. Modelo en París, 1889. Fuente: Colección MAMBO."
+        },
+        {
+          "src": "/image/mv3/c2.jpg",
+          "alt": "Salvador Dalí. La venus con cabeza de flechas. Sin fecha. Fuente: Colección MAMBO."
+        },
+        {
+          "src": "/image/mv3/c3.jpg",
+          "alt": "Amelia Peláez. Sin título, 1967. Fuente: Colección MAMBO."
+        },
+
+        {
+          "src": "/image/mv3/c4.jpg",
+          "alt": "Liliana Porter. Rasgadura, 1974. Fuente: Colección MAMBO."
+        },
+        {
+          "src": "/image/mv3/1.jpg",
+          "alt": "Édouard Manet. Olimpia. 1863. Óleo sobre lienzo. Fuente: Fundación Wikimedia bajo la licencia C.C. BY 2.0. "
+        },
+
+         {
+      "src": "/image/mv3/2.jpg",
+      "alt": "Camille Claudel. La Edad Madura. 1899. Bronce. Fuente: Wikimedia Commons bajo la licencia de documentación libre de GNU. "
+    },
+      {
+      "src": "/image/mv3/3.jpg",
+      "alt": "Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo. Fuente: Wikimedia Commons bajo la licencia C.C. BY 2.0 "
+    },
+    {
+      "src": "/image/mv3/did_you_know.jpg",
+      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
+    },
+
+    {
+      "src": "/image/mv3/question.jpg",
+      "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Fuente: Wikimedia Commons bajo la licencia CC BY 3.0"
+    }
+
     ],
     "keyConcepts": [
       {
@@ -235,6 +288,58 @@
       "¿Cómo definirías la identidad nacional?",
       "¿Qué valores tradicionales y modernos identificas en tu familia?",
       "¿Si la moral, las creencias y los valores no son los mismos para todos y todas, cómo se puede llegar a un consenso y evitar la violencia? "
+    ],
+    "gallery": [
+        {
+          "src": "/image/mv4/c1.jpg",
+          "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: Wikimedia Commons bajo la licencia GNU. "
+        },
+        {
+          "src": "/image/mv4/c2.jpg",
+          "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
+        },
+        {
+          "src": "/image/mv4/c3.jpg",
+          "alt": "Autor desconocido. Monumento a los combatiantes de la revolución de Octubre. en Almaty, Kasakhstan. Fuente: Wikimedia Commons bajo dominio público."
+        },
+        {
+          "src": "/image/mv4/c4.jpg",
+          "alt": "Jackson Pollock. Head. 1938-1941. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
+        },
+        {
+          "src": "/image/mv4/c5.jpg",
+          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Fuente: Wikimedia Commons bajo dominio público. "
+        },
+        {
+          "src": "/image/mv4/c6.jpg",
+          "alt": "Autor desconocido. Retrato de Adam Smith. 1800. Fuente: Wikimedia Commons bajo dominio público. "
+        },
+        {
+          "src": "/image/mv4/1.jpg",
+          "alt": "Beatriz Daza. Dos días amarillos. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera. Fuente: Colección MAMBO"
+        },
+         {
+          "src": "/image/mv4/2.jpg",
+          "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO"
+        },
+        {
+          "src": "/image/mv4/3.jpg",
+          "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO"
+        },
+         {
+          "src": "/image/mv4/did_you_know.jpg",
+          "alt": "Sady González. Cadáveres en el cementerio, 9 de abril, Bogotá. 1948. Fuente: Colección MAMBO. "
+        },
+        {
+            "src": "/image/mv4/question.jpg",
+            "alt": "León Ruiz. Sin título. 1981. Fuente: Colección MAMBO. "
+          },
+          {
+            "src": "/image/mv4/activity.jpg",
+            "alt": "Gertjan Bartelsman. Floralba. 1976. Fuente: Colección MAMBO. "
+          }
+
+
     ],
     "proposal": "En esta sección se propone reflexionar sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionales frente a las influencias extranjeras.",
     "keyConcepts": [
@@ -343,6 +448,42 @@
       "¿Qué crees que es arte y qué no?",
       "¿Cuáles son los métodos de investigación de los artistas? "
     ],
+    "gallery": [
+       {
+          "src": "/image/mv5/c1.jpg",
+          "alt": "Mark Goff. Ceremonia de apertura del festival de Woodstock. 1969. Fuente: Wikimedia Commons bajo dominio público. "
+        },
+         {
+          "src": "/image/mv5/c2.jpg",
+          "alt": "Carlos Caicedo. Bogotá, 1975. Fuente: Colección MAMBO. "
+        },
+        {
+          "src": "/image/mv5/c3.jpg",
+          "alt": "Francisco Antonio Cano. Bodegón. 1912. Fuente: Colección MAMBO. "
+        },
+        
+
+      {
+      "src": "/image/mv5/1.jpg",
+      "alt": "Cildo Meireles. Zero cruzeiro. 1974. Litografía. Fuente: Colección MAMBO. "
+      },
+      {
+      "src": "/image/mv5/2.jpg",
+      "alt": "Andy Warhol. Campbell's soup cans. 1962. Edición especial. 2015. Fuente: Wikimedia Commons bajo la licencia Creative Commons Attribution 3.0 Unported."
+      },
+      {
+      "src": "/image/mv5/3.jpg",
+      "alt": "Nancy Holt. Sun Tunnels.  1976. Tubos de cemento agujereados. Fuente: Wikimedia Commons bajo la licencia C.C. 2.0."
+    },
+      {
+      "src": "/image/mv5/did_you_know.jpg",
+      "alt": "Marcel Duchamp. The Fountain. 1917. Fuente: Wikimedia Commons bajo dominio público."
+    },
+    {
+      "src": "/image/mv5/question.jpg",
+      "alt": "Luis Camnitzer. Ventana con paisaje sobre pared empapelada de flores, 1968. Fuente: Colección MAMBO."
+    }
+    ],
     "proposal": "En esta sección se propone reflexionar sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
     "keyConcepts": [
       {
@@ -423,6 +564,46 @@
       "¿Por qué crees que los artistas se manifiestan con obras y acciones disruptivas?",
       "¿Cuáles luchas de los movimientos sociales de los 60 y 70 siguen vigentes y por qué?"
     ],
+    "gallery": [
+      {
+          "src": "/image/mv6/c1.jpg",
+          "alt": "Autor desconocido. Retrato de Gustavo Rojas Pinilla. S,f. Fuente: Wikimedia Commons bajo la licencia CC BY SA 4.0."
+        },
+        {
+          "src": "/image/mv6/c2.jpg",
+          "alt": "Revista Semana. General Gustavo Rojas Pinilla, Presidente de Colombia rodeado por su gabinete. 1956. Fuente: Wikimedia Commons bajo dominio público. "
+        },
+         {
+          "src": "/image/mv6/c3.jpg",
+          "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
+        },
+         {
+      "src": "/image/mv6/1.jpg",
+      "alt": "Feliza Bursztyn. Cuja. 1972. Fuente: Colección MAMBO"
+    },
+     {
+      "src": "/image/mv6/2.jpg",
+      "alt": "Jonier Marín. Papel Y Lápiz.  1976. Fuente: Colección MAMBO"
+    },
+    {
+      "src": "/image/mv6/3.jpg",
+      "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO"
+    },
+    {
+      "src": "/image/mv6/did_you_know.jpg",
+      "alt": "Leo Matiz. Los Rechazados. 1952. Colección del Banco de la República. "
+    },
+     {
+      "src": "/image/mv6/question.jpg",
+      "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
+    },
+     {
+      "src": "/image/mv6/activity.jpg",
+      "alt": ""
+    }
+
+    ],
+
     "proposal": "En esta sección se propone reflexionar sobre la relación entre la contracultura (los movimientos sociales de las décadas de 1960 y 1970) y la creación de nuevas expresiones artísticas en Colombia. ",
     "keyConcepts": [
       {
@@ -504,6 +685,51 @@
       "¿Cuáles crees que son las posibilidades que se presentan al abordar el arte como una práctica transdisciplinar?",
       "¿Cómo afecta la tecnología nuestra relación con el mundo?",
       "¿Cuáles son las oportunidades que ofrecen las obras que involucran al espectador?"
+    ],
+    "gallery": [
+      {
+          "src": "/image/mv7/c1.jpg",
+          "alt": "Blake Patterson. The art of video games exhibition crowd. Fuente: Wikimedia Commons bajo CC BY 2.0"
+        },
+         {
+          "src": "/image/mv7/c2.jpg",
+          "alt": "Internet map. The Opte Project. Fuente: Wikimedia Commons bajo licencia CC BY S.A 2.5"
+        },
+         {
+          "src": "/image/mv7/c3.jpg",
+          "alt": "Interactive whiteboard. Fuente: Wikimedia Commons bajo dominio público. "
+        },
+        {
+          "src": "/image/mv7/c4.jpg",
+          "alt": "Immersive shadow. Fuente: Wikimedia Commons bajo dominio público. "
+        },
+        {
+          "src": "/image/mv7/c5.jpg",
+          "alt": "Le tunnel sous l’atlantique, Moben. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
+        },
+        {
+          "src": "/image/mv7/1.jpg",
+          "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: Wikimedia Commons bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 3.0."
+        },
+    {
+      "src": "/image/mv7/2.jpg",
+      "alt": "Yayoi Kusama. Obsesión de puntos. 1999. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
+    },
+    {
+      "src": "/image/mv7/3.jpg",
+      "alt": "Banksy. Lovers.  2006. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
+    },
+    {
+      "src": "/image/mv7/did_you_know.jpg",
+      "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Fuente: Wikimedia Commons bajo licencia 3.0"
+    },
+    {
+      "src": "/image/mv7/question.jpg",
+      "alt": "Computer chips circuits. 2013. Fuente: Wikimedia Commons bajo dominio público."
+    }
+
+
+
     ],
     "proposal": "En esta sección se propone reflexionar sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador.",
     "keyConcepts": [
@@ -599,6 +825,44 @@
       "¿Cuáles han sido las influencias del arte en la historia de Colombia?",
       "¿Sobre qué temas te gustaría hacer arte hoy?",
       "¿Cómo el arte puede incidir en el cambio de los estereotipos y la discriminación? "
+    ],
+    "gallery": [
+        {
+          "src": "/image/mv8/c1.jpg",
+          "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
+        },
+        {
+          "src": "/image/mv8/c2.jpg",
+          "alt": "Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: Wikimedia Commons bajo licencia CC BY 2.0"
+        },
+        {
+          "src": "/image/mv8/c3.jpg",
+          "alt": "Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
+        },
+        {
+          "src": "/image/mv8/1.jpg",
+          "alt": "Beatriz González. Naturaleza casi muerta. 1970. Esmalte sintético sobre lámina de metal ensamblada en muebles. Fuente: Colección MAMBO"
+        },
+        {
+          "src": "/image/mv8/2.jpg",
+          "alt": "Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO"
+        },
+        {
+          "src": "/image/mv8/3.jpg",
+          "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO"
+        },
+        {
+          "src": "/image/mv8/did_you_know.jpg",
+          "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
+        },
+        {
+          "src": "/image/mv8/question.jpg",
+          "alt": "Clemencia Lucena. Yo no soy un hombre. Yo soy un programa. 1970. Fuente: Colección MAMBO. "
+        },
+        {
+          "src": "/image/mv8/activity.jpg",
+          "alt": "New Orleans Square Caricature Artist Tools. 2014. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.0"
+        }
     ],
     "proposal": "En esta sección se propone reflexionar sobre las expresiones particulares del arte contemporáneo y el papel de los artistas en el contexto social, político y cultural colombiano. ",
     "keyConcepts": [
