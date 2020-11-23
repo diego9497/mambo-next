@@ -22,12 +22,12 @@ const Menu = ({ config, close }) => {
     <Background>
       <Container>
         <Language>
-          <Link href={router.asPath} locale="en" scroll={false}>
-            <Lang active={router.locale === "en"}>EN</Lang>
-          </Link>
-          <p>|</p>
           <Link href={router.asPath} locale="es" scroll={false}>
             <Lang active={router.locale === "es"}>ES</Lang>
+          </Link>
+          <p>|</p>
+          <Link href={router.asPath} locale="en" scroll={false}>
+            <Lang active={router.locale === "en"}>EN</Lang>
           </Link>
         </Language>
         <Options>

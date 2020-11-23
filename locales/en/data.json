@@ -2,6 +2,7 @@
   {
     "id": 1,
     "color": "#3D57D5",
+    "text": "white",
     "title": "MAMBO Pop Up",
     "history": "History of the MAMBO Museum",
     "historyDescription": [
@@ -128,6 +129,7 @@
   {
     "id": 3,
     "color": "#EFB8BC",
+    "text": "black",
     "title": "Modern Art in the World",
     "history": "How modern art came about",
     "historyDescription": [
@@ -212,6 +214,7 @@
   {
     "id": 4,
     "color": "#F7D44A",
+    "text": "black",
     "title": "Modern Art in Colombia",
     "history": "How modern art came about",
     "historyDescription": [
@@ -320,6 +323,7 @@
   {
     "id": 5,
     "color": "#162D1C",
+    "text": "white",
     "title": "Conceptual Art in the World",
     "history": "What is conceptual art?",
     "historyDescription": [
@@ -398,6 +402,7 @@
   {
     "id": 6,
     "color": "#4A8F5C",
+    "text": "white",
     "title": "Conceptual Art in Colombia",
     "history": "Why did conceptual art emerge in Colombia?",
     "historyDescription": [
@@ -481,6 +486,7 @@
   {
     "id": 7,
     "color": "#6133A1",
+    "text": "white",
     "title": "Contemporary Art in the World",
     "history": "Origins of contemporary art",
     "historyDescription": [
@@ -575,6 +581,7 @@
     "id": 8,
     "color": "#9ED1F2",
     "title": "Contemporary art in Colombia",
+    "text": "black",
     "history": "Expressions of contemporary art in Colombia",
     "historyDescription": [
       "Beginning in the 50s, Colombia experienced important social transformations marked by rapid urban growth, caused by displacement and modernization. The new representations of the city were a recurring theme for artists such as Fernell Franco, Carlos Caicedo or Dora Franco, who they used photography artistically, connecting with other areas of visual production such as design, advertising, popular graphics and the media. ",

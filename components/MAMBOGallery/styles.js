@@ -96,3 +96,14 @@ export const AudioContainer = styled.div`
   top: 10px;
   cursor: pointer;
 `;
+
+export const ImageToolTipContainer = styled.div`
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: relative;
+
+  :hover > div {
+    display: flex;
+  }
+`;

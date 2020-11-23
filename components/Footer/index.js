@@ -8,14 +8,14 @@ import {
   ContainerActivities,
 } from "./styles";
 import Before from "../Icons/Before";
-import Activities from "../Icons/Activities";
+import Game from "../Icons/Game";
 import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { useCallback, useState } from "react";
 function Footer({ exhibition, config, index, choose }) {
-  const [openActivities, setOpenActivities] = useState(false);
+  const [openGames, setOpenGames] = useState(false);
 
   const router = useRouter();
   let { title, color, id } = exhibition;
@@ -31,8 +31,8 @@ function Footer({ exhibition, config, index, choose }) {
     }
   }, [router]);
 
-  const clickActivities = () => {
-    setOpenActivities(!openActivities);
+  const clickGames = () => {
+    setOpenGames(!openGames);
   };
   return (
     <ContainerFooter>
@@ -54,30 +54,16 @@ function Footer({ exhibition, config, index, choose }) {
             </Anchor>
           </Link>
         )}
-        <Anchor color={color} onClick={clickActivities} active={openActivities}>
-          {index && (
-            <ItemOption>
-              <Activities />
-              <Option>{config.activity}</Option>
-            </ItemOption>
-          )}
-          {openActivities && (
+        <Anchor color={color} onClick={clickGames} active={openGames}>
+          <ItemOption>
+            <Game />
+            <Option>{config.games}</Option>
+          </ItemOption>
+          {openGames && (
             <ContainerActivities>
-              <Link href="/exhibition/1/detail?content2=true">
-                <a>{config.mv1.title}</a>
-              </Link>
-              <Link href="/exhibition/3/detail?content2=true">
-                <a>{config.mv3.title}</a>
-              </Link>
-              <Link href="/exhibition/4/detail?content2=true">
-                <a>{config.mv4.title}</a>
-              </Link>
-              <Link href="/exhibition/6/detail?content2=true">
-                <a>{config.mv6.title}</a>
-              </Link>
-              <Link href="/exhibition/8/detail?content2=true">
-                <a>{config.mv8.title}</a>
-              </Link>
+              <a>Trivia</a>
+              <a>Rana</a>
+              <a>Runner</a>
             </ContainerActivities>
           )}
         </Anchor>

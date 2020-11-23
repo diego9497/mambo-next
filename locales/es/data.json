@@ -2,6 +2,7 @@
   {
     "id": 1,
     "color": "#3D57D5",
+    "text": "white",
     "title": "MAMBO Pop Up",
     "history": "Historia del Museo MAMBO",
     "historyDescription": [
@@ -128,6 +129,7 @@
   {
     "id": 3,
     "color": "#EFB8BC",
+    "text": "black",
     "title": "Arte Moderno en el Mundo",
     "history": "Cómo surgió el arte moderno",
     "historyDescription": [
@@ -212,6 +214,7 @@
   {
     "id": 4,
     "color": "#F7D44A",
+    "text": "black",
     "title": "Arte Moderno en Colombia",
     "history": "Cómo surgió el arte moderno",
     "historyDescription": [
@@ -320,6 +323,7 @@
   {
     "id": 5,
     "color": "#162D1C",
+    "text": "white",
     "title": "Arte Conceptual en el Mundo",
     "history": "¿Qué es el arte conceptual?",
     "historyDescription": [
@@ -398,6 +402,7 @@
   {
     "id": 6,
     "color": "#4A8F5C",
+    "text": "white",
     "title": "Arte Conceptual en Colombia",
     "history": "¿Por qué surge el arte conceptual en Colombia?",
     "historyDescription": [
@@ -481,6 +486,7 @@
   {
     "id": 7,
     "color": "#6133A1",
+    "text": "white",
     "title": "Arte Contemporáneo en el Mundo",
     "history": "Orígenes del arte contemporáneo",
     "historyDescription": [
@@ -574,6 +580,7 @@
   {
     "id": 8,
     "color": "#9ED1F2",
+    "text": "black",
     "title": "Arte contemporáneo en Colombia",
     "history": "Expresiones del arte contemporáneo en colombia",
     "historyDescription": [

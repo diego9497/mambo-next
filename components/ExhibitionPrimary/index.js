@@ -26,6 +26,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     history,
     historyDescription,
     color,
+    text,
     author,
     authorContent,
     img1,
@@ -49,11 +50,11 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           </TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color}>
-          <AudioContainer>
+          <AudioContainer stroke={text}>
             <Accessibility />
           </AudioContainer>
-          <TitleContentSecond color="white">{author}</TitleContentSecond>
-          <TextContentSecond color="white">{authorContent}</TextContentSecond>
+          <TitleContentSecond color={text}>{author}</TitleContentSecond>
+          <TextContentSecond color={text}>{authorContent}</TextContentSecond>
         </ContentSecond>
         <FirstEmpty />
         <SecondEmpty />

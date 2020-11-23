@@ -114,6 +114,7 @@ export const SubtitleTextContainer = styled.div`
   h3 {
     width: 60%;
     font-weight: normal;
+    color: ${({ text }) => text};
   }
   @media screen and (max-width: 575px) {
     padding: 15px 15px 20px;

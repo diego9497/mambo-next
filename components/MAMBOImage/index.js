@@ -2,6 +2,7 @@ import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Accessibility from "../Icons/Accessibility";
 import Close from "../Icons/Close";
+import Tooltip from "../Tooltip";
 import {
   Image,
   Container,
@@ -10,6 +11,7 @@ import {
   ContainerImage,
   Description,
   AudioContainer,
+  ImageContainer,
 } from "./styles";
 
 export default function MAMBOImage({ src, alt, fit = "cover" }) {
@@ -24,7 +26,10 @@ export default function MAMBOImage({ src, alt, fit = "cover" }) {
 
   return (
     <>
-      <Image src={src} alt={alt} fit={fit} onClick={openModal} />
+      <ImageContainer>
+        <Image src={src} alt={alt} fit={fit} onClick={openModal} />
+        <Tooltip>{alt}</Tooltip>
+      </ImageContainer>
       {open && (
         <ClientPortal selector="#modal">
           <Container>

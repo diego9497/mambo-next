@@ -175,8 +175,8 @@ export const ImageSecond = styled.img`
 
 export const AudioContainer = styled.div`
   float: right;
-  fill: white;
-  stroke: white;
+  fill: ${({ stroke }) => (stroke ? stroke : "white")};
+  stroke: ${({ stroke }) => (stroke ? stroke : "white")};
   cursor: pointer;
 `;
 

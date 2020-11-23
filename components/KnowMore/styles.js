@@ -20,6 +20,7 @@ export const Container = styled.div`
 `;
 export const ContainerSection = styled.div`
   position: relative;
+  color: ${({ text }) => text};
   :hover {
     > div {
       display: initial;
@@ -36,7 +37,6 @@ export const ContainerSection = styled.div`
     grid-area: Information;
     padding: 20px;
     background: ${(props) => props.color};
-    color: white;
     border-right: 1px solid var(--borderColor);
     border-bottom: 1px solid var(--borderColor);
   }
@@ -72,7 +72,7 @@ export const ImageBackground = styled.img`
   object-fit: cover;
 `;
 export const ContainerInfo = styled.div`
-  color: white;
+  color: inherit;
   position: absolute;
   bottom: 0;
   width: 100%;

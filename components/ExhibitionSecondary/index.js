@@ -42,6 +42,7 @@ const menu = {
 function ExhibitionSecondary({ exhibition, config }) {
   const {
     color,
+    text,
     forWhat,
     forWhatContent,
     proposal,
@@ -64,18 +65,18 @@ function ExhibitionSecondary({ exhibition, config }) {
       case menu.DID_YOU_KNOW:
         return (
           <>
-            <MenuContentTitleContainer>
+            <MenuContentTitleContainer text={text}>
               <div>
                 <DidYouKnow />
                 <MenuContentTitle>{config.didYouKnow}</MenuContentTitle>
               </div>
-              <CloseButton onClick={() => changeCurrent("")}>
+              <CloseButton text={text} onClick={() => changeCurrent("")}>
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <BigFont>
-                <AudioContainerAlt>
+                <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
                 <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
@@ -87,18 +88,18 @@ function ExhibitionSecondary({ exhibition, config }) {
       case menu.ACTIVITY:
         return (
           <>
-            <MenuContentTitleContainer>
+            <MenuContentTitleContainer text={text}>
               <div>
                 <Activities />
                 <MenuContentTitle>{config.activity}</MenuContentTitle>
               </div>
-              <CloseButton onClick={() => changeCurrent("")}>
+              <CloseButton text={text} onClick={() => changeCurrent("")}>
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <BigFont>
-                <AudioContainerAlt>
+                <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
                 <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
@@ -110,12 +111,12 @@ function ExhibitionSecondary({ exhibition, config }) {
       case menu.QUESTIONS:
         return (
           <>
-            <MenuContentTitleContainer>
+            <MenuContentTitleContainer text={text}>
               <div>
                 <Questions />
                 <MenuContentTitle>{config.questions}</MenuContentTitle>
               </div>
-              <CloseButton onClick={() => changeCurrent("")}>
+              <CloseButton text={text} onClick={() => changeCurrent("")}>
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
@@ -123,7 +124,7 @@ function ExhibitionSecondary({ exhibition, config }) {
               <QuestionContainer>
                 <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
                 <div>
-                  <AudioContainerAlt>
+                  <AudioContainerAlt text={text}>
                     <Accessibility />
                   </AudioContainerAlt>
                   {questions.map((question) => (
@@ -137,12 +138,12 @@ function ExhibitionSecondary({ exhibition, config }) {
       case menu.CONCEPTS:
         return (
           <>
-            <MenuContentTitleContainer>
+            <MenuContentTitleContainer text={text}>
               <div>
                 <KeyConcepts />
                 <MenuContentTitle>{config.keyConcepts}</MenuContentTitle>
               </div>
-              <CloseButton onClick={() => changeCurrent("")}>
+              <CloseButton text={text} onClick={() => changeCurrent("")}>
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
@@ -156,7 +157,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                     />
                   </ConceptImageContainer>
                   <ConceptInfoContainer>
-                    <AudioContainerAlt>
+                    <AudioContainerAlt text={text}>
                       <Accessibility />
                     </AudioContainerAlt>
                     <h3>{keyConcept.title}</h3>
@@ -193,6 +194,7 @@ function ExhibitionSecondary({ exhibition, config }) {
         {didYouKnow && (
           <ItemMenu
             color={color}
+            text={text}
             onClick={() => changeCurrent(menu.DID_YOU_KNOW)}
           >
             <DidYouKnow />
@@ -200,19 +202,31 @@ function ExhibitionSecondary({ exhibition, config }) {
           </ItemMenu>
         )}
         {activity && (
-          <ItemMenu color={color} onClick={() => changeCurrent(menu.ACTIVITY)}>
+          <ItemMenu
+            color={color}
+            text={text}
+            onClick={() => changeCurrent(menu.ACTIVITY)}
+          >
             <Activities />
             <TextItem>{config.activity}</TextItem>
           </ItemMenu>
         )}
         {questions && (
-          <ItemMenu color={color} onClick={() => changeCurrent(menu.QUESTIONS)}>
+          <ItemMenu
+            color={color}
+            text={text}
+            onClick={() => changeCurrent(menu.QUESTIONS)}
+          >
             <Questions />
             <TextItem>{config.questions}</TextItem>
           </ItemMenu>
         )}
         {keyConcepts && (
-          <ItemMenu color={color} onClick={() => changeCurrent(menu.CONCEPTS)}>
+          <ItemMenu
+            color={color}
+            text={text}
+            onClick={() => changeCurrent(menu.CONCEPTS)}
+          >
             <KeyConcepts />
             <TextItem>{config.keyConcepts}</TextItem>
           </ItemMenu>
@@ -220,7 +234,7 @@ function ExhibitionSecondary({ exhibition, config }) {
       </ContainerMenu>
       <ImageBackground src={img2.src} />
       {current !== "" && (
-        <MenuContentContainer color={color}>
+        <MenuContentContainer color={color} text={text}>
           {renderCurrentItem(current)}
         </MenuContentContainer>
       )}

@@ -15,6 +15,7 @@ import Accessibility from "../Icons/Accessibility";
 const ExhibitionChoose = ({ exhibition, config }) => {
   const {
     title,
+    text,
     history,
     forWhat,
     author,
@@ -39,11 +40,8 @@ const ExhibitionChoose = ({ exhibition, config }) => {
           <SubtitleContainerAnchor>
             <SubtitleBackground src={img1.src} />
             <SubtitleContent>
-              <SubtitleTextContainer color={color}>
+              <SubtitleTextContainer color={color} text={text}>
                 <h3>{history}</h3>
-                <AudioContainer>
-                  <Accessibility />
-                </AudioContainer>
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>
@@ -56,11 +54,8 @@ const ExhibitionChoose = ({ exhibition, config }) => {
           <SubtitleContainerAnchor>
             <SubtitleBackground src={img2.src} />
             <SubtitleContent>
-              <SubtitleTextContainer color={color}>
+              <SubtitleTextContainer color={color} text={text}>
                 <h3>{forWhat}</h3>
-                <AudioContainer>
-                  <Accessibility />
-                </AudioContainer>
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>
@@ -73,11 +68,8 @@ const ExhibitionChoose = ({ exhibition, config }) => {
           <SubtitleContainerAnchor>
             <SubtitleBackground src={img3.src} />
             <SubtitleContent>
-              <SubtitleTextContainer color={color}>
+              <SubtitleTextContainer color={color} text={text}>
                 <h3>{config.more}</h3>
-                <AudioContainer>
-                  <Accessibility />
-                </AudioContainer>
               </SubtitleTextContainer>
               <SubtitleAuthorContainer>
                 <span>{author}</span>

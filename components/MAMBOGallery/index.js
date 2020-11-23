@@ -12,11 +12,13 @@ import {
   RightButton,
   Description,
   AudioContainer,
+  ImageToolTipContainer,
 } from "./styles";
 
 import Next from "../Icons/Next";
 import Previous from "../Icons/Before";
 import Accessibility from "../Icons/Accessibility";
+import Tooltip from "../Tooltip";
 
 export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
   const [open, setOpen] = useState(false);
@@ -47,12 +49,15 @@ export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
 
   return (
     <>
-      <Image
-        src={gallery[index].src}
-        alt={gallery[index].alt}
-        fit={fit}
-        onClick={openModal}
-      />
+      <ImageToolTipContainer>
+        <Image
+          src={gallery[index].src}
+          alt={gallery[index].alt}
+          fit={fit}
+          onClick={openModal}
+        />
+        <Tooltip>{gallery[index].alt}</Tooltip>
+      </ImageToolTipContainer>
       {open && (
         <ClientPortal selector="#modal">
           <Container>

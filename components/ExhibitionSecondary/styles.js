@@ -79,8 +79,8 @@ export const ItemMenu = styled.div`
 
   :hover {
     background: ${({ color }) => color};
-    color: white;
-    fill: white;
+    color: ${({ text }) => text};
+    fill: ${({ text }) => text};
   }
 `;
 export const TextItem = styled.p`
@@ -111,7 +111,7 @@ export const MenuContentContainer = styled.div`
   grid-template-rows: 63px 1fr;
   height: calc(100vh - 2 * var(--headerHeight));
   background: ${({ color }) => color};
-  color: white;
+  color: ${({ text }) => text};
   @media screen and (max-width: 575px) {
     grid-column: 1/-1;
     grid-row: -2/-1;
@@ -128,7 +128,7 @@ export const MenuContentTitleContainer = styled.div`
   & > div {
     display: flex;
     align-items: center;
-    fill: white;
+    fill: ${({ text }) => text};
   }
 `;
 
@@ -233,7 +233,7 @@ export const QuestionContainer = styled.div`
 export const CloseButton = styled.button`
   border: none;
   background: none;
-  fill: white;
+  fill: ${({ text }) => text};
   outline: none;
   cursor: pointer;
   padding: 5px;
@@ -248,7 +248,7 @@ export const AudioContainer = styled.div`
 
 export const AudioContainerAlt = styled.p`
   float: right;
-  fill: white;
-  stroke: white;
+  fill: ${({ text }) => text};
+  stroke: ${({ text }) => text};
   cursor: pointer;
 `;
