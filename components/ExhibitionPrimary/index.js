@@ -20,6 +20,7 @@ import {
 import Accessibility from "../Icons/Accessibility";
 import MAMBOImage from "../MAMBOImage";
 import MAMBOGallery from "../MAMBOGallery";
+import Slider from "react-slick";
 
 export default function ExhibitionPrimary({ exhibition, config }) {
   const {
@@ -32,6 +33,61 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     img1,
     gallery,
   } = exhibition;
+
+  function NextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <div
+        className={className}
+        style={{
+          ...style,
+          display: "block",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "60px",
+          width: "30px",
+          right: 0,
+          background: "rgb(23, 3, 3, .55)",
+          borderRadius: "10px 0 0 10px",
+          zIndex: 99,
+        }}
+        onClick={onClick}
+      />
+    );
+  }
+  function PrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <div
+        className={className}
+        style={{
+          ...style,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "60px",
+          width: "30px",
+          left: 0,
+          background: "rgb(23, 3, 3, .55)",
+          borderRadius: "0 10px 10px 0",
+          zIndex: 99,
+        }}
+        onClick={onClick}
+      />
+    );
+  }
+
+  const settings = {
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
+  };
+
   return (
     <>
       <GridHistory>
@@ -60,13 +116,13 @@ export default function ExhibitionPrimary({ exhibition, config }) {
         <SecondEmpty />
       </GridHistory>
       <GalleryContainer>
-        <Gallery>
+        <Slider {...settings}>
           {gallery?.map((img, index) => (
-            <GalleryImageContainer>
+            <GalleryImageContainer num={index + 1}>
               <MAMBOGallery gallery={gallery} index={index} />
             </GalleryImageContainer>
           ))}
-        </Gallery>
+        </Slider>
       </GalleryContainer>
     </>
   );

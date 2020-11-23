@@ -150,10 +150,11 @@ export const GalleryImageContainer = styled.div`
   width: 33vw;
   min-width: calc(33.333333vw - 25px);
   margin: 10px;
+  padding: 10px;
   & img {
     width: 100%;
+    height: 320px;
     object-fit: cover;
-    filter: grayscale(1);
     display: block;
   }
   @media screen and (max-width: 768px) {
