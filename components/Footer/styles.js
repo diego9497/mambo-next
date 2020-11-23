@@ -118,8 +118,30 @@ export const ContainerActivities = styled.div`
 
   a {
     color: black;
+    font-weight: 500;
     text-decoration: none;
     padding: 10px 25px;
+    cursor: pointer;
+
+    :nth-child(1) {
+      color: #ffcf12;
+      /* :hover {
+        color: black;
+      } */
+    }
+    :nth-child(2) {
+      color: #17331c;
+      /* :hover {
+        color: white;
+      } */
+    }
+    :nth-child(3) {
+      color: #335fd7;
+      /* :hover {
+        color: white;
+      } */
+    }
+
     :hover {
       background: #eeeeee;
     }
