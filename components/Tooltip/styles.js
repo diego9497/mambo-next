@@ -16,7 +16,7 @@ export const Content = styled.div`
   padding: 7px 10px 4px;
   border-radius: 5px;
   line-height: 1em;
-  font-size: 0.95em;
+  font-size: 13px;
 `;
 
 export const Triangle = styled.div`
