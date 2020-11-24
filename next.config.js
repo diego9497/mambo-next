@@ -1,7 +1,12 @@
 const { locales, defaultLocale } = require("./i18n.json");
-module.exports = {
+const withPWA = require("next-pwa");
+
+module.exports = withPWA({
+  pwa: {
+    dest: "public",
+  },
   i18n: {
     locales,
     defaultLocale,
   },
-};
+});
