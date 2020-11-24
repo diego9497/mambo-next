@@ -5,18 +5,35 @@ import {
   ContainerInfo,
   ImageBackground,
   Text,
-  ContentInfo,
+  Subtitle,
+  ReferenceContainer,
+  ReferencesHeader,
+  CloseButton,
+  ReferenceContent,
 } from "./styles";
+
+import Close from "../Icons/Close";
+import { useState } from "react";
 
 function KnowMore({ exhibition, config }) {
   const { color, text, knowMore, img3 } = exhibition;
+  const [open, setOpen] = useState(false);
+
+  const handleOpen = () => {
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+  };
+
   return (
     <Container>
       <ContainerSection>
         <Title color={color}>{config.more}</Title>
       </ContainerSection>
-      <ContainerSection color={color} text={text}>
-        <ContentInfo>Referencias</ContentInfo>
+      <ContainerSection onClick={handleOpen} color={color} text={text}>
+        <Subtitle>{config.references}</Subtitle>
       </ContainerSection>
       <ContainerSection href={knowMore[3]?.link} text={text} target="blank">
         {knowMore[3] ? (
@@ -51,6 +68,27 @@ function KnowMore({ exhibition, config }) {
           <Text>{knowMore[2].title}</Text>
         </ContainerInfo>
       </ContainerSection>
+      {open && (
+        <ReferenceContainer color={color} text={text}>
+          <ReferencesHeader>
+            <h3>{config.references}</h3>
+            <CloseButton onClick={handleClose}>
+              <Close />
+            </CloseButton>
+          </ReferencesHeader>
+          <ReferenceContent>
+            <p>
+              {exhibition?.references?.map((reference) => (
+                <>
+                  <span>{reference}</span>
+                  <br />
+                  <br />
+                </>
+              ))}
+            </p>
+          </ReferenceContent>
+        </ReferenceContainer>
+      )}
     </Container>
   );
 }

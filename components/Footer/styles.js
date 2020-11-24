@@ -11,6 +11,7 @@ export const ContainerFooter = styled.div`
   grid-template-columns: repeat(3, 1fr);
   justify-items: flex-start;
   grid-template-areas: "left left right";
+  z-index: 3;
 
   @media screen and (max-width: 575px) {
     grid-template-columns: 1fr 1fr;

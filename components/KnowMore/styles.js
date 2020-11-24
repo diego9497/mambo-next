@@ -21,6 +21,8 @@ export const Container = styled.div`
 export const ContainerSection = styled.a`
   position: relative;
   color: ${({ text }) => text};
+  cursor: pointer;
+
   :hover {
     > div {
       display: initial;
@@ -92,4 +94,60 @@ export const Text = styled.p`
 export const ContentInfo = styled.p`
   font-weight: 300;
   font-size: 1em;
+`;
+
+export const Subtitle = styled.p`
+  font-size: 2.4em;
+`;
+
+export const ReferenceContainer = styled.article`
+  grid-column: 2/-1;
+  grid-row: 1/-1;
+  background: ${({ color }) => color};
+  color: ${({ text }) => text};
+  fill: ${({ text }) => text};
+  z-index: 1;
+  display: grid;
+  grid-template-rows: 63px 1fr;
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+`;
+
+export const ReferencesHeader = styled.header`
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 25px;
+
+  h3 {
+    font-weight: 300;
+    font-size: 2.6em;
+  }
+`;
+
+export const CloseButton = styled.button`
+  border: none;
+  background: none;
+  cursor: pointer;
+`;
+
+export const ReferenceContent = styled.div`
+  height: 100%;
+  overflow: auto;
+  padding: 15px 25px;
+  font-size: 0.9em;
+
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(202, 202, 202, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(187, 187, 187, 0.3);
+    border-radius: 4px;
+  }
+
+  p {
+    column-count: 2;
+    word-wrap: break-word;
+  }
 `;
