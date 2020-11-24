@@ -57,18 +57,20 @@ export const ContainerSection = styled.a`
   }
 `;
 export const Title = styled.p`
-  font-size: 4em;
+  font-size: 2.8em;
+  line-height: 1em;
   width: 50%;
-  line-height: 50px;
-  color: ${(props) => props.color};
+  text-transform: uppercase;
   font-weight: 300;
+  -webkit-text-stroke: 1px ${(props) => props.color};
+  color: transparent;
+  /* color: ${(props) => props.color}; */
 `;
 
 export const ImageBackground = styled.img`
   position: absolute;
   height: 100%;
   width: 100%;
-  filter: grayscale(1);
   object-fit: cover;
 `;
 export const ContainerInfo = styled.div`

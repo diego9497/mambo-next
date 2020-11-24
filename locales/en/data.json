@@ -136,7 +136,33 @@
     "activityImg": {
       "src": "/image/mv1/activity.jpg",
       "alt": "Museum plans. Designs by Rogelio Salmona. Source: Moreno and Medina (1994. pp.88-92)."
-    }
+    },
+    "knowMore": [
+      {
+        "title": "¿Cómo se hace una curaduría? \nCarolina Ponce de León y Santiago Rueda",
+        "link": "https://www.youtube.com/watch?v=DfxT_lg-DUA",
+        "img": {
+          "src": "/image/mv1/m1.jpg",
+          "alt": "¿Cómo se hace una curaduría? \nCarolina Ponce de León y Santiago Rueda"
+        }
+      },
+      {
+        "title": "Museos y educación.\nEVE Museos. 2018.",
+        "link": "https://evemuseografia.com/2014/05/14/museos-y-educacion/",
+        "img": {
+          "src": "/image/mv1/m2.jpg",
+          "alt": "Museos y educación.\nEVE Museos. 2018."
+        }
+      },
+      {
+        "title": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar.",
+        "link": "https://www.archdaily.co/co/910192/guia-de-arquitectura-moderna-de-bogota",
+        "img": {
+          "src": "/image/mv1/m3.jpg",
+          "alt": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar."
+        }
+      }
+    ]
   },
   {
     "id": 3,
@@ -259,7 +285,33 @@
     "questionImg": {
       "src": "/image/mv3/question.jpg",
       "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Source: Wikimedia Commons under the CC BY 3.0 license"
-    }
+    },
+    "knowMore": [
+      {
+        "title": "Arte Académico.",
+        "link": "https://www.hisour.com/es/academic-art-3023/",
+        "img": {
+          "src": "/image/mv3/m1.jpg",
+          "alt": "Arte Académico."
+        }
+      },
+      {
+        "title": "Vanguardias Europeas.",
+        "link": "https://www.youtube.com/watch?v=vQxNi2MNHhY&ab_channel=AyaAltamirano",
+        "img": {
+          "src": "/image/mv3/m2.jpg",
+          "alt": "Vanguardias Europeas."
+        }
+      },
+      {
+        "title": "Revolución Francesa.",
+        "link": "https://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa",
+        "img": {
+          "src": "/image/mv3/m3.jpg",
+          "alt": "Revolución Francesa."
+        }
+      }
+    ]
   },
   {
     "id": 4,
@@ -418,7 +470,41 @@
     "activityImg": {
       "src": "/image/mv4/activity.jpg",
       "alt": "Gertjan Bartelsman. Floralba. 1976. Source: MAMBO Collection."
-    }
+    },
+    "knowMore": [
+      {
+        "title": "Padilla, C. (2013). El Bogotazo y los artistas colombianos.",
+        "link": "https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/",
+        "img": {
+          "src": "/image/mv4/m1.jpg",
+          "alt": "Padilla, C. (2013). El Bogotazo y los artistas colombianos."
+        }
+      },
+      {
+        "title": "Señal Memoria. (9 de abril de 2020). Recorrido por las vías de Bogotá",
+        "link": "https://www.youtube.com/watch?time_continue=155&amp;v=pKUahH5uT5M&amp;feature=emb_logo",
+        "img": {
+          "src": "/image/mv4/m2.jpg",
+          "alt": "Señal Memoria. (9 de abril de 2020). Recorrido por las vías de Bogotá"
+        }
+      },
+      {
+        "title": "Esguerra, C. (2017, 5 de junio). Andrés de Santa María, un pintor Moderno. El Espectador.",
+        "link": "https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-pintor-moderno/",
+        "img": {
+          "src": "/image/mv4/m3.jpg",
+          "alt": "Esguerra, C. (2017, 5 de junio). Andrés de Santa María, un pintor Moderno. El Espectador."
+        }
+      },
+      {
+        "title": "Rubiano, G. (2016). Pintores colombianos de 1905 a 1933.",
+        "link": "http://www.revistacredencial.com/credencial/historia/temas/pintores-colombianos-de-1905-1933",
+        "img": {
+          "src": "/image/mv4/m4.jpg",
+          "alt": "Rubiano, G. (2016). Pintores colombianos de 1905 a 1933."
+        }
+      }
+    ]
   },
   {
     "id": 5,
@@ -531,7 +617,41 @@
     "questionImg": {
       "src": "/image/mv5/question.jpg",
       "alt": "Luis Camnitzer. Window with landscape on wall covered with flowers, 1968. Source: MAMBO Collection."
-    }
+    },
+    "knowMore": [
+      {
+        "title": "El País (3 de mayo de 2018). ¿Qué ocurrió en Mayo del 68?",
+        "link": "https://www.youtube.com/watch?v=Tp-VXKQuQig",
+        "img": {
+          "src": "/image/mv5/m1.jpg",
+          "alt": "El País (3 de mayo de 2018). ¿Qué ocurrió en Mayo del 68?"
+        }
+      },
+      {
+        "title": "The New York Times (23 de enero de 2015). Black Panthers Revisited | Op-Docs | The New York Times",
+        "link": "https://www.youtube.com/watch?v=qGZpDt6OYnI",
+        "img": {
+          "src": "/image/mv5/m2.jpg",
+          "alt": "The New York Times (23 de enero de 2015). Black Panthers Revisited | Op-Docs | The New York Times"
+        }
+      },
+      {
+        "title": "La Vanguardia (2018, 28 de junio). La rebelión homosexual en el bar Stonewall",
+        "link": "https://www.youtube.com/watch?v=o6zoap0iSFw",
+        "img": {
+          "src": "/image/mv5/m3.jpg",
+          "alt": "La Vanguardia (2018, 28 de junio). La rebelión homosexual en el bar Stonewall"
+        }
+      },
+      {
+        "title": "NBC News (26 de abril de 2016). The Fight for Women&#39;s Rights | Flashback | NBC News [video].",
+        "link": "https://www.youtube.com/watch?v=g2CewziXoDg",
+        "img": {
+          "src": "/image/mv5/m4.jpg",
+          "alt": "NBC News (26 de abril de 2016). The Fight for Women&#39;s Rights | Flashback | NBC News [video]."
+        }
+      }
+    ]
   },
   {
     "id": 6,
@@ -653,7 +773,33 @@
     "activityImg": {
       "src": "/image/mv6/activity.jpg",
       "alt": ""
-    }
+    },
+    "knowMore": [
+      {
+        "title": "Vallejo, V. (2014). A la memoria de Feliza Bursztyn.",
+        "link": "https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn",
+        "img": {
+          "src": "/image/mv6/m1.jpg",
+          "alt": "Vallejo, V. (2014). A la memoria de Feliza Bursztyn."
+        }
+      },
+      {
+        "title": "Al Derecho (2019). Tradición, novedad y escándalo: un prólogo al Salón Nacional de Artistas en su versión 45.",
+        "link": "https://alderecho.org/2019/10/20/tradicion-novedad-y-escandalo-un-prologo-al-salon-nacional-de-artistas-en-su-version-45/",
+        "img": {
+          "src": "/image/mv6/m2.jpg",
+          "alt": "Al Derecho (2019). Tradición, novedad y escándalo: un prólogo al Salón Nacional de Artistas en su versión 45."
+        }
+      },
+      {
+        "title": "Márceles, E. (3 de noviembre de 2018). El Sindicato de Barranquilla: la aventura del arte conceptual.",
+        "link": "https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/",
+        "img": {
+          "src": "/image/mv6/m3.jpg",
+          "alt": "Márceles, E. (3 de noviembre de 2018). El Sindicato de Barranquilla: la aventura del arte conceptual."
+        }
+      }
+    ]
   },
   {
     "id": 7,
@@ -789,7 +935,33 @@
     "questionImg": {
       "src": "/image/mv7/question.jpg",
       "alt": "Computer chips circuits. 2013. Source: Wikimedia Commons under public domain."
-    }
+    },
+    "knowMore": [
+      {
+        "title": "Pinzón, D. (1950). Happening.",
+        "link": "https://proyectoidis.org/happening/",
+        "img": {
+          "src": "/image/mv7/m1.jpg",
+          "alt": "Pinzón, D. (1950). Happening."
+        }
+      },
+      {
+        "title": "Abigail, L. (2014). The“ Princess of the Polka Dots ”Yayoi Kusama. Vice.",
+        "link": "https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama",
+        "img": {
+          "src": "/image/mv7/m2.jpg",
+          "alt": "Abigail, L. (2014). The“ Princess of the Polka Dots ”Yayoi Kusama. Vice."
+        }
+      },
+      {
+        "title": "Hisour (s. f.). Interactive Art. Accessed June 20, 2020.",
+        "link": "https://www.hisour.com/es/interactive-art-21343/",
+        "img": {
+          "src": "/image/mv7/m3.jpg",
+          "alt": "Hisour (s. f.). Interactive Art. Accessed June 20, 2020."
+        }
+      }
+    ]
   },
   {
     "id": 8,
@@ -910,6 +1082,32 @@
     "activityImg": {
       "src": "/image/mv8/activity.jpg",
       "alt": "New Orleans Square Caricature Artist Tools. 2014. Source: Wikimedia Commons licensed under CC BY S.A 3.0"
-    }
+    },
+    "knowMore": [
+      {
+        "title": "",
+        "link": "",
+        "img": {
+          "src": "/image/mv8/3.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "link": "",
+        "img": {
+          "src": "/image/mv8/3.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "link": "",
+        "img": {
+          "src": "/image/mv8/3.jpg",
+          "alt": ""
+        }
+      }
+    ]
   }
 ]

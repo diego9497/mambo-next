@@ -28,7 +28,10 @@ export const ContainerTitle = styled.div`
   border-right: 1px solid var(--borderColor);
 `;
 export const Title = styled.h1`
-  color: ${(props) => props.color};
+  text-transform: uppercase;
+  -webkit-text-stroke: 1px ${(props) => props.color};
+  color: transparent;
+  /* color: ${(props) => props.color}; */
   font-size: 3.2em;
   line-height: 1em;
   font-weight: normal;

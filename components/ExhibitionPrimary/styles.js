@@ -32,7 +32,10 @@ export const Title = styled.h1`
   font-size: 2.8em;
   font-weight: normal;
   line-height: 1em;
-  color: ${(props) => props.color};
+  text-transform: uppercase;
+  -webkit-text-stroke: 1px ${(props) => props.color};
+  color: transparent;
+  /* color: ${(props) => props.color}; */
 `;
 export const ContainerImagePrincipal = styled.div`
   grid-area: imagePrincipal;
