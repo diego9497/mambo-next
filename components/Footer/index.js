@@ -18,7 +18,7 @@ function Footer({ exhibition, config, index, choose }) {
   const [openGames, setOpenGames] = useState(false);
 
   const router = useRouter();
-  let { title, color, id } = exhibition;
+  let { title, color, text, id } = exhibition;
   color = color ? color : config.mv1.color;
 
   const handleBack = useCallback(() => {
@@ -37,7 +37,7 @@ function Footer({ exhibition, config, index, choose }) {
   return (
     <ContainerFooter>
       <LeftContainer>
-        <Anchor onClick={handleBack} color={color}>
+        <Anchor onClick={handleBack} text={text} color={color}>
           {!index && (
             <ItemOption>
               <Before />
@@ -47,14 +47,19 @@ function Footer({ exhibition, config, index, choose }) {
         </Anchor>
         {!index && (
           <Link href={`/exhibition/9/detail`}>
-            <Anchor color={color}>
+            <Anchor text={text} color={color}>
               <ItemOption>
                 <Option>{config.mv9.title}</Option>
               </ItemOption>
             </Anchor>
           </Link>
         )}
-        <Anchor color={color} onClick={clickGames} active={openGames}>
+        <Anchor
+          text={text}
+          color={color}
+          onClick={clickGames}
+          active={openGames}
+        >
           <ItemOption>
             <Game />
             <Option>{config.games}</Option>
@@ -70,7 +75,7 @@ function Footer({ exhibition, config, index, choose }) {
       </LeftContainer>
       <TimeLineMapContainer>
         <Link href="/timeline">
-          <Anchor color={color}>
+          <Anchor text={text} color={color}>
             <ItemOption>
               <TimeLine />
               <Option>{config.timeline}</Option>
@@ -78,7 +83,7 @@ function Footer({ exhibition, config, index, choose }) {
           </Anchor>
         </Link>
         <Link href="/map">
-          <Anchor color={color}>
+          <Anchor text={text} color={color}>
             <ItemOption>
               <Map />
               <Option>{config.map}</Option>

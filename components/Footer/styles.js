@@ -83,8 +83,8 @@ export const Anchor = styled.a`
 
   :hover {
     background: ${({ color }) => color};
-    color: white;
-    fill: white;
+    color: ${({ text }) => (text ? text : "white")};
+    fill: ${({ text }) => (text ? text : "white")};
   }
 
   ${({ active }) =>
