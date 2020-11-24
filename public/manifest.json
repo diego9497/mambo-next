@@ -7,13 +7,14 @@
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "android-chrome-192x192.png",
       "sizes": "192x1192",
       "type": "image/png",
       "purpose": "maskable any"
-    }
+    },
     {
       "src": "android-chrome-512x512.png",
       "sizes": "512x512",
