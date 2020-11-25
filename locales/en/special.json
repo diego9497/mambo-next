@@ -1,16 +1,216 @@
 [
   {
     "id": 2,
-    "color": "#ED4040",
-    "title": "MAMBO Traveler Exhibition",
-    "history": "Visit the exhibition of the traveling mambo - The Art of Disobedience",
+    "color": "# ED4040",
+    "withPrimary": true,
+    "title": "The Art of Disobedience",
+    "description": "The exhibition The Art of Disobedience aims to take a look at the emergence of contemporary art in Colombia through the collection of the Museum of Modern Art in Bogotá, with a selection of more than a hundred works made between 1965 and 1984. This period was marked by the break with modernism and, with it, by important transformations in artistic practices and the territories of the arts, which were extended to consider processes and ideas as works in themselves. \n Two moments of The history of the Museum opens and closes the period covered by the exhibition: its installation at the National University (1965) and the celebration of the last Salón Atenas (1984). During those years, the Museum was an epicenter of the country's artistic movement by connecting actively with the Museums of Modern Art of Cali, Medellín and Barranquilla, becoming an important platform for Colombian artists. \n In the period covered by the exhibition, a prevalence of c, the increasingly punitive nature of a restricted democracy in contrast to the strength of a youth, which constellated with the world cultural movements of those years, did not ask permission to tear down idols and create a new order of things. \n The works that They are part of The Art of Disobedience and they go to direct provocation to question the established order or to transgress values ​​that did not respond to the change that was operating in the world through black humor and 'undisciplined' play. Graphics, photography and video became prolific matrices to abolish the hegemony of modernism and allowed a solid and critical connection with other areas of visual production such as design, advertising, popular graphics and the mass media. especially television. A trend towards non-object works and performance began. However, this experimental horizon also manifested itself in radical transformations in the practice of traditional artistic media such as painting. \n The creative horizons of the time grew strongly linked with the spaces of daily life in their domestic, private and public. The city, and especially the popular and marginal facets of the urban, emerged as a strong nucleus of artistic and political experimentation. \n In the field of local art, disobedience or contempt for authority was assumed as an ironic or provocative game that challenged power in different spheres: state, political, family, educational, sexual, religious and others. And it was, without a doubt, a way of resisting, of opposing the power of language, image and gesture, to the overwhelming physical and symbolic force of the institutions that were projected as oppressive and immovable. The Museum of Modern Art gave carte blanche to an art that was characterized by being critical and which opened a new chapter in the country's art history. \n The curatorship multiplies the readings of the collection in the observed historical context, based on three tactics: first, the exhibition includes some interventions that will take place throughout it, in order to activate the dialogue between the museum's present and past; these works ",
+    "history": "Visit the exhibition of the traveling mambo - The Art of disobedience",
     "historyDescription": [
-      "In this section it is proposed that teachers and students visit the exhibition The Art of Disobedience, which shows works produced between 1964 and 1985 by modern and contemporary artists who are part of the MAMBO collection. This exhibition was held in the Museum in 2018, then it became a traveling exhibition with a selection of 45 works that have been exhibited in different locations in Bogotá "
+      "In this section it is proposed that teachers and students visit the exhibition The Art of Disobedience, which shows works produced between 1964 and 1985 by modern and contemporary artists that are part of the MAMBO collection. This exhibition was held in the Museum in 2018, later it was transformed into a traveling exhibition with a selection of 45 works that have been exhibited in different locations in Bogotá "
     ],
-    "author": "",
-    "authorContent": "",
-    "forWhat": "",
-    "forWhatContent": "",
+    "content": [
+      {
+        "title": "Concrete",
+        "description": "The projection of a modern city was one of the engines of development for the country during the twentieth century, which implied a totally new visual imaginary. The artists presented in this chapter reveal this new interest in the subject urban: from architecture in its most modern and vernacular manifestations to a very specific look at its forms, patterns and materials. The city in constant crisis and mutation was a territory for artistic exploration. From the visual arts, it was sought to inhabit 'the invisible cities' , Unveiling its margins and interpreting the footprints, signs and signs inscribed on the pavement, in the ornaments, the ruins, and in the lives of its own inhabitants. \nThis search involved working with a new range of materials from its own cities such as brick, cement dust, sand, iron and glass on the one hand, and visual references such as borders, vwindows and frames, traffic signs, and urban icons, on the other. In many cases, these elements were represented under the parameters of photorealism that was very much in vogue in the seventies. The conceptual use of photography, graphics and other means of serial production such as photocopying and blueprints were key in this experimentation. \nArchitecture was assumed as a space for art and the artists started from the experience with the environment built in installations or in the then called environmental spaces. The artists also left the traditional exhibition frameworks such as galleries and museums, and the street was the scene for interventions and happenings. It was imperative to achieve an art that is more open and closer to people and the relationship with the urban experience was the perfect excuse. ",
+        "gallery": [
+          {
+            "alt": "Yellows and reds (1981) by Pedro Ramos Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g1.jpg"
+          },
+          {
+            "alt": "Cables (1978) by Jorge Ortiz Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g2.jpg"
+          },
+          {
+            "alt": "Hello loneliness by Oscar Muñoz Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g3.jpg"
+          },
+          {
+            "alt": "Luna papel (1979) by Adolfo Bernal Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/1g4.jpg"
+          },
+          {
+            "alt": "Your love doesn't suit me (1978) by María de la Paz Jaramillo Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/1g5.jpg"
+          },
+          {
+            "alt": "Bogotá (1972) by Carlos Caicedo Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g6.jpg"
+          },
+          {
+            "alt": "Atenas (1975) by Miguel Ángel Rojas Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g7.jpg"
+          },
+          {
+            "alt": "Window (1978) by Ana Mercedes Hoyos Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g8.jpg"
+          },
+          {
+            "alt": "Interior series (1983) by Fernell Franco Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g9.jpg"
+          },
+          {
+            "alt": "Mirror (1980) by María Elena Bernal Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g10.jpg"
+          },
+          {
+            "alt": "Buses 1 (1979) by Elena Mogollón Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g11.jpg"
+          },
+          {
+            "alt": "Untitled (1982) by Luz Helena Castro Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/1g12.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Gods and Heroes",
+        "description": "In the period covered by this exhibition (1965-1984), the assumptions that until then governed the representation of the world began to crumble. The offensive against the institutions that held political and religious power was echoed in the figures The MAMBO collection has significant works by artists who demolished idols in a provocative and playful way, not without sarcasm. \nIn Dioses y héroes, irony is also directed at those values ​​that built the notion of national identity based on the cliché or on models of perception that adorned the critical sense and that used traditional iconography, kitsch and the media to hinder any contempt. \nIn these works we find questions about the traditional notion of history and its well-known heroes, to traditional governments and their politicians, to the idea of ​​a Nation that represents a few and to the icons that link They combine religion with the idea of ​​a nation. They also pointed with acid humor to established art and its institutions (museums, curators, critics, canonical works) and to Capital and its consumer products. As a counterproposal, the figure of the anti-hero was valued as an imperfect being and always devoid of extraordinary qualities. \nTo formulate their diatribe, various artists resorted to non-traditional and even anti-artistic means and systems of representation, coming in many cases from culture popular. Although they are represented in a more reduced way in the collection, it is worth mentioning other artists, also disobedient, who had their combat tool in the engraving. They resisted the governments of the time - in the hands of the traditional parties - and questioned the prevailing values ​​on the social and political levels. Many of these engravers were sympathizers or militants in opposition groups ",
+        "gallery": [
+          {
+            "alt": "Untitled (1973) by Diego Arango and Nirma Zárate Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/2g1.jpg"
+          },
+          {
+            "alt": "The church is in danger (1976) by Beatriz González Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g2.jpg"
+          },
+          {
+            "alt": "El supermantel (1984) by Marta Elena Vélez Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g3.jpg"
+          },
+          {
+            "alt": "I am the king and I love the law (1973) by Luis Paz Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/2g4.jpg"
+          },
+          {
+            "alt": "The new image of Colombia (1979) by Juan Camilo Uribe Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g5.jpg"
+          },
+          {
+            "alt": "Colombia Colombia (1976) by Antonio Caro Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g6.jpg"
+          },
+          {
+            "alt": "First lesson (1970) by Bernardo Salcedo Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g7.jpg"
+          },
+          {
+            "alt": "Declaration of love to Venezuela Declaration of love to Venezuela (1976) by Juan Camilo Uribe Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g8.jpg"
+          },
+          {
+            "alt": "I am not a man. I am a program (1970) by Clemencia Lucena Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/2g9.jpg"
+          },
+          {
+            "alt": "Colombia Colombia (1976) by Antonio Caro Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/2g10.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Satisfaction not satisfaction",
+        "description": "Around the sixties the youth began a rebellion that did not turn back: the insurrection of the bodies. Eroticism, sexuality and gender were issues that passed from the private to the public sphere. ' The personal is political ', one of the slogans of the time formulated by feminists was extended to the various expressions of the genders. The incidence of institutions on sexuality and therefore on private life was questioned - and disobeyed. . \nA rebellion arose against the institutions that controlled the bodies, and desire as the motor power of life began to be the protagonist in art, philosophy and of course, in life. The constellation: Satisfaction not satisfaction, gives an account of the body-desire relationship on the part of some Colombian artists of the period. \nThe plastic arts gave testimony to the dissolution of borders in the most diverse spheres of life. Specifically in this chapter, it is observed how the They introduced sex and gender, and how young artists made their sexual preferences visible, which often subverted the norm. \nIn this period, women also started another revolution without return: they proclaimed themselves masters of their bodies. They questioned the role that had been assigned to them in society and went from being an object of desire to a desiring subject. Likewise, sexual freedom was proclaimed and practiced and the artists represented with irony the love stories based on the roles of romantic love. The body, in its various erotic and eschatological manifestations, also found a place in the arts. ",
+        "gallery": [
+          {
+            "alt": "A Morales, series 24 drawings per second (1982) by Karen Lamassone Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/3g1.jpg"
+          },
+          {
+            "alt": "Untitled (1977) by Julia Acuña Guillen Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/3g2.jpg"
+          },
+          {
+            "alt": "This photograph is my proof (1975) by Duane Michals Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/3g3.jpg"
+          },
+          {
+            "alt": "Disturbing intimacy Disturbing intimacy (1971) by Arnulfo Luna Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/3g4.jpg"
+          },
+          {
+            "alt": "Cuja (1972) by Feliza Bursztyn Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/3g5.jpg"
+          },
+          {
+            "alt": "Portrait of a Woman with clothes and a basket next to it ... by León Ruiz Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/3g6.jpg"
+          },
+          {
+            "alt": "Rose of the winds Rose of the winds (1983) by Rosa Navarro Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/3g7.jpg"
+          },
+          {
+            "alt": "Corazones (1977) by Miguel Ángel Rojas Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/3g8.jpg"
+          },
+          {
+            "alt": "The martyrdom of San Sebastian 1 (1980) by Álvaro Barrios Museo de Arte Moderno de Bogotá.MAMBO ",
+            "src": "/image/mv2/3g9.jpg"
+          },
+          {
+            "alt": "The dark night (1977) by Luis Caballero Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/3g10.jpg"
+          },
+          {
+            "alt": "Self-portrait Self-portrait (1987) by Dora Franco Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/3g11.jpg"
+          }
+        ]
+      },
+      {
+        "title": "This is not Art",
+        "description": "The veracity of the modern art equation ** genius artist / original artistic language ** was questioned in the most different ways, from making the artist's own existence (his writing, his signature, his blood, of his image) the sustenance of the work, until he camouflaged himself under the figure of the cultural journalist, the artisan, or even disappear as an author and appear through language games. \n The approach to the philosophy of language and Interpretation of the iconoclastic horizon indicated by conceptual art made evident the crucial function of language in the social construction of reality, and showed that it did not fulfill its communicative task with transparency nor was it an innocuous means for the construction of knowledge, but rather opaque, relative and inherently tendentious. Communicative acts are imperfect and nothing can be read univocally: this margin of error, this instability of the message, became a medium for artists, who created meaningful games to deconstruct and restructure reality. \n The artists chose to question the traditional role they had played in society and with which they felt uncomfortable. The art of disobedience required attitudes and gestures rather than 'finished' works, and a whole range of new strategies entered the creative process. For this, the appropriation of seemingly banal and everyday elements and circumstances was essential, which allowed to subvert the modes of operation of modern art. \n The entry of art schools into the university sphere generated a fruitful identity crisis for the artists who led to research on various fields of knowledge, especially those of the human and social sciences. Contact with philosophy reconsidered his relationship with language; the principles and methods of observation of ethnography and sociology provided new ways of analyzing social phenomena as well as tools for documenting everyday social practices. These processes allowed artists to return enriched to their practice and prompted the questioning of their own role in society, as well as the role of critics, the public and the art market. The conceptualist experiments were deeply connected, not only with the artistic movements that stood out in the international art circuits, but above all with the depths of the "Creole" idiosyncrasy and with the different elements of popular culture. ",
+        "gallery": [
+          {
+            "alt": "Cupboard with shoes Cupboard with shoes (1978) by Grupo El Sindicato Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/4g1.jpg"
+          },
+          {
+            "alt": "Cupboard with shoes Cupboard with shoes (1978) by Grupo El Sindicato Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/4g2.jpg"
+          },
+          {
+            "alt": "Cuenta Cuenta (1969) by Bernardo Salcedo Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/4g3.jpg"
+          },
+          {
+            "alt": "La soupe de Daguerre (Daguerre's soup) (1975) by Marcel Broodthaers Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/4g4.jpg"
+          },
+          {
+            "alt": "Window with landscape on wallpaper (1978) by Luis Camnitzer Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/4g5.jpg"
+          },
+          {
+            "alt": "Original in my own handwriting by Carlos Echeverry Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/4g6.jpg"
+          },
+          {
+            "alt": "Untitled Untitled (1976) by Enríque Hernández Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/4g7.jpg"
+          },
+          {
+            "alt": "Trampa Trampa (1980) by Fernando Cepeda Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/4g8.jpg"
+          },
+          {
+            "alt": "Morning witness (self-portrait) (1976) by Camilo Lleras Museum of Modern Art of Bogotá. MAMB",
+            "src": "/image/mv2/4g9.jpg"
+          },
+          {
+            "alt": "Pencil and paper (1976) by Jonier Marín Museum of Modern Art of Bogotá. MAMBO",
+            "src": "/image/mv2/4g10.jpg"
+          },
+          {
+            "alt": "Mental Scores Urban Landscape project, ca ... (1976) by Gustavo Sorzano Museum of Modern Art of Bogotá. MAMBO ",
+            "src": "/image/mv2/4g11.jpg"
+          }
+        ]
+      }
+    ],
     "previous": {
       "id": 1,
       "title": "MAMBO Pop U"
@@ -22,21 +222,111 @@
   },
   {
     "id": 9,
-    "color": "#1A1A1A",
+    "color": "# 1A1A1A",
+    "withPrimary": false,
     "title": "New media",
-    "history": "Expressions of Contemporary Art in Colombia",
-    "historyDescription": [
-      "READY MADE",
-      "PERFORMANCE",
-      "FOTOGRAFÍA",
-      "VIDEO",
-      "INSTALACIÓN",
-      "GRÁFICA"
+    "content": [
+      {
+        "title": "ready made",
+        "description": "The ready-made is known as“ found object ”in Spanish. It is a technique in which the artist uses everyday objects, changes their context or intervenes to create a work of art. Marcel Duchamp was the first artist to use this technique when introducing a chamber pot into a gallery and presenting it as a work of art. In Colombia one of the most important references of this practice is Álvaro Barrios, who from a very young age began to use objects such as household utensils in his sculptures. toys, portraits and reproductions of other works of art history. In his drawings and paintings he uses images from comics, popular culture and history to re-signify them. ",
+        "gallery": [
+          {
+            "alt": "El Sindicato Group. Ramiro Gómez, Carlos Restrepo, Alberto del Castillo, Efraín Arrieta, Aníbal Tobón and Guillermo Aragón. A-dinner with shoes. 1979. Source: MAMBO Collection.",
+            "src": "/image/mv9/1g1.jpg"
+          },
+          {
+            "alt": "Natalia Rivera. The finalists. 1980. Source: MAMBO Collection. Natalia Rivera (Bogotá, 1953) uses everyday objects to make installations. In this work she reconstructs a scene from a beauty reign with pairs of heels, questioning the viewer on the stereotypes of the female body. ",
+            "src": "/image/mv9/1g2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Performance",
+        "description": "Performance, also known as Action Art, is a category of works of art where the medium used is the body of the artist, who performs one or more individual actions or with the participation of the public. Although the term begins to be used officially in the 70s in the United States, examples of performative art have been known since the beginning of the 20th century, such as the Dadaist cabarets who combined poetry, music and visual arts. Performance art in Colombia reached its peak during the years 80 with experimental proposals such as those of María Evelia Marmolejo, who radically expressed her feminist stance and her ideas about art and politics. In 1990 the National Artists Salon awarded the prize to One thing is one thing and another thing is another. thing by María Teresa Hincapié, where the artist ceremonially displayed a series of domestic and intimate objects. This was the first official recognition of performance in Colombia. ",
+        "gallery": [
+          {
+            "alt": "María Evelia Marmolejo. Anonymous 1. 1981. Source: MAMBO Collection. \nMaria Evelia Marmolejo (Pradera, Colombia, 1958) is an artist who since the 1980s has used her body as a tool for creation and communication of her denunciations against oppression and violence. Her marked feminist, environmentalist and antimilitarist character has defined her works as radicals and activists. ",
+            "src": "/image/mv9/2g1.jpg"
+          },
+          {
+            "alt": "Fernando Cepeda. Trap. 1980. Photographic record of Oscar Monsalve. Source: MAMBO Collection. \nFernando Cepeda (sf) made MAMBO her home for two weeks. Cepeda built a kind of cell on the first floor of the Museum. exposing his private life to all visitors The photographer Oscar Monsalve periodically recorded the artist's stay at the Museum while brushing his teeth, before sleeping, during his reading hours, etc. These photographs were pasted on a wall outside the cell and in this way the visitors could see the artist's day-to-day life. ",
+            "src": "/image/mv9/2g2.jpg"
+          },
+          {
+            "alt": "Fernando Arias. Who gives more? 1997. Source: Mambo Collection. Fernando Cepeda (sf) made MAMBO his home for two weeks. Cepeda built a kind of cell on the first floor of the Museum, exposing his life private to all visitors. The photographer Oscar Monsalve periodically recorded the artist's stay in the Museum while brushing his teeth, before sleeping, during his reading hours, etc. These photographs were pasted on a wall outside the cell and from this visitors were able to see the artist's day-to-day life. ",
+            "src": "/image/mv9/2g3.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "description": "The invention of photography in 1820 and its rapid expansion made it a tool to document reality and prompted artists to exalt their own and individual gazeity. In the 20th century, several artists took up the use of photography in their works, experimenting with other techniques and exploring new themes. Photography in Colombia was not considered "art" for many years because it was considered an operational task that was based on the correct use of a machine (the camera). However, around the 1970s, artists such as Fernell Franco, Jorge Ortiz and Elena Mogollón began to use photography to investigate, document their urban context and communicate their ideas. ",
+        "gallery": [
+          {
+            "alt": "Fernell Franco. From the interior series. Intervened black and white photography. 1983. Source: MAMBO Collection. Fernell Franco (Versalles, Colombia, 1942-2006) develops his work mainly around the urban life of Cali in the 1970s. In the city he captures images of the streets, prostitutes, billiards, demolitions, houses, festivals and bicycles. In this particular series he records interior spaces of places where he lived and worked, through analog photography in black white and then manually intervenes with color. ",
+            "src": "/image/mv9/3g1.jpg"
+          },
+          {
+            "alt": "Rosa Navarro. Rosa de los Vientos series. Color photography. 1983. Source: MAMBO Collection. Rosa Navarro (Barranquilla, Colombia, 1955) is a conceptual artist interested in language, her work starts from the exploration of her name as the central theme of her work. This series of self-portraits is a sample of the play of meanings with the word rose. ",
+            "src": "/image/mv9/3g2.jpg"
+          },
+          {
+            "alt": "Ana Adarve. Detection 1. 2005. Digital photography. Source: MAMBO Collection. Ana Adarve (Bogotá, Colombia, 1976) is a Colombian artist who has stood out in recent years for her work with digital photography. He does meticulous photomontage work with which he composes large-format panoramic photographs of the urban space. ",
+            "src": "/image/mv9/3g3.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Video",
+        "description": "In 1961 the fluxus movement arose in the United States that sought the fusion of all artistic practices: music, action, plastic arts. Artists such as John Cage and Nam June Paik who were part of this movement were the The first to experiment with video and the television set within their sculptures and installations. The appearance of video radically altered the progress of art, allowing artists to document their processes easily due to its low price and accessibility. In the 1980s the Video art in Colombia was consolidated as a new artistic practice, the artists experimented with other creative areas such as cinema and theater, with moving images, homemade audiovisual devices and television images. ",
+        "gallery": [
+          {
+            "alt": "Mario Opazo (Tomé, Chile, 1969) Emigrated as a result of the dictatorship to Colombia. He has received several awards for his artistic work. His work includes installations, videos, performance and drawings, with which he creates poetic works such as acts of resistance that allude to memory and displacement. In this action carried out on a beach in Magdalena Medio, his interest in video-performance is evidenced. ",
+            "src": "/image/mv9/4g1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Installation",
+        "description": "Fluxus member Alan Kaprow coined the term installation in 1958 to refer to a work he made in his own home in which he filled the space with objects. In the following years, this practice became popular among conceptual artists like Eva Hesse and Joseph Kosuth, among others. The installation is understood as the expansion of the sculpture where the object stops being exposed on a pedestal to relate to the space and the viewer. The artist uses different media such as light, sound or architecture to create immersive or contemplative environments. In the history of the installation in Colombia, the exhibitions Espacios Ambientales (1968) and Luz, Sonido, Movimiento (1969) of the MAMBO marked the beginning of this type of works. ",
+        "gallery": [
+          {
+            "alt": "Miguel Ángel Rojas. Grain, the time tunnel. 2018. Reconstruction that was presented in the Project Room in 1981. Coal dust, stones and sand. Source: MAMBO Collection. Miguel Ángel Rojas (Bogotá, Colombia , 1946) is one of the most important artists in the country. Observation of the architecture of the 19th and 20th centuries has been one of the sources of inspiration for his work. In this installation the artist reconstructs cement tiles using charcoal and sand of the floor of his grandparents' house in Girardot, the place where he lived his childhood. The installation speaks of the subtlety of memory through the material that fades throughout theexposition.",
+            "src": "/image/mv9/5g1.jpg"
+          },
+          {
+            "alt": "Santiago Cárdenas. Environmental Spaces II, Tribute to Marta Traba. 2006. Source: MAMBO Collection. Santiago Cárdenas (Bogotá, Colombia, 1937) is recognized as an exponent of contemporary painting for retaking and deepening realism. In this installation, the artist uses paint to recreate unreal spaces that play with the viewer's perception. This work was first produced in the exhibition Espacios Ambientales del MAMBO in 1968. ",
+            "src": "/image/mv9/5g2.jpg"
+          },
+          {
+            "alt": "Elías Heim. The Master of Celán. 1992. Air conditioning duct, aluminum grilles and refrigeration unit. Source: MAMBO Collection. Elías Heim (Cali, Colombia, 1966) is recognized for his on-site installations, incorporating facts and situations from the assembly site. Heim's works blend with architecture using industrial technologies and materials, such as this work in which he draws a skull with aluminum grilles connected to an air conditioner. ",
+            "src": "/image/mv9/5g3.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Graphic",
+        "description": "Since the invention of the European printing press by Gutenberg, printing has played an essential role in recent history. Initially, printing was used in the writing of books and the media, giving rise to the first expressions of the graphic design with the creation of posters in the 19th century and political propaganda. In the 20th century, visual culture is influenced by popular graphics, North American pop and the creation of its own visual identity. Graphic arts are popularized in Colombia in the 70s, particularly drawing and engraving as means of artistic expression.As a result of the first biennials and contests that were given by the influence of other Latin American countries, artists introduced new forms of image reproduction such as the serigraphy and the printed media In these decades, artists such as Nirma Zárate and Diego Arango or Juan Camilo Uribe used the graphic arts to spread messages. critics and revolutionaries, in many cases reinterpreting images from advertising and the media. ",
+        "gallery": [
+          {
+            "alt": "Luna Papel, Shirt Bicycle, Lover Chicago, Frog Rider. Adolfo Bernal. 1979. Offset Printing. Source: MAMBO Collection. Adolfo Bernal (Medellín, 1954) is an artist who addresses the urban context and its interactions. He studied typographies meticulously, turning words into images. This work installed in the public space proposes posters with words without an apparent relationship, which opens up possibilities of interpretation for each passerby. ",
+            "src": "/image/mv9/6g1.jpg"
+          },
+          {
+            "alt": "Antonio Caro. Colombia Coca-Cola. 1976. Lithography. Source: MAMBO Collection. Antonio Caro (Bogotá, Colombia, 1950) is one of the most important conceptual artists in Colombia. His works reflect a high political and social expression expressed through humor and irony. Caro contradicted the artistic parameters of the time by using popular images, unconventional materials and techniques. This lithograph is one of the most important works of conceptual art, since in it the artist appropriates the Coca-Cola logo to generate a reflection on imperialism. ",
+            "src": "/image/mv9/6g2.jpg"
+          },
+          {
+            "alt": "Nirma Zárate and Diego Arango. Colombian History by Esso. 1973. Serigraph. Source: MAMBO Collection. Nirma Zárate (Bogotá, 1936-1999) and Diego Arango (Medellín, 1946) were founders of Taller 4 Rojo, uno one of the most important artistic groups for graphic and critical production in the country. This work reflects their interest in denouncing imperialism with suggestive and symbolic images. ",
+            "src": "/image/mv9/6g3.jpg"
+          },
+          {
+            "alt": "Gustavo Sorzano. Landscape, from the series Mental scores, momentum 43 participation event. 1974. Offset printing. Source: MAMBO Collection. Gustavo Sorzano (Bucaramanga, Colombia, 1944) was interested in actively involving the viewer . In this work it reproduces in serigraphy and offset printing art icons such as the Mona Lisa, modifying its color, format and technique to give it a popular character, leaving a blank space for the viewer to intervene. ",
+            "src": "/image/mv9/6g4.jpg"
+          }
+        ]
+      }
     ],
-    "author": "Natalia Rivera",
-    "authorContent": "Use everyday objects to make installations. In this work he reconstructs a scene from a beauty reign with three pairs of heels, questioning the viewer about the stereotypes of the female body.",
-    "forWhat": "New media today?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the new media in contemporary art, identifying its historical origin and its appearance in Colombia.",
     "previous": {
       "id": 8,
       "title": "Contemporary art in Colombia"
