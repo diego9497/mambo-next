@@ -36,7 +36,7 @@ const Menu = ({ config, close }) => {
               {config.mv1.title} <Next size={22} />
             </OptionContent>
           </li>
-          <li onClick={() => onClick("/")}>
+          <li onClick={() => onClick("/special/2")}>
             <OptionContent color={config.mv2.color}>
               {config.mv2.title} <Next size={22} />
             </OptionContent>
@@ -71,7 +71,7 @@ const Menu = ({ config, close }) => {
               {config.mv8.title} <Next size={22} />
             </OptionContent>
           </li>
-          <li onClick={() => onClick("/exhibition/9")}>
+          <li onClick={() => onClick("/special/9")}>
             <OptionContent color={config.mv9.color}>
               {config.mv9.title} <Next size={22} />
             </OptionContent>
