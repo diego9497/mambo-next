@@ -12,6 +12,8 @@ import {
   Description,
   AudioContainer,
   ImageContainer,
+  GridAux,
+  ImageAux,
 } from "./styles";
 
 export default function MAMBOImage({ src, alt, fit = "cover" }) {
@@ -34,13 +36,17 @@ export default function MAMBOImage({ src, alt, fit = "cover" }) {
         <ClientPortal selector="#modal">
           <Container>
             <ContainerImage>
-              <ModalImage src={src} />
-              <Description>
-                {alt}
-                <AudioContainer>
-                  <Accessibility />
-                </AudioContainer>
-              </Description>
+              <GridAux>
+                <ImageAux>
+                  <ModalImage src={src} />
+                </ImageAux>
+                <Description>
+                  {alt}
+                  <AudioContainer>
+                    <Accessibility />
+                  </AudioContainer>
+                </Description>
+              </GridAux>
             </ContainerImage>
             <CloseContainer onClick={closeModal}>
               <Close />

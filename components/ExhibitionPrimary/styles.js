@@ -76,6 +76,7 @@ export const ContentHistory = styled.div`
   }
 `;
 export const TextContentHistory = styled.p`
+  white-space: pre-wrap;
   font-size: 1.17em;
   color: black;
 `;

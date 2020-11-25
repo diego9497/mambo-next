@@ -9,6 +9,7 @@ export const GalleryContainer = styled.div`
   @media screen and (max-width: 575px) {
     grid-column: 1/-1;
     grid-row: -2/-1;
+    height: 70vh;
   }
 
   ${({ invert }) =>

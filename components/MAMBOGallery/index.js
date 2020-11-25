@@ -13,6 +13,8 @@ import {
   Description,
   AudioContainer,
   ImageToolTipContainer,
+  GridAux,
+  ImageAux,
 } from "./styles";
 
 import Next from "../Icons/Next";
@@ -70,13 +72,17 @@ export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
             <ImageSlider current={current}>
               {gallery.map((img) => (
                 <ImageContainer>
-                  <ModalImage src={img.src} />
-                  <Description>
-                    {img.alt}
-                    <AudioContainer>
-                      <Accessibility />
-                    </AudioContainer>
-                  </Description>
+                  <GridAux>
+                    <ImageAux>
+                      <ModalImage src={img.src} />
+                    </ImageAux>
+                    <Description>
+                      {img.alt}
+                      <AudioContainer>
+                        <Accessibility />
+                      </AudioContainer>
+                    </Description>
+                  </GridAux>
                 </ImageContainer>
               ))}
             </ImageSlider>
