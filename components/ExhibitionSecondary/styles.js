@@ -74,6 +74,7 @@ export const ContainerContent = styled.div`
   }
 `;
 export const TextContent = styled.p`
+  white-space: pre-wrap;
   font-size: 1.1em;
   color: black;
 `;
