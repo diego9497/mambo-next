@@ -184,10 +184,7 @@ function ExhibitionSecondary({ exhibition, config }) {
         </Title>
       </ContainerTitle>
       <ContainerContent>
-        <TextContent>
-          {proposal}
-          {forWhatContent}
-        </TextContent>
+        <TextContent>{proposal}</TextContent>
       </ContainerContent>
       <ContainerContentSecond></ContainerContentSecond>
       <ContainerMenu>

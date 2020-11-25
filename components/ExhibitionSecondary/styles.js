@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const ContainerDetail = styled.div`
   display: grid;
@@ -8,6 +8,19 @@ export const ContainerDetail = styled.div`
     "title contentSecond menu"
     "content contentSecond menu";
   height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+
+  ${({ invert }) =>
+    invert &&
+    css`
+      grid-template-areas:
+        "menu contentSecond title "
+        "menu contentSecond content";
+    `}
+  ${({ special }) =>
+    special &&
+    css`
+      border-bottom: 1px solid var(--borderColor);
+    `}
 
   @media screen and (max-width: 575px) {
     grid-template-columns: 1fr;
