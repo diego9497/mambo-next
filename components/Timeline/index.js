@@ -12,28 +12,45 @@ import {
 import CardTimeline from "../CardTimeline";
 import InfoTimeline from "../InfoTimeline";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 function Timeline({ config, timeline }) {
+  const [current, setCurrent] = useState(0);
   const [infoCard, setInfoCard] = useState();
   const [open, setOpen] = useState(false);
 
-  const left = timeline.filter((event, index) => index % 2 === 0);
-  const right = timeline.filter((event, index) => index % 2 !== 0);
+  const tAux = timeline.map((timeline, index) => ({ ...timeline, key: index }));
 
-  const handleClick = (event) => {
+  const left = tAux.filter((event, index) => index % 2 !== 0);
+  const right = tAux.filter((event, index) => index % 2 === 0);
+
+  const handleClick = (key) => {
+    setCurrent(key);
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+  };
+
+  const handleNext = () => {
+    setCurrent(current + 1);
+  };
+  const handlePrev = () => {
+    setCurrent(current - 1);
+  };
+
+  useEffect(() => {
+    const event = tAux.filter((evt) => evt.key === current)[0];
     setInfoCard({
       ...event,
       content: event.description,
       color: config[`mv${event.id}`].color,
+      text: config[`mv${event.id}`].text,
       topic: config[`mv${event.id}`].title,
     });
-    setOpen(true);
-  };
-  const handleClose = () => {
-    setInfoCard(null);
-    setOpen(false);
-  };
+  }, [current]);
+
   return (
     <Container>
       <ContainerList open={open}>
@@ -46,13 +63,14 @@ function Timeline({ config, timeline }) {
             {left.map((event, index) => (
               <>
                 <CardTimeline
-                  key={index}
-                  onClick={() => handleClick(event)}
+                  key={event.key}
+                  onClick={() => handleClick(event.key)}
                   ubication="right"
                   color={config[`mv${event.id}`].color}
                   content={event.title}
                   type={event.type}
                   year={event.year}
+                  textColor={config[`mv${event.id}`].text}
                 />
                 {index === left.length - 1 ? null : <ContainerEmpty />}
               </>
@@ -62,13 +80,14 @@ function Timeline({ config, timeline }) {
             {right.map((event, index) => (
               <>
                 <CardTimeline
-                  key={index}
-                  onClick={() => handleClick(event)}
+                  key={event.key}
+                  onClick={() => handleClick(event.key)}
                   ubication="left"
                   color={config[`mv${event.id}`].color}
                   content={event.title}
                   type={event.type}
                   year={event.year}
+                  textColor={config[`mv${event.id}`].text}
                 />
                 {index === right.length - 1 ? null : <ContainerEmpty />}
               </>
@@ -78,7 +97,14 @@ function Timeline({ config, timeline }) {
       </ContainerList>
       {open && (
         <ContainerInfo>
-          <InfoTimeline {...infoCard} handleClose={handleClose} />
+          <InfoTimeline
+            {...infoCard}
+            handleClose={handleClose}
+            handleNext={handleNext}
+            handlePrev={handlePrev}
+            last={current === tAux.length - 1}
+            first={current === 0}
+          />
         </ContainerInfo>
       )}
     </Container>

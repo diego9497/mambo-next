@@ -28,32 +28,47 @@ export default function CardPlaceMilestone({
   handleClose,
   iconHeader,
   controls,
+  handleNext,
+  handlePrev,
+  last,
+  first,
+  text,
 }) {
   return (
     <ContainerInfo>
       <ContainerTop color={color}>
-        <HeaderInfo color={color}>
-          <ContainerIconHeader color={color}>{iconHeader}</ContainerIconHeader>
-          <TitleHeader>{title}</TitleHeader>
+        <HeaderInfo text={text} color={color}>
+          <ContainerIconHeader text={text} color={color}>
+            {iconHeader}
+          </ContainerIconHeader>
+          <TitleHeader text={text}>{title}</TitleHeader>
           <button onClick={handleClose}>
             <Close />
           </button>
         </HeaderInfo>
         <ContainerImage color={color}></ContainerImage>
-        <ContainerContent>
+        <ContainerContent text={text}>
           <SubtitleInfo>{subtitle}</SubtitleInfo>
           <TextContent>{content}</TextContent>
         </ContainerContent>
       </ContainerTop>
       <ContainerBottom color={color}>
         {controls && (
-          <ContainerButtons>
-            <ContainerIconBtn color={color}>
-              <Before />
-            </ContainerIconBtn>
-            <ContainerIconBtn color={color}>
-              <Next />
-            </ContainerIconBtn>
+          <ContainerButtons text={text} color={color}>
+            <div>
+              {!first && (
+                <button onClick={handlePrev}>
+                  <Before />
+                </button>
+              )}
+            </div>
+            <div>
+              {!last && (
+                <button onClick={handleNext}>
+                  <Next />
+                </button>
+              )}
+            </div>
           </ContainerButtons>
         )}
       </ContainerBottom>

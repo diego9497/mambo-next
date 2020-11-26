@@ -41,7 +41,7 @@ export const Title = styled.p`
   line-height: 17px;
   font-weight: bold;
   text-transform: uppercase;
-  color: white;
+  color: ${({ text }) => (text ? text : "white")};
   width: 150px;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -57,12 +57,12 @@ export const Title = styled.p`
 export const Year = styled.p`
   line-height: 17px;
   font-size: 0.9em;
-  color: white;
+  color: ${({ text }) => (text ? text : "white")};
 `;
 export const ContainerImage = styled.div`
   width: 30px;
   height: 30px;
-  fill: white;
+  fill: ${({ text }) => (text ? text : "white")};
   display: flex;
   justify-content: center;
   align-items: center;
