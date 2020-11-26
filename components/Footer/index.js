@@ -22,7 +22,7 @@ function Footer({ exhibition, config, index, choose }) {
   color = color ? color : config.mv1.color;
 
   const handleBack = useCallback(() => {
-    if (choose) {
+    if (choose || exhibition.id === 9 || exhibition.id === 2) {
       router.push("/");
     } else if (!title) {
       router.back();
@@ -41,19 +41,23 @@ function Footer({ exhibition, config, index, choose }) {
           {!index && (
             <ItemOption>
               <Before />
-              <Option>{!title || choose ? config.back : title}</Option>
+              <Option>
+                {!title || choose || exhibition.id === 9 || exhibition.id === 2
+                  ? config.back
+                  : title}
+              </Option>
             </ItemOption>
           )}
         </Anchor>
-        {!index && (
-          <Link href={`/exhibition/9/detail`}>
-            <Anchor text={text} color={color}>
+        {!index && exhibition.id !== 9 ? (
+          <Link href={`/special/9`}>
+            <Anchor text="white" color="black">
               <ItemOption>
                 <Option>{config.mv9.title}</Option>
               </ItemOption>
             </Anchor>
           </Link>
-        )}
+        ) : null}
         <Anchor
           text={text}
           color={color}

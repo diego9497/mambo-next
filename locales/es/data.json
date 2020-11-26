@@ -847,10 +847,6 @@
       "src": "/image/mv6/3.jpg",
       "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO"
     },
-    "didYouKnowImg": {
-      "src": "/image/mv6/did_you_know.jpg",
-      "alt": "Leo Matiz. Los Rechazados. 1952. Colección del Banco de la República. "
-    },
     "questionImg": {
       "src": "/image/mv6/question.jpg",
       "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
@@ -1139,7 +1135,7 @@
       },
       {
         "src": "/image/mv8/3.jpg",
-        "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO"
+        "alt": "<strong>Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO</strong>\n\n Maria Fernanda Cardoso (Bogotá, Colombia, 1963) es una artista multidisciplinar que ha investigado la naturaleza a través de la fotografía, la escultura y el performance. Su trabajo la ha llevado a importantes escenarios como la Bienal de Venecia. Esta obra es una corona de lagartijas disecadas"
       },
       {
         "src": "/image/mv8/did_you_know.jpg",

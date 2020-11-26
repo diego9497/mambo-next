@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Container = styled.a`
   position: relative;
@@ -12,13 +12,27 @@ export const Container = styled.a`
   }
 `;
 
-export const Background = styled.img`
+export const Background = styled.div`
   position: absolute;
   height: 100%;
   width: 100%;
-  object-fit: cover;
-  object-position: center;
-  filter: grayscale(100%);
+
+  > div {
+    height: 100% !important;
+    width: 100% !important;
+
+    > img {
+      object-fit: cover;
+      object-position: center;
+      filter: grayscale(100%);
+
+      ${({ bottom }) =>
+        bottom &&
+        css`
+          object-position: bottom;
+        `}
+    }
+  }
 `;
 
 export const Content = styled.div`

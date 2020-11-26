@@ -32,10 +32,7 @@ export const Title = styled.h1`
   font-size: 2.8em;
   font-weight: normal;
   line-height: 1em;
-  text-transform: uppercase;
-  -webkit-text-stroke: 1px ${(props) => props.color};
-  color: transparent;
-  /* color: ${(props) => props.color}; */
+  color: ${(props) => props.color};
 `;
 export const ContainerImagePrincipal = styled.div`
   grid-area: imagePrincipal;
@@ -76,6 +73,7 @@ export const ContentHistory = styled.div`
   }
 `;
 export const TextContentHistory = styled.p`
+  white-space: pre-wrap;
   font-size: 1.17em;
   color: black;
 `;
@@ -181,6 +179,8 @@ export const AudioContainer = styled.div`
   float: right;
   fill: ${({ stroke }) => (stroke ? stroke : "white")};
   stroke: ${({ stroke }) => (stroke ? stroke : "white")};
+  /* fill: white;
+  stroke: white; */
   cursor: pointer;
 `;
 

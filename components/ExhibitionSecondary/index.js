@@ -8,13 +8,15 @@ import Close from "../Icons/Close";
 
 import MAMBOImage from "../MAMBOImage";
 
+import Image from "next/image";
+
 import {
   ContainerDetail,
   ContainerTitle,
   Title,
   ContainerContentSecond,
   TextContent,
-  ImageBackground,
+  ImageBgContainer,
   ContainerMenu,
   ItemMenu,
   TextItem,
@@ -79,7 +81,9 @@ function ExhibitionSecondary({ exhibition, config }) {
                 <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
-                <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
+                {didYouKnowImg && (
+                  <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
+                )}
                 {didYouKnow}
               </BigFont>
             </MenuContentDetailContainer>
@@ -184,10 +188,7 @@ function ExhibitionSecondary({ exhibition, config }) {
         </Title>
       </ContainerTitle>
       <ContainerContent>
-        <TextContent>
-          {proposal}
-          {forWhatContent}
-        </TextContent>
+        <TextContent>{proposal}</TextContent>
       </ContainerContent>
       <ContainerContentSecond></ContainerContentSecond>
       <ContainerMenu>
@@ -232,7 +233,9 @@ function ExhibitionSecondary({ exhibition, config }) {
           </ItemMenu>
         )}
       </ContainerMenu>
-      <ImageBackground src={img2.src} />
+      <ImageBgContainer>
+        <Image layout="fixed" src={img2.src} width={1200} height={800} />
+      </ImageBgContainer>
       {current !== "" && (
         <MenuContentContainer color={color} text={text}>
           {renderCurrentItem(current)}

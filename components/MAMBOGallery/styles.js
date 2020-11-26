@@ -28,17 +28,30 @@ export const ImageSlider = styled.div`
 `;
 export const ImageContainer = styled.div`
   min-width: 100vw;
-  padding: 0 10px;
-  height: 80vh;
+  padding: 10px 25px;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 `;
 export const ModalImage = styled.img`
-  width: 100%;
-  height: 70%;
+  max-height: 95vh;
   object-fit: contain;
+  display: block;
+  margin: 0 auto;
+`;
+
+export const GridAux = styled.div`
+  display: grid;
+  grid-template-rows: 1fr auto;
+`;
+
+export const ImageAux = styled.div`
+  grid-column: 1/-1;
+  grid-row: 1/-1;
+  width: 100%;
+  height: 100%;
 `;
 
 export const CloseContainer = styled.div`
@@ -75,13 +88,15 @@ export const RightButton = styled.button`
 `;
 
 export const Description = styled.p`
-  margin-top: 10px;
   padding: 20px 20px;
   padding-right: 50px;
   background: rgba(255, 255, 255, 0.9);
   color: black;
+  padding-right: 50px;
+  grid-row: -1/-2;
+  grid-column: 1/-1;
   position: relative;
-  max-width: 45%;
+  white-space: pre-wrap;
 
   @media screen and (max-width: 575px) {
     max-width: 80%;
@@ -105,5 +120,12 @@ export const ImageToolTipContainer = styled.div`
 
   :hover > div {
     display: flex;
+  }
+  > div:first-child {
+    height: 100% !important;
+    width: 100% !important;
+    > img {
+      object-fit: cover;
+    }
   }
 `;

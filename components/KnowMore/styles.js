@@ -59,14 +59,11 @@ export const ContainerSection = styled.a`
   }
 `;
 export const Title = styled.p`
-  font-size: 2.8em;
+  font-size: 3.2em;
   line-height: 1em;
   width: 50%;
-  text-transform: uppercase;
-  font-weight: 300;
-  -webkit-text-stroke: 1px ${(props) => props.color};
-  color: transparent;
-  /* color: ${(props) => props.color}; */
+  font-weight: 400;
+  color: ${(props) => props.color};
 `;
 
 export const ImageBackground = styled.img`
@@ -149,5 +146,19 @@ export const ReferenceContent = styled.div`
   p {
     column-count: 2;
     word-wrap: break-word;
+  }
+`;
+
+export const ImageBgContainer = styled.div`
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+  > div {
+    height: 100% !important;
+    width: 100% !important;
+    > img {
+      object-fit: cover;
+    }
   }
 `;

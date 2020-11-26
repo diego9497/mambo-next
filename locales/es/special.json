@@ -2,15 +2,215 @@
   {
     "id": 2,
     "color": "#ED4040",
-    "title": "Exposición MAMBO Viajero",
+    "withPrimary": true,
+    "title": "El Arte de la Desobediencia ",
+    "description": "La muestra El Arte de la Desobediencia pretende dar una mirada a la emergencia del arte contemporáneo en Colombia a través de la colección del Museo de Arte Moderno de Bogotá, con una selección de más de un centenar de obras realizadas entre 1965 y 1984. Dicho periodo estuvo marcado por el quiebre con el modernismo y, con éste, por importantes transformaciones en las prácticas artísticas y los territorios de las artes, que se extendieron para considerar procesos e ideas como obras en sí.\n Dos momentos de la historia del Museo abren y cierran el periodo que aborda la muestra: su instalación en la Universidad Nacional (1965) y la celebración del último Salón Atenas (1984). Durante esos años, el Museo fue un epicentro del movimiento artístico del país al conectarse activamente con los Museos de Arte Moderno de Cali, Medellín y Barranquilla, convirtiéndose en una plataforma importante para los artistas colombianos.\n En el lapso que aborda la exposición predominó por un lado, el carácter crecientemente punitivo de una democracia restringida en contraste con la fuerza de una juventud, que constelada con los movimientos culturales mundiales de esos años, no pidió permiso para derribar ídolos y crear un nuevo orden de las cosas.\n Las obras que hacen parte de El Arte de la Desobediencia acuden a la provocación directa para cuestionar el orden establecido o para transgredir valores que no respondían al cambio que operaba en el mundo a través del humor negro y del juego ‘indisciplinado’. La gráfica, la fotografía y el video se convirtieron en matrices prolíficas para derogar la hegemonía del modernismo y permitieron una conexión sólida y crítica con otros ámbitos de la producción visual como el diseño, la publicidad, la gráfica popular y los medios de comunicación masiva, especialmente la televisión. Se inició una tendencia hacia las obras no objetuales y el performance. Sin embargo, este horizonte experimental también se manifestó en transformaciones radicales en la práctica de los medios artísticos tradicionales como la pintura.\n Los horizontes creativos de la época crecieron en fuerte vínculo con los espacios de la vida cotidiana en sus dimensiones doméstica, privada y pública. La ciudad, y sobre todo las facetas populares y marginales de lo urbano emergieron, como un núcleo fuerte de experimentación artística y política.\n En el ámbito del arte local, la desobediencia o desacato a la autoridad se asumieron como un juego irónico o provocador que desafió al poder en distintas esferas: la estatal, la política, la familiar, la educativa, la sexual, la religiosa y otras. Y fue, sin duda, una forma de resistir, de oponer la potencia del lenguaje, la imagen y el gesto, a la abrumadora fuerza física y simbólica de las instituciones que se proyectaban como opresoras e inamovibles. El Museo de Arte Moderno dio carta blanca a un arte que se caracterizó por ser crítico y que abrió un nuevo capítulo en la historia del arte del país.\n La curaduría multiplica las lecturas de la colección en el contexto histórico observado, a partir de tres tácticas: en primer lugar, la exposición incluye algunas intervenciones que sucederán a lo largo de esta, con el fin de activar el diálogo entre el presente y el pasado del museo; estas obras ",
     "history": "Visita la exposición del mambo viajero — El Arte de la desobediencia",
     "historyDescription": [
       "En esta sección se propone que los docentes y estudiantes visiten la exposición El Arte de la Desobediencia, que muestra obras producidas entre los años 1964 y 1985 por artistas modernos y contemporáneos que hacen parte de la colección del MAMBO. Esta exposición se realizó en el Museo en el año 2018, luego se transformó en una exposición itinerante con una selección de 45 obras que han sido expuestas en diferentes localidades de Bogotá"
     ],
-    "author": "",
-    "authorContent": "",
-    "forWhat": "",
-    "forWhatContent": "",
+    "content": [
+      {
+        "title": "Concreto",
+        "description": "La proyección de una ciudad moderna fue uno de los motores de desarrollo para el país durante el siglo XX, lo que implicó un imaginario visual totalmente nuevo. Los artistas que se presentan en este capítulo revelan este nuevo interés por la temática urbana: desde la arquitectura en sus manifestaciones más modernas y vernáculas hasta una mirada muy concreta a sus formas, patrones y materiales. La ciudad en constante crisis y mutación fue un territorio para la exploración artística. Desde la plástica se buscó habitar “las ciudades invisibles”, desvelando sus márgenes e interpretando las huellas, señales y signos inscritos sobre el pavimento, en los ornamentos, las ruinas, y en la vida de sus propios habitantes.\nEsta búsqueda implicó el trabajo con una nueva gama de materiales provenientes de la propia urbe como el ladrillo, el polvo de cemento, la arena, el hierro y el vidrio por una parte, y referentes visuales como las cenefas, ventanas y marcos, señales de tránsito, e iconos urbanos, por otra. En muchos casos, estos elementos eran representados bajo los parámetros del fotorrealismo que estuvo muy en boga en los setentas. El uso conceptual de la fotografía, la gráfica y otros medios de producción serial como la fotocopia y la heliografía fueron claves en esta experimentación.\nLa arquitectura fue asumida como espacio para el arte y los artistas partieron de la experiencia con el entorno construido en instalaciones o en los entonces llamados espacios ambientales. También los artistas se salieron de los marcos tradicionales de exposición como galerías y museos, y la calle fue escenario para intervenciones y happenings. Era imperativo lograr un arte más abierto y cercano a la gente y la relación con la experiencia urbana fue la excusa perfecta.",
+        "gallery": [
+          {
+            "alt": "Amarillos y rojos (1981) por Pedro Ramos Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/1g1.jpg"
+          },
+          {
+            "alt": "Cables (1978) por Jorge Ortiz Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g2.jpg"
+          },
+          {
+            "alt": "Hola soledad por Oscar Muñoz Museo de Arte Moderno de Bogotá. MAMBO",
+            "src": "/image/mv2/1g3.jpg"
+          },
+          {
+            "alt": "Luna papel (1979) por Adolfo Bernal Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g4.jpg"
+          },
+          {
+            "alt": "Tu amor no me conviene (1978) por María de la Paz Jaramillo Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g5.jpg"
+          },
+          {
+            "alt": "Bogotá (1972) por Carlos Caicedo Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g6.jpg"
+          },
+          {
+            "alt": "Atenas (1975) por Miguel Ángel Rojas Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g7.jpg"
+          },
+          {
+            "alt": "Ventana (1978) por Ana Mercedes Hoyos Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g8.jpg"
+          },
+          {
+            "alt": "Serie interiores (1983) por Fernell Franco Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g9.jpg"
+          },
+          {
+            "alt": "Espejo (1980) por María Elena Bernal Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g10.jpg"
+          },
+          {
+            "alt": "Buses 1 (1979) por Elena Mogollón Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g11.jpg"
+          },
+          {
+            "alt": "Sin título (1982) por Luz Helena Castro Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/1g12.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Dioses y Héroes",
+        "description": "En el periodo que abarca esta exposición (1965-1984), los supuestos que hasta ese momento regían la representación del mundo comenzaron a desmoronarse. La ofensiva contra las instituciones que detentaban el poder político y religioso tuvo eco en las figuras que las representaban. La colección del MAMBO cuenta con significativas obras de artistas que derribaron ídolos de una forma provocadora y juguetona, no exenta de sarcasmo.\nEn Dioses y héroes, la ironía está dirigida también a aquellos valores que construyeron la noción de identidad nacional con base en el cliché o en modelos de percepción que adormercían el sentido crítico y que se valían de la iconografía tradicional, el kitsch y los medios de comunicación para entorpecer cualquier desacato.\nEn estas obras encontramos cuestionamientos a la noción tradicional de historia y a sus consabidos héroes, a los gobiernos tradicionales y sus políticos, a la idea de Nación que representa a unos pocos y a los íconos que vinculan la religión con la idea de Nación. También señalaron con humor ácido al arte establecido y sus instituciones (museos, curadores, críticos, obras canónicas) y al Capital y sus productos de consumo. Como contrapropuesta, se valoró la figura del antihéroe como un ser imperfecto y siempre desprovisto de cualidades extraordinarias.\nPara formular su diatriba, varios artistas acudieron a medios y sistemas de representación poco tradicionales e incluso anti-artísticos, procedentes en muchos casos de la cultura popular. Aunque están representados de forma más reducida en la colección, vale la pena mencionar a otros artistas, también desobedientes, que tuvieron en el grabado su herramienta de combate. Ellos resistieron a los gobiernos de la época –en manos de los partidos tradicionales– y cuestionaron los valores imperantes en los planos social y político. Muchos de estos grabadores fueron simpatizantes o militantes en grupos de oposición",
+        "gallery": [
+          {
+            "alt": "Sin título (1973) por Diego Arango y Nirma Zárate Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g1.jpg"
+          },
+          {
+            "alt": "La iglesia está en peligro (1976) por Beatriz González Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g2.jpg"
+          },
+          {
+            "alt": "El supermantel (1984) por Marta Elena Vélez Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g3.jpg"
+          },
+          {
+            "alt": "Yo soy el rey y amo la ley (1973) por Luis Paz Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g4.jpg"
+          },
+          {
+            "alt": "La nueva imagen de Colombia (1979) por Juan Camilo Uribe Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g5.jpg"
+          },
+          {
+            "alt": "Colombia Colombia (1976) por Antonio Caro Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g6.jpg"
+          },
+          {
+            "alt": "Primera lección (1970) por Bernardo Salcedo Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g7.jpg"
+          },
+          {
+            "alt": "Declaración de amor a Venezuela Declaración de amor a Venezuela (1976) por Juan Camilo Uribe Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g8.jpg"
+          },
+          {
+            "alt": "Yo no soy un hombre. Yo soy un programa (1970) por Clemencia Lucena Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g9.jpg"
+          },
+          {
+            "alt": "Colombia Colombia (1976) por Antonio Caro Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/2g10.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Satisfacción no satisfacción",
+        "description": "Alrededor de los años sesenta la juventud dio inicio a una rebelión que no tuvo marcha atrás: la insurrección de los cuerpos. El erotismo, la sexualidad y el género fueron asuntos que pasaron de la esfera privada a la pública. ‘Lo personal es político’, uno de los lemas de la época formulado por las feministas se extendió a las diversas expresiones de los géneros. Se cuestionó –y desobedeció– la incidencia de las instituciones en la sexualidad y por lo tanto, en la vida privada.\nEmergió una rebelión ante las instituciones que controlaban los cuerpos, y el deseo como potencia motora de la vida comenzó a ser protagonista en el arte, la filosofía y por supuesto, en la vida. La constelación: Satisfacción no satisfacción, da cuenta de la relación cuerpo-deseo por parte de algunos artistas colombianos del periodo.\nLas artes plásticas dieron testimonio de la disolución de fronteras en los más diversos ámbitos de la vida. Específicamente en este capítulo, se observa cómo deslindaron sexo y género, y cómo los jóvenes artistas hicieron ostensibles sus preferencias sexuales que muchas veces subvertían la norma.\nEn el periodo, las mujeres iniciaron también otra revolución sin retorno: se proclamaron dueñas de su cuerpo. Cuestionaron el rol que les había sido asignado en la sociedad y pasaron de ser objeto de deseo a sujeto deseante. Así mismo, se pregonó y practicó la libertad sexual y los artistas representaron con ironía las historias de amor basadas en los roles propios del amor romántico. El cuerpo, en sus diversas manifestaciones eróticas y escatológicas también encontró un lugar en la plástica.",
+        "gallery": [
+          {
+            "alt": "A Morales, serie 24 dibujos por segundo (1982) por Karen Lamassone Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g1.jpg"
+          },
+          {
+            "alt": "Sin Título (1977) por Julia Acuña Guillen Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g2.jpg"
+          },
+          {
+            "alt": "This photograph is my proof (1975) por Duane Michals Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g3.jpg"
+          },
+          {
+            "alt": "Inquietante intimidad Inquietante intimidad (1971) por Arnulfo Luna Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g4.jpg"
+          },
+          {
+            "alt": "Cuja (1972) por Feliza Bursztyn Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g5.jpg"
+          },
+          {
+            "alt": "Retrato de Mujer con ropa y con canasto al lado... por León Ruiz Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g6.jpg"
+          },
+          {
+            "alt": "Rosa de los vientos Rosa de los vientos (1983) por Rosa Navarro Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g7.jpg"
+          },
+          {
+            "alt": "Corazones (1977) por Miguel ángel Rojas Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g8.jpg"
+          },
+          {
+            "alt": "El martirio de San Sebastian 1 (1980) por Álvaro Barrios Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g9.jpg"
+          },
+          {
+            "alt": "La noche oscura (1977) por Luis Caballero Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g10.jpg"
+          },
+          {
+            "alt": "Autoretrato Autoretrato (1987) por Dora Franco Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/3g11.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Esto No es Arte",
+        "description": "La veracidad de la ecuación del arte moderno **artista genio/lenguaje artístico original** fue cuestionada por las más distintas vías, desde hacer de la propia existencia del artista (de su escritura, de su firma, de su sangre, de su imagen) el sustento de la obra, hasta camuflarse bajo la figura del periodista cultural, del artesano, o incluso, desaparecer como autor y aparecer por medio de juegos del lenguaje.\n El acercamiento a la filosofía del lenguaje y la interpretación del horizonte iconoclasta señalado por el arte conceptual hicieron evidente la función crucial del lenguaje en la construcción social de la realidad, y mostraron que éste no cumplía con su tarea comunicativa con transparencia ni era un medio inocuo para la construcción del conocimiento, sino que era opaco, relativo e inherentemente tendencioso. Los actos comunicativos son imperfectos y nada puede ser leído de manera unívoca: este margen de error, esta inestabilidad del mensaje, se convirtió en un medio para los artistas, quienes crearon juegos de sentido para desestructurar y reestructurar la realidad.\n Los artistas optaron por cuestionar el rol tradicional que habían jugado en la sociedad y con el cual se sentían incómodos. El arte de la desobediencia requirió de actitudes y gestos más que de obras ‘terminadas’ y toda una gama de nuevas estrategias entraron en el proceso creativo. Para ello, resultó esencial la apropiación de elementos y circunstancias aparentemente banales y cotidianas, que permitieran subvertir los modos de operar del arte moderno.\n La entrada de las escuelas de arte al ámbito universitario generó una crisis fructífera de identidad para los artistas que los llevó a indagar sobre diversos campos del conocimiento, en especial los de las ciencias humanas y sociales. El contacto con la filosofía replanteó su relación con el lenguaje; los principios y métodos de observación de la etnografía y la sociología aportaron nuevas formas de analizar los fenómenos sociales así como herramientas para documentar las prácticas sociales cotidianas. Estos procesos permitieron a los artistas regresar enriquecidos a su práctica e impulsaron el cuestionamiento de su propio rol en la sociedad, así como el papel de los críticos, los públicos y el mercado del arte. Los experimentos conceptualistas estuvieron profundamente conectados, no sólo con los movimientos artísticos que se destacaban en los circuitos internacionales del arte, sino sobre todo con las profundidades de la idiosincrasia “criolla” y con los distintos elementos de la cultura popular. ",
+        "gallery": [
+          {
+            "alt": "Alacena con zapatos Alacena con zapatos (1978) por Grupo El Sindicato Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g1.jpg"
+          },
+          {
+            "alt": "Alacena con zapatos Alacena con zapatos (1978) por Grupo El Sindicato Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g2.jpg"
+          },
+          {
+            "alt": "Cuenta Cuenta (1969) por Bernardo Salcedo Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g3.jpg"
+          },
+          {
+            "alt": "La soupe de Daguerre ( La sopa de Daguerre ) (1975) por Marcel Broodthaers Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g4.jpg"
+          },
+          {
+            "alt": "Ventana con paisaje sobre papel empapelado (1978) por Luis Camnitzer Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g5.jpg"
+          },
+          {
+            "alt": "Original de mi puño y letra por Carlos Echeverry Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g6.jpg"
+          },
+          {
+            "alt": "Sin título Sin título (1976) por Enríque Hernández Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g7.jpg"
+          },
+          {
+            "alt": "Trampa Trampa (1980) por Fernando Cepeda Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g8.jpg"
+          },
+          {
+            "alt": "Testigo matinal ( autorretrato ) (1976) por Camilo Lleras Museo de Arte Moderno de Bogotá. MAMB ",
+            "src": "/image/mv2/4g9.jpg"
+          },
+          {
+            "alt": "Lápiz y papel (1976) por Jonier Marín Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g10.jpg"
+          },
+          {
+            "alt": "Partituras Mentales proyecto Paisaje Urbano, ca... (1976) por Gustavo Sorzano Museo de Arte Moderno de Bogotá. MAMBO ",
+            "src": "/image/mv2/4g11.jpg"
+          }
+        ]
+      }
+    ],
     "previous": {
       "id": 1,
       "title": "MAMBO Pop U"
@@ -23,20 +223,110 @@
   {
     "id": 9,
     "color": "#1A1A1A",
+    "withPrimary": false,
     "title": "Nuevos medios",
-    "history": "Expresiones del Arte Contemporáneo en Colombia",
-    "historyDescription": [
-      "READY MADE",
-      "PERFORMANCE",
-      "FOTOGRAFÍA",
-      "VIDEO",
-      "INSTALACIÓN",
-      "GRÁFICA"
+    "content": [
+      {
+        "title": "ready made",
+        "description": "El ready-made se conoce como “objeto encontrado” en español. Es una técnica en la cual el artista usa objetos cotidianos, los cambia de contexto o los interviene para crear una obra de arte. Marcel Duchamp fue el primer artista en utilizar esta técnica al introducir un orinal en una galería y presentarlo como una obra de arte. En Colombia uno de los referentes más importantes de esta práctica es Álvaro Barrios, quien desde muy joven empezó a utilizar en sus esculturas objetos como utensilios domésticos, juguetes, retratos y reproducciones de otras obras de la historia del arte. En sus dibujos y pinturas usa imágenes del cómic, la cultura popular y la historia para resignificarlas.",
+        "gallery": [
+          {
+            "alt": "Grupo El Sindicato. Ramiro Gómez, Carlos Restrepo, Alberto del Castillo, Efraín Arrieta, Aníbal Tobón y Guillermo Aragón. A-la-cena con zapatos. 1979. Fuente: Colección MAMBO. ",
+            "src": "/image/mv9/1g1.jpg"
+          },
+          {
+            "alt": "Natalia Rivera. Las finalistas.  1980. Fuente: Colección MAMBO. Natalia Rivera (Bogotá, 1953) utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino. ",
+            "src": "/image/mv9/1g2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Performance",
+        "description": "El performance, también conocido como Arte Acción, es una categoría de obras de arte donde el medio utilizado es el cuerpo del artista, quien realiza una o varias acciones individuales o con la participación del público. Aunque el término se empieza a utilizar oficialmente en la década de los 70 en Estados Unidos, se conocen ejemplos de arte performativo desde principios del siglo XX, como los cabarés dadaístas que combinaron poesía, música y artes visuales. El arte del performance en Colombia alcanzó su auge durante los años 80 con propuestas experimentales como las de María Evelia Marmolejo, quien manifestó radicalmente su postura feminista y sus ideas sobre el arte y la política. En el año 1990 el Salón Nacional de Artistas otorgó el premio a Una cosa es una cosa y otra cosa es otra cosa de María Teresa Hincapié, donde la artista desplegó ceremonialmente una serie de objetos domésticos e íntimos. Este fue el primer reconocimiento oficial al performance en Colombia.",
+        "gallery": [
+          {
+            "alt": "María Evelia Marmolejo. Anónimo 1.  1981. Fuente: Colección MAMBO. \nMaria Evelia Marmolejo (Pradera, Colombia, 1958) es una artista que desde la década de los 80 ha usado su cuerpo como herramienta de creación y comunicación de sus denuncias contra la opresión y la violencia. Su marcado carácter feminista, ambientalista y antimilitarista ha definido sus obras como radicales y activistas.",
+            "src": "/image/mv9/2g1.jpg"
+          },
+          {
+            "alt": "Fernando Cepeda. Trampa.  1980. Registro Fotográfico de Oscar Monsalve. Fuente: Colección MAMBO. \nFernando Cepeda (s. f.) hizo del MAMBO su casa por dos semanas. Cepeda construyó una especie de celda en el primer piso del Museo dejando expuesta su vida privada ante todos los visitantes. El fotógrafo Oscar Monsalve registró periódicamente la estadía del artista en el Museo mientras lavaba sus dientes, antes de dormir, durante sus horas de lectura, etc. Estas fotografías se pegaron en una pared fuera de la celda y de esta manera los visitantes pudieron ver el día a día del artista.",
+            "src": "/image/mv9/2g2.jpg"
+          },
+          {
+            "alt": "Fernando Arias. ¿Quién da más? 1997. Fuente: Colección Mambo. Fernando Cepeda (s. f.) hizo del MAMBO su casa por dos semanas. Cepeda construyó una especie de celda en el primer piso del Museo dejando expuesta su vida privada ante todos los visitantes. El fotógrafo Oscar Monsalve registró periódicamente la estadía del artista en el Museo mientras lavaba sus dientes, antes de dormir, durante sus horas de lectura, etc. Estas fotografías se pegaron en una pared fuera de la celda y de esta manera los visitantes pudieron ver el día a día del artista.",
+            "src": "/image/mv9/2g3.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Fotografía",
+        "description": "La invención de la fotografía en el año 1820 y su rápida expansión la convirtió en una herramienta para documentar la realidad e incitó a los artistas a exaltar su mirada propia y su individualidad. En el siglo XX varios artistas retomaron el uso de la fotografía dentro de sus obras, experimentando con otras técnicas y explorando temáticas nuevas. La fotografía en Colombia no fue considerada “arte” durante muchos años por ser considerada una labor operativa que se fundamentaba en el uso correcto de una máquina (la cámara). No obstante, hacia los años 70, artistas como Fernell Franco, Jorge Ortiz y Elena Mogollón empezaron a utilizar la fotografía para investigar, documentar su contexto urbano y comunicar sus ideas.",
+        "gallery": [
+          {
+            "alt": "Fernell Franco. De la serie interiores. Fotografía en blanco y negro intervenida. 1983. Fuente: Colección MAMBO.Fernell Franco (Versalles, Colombia, 1942-2006) desarrolla su obra principalmente en torno a la vida urbana de Cali en la década de 1970. En la urbe captura imágenes de las calles, prostitutas, billares, demoliciones, casas, festivales y bicicletas. En esta serie en particular registra espacios interiores de lugares en donde vivió y trabajó, a través de la fotografía análoga en blanco negro y que luego interviene manualmente con color.",
+            "src": "/image/mv9/3g1.jpg"
+          },
+          {
+            "alt": "Rosa Navarro. Serie Rosa de los Vientos. Fotografía a color. 1983. Fuente: Colección MAMBO. Rosa Navarro (Barranquilla, Colombia, 1955) es una artista conceptual interesada en el lenguaje, su obra parte de la exploración de su nombre como el tema central de su trabajo. Esta serie de autorretratos es una muestra del juego de significados con la palabra rosa.",
+            "src": "/image/mv9/3g2.jpg"
+          },
+          {
+            "alt": "Ana Adarve. Detección 1.  2005. Fotografía digital. Fuente: Colección MAMBO. Ana Adarve (Bogotá, Colombia, 1976) es una artista colombiana que se ha destacado en los últimos años por su trabajo con la fotografía digital. Realiza un minucioso trabajo de fotomontaje con el que compone fotografías panorámicas en gran formato del espacio urbano.",
+            "src": "/image/mv9/3g3.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Video",
+        "description": "En el año 1961 surge en Estados Unidos el movimiento fluxus que buscó la fusión de todas las prácticas artísticas: música, acción, artes plásticas. Artistas como John Cage y Nam June Paik que hacían parte de este movimiento, fueron los primeros en experimentar con el video y el aparato de televisión dentro de sus esculturas e instalaciones. La aparición del video alteró radicalmente el progreso del arte, permitiendo a los artistas documentar sus procesos fácilmente por su bajo precio y accesibilidad. En la década de 1980 el videoarte en Colombia se consolidó como una nueva práctica artística, los artistas experimentaron con otras áreas creativas como el cine y el teatro, con imágenes en movimiento, dispositivos audiovisuales caseros e imágenes de la televisión.",
+        "gallery": [
+          {
+            "alt": "Mario Opazo (Tomé, Chile, 1969) Emigró como consecuencia de la dictadura hacia Colombia. Ha recibido varios premios por su labor artística. Su obra incluye instalaciones, videos, performance y dibujos, con los que crea obras poéticas como actos de resistencia que aluden a la memoria y el desplazamiento. En esta acción realizada en una playa del Magdalena Medio se evidencia su interés por el video-performance.",
+            "src": "/image/mv9/4g1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Instalación",
+        "description": "Alan Kaprow miembro del Fluxus acuñó el término instalación en el año 1958 para referirse a una obra que hizo en su propia casa en la que llenó el espacio de objetos. En los años siguientes, se popularizó esta práctica entre artistas conceptuales como Eva Hesse y Joseph Kosuth, entre otros. La instalación se entiende como la expansión de la escultura en donde el objeto deja de ser expuesto sobre un pedestal para relacionarse con el espacio y el espectador. El artista usa diferentes medios como la luz, el sonido o la arquitectura para crear ambientes inmersivos o contemplativos. En la historia de la instalación en Colombia, las exposiciones Espacios Ambientales (1968) y Luz, Sonido, Movimiento (1969) del MAMBO marcaron el inicio de este tipo de obras.",
+        "gallery": [
+          {
+            "alt": "Miguel Ángel Rojas. Grano, el túnel del tiempo. 2018. Reconstrucción que se presentó en la Sala de Proyectos en 1981. Polvo de carbón, piedras y arena. Fuente: Colección MAMBO. Miguel Ángel Rojas (Bogotá, Colombia, 1946) es uno de los artistas más importantes del país. La observación de la arquitectura de los siglos XIX y XX ha sido una de las fuentes de inspiración de su trabajo. En esta instalación el artista reconstruye mediante carbón y arena las baldosas de cemento del piso de la casa de sus abuelos en Girardot, lugar donde vivió su infancia. La instalación habla de la sutileza de la memoria a través del material que se desvanece a lo largo de la exposición.",
+            "src": "/image/mv9/5g1.jpg"
+          },
+          {
+            "alt": "Santiago Cárdenas. Espacios Ambientales II, Homenaje a Marta Traba. 2006. Fuente: Colección MAMBO. Santiago Cárdenas (Bogotá, Colombia, 1937) es reconocido como un exponente de la pintura contemporánea por retomar y profundizar en el realismo. En esta instalación, el artista utiliza la pintura para recrear espacios irreales que juegan con la percepción del espectador. Esta obra fue realizada por primera vez en la exposición Espacios Ambientales del MAMBO en 1968.",
+            "src": "/image/mv9/5g2.jpg"
+          },
+          {
+            "alt": "Elías Heim. La Maestra de Celán. 1992. Ducto de aire acondicionado, rejillas de aluminio y unidad de refrigeración. Fuente: Colección MAMBO. Elías Heim (Cali, Colombia, 1966) es reconocido por sus instalaciones in situ, que incorporan hechos y situaciones del lugar de montaje. Las obras de Heim se funden con la arquitectura utilizando tecnologías y materiales industriales, como esta obra en la que dibuja una calavera con rejillas de aluminio conectadas a un aire acondicionado.",
+            "src": "/image/mv9/5g3.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Gráfica",
+        "description": "Desde la invención de la imprenta europea por Gutenberg, la impresión ha tenido un papel esencial en la historia reciente. Inicialmente la impresión fue utilizada en la escritura de libros y los medios de comunicación, dando origen a las primeras expresiones del diseño gráfico con la creación de carteles en el siglo XIX y la propaganda política. En el siglo XX la cultura visual se ve influenciada por la gráfica popular, el pop norteamericano y la creación de una identidad visual propia. En Colombia se popularizan las artes gráficas en la década de los 70, en particular el dibujo y el grabado como medios de expresión artística. A raíz de las primeras bienales y concursos que se dieron por la influencia de otros países latinoamericanos, los artistas introdujeron nuevas formas de reproducción de imágenes como la serigrafía y los medios impresos. En estas décadas, artistas como Nirma Zárate y Diego Arango o Juan Camilo Uribe utilizaron las artes gráficas para difundir mensajes críticos y revolucionarios, en muchos casos reinterpretando imágenes de la publicidad y los medios de comunicación.",
+        "gallery": [
+          {
+            "alt": "Luna Papel, Camisa Bicicleta, Amante Chicago, Rana Jinete. Adolfo Bernal. 1979. Impresión Offset. Fuente: Colección MAMBO. Adolfo Bernal (Medellín, 1954) es un artista que aborda el contexto urbano y sus interacciones. Estudió minuciosamente las tipografías, convirtiendo las palabras en imágenes. Esta obra instalada en el espacio público propone carteles con palabras sin una relación aparente, lo que abre posibilidades de interpretación en cada transeúnte.",
+            "src": "/image/mv9/6g1.jpg"
+          },
+          {
+            "alt": "Antonio Caro. Colombia Coca-Cola. 1976. Litografía. Fuente: Colección MAMBO. Antonio Caro (Bogotá, Colombia, 1950) es uno de los artistas conceptuales más importantes de Colombia. Sus obras reflejan un alto contenido político y social expresado a través del humor y la ironía. Caro contradecía los parámetros artísticos de la época al utilizar imágenes populares, materiales y técnicas no convencionales. Esta litografía es una de las obras más importantes del arte conceptual, pues en ella el artista se apropia del logo de Coca-Cola para generar una reflexión sobre el imperialismo. ",
+            "src": "/image/mv9/6g2.jpg"
+          },
+          {
+            "alt": "Nirma Zárate y Diego Arango. Colombian History by Esso. 1973. Serigrafía. Fuente: Colección MAMBO. Nirma Zárate (Bogotá, 1936-1999) y Diego Arango (Medellín, 1946) fueron fundadores del Taller 4 Rojo, uno de los colectivos artísticos más importantes para la producción gráfica y crítica en el país. En esta obra se refleja su interés por denunciar el imperialismo con imágenes sugerentes y simbólicas.",
+            "src": "/image/mv9/6g3.jpg"
+          },
+          {
+            "alt": "Gustavo Sorzano. Paisaje, de la serie Partituras mentales, momentum 43 evento de participación. 1974. Impresión offset. Fuente: Colección MAMBO. Gustavo Sorzano (Bucaramanga, Colombia, 1944) se interesó por involucrar al espectador de forma activa. En esta obra reproduce en serigrafía y en impresión offset íconos del arte como La Mona Lisa, modificando su color, formato y técnica para atribuirle un carácter popular, dejando un espacio en blanco para ser intervenido por el espectador.",
+            "src": "/image/mv9/6g4.jpg"
+          }
+        ]
+      }
     ],
-    "author": "Natalia Rivera",
-    "authorContent": "Utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con tres pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino. ",
-    "forWhat": "¿Nuevos medios hoy?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre los nuevos medios en el arte contemporáneo, identificando su origen histórico y su aparición en Colombia. ",
     "previous": {
       "id": 8,
       "title": "Arte contemporáneo en Colombia"

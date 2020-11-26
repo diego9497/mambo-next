@@ -33,7 +33,7 @@ const Masonry = ({ config }) => {
         />
         <MasonryCard
           id="2"
-          href={"/"}
+          href={"/special/2"}
           filter="rgba(233, 66, 31, 0.4)"
           color="rgba(233, 66, 31, 1)"
           title={config.mv2.title}
@@ -67,10 +67,11 @@ const Masonry = ({ config }) => {
         />
         <MasonryCard
           id="9"
-          href={`/`}
+          href={`/special/9`}
           color="rgb(15, 15, 15)"
           title={config.mv9.title}
           img={config.mv9.img.src}
+          bottom={true}
         />
         <MasonryCard
           id="5"
