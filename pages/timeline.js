@@ -4,13 +4,16 @@ import TimelineComponent from "../components/Timeline";
 import esCommon from "../locales/es/common.json";
 import enCommon from "../locales/en/common.json";
 
-const Timeline = ({ config }) => {
+import esTime from "../locales/es/timeline.json";
+import enTime from "../locales/en/timeline.json";
+
+const Timeline = ({ config, timeline }) => {
   return (
     <>
       <Head>
         <title>{config?.timeline} | MAMBO Viajero</title>
       </Head>
-      <TimelineComponent config={config} />
+      <TimelineComponent config={config} timeline={timeline} />
     </>
   );
 };
@@ -18,8 +21,10 @@ const Timeline = ({ config }) => {
 export const getStaticProps = ({ locale }) => {
   const langCommon = { es: esCommon, en: enCommon };
   const config = langCommon[locale];
+  const langTime = { es: esTime, en: enTime };
+  const timeline = langTime[locale];
   return {
-    props: { config },
+    props: { config, timeline },
   };
 };
 

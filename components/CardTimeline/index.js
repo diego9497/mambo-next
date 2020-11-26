@@ -17,7 +17,7 @@ function CardTimeline(props) {
     >
       <ContainerTitleYear>
         <Title>{props.content}</Title>
-        <Year>1910</Year>
+        <Year>{props.year}</Year>
       </ContainerTitleYear>
       <ContainerImage>
         {props.type === "image" ? <Photo /> : <Video />}
