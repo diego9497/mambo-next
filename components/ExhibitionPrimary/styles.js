@@ -4,7 +4,7 @@ export const GridHistory = styled.div`
   display: grid;
   height: calc(100vh - var(--headerHeight) - var(--footerHeight) + 1px);
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 4fr 2fr;
+  grid-template-rows: 3fr 2fr;
   grid-template-areas:
     "title imagePrincipal content"
     "contentSecond firstEmpty secondEmpty";
@@ -101,6 +101,18 @@ export const ContentSecond = styled.div`
   border-right: 1px solid var(--borderColor);
   border-bottom: 1px solid var(--borderColor);
   position: relative;
+  overflow-y: auto;
+
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(202, 202, 202, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(187, 187, 187, 0.3);
+    border-radius: 4px;
+  }
 `;
 export const TitleContentSecond = styled.h3`
   font-size: 1.3em;

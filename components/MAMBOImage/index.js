@@ -1,14 +1,11 @@
-//TODO Arte conceptual en Colombia
-//TODO Arte contemporaneo en Colombia Revisar contenido autor e imagen
+//TODO Wikicommos y enlace en alts
 //TODO Arte de la desobediencia no tiene audioguia
-//TODO Caption en el choose con el de las imagenes
 import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Accessibility from "../Icons/Accessibility";
 import Close from "../Icons/Close";
 import Tooltip from "../Tooltip";
 import {
-  // Image,
   Container,
   ModalImage,
   CloseContainer,
@@ -63,7 +60,8 @@ export default function MAMBOImage({
                 <ImageAux>
                   <ModalImage src={src} />
                 </ImageAux>
-                <Description dangerouslySetInnerHTML={{ __html: alt }}>
+                <Description>
+                  <p dangerouslySetInnerHTML={{ __html: alt }}></p>
                   <AudioContainer>
                     <Accessibility />
                   </AudioContainer>

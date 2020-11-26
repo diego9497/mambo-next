@@ -89,6 +89,7 @@ export const ImageContainer = styled.div`
   height: 100%;
   display: block;
   position: relative;
+  cursor: pointer;
 
   > div {
     width: 100% !important;
