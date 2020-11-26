@@ -11,10 +11,14 @@ function Exhibition({ exhibition, config }) {
 
   useEffect(() => {
     if (router.query.content2 === "true") {
-      content2.current.scrollIntoView();
+      setTimeout(() => {
+        content2.current.scrollIntoView();
+      }, 0);
     }
     if (router.query.content3 === "true") {
-      content3.current.scrollIntoView();
+      setTimeout(() => {
+        content3.current.scrollIntoView();
+      }, 0);
     }
   }, []);
 
@@ -23,8 +27,8 @@ function Exhibition({ exhibition, config }) {
       <ExhibitionPrimary exhibition={exhibition} config={config} />
       <div ref={content2}></div>
       <ExhibitionSecondary exhibition={exhibition} config={config} />
-      <div ref={content3}></div>
       <KnowMore exhibition={exhibition} config={config} />
+      <div ref={content3}></div>
     </>
   );
 }

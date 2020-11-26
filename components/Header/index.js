@@ -5,7 +5,6 @@ import {
   MenuButton,
   Lang,
 } from "./styles";
-import Accessibility from "../Icons/Accessibility";
 import MenuIcon from "../Icons/Menu";
 import Logo from "../Icons/Logo";
 import Close from "../Icons/Close";

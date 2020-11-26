@@ -33,6 +33,7 @@ export default function CardPlaceMilestone({
   last,
   first,
   text,
+  url,
 }) {
   return (
     <ContainerInfo>
@@ -50,6 +51,11 @@ export default function CardPlaceMilestone({
         <ContainerContent text={text}>
           <SubtitleInfo>{subtitle}</SubtitleInfo>
           <TextContent>{content}</TextContent>
+          {url && (
+            <a href={url} target="blank">
+              {url}
+            </a>
+          )}
         </ContainerContent>
       </ContainerTop>
       <ContainerBottom color={color}>

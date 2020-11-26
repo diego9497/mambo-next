@@ -63,8 +63,7 @@ export default function MAMBOImage({
                 <ImageAux>
                   <ModalImage src={src} />
                 </ImageAux>
-                <Description>
-                  {alt}
+                <Description dangerouslySetInnerHTML={{ __html: alt }}>
                   <AudioContainer>
                     <Accessibility />
                   </AudioContainer>

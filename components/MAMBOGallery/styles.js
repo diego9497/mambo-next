@@ -117,6 +117,7 @@ export const ImageToolTipContainer = styled.div`
   height: 100%;
   display: block;
   position: relative;
+  cursor: pointer;
 
   :hover > div {
     display: flex;

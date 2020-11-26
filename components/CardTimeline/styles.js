@@ -1,13 +1,13 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const ContainerCard = styled.div`
   background: ${(props) => props.color};
-  height: 60px;
+  min-height: 60px;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 15px 15px 10px 30px;
+  padding: 15px 25px;
   position: relative;
   cursor: pointer;
   ::after {
@@ -34,7 +34,7 @@ export const ContainerCard = styled.div`
   }
 `;
 export const ContainerTitleYear = styled.div`
-  width: calc(100% - 30px);
+  /* width: calc(100% - 30px); */
 `;
 export const Title = styled.p`
   font-size: 0.9em;
@@ -42,16 +42,16 @@ export const Title = styled.p`
   font-weight: bold;
   text-transform: uppercase;
   color: ${({ text }) => (text ? text : "white")};
-  width: 150px;
-  overflow: hidden;
+  /* width: 150px; */
+  /* overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: nowrap; */
 
   @media screen and (max-width: 500px) {
-    width: 83px;
+    /* width: 83px; */
   }
   @media screen and (max-width: 320px) {
-    width: 70px;
+    /* width: 70px; */
   }
 `;
 export const Year = styled.p`

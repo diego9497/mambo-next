@@ -127,6 +127,7 @@ export const SecondEmpty = styled.div`
 
 export const GalleryContainer = styled.section`
   border-bottom: 1px solid var(--borderColor);
+  min-height: 340px;
 `;
 export const Gallery = styled.div`
   width: 100%;

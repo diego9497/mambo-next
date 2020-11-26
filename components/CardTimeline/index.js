@@ -19,9 +19,9 @@ function CardTimeline(props) {
         <Title text={props.textColor}>{props.content}</Title>
         <Year text={props.textColor}>{props.year}</Year>
       </ContainerTitleYear>
-      <ContainerImage text={props.textColor}>
+      {/* <ContainerImage text={props.textColor}>
         {props.type === "image" ? <Photo /> : <Video />}
-      </ContainerImage>
+      </ContainerImage> */}
     </ContainerCard>
   );
 }

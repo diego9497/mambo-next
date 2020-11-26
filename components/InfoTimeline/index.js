@@ -5,7 +5,7 @@ function InfoTimeline({ topic, year, ...props }) {
   return (
     <CardPlaceMilestone
       {...props}
-      subtitle={`${topic} (${year})`}
+      subtitle={year}
       iconHeader={<Timeline />}
       controls
     ></CardPlaceMilestone>

@@ -41,10 +41,6 @@ function KnowMore({ exhibition, config }) {
       <ContainerSection href={knowMore[3]?.link} text={text} target="blank">
         {knowMore[3] ? (
           <>
-            {/* <ImageBackground
-              src={knowMore[3].img.src}
-              alt={knowMore[3].img.alt}
-            /> */}
             <ImageBgContainer>
               <Image
                 src={knowMore[3].img.src}

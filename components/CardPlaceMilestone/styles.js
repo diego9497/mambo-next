@@ -72,7 +72,6 @@ export const TitleHeader = styled.p`
 `;
 export const ContainerImage = styled.div`
   width: 100%;
-  height: 250px;
   background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
     height: 200px;
@@ -91,6 +90,14 @@ export const ContainerContent = styled.div`
   @media screen and (max-width: 768px) {
     color: black;
     background: white;
+  }
+
+  a {
+    margin-top: 10px;
+    font-weight: 100;
+    font-size: 0.9em;
+    display: inline-block;
+    color: ${({ text }) => text};
   }
 `;
 

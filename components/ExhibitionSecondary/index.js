@@ -178,7 +178,7 @@ function ExhibitionSecondary({ exhibition, config }) {
   }
 
   return (
-    <ContainerDetail id="content2">
+    <ContainerDetail>
       <ContainerTitle>
         <Title color={color}>
           <AudioContainer>

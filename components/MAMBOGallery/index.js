@@ -86,7 +86,7 @@ export default function MAMBOGallery({
                       <ModalImage src={img.src} />
                     </ImageAux>
                     <Description>
-                      {img.alt}
+                      <p dangerouslySetInnerHTML={{ __html: img.alt }}></p>
                       <AudioContainer>
                         <Accessibility />
                       </AudioContainer>
