@@ -21,12 +21,15 @@ export const Top = styled.div`
   }
   & > div:nth-child(1) {
     padding: 20px;
-    color: ${({ color }) => color};
+    /* color: ${({ color }) => color}; */
     line-height: 1;
     h1 {
       width: 60%;
       font-size: 2.5em;
       font-weight: normal;
+      text-transform: uppercase;
+      -webkit-text-stroke: 1px ${(props) => props.color};
+      color: transparent;
     }
   }
   & > div:nth-child(2) {
@@ -75,24 +78,32 @@ export const SubtitleContainerAnchor = styled.a`
     filter: brightness(1.2);
   }
 
-  & > div {
+  & > .content {
     display: none;
   }
-  :hover > div {
+  :hover > .content {
     display: flex;
   }
   @media screen and (max-width: 575px) {
-    & > div {
+    & > .content {
       display: flex;
     }
   }
 `;
-export const SubtitleBackground = styled.img`
+export const SubtitleBgContainer = styled.div`
   position: absolute;
   height: 100%;
   width: 100%;
-  object-fit: cover;
-  filter: grayscale(1);
+
+  > div {
+    height: 100%;
+    width: 100%;
+
+    > img {
+      filter: grayscale(1);
+      object-fit: cover;
+    }
+  }
 `;
 
 export const SubtitleContent = styled.div`

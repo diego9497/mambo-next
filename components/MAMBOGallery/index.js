@@ -2,7 +2,6 @@ import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Close from "../Icons/Close";
 import {
-  Image,
   Container,
   ModalImage,
   ImageSlider,
@@ -22,7 +21,15 @@ import Previous from "../Icons/Before";
 import Accessibility from "../Icons/Accessibility";
 import Tooltip from "../Tooltip";
 
-export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
+import Image from "next/image";
+
+export default function MAMBOGallery({
+  gallery,
+  index,
+  fit = "cover",
+  width = 500,
+  height = 300,
+}) {
   const [open, setOpen] = useState(false);
   const [current, setCurrent] = useState(index);
 
@@ -56,6 +63,8 @@ export default function MAMBOGallery({ gallery, index, fit = "cover" }) {
           src={gallery[index].src}
           alt={gallery[index].alt}
           fit={fit}
+          width={width}
+          height={height}
           onClick={openModal}
         />
         <Tooltip>{gallery[index].alt}</Tooltip>

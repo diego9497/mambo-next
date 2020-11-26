@@ -71,6 +71,7 @@ const Masonry = ({ config }) => {
           color="rgb(15, 15, 15)"
           title={config.mv9.title}
           img={config.mv9.img.src}
+          bottom={true}
         />
         <MasonryCard
           id="5"

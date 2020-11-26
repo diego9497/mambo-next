@@ -49,16 +49,15 @@ function Footer({ exhibition, config, index, choose }) {
             </ItemOption>
           )}
         </Anchor>
-        {!index ||
-          (exhibition.id !== 9 && (
-            <Link href={`/special/9`}>
-              <Anchor text={text} color={color}>
-                <ItemOption>
-                  <Option>{config.mv9.title}</Option>
-                </ItemOption>
-              </Anchor>
-            </Link>
-          ))}
+        {!index && exhibition.id !== 9 ? (
+          <Link href={`/special/9`}>
+            <Anchor text="white" color="black">
+              <ItemOption>
+                <Option>{config.mv9.title}</Option>
+              </ItemOption>
+            </Anchor>
+          </Link>
+        ) : null}
         <Anchor
           text={text}
           color={color}

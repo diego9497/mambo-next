@@ -4,13 +4,13 @@ import {
   Bottom,
   Container,
   SubtitleAuthorContainer,
-  SubtitleBackground,
+  SubtitleBgContainer,
   SubtitleContainerAnchor,
   SubtitleTextContainer,
   SubtitleContent,
-  AudioContainer,
 } from "./styles";
-import Accessibility from "../Icons/Accessibility";
+
+import Image from "next/image";
 
 const ExhibitionChoose = ({ exhibition, config }) => {
   const {
@@ -38,8 +38,17 @@ const ExhibitionChoose = ({ exhibition, config }) => {
       <Bottom>
         <Link href={`${id}/detail`}>
           <SubtitleContainerAnchor>
-            <SubtitleBackground src={img1.src} />
-            <SubtitleContent>
+            <SubtitleBgContainer>
+              <Image
+                src={img1.src}
+                fit="fixed"
+                loading="eager"
+                width={600}
+                height={400}
+                quality={90}
+              />
+            </SubtitleBgContainer>
+            <SubtitleContent className="content">
               <SubtitleTextContainer color={color} text={text}>
                 <h3>{history}</h3>
               </SubtitleTextContainer>
@@ -52,8 +61,17 @@ const ExhibitionChoose = ({ exhibition, config }) => {
         </Link>
         <Link href={`${id}/detail?content2=true`}>
           <SubtitleContainerAnchor>
-            <SubtitleBackground src={img2.src} />
-            <SubtitleContent>
+            <SubtitleBgContainer>
+              <Image
+                src={img2.src}
+                fit="fixed"
+                loading="eager"
+                width={600}
+                height={400}
+                quality={90}
+              />
+            </SubtitleBgContainer>
+            <SubtitleContent className="content">
               <SubtitleTextContainer color={color} text={text}>
                 <h3>{forWhat}</h3>
               </SubtitleTextContainer>
@@ -66,8 +84,17 @@ const ExhibitionChoose = ({ exhibition, config }) => {
         </Link>
         <Link href={`${id}/detail?content3=true`}>
           <SubtitleContainerAnchor>
-            <SubtitleBackground src={img3.src} />
-            <SubtitleContent>
+            <SubtitleBgContainer>
+              <Image
+                src={img3.src}
+                fit="fixed"
+                loading="eager"
+                width={600}
+                height={400}
+                quality={90}
+              />
+            </SubtitleBgContainer>
+            <SubtitleContent className="content">
               <SubtitleTextContainer color={color} text={text}>
                 <h3>{config.more}</h3>
               </SubtitleTextContainer>

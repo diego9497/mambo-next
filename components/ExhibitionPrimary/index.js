@@ -95,7 +95,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           <Title color={color}>{history}</Title>
         </ContainerTitle>
         <ContainerImagePrincipal>
-          <MAMBOImage src={img1.src} alt={img1.alt} />
+          <MAMBOImage src={img1.src} alt={img1.alt} loading="eager" />
         </ContainerImagePrincipal>
         <ContentHistory>
           <TextContentHistory>

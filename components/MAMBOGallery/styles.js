@@ -96,6 +96,7 @@ export const Description = styled.p`
   grid-row: -1/-2;
   grid-column: 1/-1;
   position: relative;
+  white-space: pre-wrap;
 
   @media screen and (max-width: 575px) {
     max-width: 80%;
@@ -119,5 +120,12 @@ export const ImageToolTipContainer = styled.div`
 
   :hover > div {
     display: flex;
+  }
+  > div:first-child {
+    height: 100% !important;
+    width: 100% !important;
+    > img {
+      object-fit: cover;
+    }
   }
 `;

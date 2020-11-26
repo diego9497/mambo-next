@@ -41,10 +41,7 @@ export const ContainerTitle = styled.div`
   border-right: 1px solid var(--borderColor);
 `;
 export const Title = styled.h1`
-  text-transform: uppercase;
-  -webkit-text-stroke: 1px ${(props) => props.color};
-  color: transparent;
-  /* color: ${(props) => props.color}; */
+  color: ${(props) => props.color};
   font-size: 3.2em;
   line-height: 1em;
   font-weight: normal;
@@ -108,13 +105,23 @@ export const TextItem = styled.p`
   margin-top: 7px;
 `;
 
-export const ImageBackground = styled.img`
+export const ImageBgContainer = styled.div`
   grid-row: 1/-1;
   grid-column: 2/-1;
   object-fit: cover;
   width: 100%;
   height: 100%;
   z-index: -1;
+
+  > div {
+    width: 100% !important;
+    height: 100% !important;
+
+    > img {
+      object-fit: cover;
+    }
+  }
+
   @media screen and (max-width: 575px) {
     grid-column: 1/-1;
     grid-row: -2/-1;

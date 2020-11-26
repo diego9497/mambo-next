@@ -90,6 +90,11 @@ export const ImageContainer = styled.div`
   display: block;
   position: relative;
 
+  > div {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
   :hover > div {
     display: flex;
   }

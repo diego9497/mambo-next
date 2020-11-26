@@ -1,10 +1,14 @@
+//TODO Arte conceptual en Colombia
+//TODO Arte contemporaneo en Colombia Revisar contenido autor e imagen
+//TODO Arte de la desobediencia no tiene audioguia
+//TODO Caption en el choose con el de las imagenes
 import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Accessibility from "../Icons/Accessibility";
 import Close from "../Icons/Close";
 import Tooltip from "../Tooltip";
 import {
-  Image,
+  // Image,
   Container,
   ModalImage,
   CloseContainer,
@@ -16,7 +20,16 @@ import {
   ImageAux,
 } from "./styles";
 
-export default function MAMBOImage({ src, alt, fit = "cover" }) {
+import Image from "next/image";
+
+export default function MAMBOImage({
+  src,
+  alt,
+  fit = "cover",
+  width = 500,
+  height = 300,
+  loading = "lazy",
+}) {
   const [open, setOpen] = useState(false);
 
   const openModal = () => {
@@ -29,7 +42,17 @@ export default function MAMBOImage({ src, alt, fit = "cover" }) {
   return (
     <>
       <ImageContainer>
-        <Image src={src} alt={alt} fit={fit} onClick={openModal} />
+        <Image
+          src={src}
+          alt={alt}
+          fit={fit}
+          onClick={openModal}
+          quality={90}
+          width={width}
+          height={height}
+          layout="fixed"
+          loading={loading}
+        />
         <Tooltip>{alt}</Tooltip>
       </ImageContainer>
       {open && (
