@@ -13,8 +13,6 @@ import {
   Description,
   AudioContainer,
   ImageContainer,
-  GridAux,
-  ImageAux,
 } from "./styles";
 
 import Image from "next/image";
@@ -56,17 +54,15 @@ export default function MAMBOImage({
         <ClientPortal selector="#modal">
           <Container>
             <ContainerImage>
-              <GridAux>
-                <ImageAux>
-                  <ModalImage src={src} />
-                </ImageAux>
+              <ModalImage src={src}>
+                <img src={src} alt={alt} />
                 <Description>
                   <p dangerouslySetInnerHTML={{ __html: alt }}></p>
                   <AudioContainer>
                     <Accessibility />
                   </AudioContainer>
                 </Description>
-              </GridAux>
+              </ModalImage>
             </ContainerImage>
             <CloseContainer onClick={closeModal}>
               <Close />

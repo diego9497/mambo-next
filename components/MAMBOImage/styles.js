@@ -33,32 +33,22 @@ export const ContainerImage = styled.div`
   position: relative;
 `;
 
-export const GridAux = styled.div`
-  height: 100%;
-  display: grid;
-  grid-template-rows: 1fr auto;
-`;
-
-export const ImageAux = styled.div`
-  grid-column: 1/-1;
-  grid-row: 1/-1;
-  width: 100%;
-  height: 100%;
-`;
-export const ModalImage = styled.img`
-  object-fit: contain;
-  /* width: 100%; */
-  height: 100%;
-  display: block;
+export const ModalImage = styled.div`
+  max-height: 95vh;
+  max-width: 95vw;
+  background-size: contain;
+  background-repeat: no-repeat;
   margin: 0 auto;
-`;
+  position: relative;
+  background-image: url(${({ src }) => src});
 
-export const CloseContainer = styled.div`
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  fill: white;
-  cursor: pointer;
+  img {
+    object-fit: contain;
+    height: 100%;
+    max-height: 95vh;
+    max-width: 95vw;
+    visibility: hidden;
+  }
 `;
 
 export const Description = styled.p`
@@ -68,11 +58,18 @@ export const Description = styled.p`
   padding-right: 50px;
   grid-row: -1/-2;
   grid-column: 1/-1;
-  position: relative;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: pre-wrap;
+`;
 
-  @media screen and (max-width: 575px) {
-    max-width: 80%;
-  }
+export const CloseContainer = styled.div`
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  fill: white;
+  cursor: pointer;
 `;
 
 export const AudioContainer = styled.div`
@@ -91,12 +88,12 @@ export const ImageContainer = styled.div`
   position: relative;
   cursor: pointer;
 
-  > div {
+  > div:first-child {
     width: 100% !important;
     height: 100% !important;
   }
 
-  :hover > div {
+  :hover > div:last-child {
     display: flex;
   }
 `;

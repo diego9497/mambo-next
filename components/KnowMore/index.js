@@ -19,7 +19,7 @@ import Close from "../Icons/Close";
 import { useState } from "react";
 
 function KnowMore({ exhibition, config }) {
-  const { color, text, knowMore, img3 } = exhibition;
+  const { color, text, knowMore, img1, img2, img3, keyConcepts } = exhibition;
   const [open, setOpen] = useState(false);
 
   const handleOpen = () => {
@@ -43,8 +43,8 @@ function KnowMore({ exhibition, config }) {
           <>
             <ImageBgContainer>
               <Image
-                src={knowMore[3].img.src}
-                alt={knowMore[3].img.alt}
+                src={keyConcepts[0].img.src}
+                alt={keyConcepts[0].img.alt}
                 width={600}
                 height={350}
                 quality={90}
@@ -58,8 +58,8 @@ function KnowMore({ exhibition, config }) {
         ) : (
           <ImageBgContainer>
             <Image
-              src={img3.src}
-              alt={img3.alt}
+              src={keyConcepts[0].img.src}
+              alt={keyConcepts[0].img.alt}
               width={600}
               height={350}
               quality={90}
@@ -71,8 +71,8 @@ function KnowMore({ exhibition, config }) {
       <ContainerSection href={knowMore[0].link} text={text} target="blank">
         <ImageBgContainer>
           <Image
-            src={knowMore[0].img.src}
-            alt={knowMore[0].img.alt}
+            src={img1.src}
+            alt={img1.alt}
             width={600}
             height={350}
             quality={90}
@@ -86,8 +86,8 @@ function KnowMore({ exhibition, config }) {
       <ContainerSection href={knowMore[1].link} text={text} target="blank">
         <ImageBgContainer>
           <Image
-            src={knowMore[1].img.src}
-            alt={knowMore[1].img.alt}
+            src={img2.src}
+            alt={img2.alt}
             width={600}
             height={350}
             quality={90}
@@ -101,8 +101,8 @@ function KnowMore({ exhibition, config }) {
       <ContainerSection href={knowMore[2].link} text={text} target="blank">
         <ImageBgContainer>
           <Image
-            src={knowMore[2].img.src}
-            alt={knowMore[2].img.alt}
+            src={img3.src}
+            alt={img3.alt}
             width={600}
             height={350}
             quality={90}

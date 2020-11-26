@@ -35,23 +35,35 @@ export const ImageContainer = styled.div`
   justify-content: center;
   align-items: center;
 `;
-export const ModalImage = styled.img`
+export const ModalImage = styled.div`
   max-height: 95vh;
-  object-fit: contain;
+  max-width: 95vw;
+  background-size: contain;
+  background-repeat: no-repeat;
   display: block;
   margin: 0 auto;
+  position: relative;
+  background-image: url(${({ src }) => src});
+
+  img {
+    object-fit: contain;
+    height: 100%;
+    max-height: 95vh;
+    max-width: 95vw;
+    visibility: hidden;
+  }
 `;
 
-export const GridAux = styled.div`
-  display: grid;
-  grid-template-rows: 1fr auto;
-`;
-
-export const ImageAux = styled.div`
-  grid-column: 1/-1;
-  grid-row: 1/-1;
+export const Description = styled.p`
+  padding: 20px 20px;
+  padding-right: 50px;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
+  padding-right: 50px;
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  height: 100%;
+  white-space: pre-wrap;
 `;
 
 export const CloseContainer = styled.div`
@@ -87,22 +99,6 @@ export const RightButton = styled.button`
   ${ButtonStyle};
 `;
 
-export const Description = styled.p`
-  padding: 20px 20px;
-  padding-right: 50px;
-  background: rgba(255, 255, 255, 0.9);
-  color: black;
-  padding-right: 50px;
-  grid-row: -1/-2;
-  grid-column: 1/-1;
-  position: relative;
-  white-space: pre-wrap;
-
-  @media screen and (max-width: 575px) {
-    max-width: 80%;
-  }
-`;
-
 export const AudioContainer = styled.div`
   stroke: black;
   fill: black;
@@ -118,15 +114,22 @@ export const ImageToolTipContainer = styled.div`
   display: block;
   position: relative;
   cursor: pointer;
+  transition: transform 0.3s ease-in;
 
-  :hover > div {
-    display: flex;
-  }
   > div:first-child {
     height: 100% !important;
     width: 100% !important;
+    display: block !important;
     > img {
-      object-fit: cover;
+      object-fit: ${({ fit }) => fit};
     }
+  }
+  :hover > div:last-child {
+    display: flex;
+  }
+
+  :hover {
+    transform: scale(1.08);
+    box-shadow: 2px 4px 9px #0000002e;
   }
 `;
