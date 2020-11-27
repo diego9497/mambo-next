@@ -15,11 +15,16 @@ function Home({ config }) {
   );
 }
 
-export const getStaticProps = ({ locale }) => {
-  const langCommon = { es: esCommon, en: enCommon };
-  const config = langCommon[locale];
+// export const getStaticProps = ({ locale }) => {
+//   const langCommon = { es: esCommon, en: enCommon };
+//   const config = langCommon[locale];
+//   return {
+//     props: { config, index: true },
+//   };
+// };
+export const getStaticProps = () => {
   return {
-    props: { config, index: true },
+    props: { config: esCommon, index: true },
   };
 };
 
