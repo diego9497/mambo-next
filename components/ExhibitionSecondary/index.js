@@ -33,6 +33,8 @@ import {
   ConceptInfoContainer,
   AudioContainer,
   AudioContainerAlt,
+  RowEnd,
+  ImageOfMenuContainer,
 } from "./styles";
 
 const menu = {
@@ -77,12 +79,19 @@ function ExhibitionSecondary({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <BigFont>
+              <RowEnd>
                 <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
+              </RowEnd>
+              <BigFont>
                 {didYouKnowImg && (
-                  <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
+                  <ImageOfMenuContainer>
+                    <MAMBOImage
+                      src={didYouKnowImg.src}
+                      alt={didYouKnowImg.alt}
+                    />
+                  </ImageOfMenuContainer>
                 )}
                 {didYouKnow}
               </BigFont>
@@ -102,11 +111,15 @@ function ExhibitionSecondary({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <BigFont>
+              <RowEnd>
                 <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
-                <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
+              </RowEnd>
+              <BigFont>
+                <ImageOfMenuContainer>
+                  <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
+                </ImageOfMenuContainer>
                 {activity}
               </BigFont>
             </MenuContentDetailContainer>

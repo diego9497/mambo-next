@@ -178,7 +178,7 @@ export const MenuContentDetailContainer = styled.div`
 
 export const BigFont = styled.p`
   font-size: 2.5em;
-  padding: 15px 30px;
+  padding: 0 30px 15px;
 `;
 
 export const ConceptContainer = styled.div`
@@ -240,7 +240,7 @@ export const QuestionContainer = styled.div`
       margin-bottom: 10px;
     }
   }
-  & div {
+  & > div {
     width: 50%;
     padding-left: 20px;
     font-size: 1.3em;
@@ -250,6 +250,11 @@ export const QuestionContainer = styled.div`
     }
     p {
       margin-bottom: 20px;
+    }
+    :first-child {
+      min-height: 250px;
+      height: 250px;
+      padding-left: 0;
     }
   }
 `;
@@ -275,4 +280,15 @@ export const AudioContainerAlt = styled.p`
   fill: ${({ text }) => text};
   stroke: ${({ text }) => text};
   cursor: pointer;
+`;
+
+export const RowEnd = styled.div`
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 30px;
+`;
+
+export const ImageOfMenuContainer = styled.div`
+  height: 450px;
+  margin-bottom: 20px;
 `;
