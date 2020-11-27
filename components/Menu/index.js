@@ -11,7 +11,7 @@ import Next from "../Icons/Next";
 import { useRouter } from "next/router";
 import Link from "next/link";
 
-const Menu = ({ config, close }) => {
+const Menu = ({ config, close, locale }) => {
   const router = useRouter();
 
   const onClick = (href) => {
@@ -22,12 +22,26 @@ const Menu = ({ config, close }) => {
     <Background>
       <Container>
         <Language>
-          <Link href={router.asPath} locale="es" scroll={false}>
-            <Lang active={router.locale === "es"}>ES</Lang>
+          <Link
+            href={
+              router.asPath.replace("/en", "") !== ""
+                ? router.asPath.replace("/en", "")
+                : "/"
+            }
+            scroll={false}
+          >
+            <Lang active={!router.asPath.includes("/en")}>ES</Lang>
           </Link>
           <p>|</p>
-          <Link href={router.asPath} locale="en" scroll={false}>
-            <Lang active={router.locale === "en"}>EN</Lang>
+          <Link
+            href={
+              router.asPath.includes("en")
+                ? router.asPath
+                : "/en" + router.asPath
+            }
+            scroll={false}
+          >
+            <Lang active={router.asPath.includes("/en")}>EN</Lang>
           </Link>
         </Language>
         <Options>

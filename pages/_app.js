@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
       </Head>
       <GlobalStyles />
       {pageProps.config || pageProps.exhibition ? (
-        <Header config={pageProps.config} />
+        <Header config={pageProps.config} locale={pageProps.locale} />
       ) : null}
       <Component {...pageProps} />
       {pageProps.config || pageProps.exhibition ? (
@@ -20,6 +20,7 @@ export default function App({ Component, pageProps }) {
           index={pageProps.index}
           choose={pageProps.choose}
           config={pageProps.config}
+          locale={pageProps.locale}
           exhibition={pageProps.exhibition || {}}
         />
       ) : null}
