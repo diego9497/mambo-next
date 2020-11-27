@@ -10,7 +10,7 @@ import {
   SubtitleContent,
 } from "./styles";
 
-import Image from "next/image";
+import Image from "../Image";
 
 const ExhibitionChoose = ({ exhibition, config }) => {
   const {
@@ -67,7 +67,6 @@ const ExhibitionChoose = ({ exhibition, config }) => {
                 loading="eager"
                 width={600}
                 height={400}
-                quality={90}
               />
             </SubtitleBgContainer>
             <SubtitleContent className="content">
@@ -89,7 +88,6 @@ const ExhibitionChoose = ({ exhibition, config }) => {
                 loading="eager"
                 width={600}
                 height={400}
-                quality={90}
               />
             </SubtitleBgContainer>
             <SubtitleContent className="content">

@@ -1,6 +1,6 @@
-import Img from "next/image";
+// import Img from "next/image";
 
-import { ImageContainer } from "./styles";
+import { ImageContainer, Picture } from "./styles";
 
 export default function Image({
   width,
@@ -13,18 +13,21 @@ export default function Image({
   onClick,
 }) {
   return (
-    <ImageContainer fit={fit} position={position}>
-      <Img
-        onClick={onClick}
-        src={`/image/${src}`}
-        alt={alt}
-        quality={90}
-        width={width}
-        height={height}
-        layout="fixed"
-        // loading={loading}
-        loading="eager"
-      />
-    </ImageContainer>
+    // <ImageContainer fit={fit} position={position}>
+    //   <Img
+    //     onClick={onClick}
+    //     src={`/image/${src}`}
+    //     alt={alt}
+    //     quality={90}
+    //     width={width}
+    //     height={height}
+    //     layout="fixed"
+    //     // loading={loading}
+    //     loading="eager"
+    //   />
+    // </ImageContainer>
+    <Picture fit={fit} position={position}>
+      <img onClick={onClick} src={`/image/optimizado/${src}`} alt={alt} />
+    </Picture>
   );
 }

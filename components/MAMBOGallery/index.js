@@ -35,7 +35,6 @@ export default function MAMBOGallery({
 
   const openModal = () => {
     setOpen(true);
-    console.log(img.current);
   };
   const closeModal = () => {
     setOpen(false);
@@ -82,8 +81,8 @@ export default function MAMBOGallery({
             <ImageSlider current={current}>
               {gallery.map((img) => (
                 <ImageContainer>
-                  <ModalImage src={img.src}>
-                    <img src={img.src} />
+                  <ModalImage src={`/image/${img.src}`}>
+                    <img src={`/image/${img.src}`} />
                     <Description>
                       <p dangerouslySetInnerHTML={{ __html: img.alt }}></p>
                       <AudioContainer>

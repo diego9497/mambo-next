@@ -52,8 +52,8 @@ export default function MAMBOImage({
         <ClientPortal selector="#modal">
           <Container>
             <ContainerImage>
-              <ModalImage src={src}>
-                <img src={src} alt={alt} />
+              <ModalImage src={`/image/${src}`}>
+                <img src={`/image/${src}`} alt={alt} />
                 <Description>
                   <p dangerouslySetInnerHTML={{ __html: alt }}></p>
                   <AudioContainer>
