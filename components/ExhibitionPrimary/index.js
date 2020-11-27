@@ -101,14 +101,17 @@ export default function ExhibitionPrimary({ exhibition, config }) {
             <AudioContainerHistory>
               <Accessibility />
             </AudioContainerHistory>
-            {historyDescription}
+            <p dangerouslySetInnerHTML={{ __html: historyDescription }}></p>
           </TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color}>
           <AudioContainer stroke={text}>
             <Accessibility />
           </AudioContainer>
-          <TitleContentSecond color={text}>{author}</TitleContentSecond>
+          <TitleContentSecond
+            color={text}
+            dangerouslySetInnerHTML={{ __html: author }}
+          ></TitleContentSecond>
           <TextContentSecond color={text}>{authorContent}</TextContentSecond>
         </ContentSecond>
         <FirstEmpty />

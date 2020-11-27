@@ -76,6 +76,13 @@ export const TextContentHistory = styled.p`
   white-space: pre-wrap;
   font-size: 1.17em;
   color: black;
+
+  p {
+    span {
+      font-weight: 500;
+      font-style: italic;
+    }
+  }
 `;
 
 export const ContentControls = styled.div`
