@@ -23,6 +23,7 @@ export const ContainerList = styled.article`
     padding-left: 3px;
     background: ${({ color }) => color};
     z-index: 999999;
+    grid-column: 1/-1;
   }
 `;
 
@@ -42,6 +43,11 @@ export const ContainerMap = styled.article`
     align-items: center;
     padding: 10px;
     height: 100%;
+
+    @media screen and (max-width: 768px) {
+      height: calc(100% - 60px);
+    }
+
     > div {
       height: 100%;
       width: 100%;
@@ -58,6 +64,11 @@ export const ContainerDetail = styled.article`
   grid-row: 1/2;
   background: rgba(0, 0, 0, 0.2);
   border-right: 1px solid var(--borderColor);
+
+  @media screen and (max-width: 768px) {
+    grid-column: 1/-1;
+    z-index: 999999;
+  }
 `;
 
 export const List = styled.ul`
@@ -72,7 +83,7 @@ export const ListItem = styled.li`
   align-items: center;
   padding: 10px 15px;
   font-size: 1.17em;
-  fill: black;
+  fill: ${({ fill }) => fill};
   color: black;
   border-bottom: 1px solid var(--borderColor);
   cursor: pointer;
@@ -97,6 +108,7 @@ export const ListItem = styled.li`
 
   :hover {
     background: ${({ color }) => color};
+    fill: black;
   }
 `;
 

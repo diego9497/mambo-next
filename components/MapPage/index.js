@@ -97,13 +97,19 @@ export default function MapPage({ config }) {
       setZoom(15);
     }
   }, [current]);
-
+  console.log(
+    locations.map((location) => ({
+      ...location,
+      color: config[`mv${location.id}`].color,
+    }))
+  );
   return (
     <Container>
       <ContainerList color={config.mv1.color} open={openList}>
         <List>
           {locations.map((location, index) => (
             <ListItem
+              fill={config[`mv${location.id}`].color}
               onClick={() => handleOpen(location)}
               color={config.mv1.color}
             >
@@ -122,7 +128,10 @@ export default function MapPage({ config }) {
         </HeaderMap>
         <div className="map">
           <Map
-            markers={locations}
+            markers={locations.map((location) => ({
+              ...location,
+              color: config[`mv${location.id}`].color,
+            }))}
             center={center}
             zoom={zoom}
             handleClick={clickOnMarker}

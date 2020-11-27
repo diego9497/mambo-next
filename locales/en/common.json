@@ -9,7 +9,7 @@
   "mv1": {
     "title": "MAMBO POP UP",
     "text": "white",
-    "color": " rgba(51, 95, 215, 1)",
+    "color": "#335fd7",
     "img": {
       "src": "/image/1.jpg",
       "alt": "1979. Fence of the inauguration of the First Stage of MAMBO in the current headquarters. Photograph by Oscar Monsalve."
@@ -18,7 +18,7 @@
   "mv2": {
     "title": "MAMBO Traveler Exhibition",
     "text": "white",
-    "color": "rgba(233, 66, 31, 1)",
+    "color": "#e9421f",
     "img": {
       "src": "/image/2.jpg",
       "alt": "Bernardo Salcedo. First lesson. 1970. Source: MAMBO Collection."
@@ -27,7 +27,7 @@
   "mv3": {
     "title": "Modern Art in the World",
     "text": "black",
-    "color": "rgba(237, 150, 174, 1)",
+    "color": "#ed96ae",
     "img": {
       "src": "/image/3.jpg",
       "alt": "Lyubov Popova. The pianist. 1914. Source: Wikimedia Commons under public domain."
@@ -36,7 +36,7 @@
   "mv4": {
     "title": "Modern Art in Colombia",
     "text": "black",
-    "color": "rgba(255, 207, 18,1)",
+    "color": "#ffcf12",
     "img": {
       "src": "/image/4.jpg",
       "alt": "Andrés de Santa María. The river. 1904. Source: MAMBO Collection."
@@ -45,7 +45,7 @@
   "mv5": {
     "title": "Conceptual Art in the World",
     "text": "white",
-    "color": "rgba(23, 51, 28, 1)",
+    "color": "#17331c",
     "img": {
       "src": "/image/5.jpg",
       "alt": "Andy Warhol. Marilyn Monroe. 1968. Source: MAMBO Collection."
@@ -54,7 +54,7 @@
   "mv6": {
     "title": "Conceptual Art in Colombia",
     "text": "white",
-    "color": "rgba(39, 142, 87, 1)",
+    "color": "#278e57",
     "img": {
       "src": "/image/6.jpg",
       "alt": "Alicia Barney. Bocagrande 1. 1979. Source: MAMBO Collection."
@@ -63,7 +63,7 @@
   "mv7": {
     "title": "Contemporary Art in the World",
     "text": "white",
-    "color": "rgba(97, 51, 161, 1)",
+    "color": "#6133a1",
     "img": {
       "src": "/image/7.jpg",
       "alt": "Rebecca Horn. The wounded star. 1992. Source: Wikimedia Commons licensed under CC BY SA 3.0"
@@ -72,7 +72,7 @@
   "mv8": {
     "title": "Contemporary Art in Colombia",
     "text": "black",
-    "color": "rgb(139, 204, 240)",
+    "color": "#8bccf0",
     "img": {
       "src": "/image/8.jpg",
       "alt": "Elsa Zambrano. Piece 11. 2006. Source: MAMBO Collection."
@@ -81,7 +81,7 @@
   "mv9": {
     "title": "New media",
     "text": "white",
-    "color": "rgb(15, 15, 15)",
+    "color": "#0f0f0f",
     "img": {
       "src": "/image/9.jpg",
       "alt": "José Alejandro Restrepo. Atrium and central nave. 1996. Video installation. Source: MAMBO Collection."

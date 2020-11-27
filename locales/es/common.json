@@ -8,7 +8,7 @@
   "back": "volver",
   "mv1": {
     "title": "MAMBO POP UP",
-    "color": " rgba(51, 95, 215, 1)",
+    "color": "#335fd7",
     "text": "white",
     "img": {
       "src": "1.jpg",
@@ -17,7 +17,7 @@
   },
   "mv2": {
     "title": "El Arte de la Desobediencia",
-    "color": "rgba(233, 66, 31, 1)",
+    "color": "#e9421f",
     "text": "white",
     "img": {
       "src": "2.jpg",
@@ -27,7 +27,7 @@
   "mv3": {
     "title": "Arte Moderno en el Mundo",
     "text": "black",
-    "color": "rgba(237, 150, 174, 1)",
+    "color": "#ed96ae",
     "img": {
       "src": "3.jpg",
       "alt": "Lyubov Popova. The pianist. 1914. Fuente: Wikimedia Commons bajo dominio público. "
@@ -35,7 +35,7 @@
   },
   "mv4": {
     "title": "Arte Moderno en Colombia",
-    "color": "rgba(255, 207, 18,1)",
+    "color": "#ffcf12",
     "text": "black",
     "img": {
       "src": "4.jpg",
@@ -45,7 +45,7 @@
   "mv5": {
     "title": "Arte Conceptual en el Mundo",
     "text": "white",
-    "color": "rgba(23, 51, 28, 1)",
+    "color": "#17331c",
     "img": {
       "src": "5.jpg",
       "alt": "Andy Warhol. Marilyn Monroe. 1968. Fuente: Colección MAMBO. "
@@ -54,7 +54,7 @@
   "mv6": {
     "title": "Arte Conceptual en Colombia",
     "text": "white",
-    "color": "rgba(39, 142, 87, 1)",
+    "color": "#278e57",
     "img": {
       "src": "6.jpg",
       "alt": "Alicia Barney. Bocagrande 1. 1979. Fuente: Colección MAMBO."
@@ -63,7 +63,7 @@
   "mv7": {
     "title": "Arte Contemporáneo en el Mundo",
     "text": "white",
-    "color": "rgba(97, 51, 161, 1)",
+    "color": "#6133a1",
     "img": {
       "src": "7.jpg",
       "alt": "Rebecca Horn. La estrella herida. 1992. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0 "
@@ -72,7 +72,7 @@
   "mv8": {
     "title": "Arte Contemporáneo en Colombia",
     "text": "black",
-    "color": "rgb(139, 204, 240)",
+    "color": "#8bccf0",
     "img": {
       "src": "8.jpg",
       "alt": "Elsa Zambrano. Pieza 11. 2006. Fuente: Colección MAMBO. "
@@ -81,7 +81,7 @@
   "mv9": {
     "title": "Nuevos medios",
     "text": "white",
-    "color": "rgb(15, 15, 15)",
+    "color": "#0f0f0f",
     "img": {
       "src": "9.jpg",
       "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO. "
