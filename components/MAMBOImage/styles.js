@@ -82,16 +82,10 @@ export const AudioContainer = styled.div`
 `;
 
 export const ImageContainer = styled.div`
-  width: 100%;
   height: 100%;
-  display: block;
+  width: 100%;
   position: relative;
   cursor: pointer;
-
-  > div:first-child {
-    width: 100% !important;
-    height: 100% !important;
-  }
 
   :hover > div:last-child {
     display: flex;

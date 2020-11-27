@@ -8,7 +8,7 @@ import Close from "../Icons/Close";
 
 import MAMBOImage from "../MAMBOImage";
 
-import Image from "next/image";
+import Image from "../Image";
 
 import {
   ContainerDetail,
@@ -234,7 +234,13 @@ function ExhibitionSecondary({ exhibition, config }) {
         )}
       </ContainerMenu>
       <ImageBgContainer>
-        <Image layout="fixed" src={img2.src} width={1200} height={800} />
+        <Image
+          src={img2.src}
+          alt={img2.alt}
+          width={1200}
+          height={800}
+          loading="eager"
+        />
       </ImageBgContainer>
       {current !== "" && (
         <MenuContentContainer color={color} text={text}>

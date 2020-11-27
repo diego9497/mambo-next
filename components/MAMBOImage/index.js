@@ -15,7 +15,7 @@ import {
   ImageContainer,
 } from "./styles";
 
-import Image from "next/image";
+import Image from "../Image";
 
 export default function MAMBOImage({
   src,
@@ -38,14 +38,12 @@ export default function MAMBOImage({
     <>
       <ImageContainer>
         <Image
+          onClick={openModal}
           src={src}
           alt={alt}
           fit={fit}
-          onClick={openModal}
-          quality={90}
           width={width}
           height={height}
-          layout="fixed"
           loading={loading}
         />
         <Tooltip>{alt}</Tooltip>

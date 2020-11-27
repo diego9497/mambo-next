@@ -18,13 +18,19 @@ const Timeline = ({ config, timeline }) => {
   );
 };
 
-export const getStaticProps = ({ locale }) => {
-  const langCommon = { es: esCommon, en: enCommon };
-  const config = langCommon[locale];
-  const langTime = { es: esTime, en: enTime };
-  const timeline = langTime[locale];
+// export const getStaticProps = ({ locale }) => {
+//   const langCommon = { es: esCommon, en: enCommon };
+//   const config = langCommon[locale];
+//   const langTime = { es: esTime, en: enTime };
+//   const timeline = langTime[locale];
+//   return {
+//     props: { config, timeline },
+//   };
+// };
+
+export const getStaticProps = () => {
   return {
-    props: { config, timeline },
+    props: { config: esCommon, timeline: esTime, index: true },
   };
 };
 

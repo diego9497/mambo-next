@@ -116,20 +116,16 @@ export const ImageToolTipContainer = styled.div`
   cursor: pointer;
   transition: transform 0.3s ease-in;
 
-  > div:first-child {
-    height: 100% !important;
-    width: 100% !important;
-    display: block !important;
-    > img {
-      object-fit: ${({ fit }) => fit};
-    }
-  }
   :hover > div:last-child {
     display: flex;
   }
 
-  :hover {
-    transform: scale(1.08);
-    box-shadow: 2px 4px 9px #0000002e;
-  }
+  ${({ animation }) =>
+    animation &&
+    css`
+      :hover {
+        transform: scale(1.08);
+        box-shadow: 2px 4px 9px #0000002e;
+      }
+    `}
 `;

@@ -10,7 +10,6 @@ import {
   TextContentSecond,
   FirstEmpty,
   SecondEmpty,
-  Gallery,
   GalleryImageContainer,
   GalleryContainer,
   AudioContainer,

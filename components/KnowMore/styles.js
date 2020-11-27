@@ -66,12 +66,6 @@ export const Title = styled.p`
   color: ${(props) => props.color};
 `;
 
-export const ImageBackground = styled.img`
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-`;
 export const ContainerInfo = styled.div`
   color: inherit;
   position: absolute;

@@ -14,7 +14,7 @@ import Map from "../Icons/Map";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { useCallback, useState } from "react";
-function Footer({ exhibition, config, index, choose }) {
+function Footer({ exhibition, config, index, choose, locale = "es" }) {
   const [openGames, setOpenGames] = useState(false);
 
   const router = useRouter();
@@ -23,11 +23,13 @@ function Footer({ exhibition, config, index, choose }) {
 
   const handleBack = useCallback(() => {
     if (choose || exhibition.id === 9 || exhibition.id === 2) {
-      router.push("/");
+      router.push(locale === "es" ? "/" : "/en");
     } else if (!title) {
       router.back();
     } else {
-      router.push(`/exhibition/${id}`);
+      router.push(
+        locale === "es" ? `/exhibition/${id}` : `/en/exhibition/${id}`
+      );
     }
   }, [router]);
 
@@ -50,7 +52,7 @@ function Footer({ exhibition, config, index, choose }) {
           )}
         </Anchor>
         {!index && exhibition.id !== 9 ? (
-          <Link href={`/special/9`}>
+          <Link href={locale === "es" ? `/special/9` : `/en/special/9`}>
             <Anchor text="white" color="black">
               <ItemOption>
                 <Option>{config.mv9.title}</Option>
@@ -78,7 +80,7 @@ function Footer({ exhibition, config, index, choose }) {
         </Anchor>
       </LeftContainer>
       <TimeLineMapContainer>
-        <Link href="/timeline">
+        <Link href={locale === "es" ? "/timeline" : "/en/timeline"}>
           <Anchor text={text} color={color}>
             <ItemOption>
               <TimeLine />
@@ -86,7 +88,7 @@ function Footer({ exhibition, config, index, choose }) {
             </ItemOption>
           </Anchor>
         </Link>
-        <Link href="/map">
+        <Link href={locale === "es" ? "/map" : "/en/map"}>
           <Anchor text={text} color={color}>
             <ItemOption>
               <Map />
