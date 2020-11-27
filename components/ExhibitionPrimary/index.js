@@ -10,7 +10,6 @@ import {
   TextContentSecond,
   FirstEmpty,
   SecondEmpty,
-  Gallery,
   GalleryImageContainer,
   GalleryContainer,
   AudioContainer,
@@ -119,7 +118,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
         <Slider {...settings}>
           {gallery?.map((img, index) => (
             <GalleryImageContainer num={index + 1}>
-              <MAMBOGallery gallery={gallery} index={index} />
+              <MAMBOGallery gallery={gallery} index={index} animation={true} />
             </GalleryImageContainer>
           ))}
         </Slider>

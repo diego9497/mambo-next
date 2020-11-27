@@ -8,7 +8,7 @@ import Close from "../Icons/Close";
 
 import MAMBOImage from "../MAMBOImage";
 
-import Image from "next/image";
+import Image from "../Image";
 
 import {
   ContainerDetail,
@@ -33,6 +33,8 @@ import {
   ConceptInfoContainer,
   AudioContainer,
   AudioContainerAlt,
+  RowEnd,
+  ImageOfMenuContainer,
 } from "./styles";
 
 const menu = {
@@ -77,12 +79,19 @@ function ExhibitionSecondary({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <BigFont>
+              <RowEnd>
                 <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
+              </RowEnd>
+              <BigFont>
                 {didYouKnowImg && (
-                  <MAMBOImage src={didYouKnowImg.src} alt={didYouKnowImg.alt} />
+                  <ImageOfMenuContainer>
+                    <MAMBOImage
+                      src={didYouKnowImg.src}
+                      alt={didYouKnowImg.alt}
+                    />
+                  </ImageOfMenuContainer>
                 )}
                 {didYouKnow}
               </BigFont>
@@ -102,11 +111,15 @@ function ExhibitionSecondary({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <BigFont>
+              <RowEnd>
                 <AudioContainerAlt text={text}>
                   <Accessibility />
                 </AudioContainerAlt>
-                <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
+              </RowEnd>
+              <BigFont>
+                <ImageOfMenuContainer>
+                  <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
+                </ImageOfMenuContainer>
                 {activity}
               </BigFont>
             </MenuContentDetailContainer>
@@ -178,7 +191,7 @@ function ExhibitionSecondary({ exhibition, config }) {
   }
 
   return (
-    <ContainerDetail id="content2">
+    <ContainerDetail>
       <ContainerTitle>
         <Title color={color}>
           <AudioContainer>
@@ -234,7 +247,13 @@ function ExhibitionSecondary({ exhibition, config }) {
         )}
       </ContainerMenu>
       <ImageBgContainer>
-        <Image layout="fixed" src={img2.src} width={1200} height={800} />
+        <Image
+          src={img2.src}
+          alt={img2.alt}
+          width={1200}
+          height={800}
+          loading="eager"
+        />
       </ImageBgContainer>
       {current !== "" && (
         <MenuContentContainer color={color} text={text}>

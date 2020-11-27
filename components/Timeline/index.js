@@ -2,213 +2,110 @@ import {
   Container,
   ContainerList,
   ContainerInfo,
-  LeftList,
-  RightList,
   ContainerEmpty,
   ContainerHeaderTimeline,
   TextHeaderTimeline,
-  ContainerIconHeaderTimeline,
-  ContainerListLeftRight,
+  ContainerCards,
+  CardTimelineLeft,
+  CardTimelineRight,
 } from "./style";
 import CardTimeline from "../CardTimeline";
 import InfoTimeline from "../InfoTimeline";
-import Menu from "../Icons/Menu";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
-function Timeline({ config }) {
+function Timeline({ config, timeline }) {
+  const [current, setCurrent] = useState(0);
   const [infoCard, setInfoCard] = useState();
   const [open, setOpen] = useState(false);
 
-  const events = [
-    {
-      id: 1,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 3,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 1,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 2,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 8,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 4,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 5,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 7,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 8,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 5,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 2,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 6,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 9,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 5,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 2,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-    {
-      id: 7,
-      title: "Esto puede ser largo",
-      year: "1992",
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque explicabo aperiam dolorum sint, suscipit nemo cupiditate doloremque exercitationem voluptas, unde porro! Doloremque provident eveniet. 1",
-      type: "image",
-    },
-  ];
+  const tAux = timeline.map((timeline, index) => ({ ...timeline, key: index }));
 
-  const left = events.filter((event, index) => index % 2 === 0);
-  const right = events.filter((event, index) => index % 2 !== 0);
-
-  const handleClick = (event) => {
-    setInfoCard({
-      ...event,
-      color: config[`mv${event.id}`].color,
-      topic: config[`mv${event.id}`].title,
-    });
+  const handleClick = (key) => {
+    setCurrent(key);
     setOpen(true);
   };
+
   const handleClose = () => {
-    setInfoCard(null);
     setOpen(false);
   };
+
+  const handleNext = () => {
+    setCurrent(current + 1);
+  };
+  const handlePrev = () => {
+    setCurrent(current - 1);
+  };
+
+  useEffect(() => {
+    const event = tAux.filter((evt) => evt.key === current)[0];
+    setInfoCard({
+      ...event,
+      content: event.description,
+      color: config[`mv${event.id}`].color,
+      text: config[`mv${event.id}`].text,
+      topic: config[`mv${event.id}`].title,
+    });
+  }, [current]);
+
   return (
     <Container>
       <ContainerList open={open}>
         <ContainerHeaderTimeline color={config.mv1.color}>
           <TextHeaderTimeline>{config.timeline}</TextHeaderTimeline>
         </ContainerHeaderTimeline>
-        <ContainerListLeftRight>
-          <LeftList>
-            <ContainerEmpty />
-            {left.map((event, index) => (
-              <>
-                <CardTimeline
-                  key={index}
-                  onClick={() => handleClick(event)}
-                  ubication="right"
-                  color={config[`mv${event.id}`].color}
-                  content={event.title}
-                  type={event.type}
-                />
-                {index === left.length - 1 ? null : <ContainerEmpty />}
-              </>
-            ))}
-          </LeftList>
-          <RightList>
-            {right.map((event, index) => (
-              <>
-                <CardTimeline
-                  key={index}
-                  onClick={() => handleClick(event)}
-                  ubication="left"
-                  color={config[`mv${event.id}`].color}
-                  content={event.title}
-                  type={event.type}
-                />
-                {index === right.length - 1 ? null : <ContainerEmpty />}
-              </>
-            ))}
-          </RightList>
-        </ContainerListLeftRight>
+        <ContainerCards>
+          {tAux.map((event, index) => {
+            if (index % 2 === 0) {
+              return (
+                <>
+                  <CardTimelineLeft>
+                    <CardTimeline
+                      key={event.key}
+                      onClick={() => handleClick(event.key)}
+                      ubication="right"
+                      color={config[`mv${event.id}`].color}
+                      content={event.title}
+                      type={event.type}
+                      year={event.year}
+                      textColor={config[`mv${event.id}`].text}
+                    />
+                  </CardTimelineLeft>
+                  <ContainerEmpty />
+                </>
+              );
+            } else {
+              return (
+                <>
+                  <ContainerEmpty />
+                  <CardTimelineRight>
+                    <CardTimeline
+                      key={event.key}
+                      onClick={() => handleClick(event.key)}
+                      ubication="left"
+                      color={config[`mv${event.id}`].color}
+                      content={event.title}
+                      type={event.type}
+                      year={event.year}
+                      textColor={config[`mv${event.id}`].text}
+                    />
+                  </CardTimelineRight>
+                </>
+              );
+            }
+          })}
+        </ContainerCards>
       </ContainerList>
       {open && (
         <ContainerInfo>
-          <InfoTimeline {...infoCard} handleClose={handleClose} />
+          <InfoTimeline
+            {...infoCard}
+            handleClose={handleClose}
+            handleNext={handleNext}
+            handlePrev={handlePrev}
+            last={current === tAux.length - 1}
+            first={current === 0}
+          />
         </ContainerInfo>
       )}
     </Container>

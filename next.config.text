@@ -1,0 +1,14 @@
+// next.config.js
+const withOptimizedImages = require("next-optimized-images");
+const path = require("path");
+
+module.exports = withOptimizedImages({
+  optimizeImagesInDev: true,
+  responsive: {
+    adapter: require("responsive-loader/sharp"),
+  },
+  webpack(config) {
+    config.resolve.alias.images = path.join(__dirname, "image");
+    return config;
+  },
+});

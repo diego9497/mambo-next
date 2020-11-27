@@ -14,11 +14,17 @@ function Map({ config }) {
     </>
   );
 }
-export const getStaticProps = ({ locale }) => {
-  const langCommon = { es: esCommon, en: enCommon };
-  const config = langCommon[locale];
+// export const getStaticProps = ({ locale }) => {
+//   const langCommon = { es: esCommon, en: enCommon };
+//   const config = langCommon[locale];
+//   return {
+//     props: { config },
+//   };
+// };
+
+export const getStaticProps = () => {
   return {
-    props: { config },
+    props: { config: esCommon, index: true },
   };
 };
 

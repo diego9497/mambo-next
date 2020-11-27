@@ -1,14 +1,11 @@
-//TODO Arte conceptual en Colombia
-//TODO Arte contemporaneo en Colombia Revisar contenido autor e imagen
+//TODO Wikicommos y enlace en alts
 //TODO Arte de la desobediencia no tiene audioguia
-//TODO Caption en el choose con el de las imagenes
 import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Accessibility from "../Icons/Accessibility";
 import Close from "../Icons/Close";
 import Tooltip from "../Tooltip";
 import {
-  // Image,
   Container,
   ModalImage,
   CloseContainer,
@@ -16,11 +13,9 @@ import {
   Description,
   AudioContainer,
   ImageContainer,
-  GridAux,
-  ImageAux,
 } from "./styles";
 
-import Image from "next/image";
+import Image from "../Image";
 
 export default function MAMBOImage({
   src,
@@ -43,14 +38,12 @@ export default function MAMBOImage({
     <>
       <ImageContainer>
         <Image
+          onClick={openModal}
           src={src}
           alt={alt}
           fit={fit}
-          onClick={openModal}
-          quality={90}
           width={width}
           height={height}
-          layout="fixed"
           loading={loading}
         />
         <Tooltip>{alt}</Tooltip>
@@ -59,17 +52,15 @@ export default function MAMBOImage({
         <ClientPortal selector="#modal">
           <Container>
             <ContainerImage>
-              <GridAux>
-                <ImageAux>
-                  <ModalImage src={src} />
-                </ImageAux>
+              <ModalImage src={`/image/${src}`}>
+                <img src={`/image/${src}`} alt={alt} />
                 <Description>
-                  {alt}
+                  <p dangerouslySetInnerHTML={{ __html: alt }}></p>
                   <AudioContainer>
                     <Accessibility />
                   </AudioContainer>
                 </Description>
-              </GridAux>
+              </ModalImage>
             </ContainerImage>
             <CloseContainer onClick={closeModal}>
               <Close />

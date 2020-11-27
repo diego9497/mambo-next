@@ -45,15 +45,6 @@ export const ContainerHeaderTimeline = styled.div`
     display: flex;
   }
 `;
-export const ContainerListLeftRight = styled.div`
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  padding-bottom: 25px;
-  @media screen and (max-width: 500px) {
-    padding: 10px 10px 20px;
-  }
-`;
 export const TextHeaderTimeline = styled.div`
   font-size: 1.2em;
 `;
@@ -75,15 +66,6 @@ export const ContainerLists = css`
     padding: 10px;
   }
 `;
-export const LeftList = styled.div`
-  border-right: 2px solid gray;
-  ${ContainerLists}
-`;
-export const RightList = styled.div`
-  margin-left: -2px;
-  border-left: 2px solid gray;
-  ${ContainerLists}
-`;
 export const TitleCard = styled.p`
   font-size: 1.1.em;
   color: red;
@@ -98,6 +80,26 @@ export const ContainerInfo = styled.div`
   }
 `;
 export const ContainerEmpty = styled.div`
-  height: 60px;
   width: 100%;
+  background: white;
+`;
+
+export const ContainerCards = styled.div`
+  display: grid;
+  max-width: 580px;
+  margin: 0 auto;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  background: black;
+  column-gap: 2px;
+  margin-bottom: 40px;
+`;
+
+export const CardTimelineLeft = styled.div`
+  padding-right: 14px;
+  background: white;
+`;
+export const CardTimelineRight = styled.div`
+  padding-left: 14px;
+  background: white;
 `;

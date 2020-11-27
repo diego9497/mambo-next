@@ -1,14 +1,11 @@
 import Timeline from "../Icons/TimeLine";
 import CardPlaceMilestone from "../CardPlaceMilestone";
 
-function InfoTimeline({ color, content, title, topic, year, handleClose }) {
+function InfoTimeline({ topic, year, ...props }) {
   return (
     <CardPlaceMilestone
-      color={color}
-      content={content}
-      title={title}
-      subtitle={`${topic} (${year})`}
-      handleClose={handleClose}
+      {...props}
+      subtitle={year}
       iconHeader={<Timeline />}
       controls
     ></CardPlaceMilestone>

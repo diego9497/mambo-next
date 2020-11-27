@@ -5,7 +5,6 @@ import {
   MenuButton,
   Lang,
 } from "./styles";
-import Accessibility from "../Icons/Accessibility";
 import MenuIcon from "../Icons/Menu";
 import Logo from "../Icons/Logo";
 import Close from "../Icons/Close";
@@ -15,7 +14,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
 
-const Header = ({ config }) => {
+const Header = ({ config, locale = "es" }) => {
   const router = useRouter();
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -27,9 +26,10 @@ const Header = ({ config }) => {
     setMenuOpen(false);
   };
 
+  console.log(router);
   return (
     <Container>
-      <Link href="/">
+      <Link href={locale === "es" ? "/" : "/en"}>
         <div>
           <Logo />
         </div>
@@ -39,12 +39,26 @@ const Header = ({ config }) => {
         <div></div>
         <div></div>
         <div>
-          <Link href={router.asPath} locale="es" scroll={false}>
-            <Lang active={router.locale === "es"}>ES</Lang>
+          <Link
+            href={
+              router.asPath.replace("/en", "") !== ""
+                ? router.asPath.replace("/en", "")
+                : "/"
+            }
+            scroll={false}
+          >
+            <Lang active={!router.asPath.includes("/en")}>ES</Lang>
           </Link>
           <p>|</p>
-          <Link href={router.asPath} locale="en" scroll={false}>
-            <Lang active={router.locale === "en"}>EN</Lang>
+          <Link
+            href={
+              router.asPath.includes("en")
+                ? router.asPath
+                : "/en" + router.asPath
+            }
+            scroll={false}
+          >
+            <Lang active={router.asPath.includes("/en")}>EN</Lang>
           </Link>
         </div>
         <div>
@@ -55,7 +69,7 @@ const Header = ({ config }) => {
           </MenuButtonContainer>
         </div>
       </Options>
-      {menuOpen && <Menu close={handleClose} config={config} />}
+      {menuOpen && <Menu close={handleClose} config={config} locale={locale} />}
     </Container>
   );
 };

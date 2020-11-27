@@ -6,24 +6,16 @@ export const Container = styled.div`
   align-items: center;
   width: 100%;
   position: absolute;
-  top: 100%;
+  bottom: 0;
 `;
 
 export const Content = styled.div`
-  background: black;
-  color: white;
+  background: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  color: black;
   z-index: 2;
   padding: 7px 10px 4px;
-  border-radius: 5px;
   line-height: 1em;
   font-size: 13px;
-`;
-
-export const Triangle = styled.div`
-  background: black;
-  height: 20px;
-  width: 20px;
-  transform: rotate(45deg);
-  margin-bottom: -14px;
-  margin-top: 6px;
+  margin-top: auto;
 `;

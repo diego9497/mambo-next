@@ -16,12 +16,12 @@ function CardTimeline(props) {
       color={props.color}
     >
       <ContainerTitleYear>
-        <Title>{props.content}</Title>
-        <Year>1910</Year>
+        <Title text={props.textColor}>{props.content}</Title>
+        <Year text={props.textColor}>{props.year}</Year>
       </ContainerTitleYear>
-      <ContainerImage>
+      {/* <ContainerImage text={props.textColor}>
         {props.type === "image" ? <Photo /> : <Video />}
-      </ContainerImage>
+      </ContainerImage> */}
     </ContainerCard>
   );
 }

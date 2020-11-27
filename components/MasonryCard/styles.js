@@ -16,23 +16,7 @@ export const Background = styled.div`
   position: absolute;
   height: 100%;
   width: 100%;
-
-  > div {
-    height: 100% !important;
-    width: 100% !important;
-
-    > img {
-      object-fit: cover;
-      object-position: center;
-      filter: grayscale(100%);
-
-      ${({ bottom }) =>
-        bottom &&
-        css`
-          object-position: bottom;
-        `}
-    }
-  }
+  filter: grayscale(100%);
 `;
 
 export const Content = styled.div`
