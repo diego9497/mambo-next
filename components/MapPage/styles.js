@@ -42,6 +42,10 @@ export const ContainerMap = styled.article`
     align-items: center;
     padding: 10px;
     height: 100%;
+    > div {
+      height: 100%;
+      width: 100%;
+    }
   }
   img {
     width: 100%;

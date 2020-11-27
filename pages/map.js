@@ -9,18 +9,17 @@ function Map({ config }) {
     <>
       <Head>
         <title>{config.map} | MAMBO Viajero</title>
+        <link
+          rel="stylesheet"
+          href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+          crossorigin=""
+        />
       </Head>
       <MapPage config={config} />
     </>
   );
 }
-// export const getStaticProps = ({ locale }) => {
-//   const langCommon = { es: esCommon, en: enCommon };
-//   const config = langCommon[locale];
-//   return {
-//     props: { config },
-//   };
-// };
 
 export const getStaticProps = () => {
   return {
