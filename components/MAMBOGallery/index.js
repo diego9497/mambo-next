@@ -12,8 +12,6 @@ import {
   Description,
   AudioContainer,
   ImageToolTipContainer,
-  GridAux,
-  ImageAux,
 } from "./styles";
 
 import Next from "../Icons/Next";
@@ -21,7 +19,7 @@ import Previous from "../Icons/Before";
 import Accessibility from "../Icons/Accessibility";
 import Tooltip from "../Tooltip";
 
-import Image from "next/image";
+import Image from "../Image";
 
 export default function MAMBOGallery({
   gallery,
@@ -29,6 +27,7 @@ export default function MAMBOGallery({
   fit = "cover",
   width = 500,
   height = 300,
+  animation = false,
 }) {
   const [open, setOpen] = useState(false);
   const [current, setCurrent] = useState(index);
@@ -60,7 +59,7 @@ export default function MAMBOGallery({
 
   return (
     <>
-      <ImageToolTipContainer fit={fit}>
+      <ImageToolTipContainer animation={animation}>
         <Image
           src={gallery[index].src}
           alt={gallery[index].alt}
@@ -84,15 +83,13 @@ export default function MAMBOGallery({
               {gallery.map((img) => (
                 <ImageContainer>
                   <ModalImage src={img.src}>
-                    <>
-                      <img src={img.src} />
-                      <Description>
-                        <p dangerouslySetInnerHTML={{ __html: img.alt }}></p>
-                        <AudioContainer>
-                          <Accessibility />
-                        </AudioContainer>
-                      </Description>
-                    </>
+                    <img src={img.src} />
+                    <Description>
+                      <p dangerouslySetInnerHTML={{ __html: img.alt }}></p>
+                      <AudioContainer>
+                        <Accessibility />
+                      </AudioContainer>
+                    </Description>
                   </ModalImage>
                 </ImageContainer>
               ))}

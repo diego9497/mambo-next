@@ -1,21 +1,14 @@
 import Link from "next/link";
 import Next from "../Icons/Next";
-import Image from "next/image";
+import Image from "../Image";
 import { Container, Background, Content, Text } from "./styles";
 
-const MasonryCard = ({ img, title, filter, color, always, href, bottom }) => {
+const MasonryCard = ({ img, title, filter, color, always, href, position }) => {
   return (
     <Link href={href}>
       <Container>
-        <Background bottom={bottom}>
-          <Image
-            src={img}
-            layout="fixed"
-            width={600}
-            height={400}
-            quality={90}
-            loading="eager"
-          />
+        <Background>
+          <Image src={img} width={600} height={400} position={position} />
         </Background>
         <Content filter={filter}>
           <Text always={always} color={color}>

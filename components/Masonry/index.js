@@ -71,7 +71,7 @@ const Masonry = ({ config, locale = "es" }) => {
           color="rgb(15, 15, 15)"
           title={config.mv9.title}
           img={config.mv9.img.src}
-          bottom={true}
+          position="bottom"
         />
         <MasonryCard
           id="5"

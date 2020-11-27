@@ -141,36 +141,13 @@ export const GalleryContainer = styled.section`
   border-bottom: 1px solid var(--borderColor);
   min-height: 340px;
 `;
-export const Gallery = styled.div`
-  width: 100%;
-  min-height: 250px;
-  overflow-y: auto;
-  display: flex;
-
-  ::-webkit-scrollbar {
-    height: 7px;
-  }
-  ::-webkit-scrollbar-track {
-    background: rgba(202, 202, 202, 0.2);
-  }
-  ::-webkit-scrollbar-thumb {
-    background: rgba(187, 187, 187, 0.3);
-    border-radius: 4px;
-  }
-  margin-bottom: 10px;
-`;
-
 export const GalleryImageContainer = styled.div`
   width: 33vw;
   min-width: calc(33.333333vw - 25px);
   margin: 10px;
   padding: 10px;
-  & img {
-    width: 100%;
-    height: 320px;
-    object-fit: cover;
-    display: block;
-  }
+  height: 320px;
+
   @media screen and (max-width: 768px) {
     min-width: calc(66vw - 20px);
   }
@@ -178,14 +155,6 @@ export const GalleryImageContainer = styled.div`
   @media screen and (max-width: 420px) {
     min-width: calc(100vw - 20px);
   }
-`;
-
-export const ImageSecond = styled.img`
-  height: 350px;
-  width: 100%;
-  object-fit: cover;
-  filter: grayscale(1);
-  display: block;
 `;
 
 export const AudioContainer = styled.div`

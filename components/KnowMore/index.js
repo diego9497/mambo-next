@@ -3,7 +3,6 @@ import {
   ContainerSection,
   Title,
   ContainerInfo,
-  ImageBackground,
   Text,
   Subtitle,
   ReferenceContainer,
@@ -13,7 +12,7 @@ import {
   ImageBgContainer,
 } from "./styles";
 
-import Image from "next/image";
+import Image from "../Image";
 
 import Close from "../Icons/Close";
 import { useState } from "react";
@@ -47,8 +46,6 @@ function KnowMore({ exhibition, config }) {
                 alt={keyConcepts[0].img.alt}
                 width={600}
                 height={350}
-                quality={90}
-                layout="fixed"
               />
             </ImageBgContainer>
             <ContainerInfo color={color}>
@@ -62,22 +59,13 @@ function KnowMore({ exhibition, config }) {
               alt={keyConcepts[0].img.alt}
               width={600}
               height={350}
-              quality={90}
-              layout="fixed"
             />
           </ImageBgContainer>
         )}
       </ContainerSection>
       <ContainerSection href={knowMore[0].link} text={text} target="blank">
         <ImageBgContainer>
-          <Image
-            src={img1.src}
-            alt={img1.alt}
-            width={600}
-            height={350}
-            quality={90}
-            layout="fixed"
-          />
+          <Image src={img1.src} alt={img1.alt} width={600} height={350} />
         </ImageBgContainer>
         <ContainerInfo color={color}>
           <Text>{knowMore[0].title}</Text>
@@ -85,14 +73,7 @@ function KnowMore({ exhibition, config }) {
       </ContainerSection>
       <ContainerSection href={knowMore[1].link} text={text} target="blank">
         <ImageBgContainer>
-          <Image
-            src={img2.src}
-            alt={img2.alt}
-            width={600}
-            height={350}
-            quality={90}
-            layout="fixed"
-          />
+          <Image src={img2.src} alt={img2.alt} width={600} height={350} />
         </ImageBgContainer>
         <ContainerInfo color={color}>
           <Text>{knowMore[1].title}</Text>
@@ -100,14 +81,7 @@ function KnowMore({ exhibition, config }) {
       </ContainerSection>
       <ContainerSection href={knowMore[2].link} text={text} target="blank">
         <ImageBgContainer>
-          <Image
-            src={img3.src}
-            alt={img3.alt}
-            width={600}
-            height={350}
-            quality={90}
-            layout="fixed"
-          />
+          <Image src={img3.src} alt={img3.alt} width={600} height={350} />
         </ImageBgContainer>
         <ContainerInfo color={color}>
           <Text>{knowMore[2].title}</Text>
