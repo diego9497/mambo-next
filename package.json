@@ -10,17 +10,11 @@
   },
   "dependencies": {
     "next": "10.0.1",
-    "next-optimized-images": "^2.6.2",
+    "next-pwa": "^3.1.5",
     "next-translate": "^0.19.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-optimized-image": "^0.4.1",
     "react-slick": "^0.27.13",
     "styled-components": "^5.2.1"
-  },
-  "devDependencies": {
-    "imagemin-mozjpeg": "^9.0.0",
-    "responsive-loader": "^2.2.0",
-    "sharp": "^0.26.3"
   }
 }
