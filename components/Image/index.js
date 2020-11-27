@@ -1,4 +1,5 @@
 import Img from "next/image";
+
 import { ImageContainer } from "./styles";
 
 export default function Image({
@@ -15,13 +16,14 @@ export default function Image({
     <ImageContainer fit={fit} position={position}>
       <Img
         onClick={onClick}
-        src={src}
+        src={`/image/${src}`}
         alt={alt}
         quality={90}
         width={width}
         height={height}
         layout="fixed"
-        loading={loading}
+        // loading={loading}
+        loading="eager"
       />
     </ImageContainer>
   );
