@@ -1,48 +1,48 @@
 [
   {
     "id": 9,
-    "title": "INVENCIÓN DE LA IMPRENTA",
+    "title": "INVENTION OF PRINTING",
     "year": "1455",
-    "description": "Johannes Gutenberg imprime 180 copias de un texto dando inicio a la época de la impresión moderna.",
+    "description": "Johannes Gutenberg prints 180 copies of a text ushering in the era of modern printing.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=vpDnIvhlC8Q&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "REVOLUCIÓN INDUSTRIAL",
+    "title": "INDUSTRIAL REVOLUTION",
     "year": "1970",
-    "description": "La revolución industrial tuvo una gran influencia en el mundo moderno, en especial la economía y la cultura.",
+    "description": "The industrial revolution had a great influence on the modern world, especially the economy and culture.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=3LQAnFEADl4&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "REVOLUCIÓN FRANCESA",
+    "title": "FRENCH REVOLUTION",
     "year": "1789",
-    "description": "La revolución francesa marcó el origen de los estados modernos.",
+    "description": "The French Revolution marked the origin of modern states.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=QtvjU2y4p0w&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "FUNDACIÓN DE LA ESCUELA DE BELLAS ARTES EN PARIS",
+    "title": "FOUNDATION OF THE SCHOOL OF FINE ARTS IN PARIS",
     "year": "1797",
-    "description": "En esta escuela se forjó el academicismo contra el cual se rebelarían las vanguardias.",
+    "description": "In this school the academicism was forged against which the vanguards would rebel.",
     "type": "image"
   },
   {
     "id": 3,
-    "title": "PRIMERA FOTOGRAFÍA",
+    "title": "FIRST PHOTOGRAPH",
     "year": "1836",
-    "description": "Daguerre crea lo que es considerado la primera fotografía. La fotografía trajó importantes cambios en la cultura visual e impulsó a los artistas modernos a plasmar su visión personal más alla de la representación fiel de la realidad.",
+    "description": "Daguerre creates what is considered the first photograph. Photography brought important changes in visual culture and prompted modern artists to express their personal vision beyond the faithful representation of reality.",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=2&v=ixDuIxQuTeQ&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "MODERNISMO",
+    "title": "MODERNISM",
     "year": "1850",
-    "description": "El arte moderno es un proceso de transformación en el cual los artistas de intentan superar las formas artísticas tradicionales para buscar unas nuevas formas de representación en el arte. Se puede ubicar aproximadamente el periodo de Arte Moderno entre 1850 a 1960 y comprende una multiplicidad de artistas y movimientos. Esta obra de Manet fue una de las primeras pinturas modernas y causó un gran rechazo en París.",
+    "description": "Modern art is a process of transformation in which artists try to overcome traditional art forms to seek new forms of representation in art. The period of Modern Art can be located approximately between 1850 and 1960 and It comprises a multiplicity of artists and movements. This work by Manet was one of the first modern paintings and caused a great rejection in Paris. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1d9fJ4fGAK5VircvtPFxg0I462ghIQfeb/view"
   },
@@ -50,23 +50,23 @@
     "id": 3,
     "title": "OLIMPIA. ÈDOUARD MANET",
     "year": "1836",
-    "description": "fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que, al parecer, es una trabajadora sexual; desafiando los códigos morales y la tradición del desnudo femenino en el arte.",
+    "description": "was one of the forerunners of impressionism and modern painting. This work called Olympia, an ironic reference to Greek history, generated controversy for presenting a nude woman who, apparently, is a sex worker; challenging moral codes and the tradition of the female nude in art. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1kxHdhbLmIikBFzz3H0nc8jY1v00bAcoe/view"
   },
   {
     "id": 3,
-    "title": "LA EDAD MADURA CAMILLE CLAUDEL",
+    "title": "THE MATURE AGE CAMILLE CLAUDEL",
     "year": "1864",
-    "description": "fue una de las precursoras de la escultura moderna en oposición a la Academia Francesa. En esta obra cargada de simbolismo, se evidencia su interés por temas diferentes a los que dictaba el canon clásico: la exaltación de la belleza y la perfección.",
+    "description": "was one of the forerunners of modern sculpture in opposition to the French Academy. In this work full of symbolism, her interest in themes other than those dictated by the classical canon is evidenced: the exaltation of beauty and perfection.",
     "type": "image",
     "url": "https://drive.google.com/file/d/1atadIGIQsUnlniF3vFiaTPx56uUYDmTm/view"
   },
   {
     "id": 3,
-    "title": "LAS DAMAS DE AVIGNON. PABLO PICASSO",
+    "title": "THE LADIES OF AVIGNON. PABLO PICASSO",
     "year": "1881",
-    "description": "fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo.",
+    "description": "was probably the best known reference in modern painting, for challenging the figure and presenting images with marked alterations. This work introduced the deformation of bodies and geometric abstraction. as a new procedure in painting, which more later it was consolidated in cubism. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1VKbwMdzSOwCKwn3fkoJc_Rk7WBebihR0/view"
   },
@@ -74,31 +74,31 @@
     "id": 3,
     "title": "FAUVISMO",
     "year": "1904",
-    "description": "Tal es su sentido de independencia, que el colorido de una línea va cambiando, de suerte que en una misma figura puede haber partes de un color y partes de otro.",
+    "description": "Such is their sense of independence, that the color of a line changes, so that in the same figure there may be parts of one color and parts of another.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=HvNnc4s06sk&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "IMPRESIONISMO",
+    "title": "IMPRESSIONISM",
     "year": "1904",
-    "description": "Este movimiento se caracteriza por el uso de colores puros sin mezclar ni ocultar la pincelada dándole protagonismo ante todo a la luz y el color. Entiendo la luz y la sombra a partir de volúmenes como el cilindro, el cono y la esfera.",
+    "description": "This movement is characterized by the use of pure colors without mixing or hiding the brushstroke, giving prominence above all to light and color. I understand light and shadow from volumes such as the cylinder, the cone and the sphere.",
     "type": "image",
-    "url": "https://www.elespectador.com/resizer/obk3FcBKOgk1RRal35JR1_Q4CSQ=/657x0/filters:format(jpeg)/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/R2HRI7PEUBFPFJ3DHETLFUV55U.jpg"
+    "url": "https://www.elespectador.com/resizer/obk3FcBKOgk1RRal35JR1_Q4CSQ=/657x0/filters:format(jpeg)/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/R2FJU7PE55DFPLPLJFJU7PE "
   },
   {
     "id": 3,
-    "title": "CUBISMO",
+    "title": "CUBISM",
     "year": "1907",
-    "description": "El cubismo surgió a partir del interés de los pintores en combinar diferentes perspectivas, alterando la forma de los objetos. Se inspiraron en los cuadros prehistóricos.",
+    "description": "Cubism arose from the interest of painters in combining different perspectives, altering the shape of objects. They were inspired by prehistoric paintings.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=ZONg49dyZsg&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "FUTURISMO",
+    "title": "FUTURISM",
     "year": "1909",
-    "description": "El futurismo fue llamado así por su intención de romper absolutamente con el arte del pasado. Se inspiró en el progreso industrial y en una exaltación de la máquina y la ciudad.",
+    "description ": " Futurism was so named for its intention to absolutely break with the art of the past. It was inspired by industrial progress and an exaltation of the machine and the city. ",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=OyEH-Fs_VPs&feature=emb_logo"
   },
@@ -106,23 +106,23 @@
     "id": 9,
     "title": "READY-MADE",
     "year": "1910",
-    "description": "Objetos encontrados despojados de su sentido instrumental. Los artistas explora los aspectos intelectuales de los objetos.",
+    "description": "Found objects stripped of their instrumental meaning. Artists explore the intellectual aspects of objects.",
     "type": "image",
     "url": "https://i.blogs.es/5e470c/san_francisco_museum_of_modern_art_-3023815215-/1366_2000.jpg"
   },
   {
     "id": 3,
-    "title": "EXPRESIONISMO ALEMÁN",
+    "title": "GERMAN EXPRESSIONISM",
     "year": "1914",
-    "description": "Movimiento pictórico que exploró la potencia del color a nivel emoiconal y simbólico.",
+    "description": "A pictorial movement that explored the power of color on an emotional and symbolic level.",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=3&v=W0xr-nJZxr4&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "CONSTRUCTIVISMO RUSO",
+    "title": "RUSSIAN CONSTRUCTIVISM",
     "year": "1914",
-    "description": "Las formas constructivistas están fuertemente vinculadas con la corriente de pensamiento materialista.",
+    "description": "Constructivist forms are strongly linked to the materialist current of thought.",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=3&v=yQBZL0X1VZ8&feature=emb_logo"
   },
@@ -130,7 +130,7 @@
     "id": 3,
     "title": "DADAÍSMO",
     "year": "1916",
-    "description": "Movimiento artístico surgido en Zurich (Suiza) que exploró el azar y el caos como forma creativa. Rompió con las formas tradicionales del arte y combinó distintos medios en acciones poéticas y artísticas que dieron origen al performance.",
+    "description": "Artistic movement that emerged in Zurich (Switzerland) that explored chance and chaos as a creative form. It broke with traditional forms of art and combined different media in poetic and artistic actions that gave rise to performance.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=oeosT_6vG7g&feature=emb_logo"
   },
@@ -138,15 +138,15 @@
     "id": 3,
     "title": "BAUHAUS",
     "year": "1919",
-    "description": "Escuela que marcó importantes pautas para el diseño y la arquitectura moderna y contemporánea",
+    "description": "School that set important guidelines for modern and contemporary design and architecture",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=2&v=X59FCW3vOlE&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "ABSTRACCIÓN GEOMÉTRICA",
+    "title": "GEOMETRIC ABSTRACTION",
     "year": "1920",
-    "description": "Término para referirse a las obras que no representan objetos del mundo visible sino que exploran las formas geométricas para la creación de imágenes.",
+    "description": "Term to refer to works that do not represent objects of the visible world but rather explore geometric shapes to create images.",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=1&v=Cpny8EB06wE&feature=emb_logo"
   },
@@ -154,31 +154,31 @@
     "id": 3,
     "title": "ART DECÓ",
     "year": "1920",
-    "description": "Corriente de diseño y arquitectura con expresiones muy diversa que tuvo su mayor auge comercial en el periodo entre la primera y segunda guerra mundial.",
+    "description": "A current of design and architecture with very diverse expressions that had its greatest commercial boom in the period between the First and Second World War.",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=5&v=OjrmPTpQfcc&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "SURREALISMO",
+    "title": "SURREALISM",
     "year": "1920",
-    "description": "Movimiento artístico que investigó el subconsciente y los sueños como materia de creación artística.",
+    "description": "Artistic movement that investigated the subconscious and dreams as a matter of artistic creation.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=gBSk33r-BN0&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "REALISMO SOCIAL",
+    "title": "SOCIAL REALISM",
     "year": "1921",
-    "description": "El realismo fue un movimiento que influenció la escritura y las artes en latinoamérica a inicios del Siglo XX",
+    "description": "Realism was a movement that influenced writing and the arts in Latin America at the beginning of the 20th century",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=1&v=ToVUCdGZ99E&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "GAITÁN PUBLICA SU TESIS: IDEAS SOCIALISTAS EN COLOMBIA",
+    "title": "GAITÁN PUBLISHES HIS THESIS: SOCIALIST IDEAS IN COLOMBIA",
     "year": "1922",
-    "description": "Politico liberal revolucionario que fue asesinado durante su campaña a la Presidencia de Colombia.",
+    "description": "Liberal revolutionary politician who was assassinated during his campaign for the Presidency of Colombia.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=diyY2VMNZRQ&feature=emb_logo"
   },
@@ -186,80 +186,80 @@
     "id": 9,
     "title": "MASACRE DE LAS BANANERAS",
     "year": "1928",
-    "description": "Masacre en la que fueron asesinados trabajadores de la empresa United Fruit Company que poseía grandes ingenios de banano de Ciénaga, Magdalena.",
+    "description": "Massacre in which workers of the United Fruit Company, which owned large banana mills in Ciénaga, Magdalena, were murdered.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=xNfIivmUFXY&feature=emb_logo"
   },
   {
     "id": 4,
-    "title": "ORIGEN DEL GRUPO BACHUÉ",
+    "title": "ORIGIN OF THE BACHUÉ GROUP",
     "year": "1930",
-    "description": "Este grupo surge a partir de la obra Bachué de Rómulo Rozo.",
+    "description": "This group arises from the work Bachué by Rómulo Rozo.",
     "type": "image"
   },
   {
     "id": 6,
-    "title": "ALFONSO LÓPEZ PUMAREJO PRESIDENTE LIBERAL: LA REVOLUCIÓN EN MARCHA",
+    "title": "ALFONSO LÓPEZ PUMAREJO LIBERAL PRESIDENT: THE REVOLUTION IN MARCH",
     "year": "1934",
-    "description": "Periodo que se conoció como Segunda República LIberal en la que se derrocó la hegemonía conservadora y el país entró en un proceso de modernización liberal.",
+    "description": "Period that became known as the Second Liberal Republic in which the conservative hegemony was overthrown and the country entered a process of liberal modernization.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=KAiI60jNviw&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "CREACIÓN DEL TALLER GRÁFICA POPULAR EN MÉXICO",
+    "title": "CREATION OF THE POPULAR GRAPHIC WORKSHOP IN MEXICO",
     "year": "1937",
-    "description": "La gráfica popular mexicana ejerció una importante influencia en el arte latinoamericano de principios del Siglo XX",
+    "description": "Mexican popular graphics exerted an important influence on Latin American art at the beginning of the 20th century",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=CmzxJVXezuc&feature=emb_logo"
   },
   {
     "id": 3,
-    "title": "EXPRESIONISMO ABSTRACTO",
+    "title": "ABSTRACT EXPRESSIONISM",
     "year": "1940",
     "type": "image",
-    "url": "https://www.youtube.com/watch?time_continue=1&v=gWUSh10Cgjo&feature=emb_logo"
+    "url": "https://www.youtube.com / watch? time_continue = 1 & v = gWUSh10Cgjo & feature = emb_logo "
   },
   {
     "id": 4,
-    "title": "INICIO DE LA GUERRA FRÍA",
+    "title": "START OF THE COLD WAR",
     "year": "1945",
     "type": "image"
   },
   {
     "id": 9,
-    "title": "MARIANO OSPINA PÉREZ, PRESIDENTE CONSERVADOR",
+    "title": "MARIANO OSPINA PÉREZ, CONSERVATIVE PRESIDENT",
     "year": "1946",
-    "description": "Presidente Conservador",
+    "description": "Conservative President",
     "type": "image"
   },
   {
     "id": 4,
-    "title": "PRIMER SALÓN NACIONAL DE ARTISTAS",
+    "title": "FIRST NATIONAL SALON OF ARTISTS",
     "year": "1947",
-    "description": "Evento expositivo inaugurado por el presidente Eduardo Santos y Jorge Eliécer Gaitán, que se realiza anualmente como una plataforma de exhibición del arte colombiano.",
+    "description": "Exhibition event inaugurated by President Eduardo Santos and Jorge Eliécer Gaitán, which is held annually as an exhibition platform for Colombian art.",
     "type": "image"
   },
   {
     "id": 4,
-    "title": "EL SALÓN DE LOS 26",
+    "title": "THE HALL OF 26",
     "year": "1948",
-    "description": "Uno de los eventos expositivos fundamentales en la historia del arte colombiano. Fue organizado por el artista Obregón.",
+    "description": "One of the fundamental exhibition events in the history of Colombian art. It was organized by the artist Obregón.",
     "type": "image"
   },
   {
     "id": 9,
-    "title": "EL BOGOTAZO",
+    "title": "THE BOGOTAZO",
     "year": "1948",
-    "description": "Asesinato del candidato liberal Jorge Eliécer Gaitán, en pleno centro de Bogotá. Su asesinato dio inicio al Bogotazo; periodo de revueltas sociales en la ciudad.",
+    "description": "Assassination of the liberal candidate Jorge Eliécer Gaitán, in the heart of Bogotá. His assassination began the Bogotazo; a period of social unrest in the city.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=pZtTzLAHEr0&feature=emb_logo"
   },
   {
     "id": 4,
-    "title": "ROSTRO DE CRISTO. EDGAR NEGRET",
+    "title": "FACE OF CHRIST. EDGAR NEGRET",
     "year": "1949",
-    "description": "Edgar Negret (Popayán, Colombia - 1920) fue uno de los escultores más influyentes de las artes plásticas en Colombia. Cuestionó las nociones de lo industrial y lo natural al incorporar en su escultura materiales representativos de la modernidad como el hierro, el aluminio y la madera. En esta obra, se aprecia una representación abstracta de una figura de la cultura religiosa colombiana.",
+    "description": "Edgar Negret (Popayán, Colombia - 1920) was one of the most influential sculptors of the plastic arts in Colombia. He questioned the notions of the industrial and the natural by incorporating representative materials of modernity such as iron in his sculpture , aluminum and wood. In this work, an abstract representation of a figure of the Colombian religious culture can be appreciated. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/18hDI5m3V0HQGtN5fvuyqHU7qwK9UE0Z8/view"
   },
@@ -267,38 +267,38 @@
     "id": 5,
     "title": "POP ART",
     "year": "1950",
-    "description": "Movimiento artístico que se apropia de las imágenes y los objetos de la sociedad de consumo.",
+    "description": "Artistic movement that appropriates images and objects from consumer society.",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=1&v=6qr7cdpGDRo&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "GOLPE DE ESTADO EN COLOMBIA",
+    "title": "COUP D'AT IN COLOMBIA",
     "year": "1953",
-    "description": "Rojas Pinilla al poder. Clausura el periódico  El siglo y el Salón Nacional en Colombia. Lee más sobre Rojas Pinilla.",
+    "description": "Rojas Pinilla to power. The newspaper El Sigio and the Salón Nacional in Colombia will close. Read more about Rojas Pinilla.",
     "type": "image",
     "url": "https://drive.google.com/file/d/1hVuezrnU6uVMtmFm5JfPTMtgQgthYE0M/view"
   },
   {
     "id": 9,
-    "title": "LLEGADA DE LA TV A COLOMBIA",
+    "title": "ARRIVAL OF THE TV TO COLOMBIA",
     "year": "1954",
-    "description": "La llegada de la televisión marcó una transformación de la cultura visual en el país. En las palabras de Rojas Pinillas, la televisión era el estado, dando a entender que debía servir a los propósitos institucionales. En esta época hubo fuertes restricción a la libertad de prensa como la clausura de el periódico El Tiempo.",
+    "description": "The arrival of television marked a transformation of visual culture in the country. In the words of Rojas Pinillas, television was the state, implying that it should serve institutional purposes. At this time there were strong restriction of press freedom such as the closure of the newspaper El Tiempo. ",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=n1auVbwvMBM&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "CREACIÓN DE LAS FUERZAS ARMADAS REVOLUCIONARIAS DE COLOMBIA - FARC",
+    "title": "CREATION OF THE REVOLUTIONARY ARMED FORCES OF COLOMBIA - FARC",
     "year": "1954",
-    "description": "Inicio del conflicto armado en Colombia.",
+    "description": "Start of the armed conflict in Colombia.",
     "type": "image"
   },
   {
     "id": 1,
-    "title": "FUNDACIÓN DEL MUSEO DE ARTE MODERNO",
+    "title": "FOUNDATION OF THE MUSEUM OF MODERN ART",
     "year": "1955",
-    "description": "Aunque el museo se funda en este año, inicia sus labores en 1963 bajo la dirección de Marta Traba. Conoce la historia del museo en:",
+    "description": "Although the museum was founded this year, it began its work in 1963 under the direction of Marta Traba. Learn about the museum's history at:",
     "type": "image",
     "url": "https://www.mambogota.com/el-museo/#historia"
   },
@@ -306,108 +306,108 @@
     "id": 9,
     "title": "CAE ROJAS PINILLA",
     "year": "1957",
-    "description": "Voto de las mujeres en Colombia",
+    "description": "Vote of women in Colombia",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=lHUWckGfLmw&feature=emb_logo"
   },
   {
     "id": 6,
-    "title": "INICIA EL FRENTE NACIONAL CON ALBERTO LLERAS CAMARGO LIBERAL",
+    "title": "THE NATIONAL FRONT BEGINS WITH ALBERTO LLERAS CAMARGO LIBERAL",
     "year": "1958",
-    "description": "Publicación del I Manifiesto Nadaísta en papel higiénico, Puerto Berrío, Medellín.",
+    "description": "Publication of the I Nadaísta Manifesto on toilet paper, Puerto Berrío, Medellín.",
     "type": "image"
   },
   {
     "id": 9,
-    "title": "INSTALACIÓN",
+    "title": "INSTALLATION",
     "year": "1958",
-    "description": "El artista Allan Kaprow acuña el término instalación para referirse a una obra que realizó en su casa llenando un espacio de objetos.",
+    "description": "The artist Allan Kaprow coined the term installation to refer to a work he made at home filling a space with objects.",
     "type": "image"
   },
   {
     "id": 6,
-    "title": "PERFOMANCE DE ARTISTAS EN EL SALÓN DE RECHAZADOS",
+    "title": "PERFOMANCE OF ARTISTS IN THE HALL OF REJECTS",
     "year": "1959",
-    "description": "Quema de ataúdes en el centro de Bogota",
+    "description": "Burning of coffins in downtown Bogota",
     "type": "image"
   },
   {
     "id": 7,
     "title": "OP ART",
     "year": "1960",
-    "description": "Un estilo visual que busca engañar el ojo humano. Para conseguir ese objetivo usa a menudo ilusiones ópticas o trampantojos.",
+    "description": "A visual style that seeks to deceive the human eye. To achieve that goal it often uses optical illusions or trompe l'oeil.",
     "type": "image",
-    "url": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL21vdmVtZW50XC9pbWFnZUZpbGVcL29wLWFydC00LXNpZGVkLXNwaXJhbC10dW5uZWwtc3ZnLnBuZyIsInJlc2l6ZUNyb3AsNTAwLDgwMCxDUk9QX0VOVFJPUFl8Zm9ybWF0LHdlYnAiXX0.nq8raIg/4C_jj1qi71Mj-eSnU-ypKLTUdV8OrpGgT82A.webp"
+    "Url": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL21vdmVtZW50XC9pbWFnZUZpbGVcL29wLWFydC00LXNpZGVkLXNwaXJhbC10dW5uZWwtc3ZnLnBuZyIsInJlc2l6ZUNyb3AsNTAwLDgwMCxDUk9QX0VOVFJPUFl8Zm9ybWF0LHdlYnAiXX0.nq8raIg/4C_jj1qi71Mj-eSnU-ypKLTUdV8OrpGgT82A.webp"
   },
   {
     "id": 9,
     "title": "FLUXUS",
     "year": "1960",
-    "description": "Movimiento anti-arte con influencias dadaístas que introdujo los nuevos medios en Estados Unidos. Algunos de sus artistas más reconocidos fueron Nam June Paik y John Cage.",
+    "description": "Dadaist-influenced anti-art movement that brought new media to the United States. Some of its most recognized artists were Nam June Paik and John Cage.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=Q5MUOyJPhrA&feature=emb_logo"
   },
   {
     "id": 7,
-    "title": "ARTE POSTAL",
+    "title": "POSTCARD ART",
     "year": "1960",
-    "description": "Uso de sistemas de transporte y de comunicación como el correo para realizar obras artísticas a partir del intercambio.",
+    "description": "Use of transport and communication systems such as mail to create artistic works based on the exchange.",
     "type": "image",
     "url": "http://www.efectokuleshov.com.ar/wp-content/uploads/2013/05/DSC08772-1024x768.jpg"
   },
   {
     "id": 8,
-    "title": "EL CRÍTICO. NADÍN OSPINA",
+    "title": "THE CRITICAL. NADÍN OSPINA",
     "year": "1960",
-    "description": "Nadín Ospina (Bogotá, Colombia - 1960) es un artista que conjuga elementos del arte pop y del arte prehispánico, con el fin de realizar una crítica a la identidad moderna, a través del uso de la ironía y el humor. En esta obra, el artista elabora una escultura que se asemeja al arte prehispánico pero representa una figura de la televisión norteamericana, señalando los conflictos de identidad en un país colonizado.",
+    "description": "Nadín Ospina (Bogotá, Colombia - 1960) is an artist who combines elements of pop art and pre-Hispanic art, in order to make a critique of modern identity, through the use of irony and humor In this work, the artist makes a sculpture that resembles pre-Hispanic art but represents a figure from North American television, pointing out the identity conflicts in a colonized country. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1mN3giz1asWuJBJ9qcvOialJFL6vXN1rh/view"
   },
   {
     "id": 6,
-    "title": "CHATARRAS - FELIZA BURZTYN:",
+    "title": "SCRAPS - HAPPY BURZTYN:",
     "year": "1961",
-    "description": "Sus esculturas en chatarra y residuos de acero inoxidable recuerdan las discusiones de las décadas de 1960 y 1970 alrededor del uso de material no convencional, la sexualidad, la abstracción y los montajes fuera de lo común.",
+    "description": "His sculptures in scrap metal and stainless steel waste recall the discussions of the 1960s and 1970s around the use of unconventional material, sexuality, abstraction and unusual montages.",
     "type": "image",
     "url": "http://3.bp.blogspot.com/_Hehbu7yQr1s/SycPpFf5xTI/AAAAAAAAAhA/U71X5XbdlZ4/s1600/felisa3.jpg"
   },
   {
     "id": 1,
-    "title": "MARTA TRABA DIRECTORA DEL MAMBO",
+    "title": "MARTA TRABA DIRECTOR DEL MAMBO",
     "year": "1962",
-    "description": "La reconocida historiadora y crítica de arte Marta Traba convierte en realidad esta iniciativa y asume la dirección del Museo. Plantea la necesidad de crear una institución que difunda las artes plásticas.",
+    "description": "The renowned historian and art critic Marta Traba turns this initiative into reality and assumes the direction of the Museum. She raises the need to create an institution that disseminates the plastic arts.",
     "type": "image",
     "url": "https://www.mambogota.com/wp-content/uploads/2017/01/Marta-Traba-inaugura-el-MAMBO-1.jpg"
   },
   {
     "id": 9,
-    "title": "FIN DE LA GUERRA DE INDEPENDENCIA DE ARGELIA",
+    "title": "END OF THE ALGERIAN WAR OF INDEPENDENCE",
     "year": "1962",
-    "description": "Fin de la guerra de Independencia de Argelia",
+    "description": "End of the Algerian War of Independence",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=saE0tbYC3HM&t=283s"
   },
   {
     "id": 4,
-    "title": "VIOLENCIA. ALEJANDRO OBREGÓN",
+    "title": "VIOLENCE. ALEJANDRO OBREGÓN",
     "year": "1962",
-    "description": "Alejandro Obregón, (Barcelona, España - 1920) desde los 6 años vivió en el país, hizo parte del Grupo de Barranquilla y fue un referente de la pintura moderna y contemporánea en Colombia. Creó imágenes que se debatían entre la figuración y la abstracción (expresionismo figurativo), resaltando las pinceladas expresivas y la mancha de color. Esta emblemática obra es un reflejo de su interés por denunciar la crudeza de la realidad nacional",
+    "description": "Alejandro Obregón, (Barcelona, ​​Spain - 1920) lived in the country since he was 6 years old, was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that were debated between the figuration and abstraction (figurative expressionism), highlighting the expressive brushstrokes and the spot of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality ",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=P5MEvSnlxhM&t=3s"
   },
   {
     "id": 9,
-    "title": "MOVIMIENTOS ESTUDIANTILES EN BERKLEY, CALIFORNIA",
+    "title": "STUDENT MOVEMENTS IN BERKLEY, CALIFORNIA",
     "year": "1964",
-    "description": "Nacimiento de movimientos de defensa de la educación pública. Inicio de la prensa contracultural y de izquierda y del movimiento Hippie",
+    "description": "Birth of movements in defense of public education. Beginning of the countercultural and left-wing press and the Hippie movement",
     "type": "image",
-    "url": "https://ca-times.brightspotcdn.com/dims4/default/bf9129b/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2Ff2%2Ffad2e47148b69794753df4882000%2Fhoyla-lat-cinco-movimientos-de-protesta-que-sa-004"
+    "url": "https://ca-times.brightspotcdn.com/dims4/default/bf9129b/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https % 3A% 2F% 2Fcalifornia-times-brightspot.s3.amazonaws.com% 2Fb7% 2Ff2% 2Ffad2e47148b69794753df4882000% 2Fhoyla-lat-cinco-movements-de-protesta-que-sa-004 "
   },
   {
     "id": 5,
-    "title": "CAJAS DE BRILLO. ANDY WARHOL.",
+    "title": "BRIGHT BOXES. ANDY WARHOL.",
     "year": "1964",
-    "description": "Andy Warhol (Pittsburg, Estados Unidos - 1928) es reconocido como uno de los pioneros del Arte Pop en Estados Unidos. Warhol utilizó productos del mercado para reflexionar sobre el consumismo y la originalidad en el arte. En esta obra el artista copió la caja de un producto de consumo masivo y elaboró una escultura con 24 reproducciones de los empaques, poniendo en tela de juicio si cualquier objeto puede ser arte y señalando el consumismo como el modo de vida contemporáneo",
+    "description": "Andy Warhol (Pittsburg, United States - 1928) is recognized as one of the pioneers of Pop Art in the United States. Warhol used market products to reflect on consumerism and originality in art. In this work the artist copied the box of a mass consumer product and made a sculpture with 24 reproductions of the packaging, questioning whether any object can be art and pointing to consumerism as the contemporary way of life ",
     "type": "image",
     "url": "https://pbs.twimg.com/media/Bbdy7lUCEAA1FLx?format=jpg&name=medium"
   },
@@ -415,127 +415,127 @@
     "id": 4,
     "title": "BEATRIZ GONZÁLEZ - LOS SUICIDAS DEL SISGA",
     "year": "1965",
-    "description": "Beatriz González recibe el segundo premio en el Salón Nacional de Artistas del año 1965 por la realización de esta pintura",
+    "description": "Beatriz González receives the second prize at the National Salon of Artists in 1965 for the realization of this painting",
     "type": "image",
-    "url": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvMy1iZWF0cml6LWdvbnphbGV6LWxvcy1zdWljaWRhcy1kZWwtc2lzZ2EtMTk2NS1jb3VydGVzeS1vZi10aGUtYXJ0aXN0LWNhc2FzLXJpZWduZXIuanBnIiwicmV/zaXplLDE1MDB8Zm9ybWF0LHdlYnAiXX0.kBnzCSEDSJJANN_n7u9vyPj5lyd58wmvjqb1rQoY2Lg.webp"
+    "Url": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvMy1iZWF0cml6LWdvbnphbGV6LWxvcy1zdWljaWRhcy1kZWwtc2lzZ2EtMTk2NS1jb3VydGVzeS1vZi10aGUtYXJ0aXN0LWNhc2FzLXJpZWduZXIuanBnIiwicmV/zaXplLDE1MDB8Zm9ybWF0LHdlYnAiXX0.kBnzCSEDSJJANN_n7u9vyPj5lyd58wmvjqb1rQoY2Lg.webp"
   },
   {
     "id": 5,
-    "title": "MINIMALISMO",
+    "title": "MINIMALISM",
     "year": "1965",
-    "description": "Menos es más; movimiento artístico que busca reducir las obras a su forma más esencial",
+    "description": "Less is more; movimartistic endeavor that seeks to reduce works to their most essential form ",
     "type": "image",
     "url": "https://masdearte.com/media/n_minimalismo2.jpg"
   },
   {
     "id": 9,
-    "title": "NACE EL MOVIMIENTO BLACK POWER (PODER 9) EN E.E.U.U",
+    "title": "THE BLACK POWER MOVEMENT (POWER 9) IS BORN IN THE US",
     "year": "1966",
-    "description": "Movimiento surgido para combatir la discriminación contra la población negra en Estados Unidos",
+    "description": "Movement emerged to combat discrimination against the black population in the United States",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=qGZpDt6OYnI"
   },
   {
     "id": 6,
-    "title": "LO QUE DANTE NO SABÍA, BEATRIZ AMABA EL CONTROL DE NATALIDAD. BERNARDO SALCEDO.",
+    "title": "WHAT DANTE DIDN'T KNOW, BEATRIZ LOVED BIRTH CONTROL. BERNARDO SALCEDO.",
     "year": "1966",
-    "description": "Bernardo Salcedo (Bogotá, Colombia - 1939) fue uno de los pioneros del arte conceptual en Colombia. Trabajó combinando elementos de la pintura, la escritura y la escultura, para generar cuestionamientos sobre el contexto sociohistórico. Esta obra surge como homenaje a la vida de Dante Alighieri y su musa Beatriz Portinari, con quien nunca consumó su amor. Esta obra fue premiada por reflejar las nuevas propuestas del arte conceptual: el uso de los volúmenes minimalistas y la ironía en su nombre",
+    "description": "Bernardo Salcedo (Bogotá, Colombia - 1939) was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as homage to the life of Dante Alighieri and his muse Beatriz Portinari, with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art: the use of minimalist volumes and irony in his name ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1FdjZ92thyatDMIkCxZksYYjFYb1JmgQw/view"
   },
   {
     "id": 9,
-    "title": "FUSILAMIENTO DEL CHE GUEVARA EN BOLIVIA",
+    "title": "EXAMINATION OF CHE GUEVARA IN BOLIVIA",
     "year": "1967",
-    "description": "Fusilamiento del Che Guevara en Bolivia. Cae uno de los íconos revolucionarios latinoamericanos",
+    "description": "Execution of Che Guevara in Bolivia. One of the Latin American revolutionary icons falls",
     "type": "image",
     "url": "https://ep01.epimg.net/internacional/imagenes/2017/10/08/estados_unidos/1507493842_800349_1507495086_sumario_normal_recorte1.jpg"
   },
   {
     "id": 9,
-    "title": "MOVIMIENTO EXTRAPARLAMENTARIOS",
+    "title": "EXTRAPARLIAMENTARY MOVEMENT",
     "year": "1967",
-    "description": "Manifestaciones estudiantiles en alemania Occidental",
+    "description": "Student demonstrations in West Germany",
     "type": "image",
     "url": "https://www.sinpermiso.info/sites/default/files/styles/adaptive/public/notstandsgesetze_bonn_may_11_1968.jpg?itok=7aMhZ9Sv"
   },
   {
     "id": 9,
-    "title": "MOVIMIENTO DE LIBERACIÓN DE LAS MUJERES",
+    "title": "MOVEMENT FOR THE LIBERATION OF WOMEN",
     "year": "1967",
-    "description": "Se formaron las primeras organizaciones del Movimiento de Liberación de las Mujeres en ciudades importantes como Berkeley, Boston, Chicago, Nueva York y Toronto",
+    "description": "The first organizations of the Women's Liberation Movement were formed in major cities such as Berkeley, Boston, Chicago, New York and Toronto",
     "type": "image",
     "url": "https://www.pikaramagazine.com/wp-content/uploads/2013/04/feminism-4-e1366280115548.jpg"
   },
   {
     "id": 1,
-    "title": "GLORIA ZEA ASUME LA DIRECCIÓN DEL MAMBO",
+    "title": "GLORIA ZEA ASSUMES THE DIRECTION OF THE MAMBO",
     "year": "1967",
-    "description": "Zea asume la dirección tras el exilio de Marta Traba por su oposición a las medidas del Gobierno Nacional",
+    "description": "Zea assumes the leadership after Marta Traba's exile due to her opposition to the measures of the National Government",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=UaKkqcSpz70&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "MAYO DEL 68",
+    "title": "MAY 68",
     "year": "1968",
-    "description": "Cadena de protestas que se llevaron a cabo en Francia",
+    "description": "Chain of protests that took place in France",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=Tp-VXKQuQig&feature=emb_logo"
   },
   {
     "id": 8,
-    "title": "EXPOSICIÓN ESPACIO AMBIENTALES EN EL MAMBO",
+    "title": "EXHIBITION OF ENVIRONMENTAL SPACES IN THE MAMBO",
     "year": "1968",
-    "description": "Marcó el inicio de la instalación en el país al ser una de las primeras muestras en integrar el espacio arquitectónico y la experiencia del público, al arte",
+    "description": "It marked the beginning of the installation in the country as it was one of the first samples to integrate the architectural space and the experience of the public, to art",
     "type": "image",
-    "url": "http://www.museonacional.gov.co/elementosDifusion/2018/Efemerides/12-%20Diciembre/3-Espacios/PHOTO-2018-12-06-15-59-09.jpg"
+    "url": "http://www.museonacional.gov.co/elementosDifusion/2018/Efemerides/12-%20Dic Diciembre/3-Espacios/PHOTO-2018-12-06-15-59-09.jpg"
   },
   {
     "id": 5,
     "title": "ART AND LANGUAGE GROUP",
     "year": "1968",
-    "description": "Los artistas empiezan a interesarse en el lenguaje como materia prima, dando origen al arte conceptual",
+    "description": "Artists begin to be interested in language as raw material, giving rise to conceptual art",
     "type": "image",
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Art-LanguageV3No1-1974.jpg"
   },
   {
     "id": 9,
-    "title": "PRIMAVERA DE PRAGA",
+    "title": "SPRING OF PRAGUE",
     "year": "1968",
-    "description": "Represion de la URSS en Checoeslovaquia",
+    "description": "Repression of the USSR in Czechoslovakia",
     "type": "image",
     "url": "https://www.dw.com/image/42009753_303.jpg"
   },
   {
     "id": 9,
-    "title": "ABBIE HOFFMAN Y LOS SIETE DE CHICAGO",
+    "title": "ABBIE HOFFMAN AND THE CHICAGO SEVEN",
     "year": "1968",
-    "description": "Acusados de cargos de conspiración, incitación a los disturbios, y otros cargos relacionados con las violentas protestas",
+    "description": "Accused of charges of conspiracy, incitement to riot, and other charges related to the violent protests",
     "type": "image",
-    "url": "https://www.chicagotribune.com/resizer/sXmFKTByzYNAVMJTZC_4ftV46mI=/800x450/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/W46CYE4DIJAM5DMMUP5PJE4ZHY.jpg"
+    "url": "https://www.chicagotribune.com/resizer/sXmFKTByzYNAVMJTZC_4ftV46mI=/800x450/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/W46CYE4DIJAM5DMMUP5PjY4ZHY"
   },
   {
     "id": 5,
-    "title": "APARECE EL TÉRMINO CONTRACULTURA",
+    "title": "THE TERM CONTRACULTURE APPEARS",
     "year": "1968",
-    "description": "El término aparece en el año 1968, en un libro del historiador Theodore Roszak para referirse a la generación beat, el movimiento hippie, la revolución sexual y los movimientos pacifistas estadounidenses",
+    "description": "The term appears in 1968, in a book by the historian Theodore Roszak to refer to the beat generation, the hippie movement, the sexual revolution and the American pacifist movements",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=_ucpG1RG56Y&feature=emb_logo"
   },
   {
     "id": 8,
-    "title": "CORTINAS DE BAÑO. ÓSCAR MUÑOZ",
+    "title": "BATHROOM CURTAINS. ÓSCAR MUÑOZ",
     "year": "1968",
-    "description": "Oscar Muñoz (Popayán, Colombia - 1951) es un artista que ha explorado diferentes soportes y materiales; incluso el video y la fotografía para realizar propuestas que incorporan el tiempo y el espacio en el dibujo. En esta serie, el artista realiza un comentario sobre la intimidad y la ausencia de los cuerpos a partir de una serie de cortinas de baño con siluetas humanas dibujadas en ellas.",
+    "description": "Oscar Muñoz (Popayán, Colombia - 1951) is an artist who has explored different media and materials, including video and photography to make proposals that incorporate timeand the space in the drawing. In this series, the artist makes a comment on intimacy and the absence of bodies based on a series of shower curtains with human silhouettes drawn on them. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1bH2zkrWDf46ntBvG-UVbJi3Ky8kbCeMO/view"
   },
   {
     "id": 5,
-    "title": "SALCEDO Y BARRIOS CUBREN SUS OBRAS DEL SALÓN NACIONAL CON TELAS NEGRAS",
+    "title": "SALCEDO AND BARRIOS COVER THEIR WORKS IN THE NATIONAL HALL WITH BLACK FABRICS",
     "year": "1969",
-    "description": "Salcedo y Barrios cubren sus obras del Salón Nacional con telas negras en señal de protesta",
+    "description": "Salcedo and Barrios cover their works in the National Hall with black fabrics in protest",
     "type": "image",
     "url": "https://www.researchgate.net/publication/277147172/figure/fig1/AS:648238856146944@1531563595483/figure-fig1.png"
   },
@@ -543,7 +543,7 @@
     "id": 5,
     "title": "LAND ART",
     "year": "1969",
-    "description": "Movimiento artístico fundamentado en la relación entre el artista, el paisaje y los elementos que este contiene. Movimiento contestatario hacia la obra encerrada en los museos y galerías",
+    "description": "Artistic movement based on the relationship between the artist, the landscape and the elements it contains. A rebellious movement towards the work locked up in museums and galleries",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=v-N3vbH52bQ"
   },
@@ -551,23 +551,23 @@
     "id": 9,
     "title": "FESTIVAL DE WOODSTOCK",
     "year": "1969",
-    "description": "Famoso festival que duró varios días en el que se reunieron los músicos más importantes del Rock'n Roll, como Jimi Hendrix, Janis Joplin y Santana, entre otros. Este festival fue un hito en el movimiento hippie. “Yo soy de la nación de Woodstock, es un estado mental.",
+    "description": "Famous festival that lasted several days in which the most important musicians of Rock'n Roll met, such as Jimi Hendrix, Janis Joplin and Santana, among others. This festival was a milestone in the hippie movement. I'm from the Woodstock nation, it's a state of mind. ",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=q_9veLjxRG8&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "CONFERENCIA DE PARÍS",
+    "title": "PARIS CONFERENCE",
     "year": "1969",
-    "description": "Acuerdo de paz con Vietnam. Finaliza la guerra con la retirada de las tropas norteamericanas.",
+    "description": "Peace agreement with Vietnam. The war ends with the withdrawal of US troops.",
     "type": "image",
     "url": "http://elsiglo.com.pa/media/news/image/207830_750x480_crop_56a81353dd11b.jpg"
   },
   {
     "id": 9,
-    "title": "MOVIMIENTO DE LIBERACIÓN LGBT",
+    "title": "LGBT LIBERATION MOVEMENT",
     "year": "1969",
-    "description": "Movimiento de liberación LGBT en NYC después de los disturbios de Stonewall",
+    "description": "LGBT liberation movement in NYC after the Stonewall riots",
     "type": "image",
     "url": "https://culturafotografica.es/wp-content/uploads/2017/06/movimiento-liberacion-lgtb-3.jpg"
   },
@@ -575,126 +575,126 @@
     "id": 7,
     "title": "ARTE POVERA",
     "year": "1970",
-    "description": "Emplea en sus obras materiales desechados tales como fragmentos metálicos, trozos de vidrios, lozas, etc.",
+    "description": "He uses discarded materials in his works such as metal fragments, pieces of glass, earthenware, etc.",
     "type": "image",
-    "url": "https://2.bp.blogspot.com/-ifVOPhUGolk/Wvk1AXNc-3I/AAAAAAABWTE/O-c9pIVyDK0woTArNMj5cfMT4aOx9RTHQCLcBGAs/s1600/El%2Bintercambiador%2Bde%2Bropa%2BAtrapo%2BLab%2BPistoletto.jpg"
+    "url": "https://2.bp.blogspot.com/-ifVOPhUGolk/Wvk1AXNc-3I/AAAAAAABWTE/O-c9pIVyDK0woTArNMj5cfMT4aOx9RTHQCLcBGAs/s1600/El%pa %2Bintercambiator2%Bistopg2Binterchange2"
   },
   {
     "id": 7,
-    "title": "HIPERREALISMO",
+    "title": "HYPERREALISM",
     "year": "1970",
-    "description": "Movimiento artístico que lleva el realismo hasta sus límites; donde se confunde la pintura y la fotografía.",
+    "description": "Artistic movement that takes realism to its limits; where painting and photography are confused.",
     "type": "image",
-    "url": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL21vdmVtZW50XC9pbWFnZUZpbGVcL2ZydWl0Ym93bHdpdGhtZWxvbnMuanBnIiwicmVzaXplQ3JvcCw1MDAsODAwLENST1BfRU5UUk9QWXxmb3JtYXQsd2VicCJdfQ.r1gS_Jd0EDMwT1yU3ooXhnv_/TlHs-kumqSClQTJI8kA.webp"
+    "Url": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL21vdmVtZW50XC9pbWFnZUZpbGVcL2ZydWl0Ym93bHdpdGhtZWxvbnMuanBnIiwicmVzaXplQ3JvcCw1MDAsODAwLENST1BfRU5UUk9QWXxmb3JtYXQsd2VicCJdfQ.r1gS_Jd0EDMwT1yU3ooXhnv_/TlHs-kumqSClQTJI8kA.webp"
   },
   {
     "id": 6,
     "title": "CABEZA DE LLERAS",
     "year": "1970",
-    "description": "La inauguración de un Salón Nacional de Artistas se inunda a causa de la obra de Antonio Caro Cabeza de Carlos Lleras en sal.",
+    "description": "The inauguration of a National Salon of Artists is flooded because of the work of Antonio Caro Cabeza by Carlos Lleras in salt.",
     "type": "image",
     "url": "https://2.bp.blogspot.com/-RwkOiCif5Fw/T6-EKt8Tj0I/AAAAAAAAALA/bOAD4dCvOSM/s400/Cabeza-de-Lleras-Antonio-Caro-1970.jpg"
   },
   {
     "id": 5,
-    "title": "INSERCIONES EN CIRCUITOS IDEOLÓGICOS. CILDO MEIRELES",
+    "title": "INSERTIONS IN IDEOLOGICAL CIRCUITS. CILDO MEIRELES",
     "year": "1970",
-    "description": "Cildo Meireles (Rio de Janeiro, Brasil - 1948) es reconocido por sus aportes al arte conceptual latinoamericano. En esta serie, el artista se apropia de objetos de uso y consumo cotidiano, como las botellas de Coca Cola, que interviene con la frase “Yanquis go home” para reinsertarlas en el mercado.",
+    "description": "Cildo Meireles (Rio de Janeiro, Brazil - 1948) is recognized for his contributions to Latin American conceptual art. In this series, the artist appropriates objects of everyday use and consumption, such as Coca Cola bottles, which intervenes with the phrase “Yankees go home” to reinsert them in the market. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1i6Q1lSpj789ZmWaJndmlqV4JR-YY-nig/view"
   },
   {
     "id": 8,
-    "title": "NATURALEZA CASI MUERTA. BEATRIZ GONZÁLEZ",
+    "title": "ALMOST DEAD NATURE. BEATRIZ GONZÁLEZ",
     "year": "1970",
-    "description": "Beatriz González (Bucaramanga, Colombia - 1938) es una de las artistas más reconocidas de Colombia, su trabajo ha explorado los límites entre la pintura y la escultura, usando imágenes de la cultura popular en objetos cotidianos para comunicar sus reflexiones sobre el contexto colombiano y las problemáticas asociadas al conflicto, el género y el paisaje. En esta obra, la artista interviene una cama de madera con una imagen religiosa.",
+    "description": "Beatriz González (Bucaramanga, Colombia - 1938) is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using popular culture images in everyday objects to communicate her reflections on the Colombian context and the problems associated with conflict, gender and landscape. In this work, the artist intervenes a wooden bed with a religious image. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/19HYsgewZCrQ2AXMi-djNdHtowTpSPbcB/view"
   },
   {
     "id": 9,
-    "title": "EXPOSICIÓN PANAMERICANA DE ARTES GRÁFICAS",
+    "title": "PAN AMERICAN EXHIBITION OF GRAPHIC ARTS",
     "year": "1970",
-    "description": "Realizada en Cali, Colombia.",
+    "description": "Made in Cali, Colombia.",
     "type": "image"
   },
   {
     "id": 9,
     "title": "GREENPEACE",
     "year": "1971",
-    "description": "Nacimiento de la organización ecologista Greenpeace.",
+    "description": "Birth of the environmental organization Greenpeace.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=QyGIfEP8QC8&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=QyGIfEP8QC8 & feature = emb_logo "
   },
   {
     "id": 6,
-    "title": "GRABADOS POPULARES",
+    "title": "POPULAR ENGRAVINGS",
     "year": "1972",
-    "description": "Álvaro Barrios se apropió deliberadamente de imágenes provenientes de la tradición popular, como el cuerpo martirizado de San Sebastián y las dotó de contenidos inesperados",
+    "description": "Álvaro Barrios deliberately appropriated images from popular tradition, such as the martyred body of San Sebastián and endowed them with unexpected content",
     "type": "image",
     "url": "https://www.banrepcultural.org/alvaro-barrios/images/internas/obras/martirio-san-sebastian-2.jpg"
   },
   {
     "id": 6,
-    "title": "CUJA, FELIZA BURSZTYN",
+    "title": "CUJA, HAPPY BURSZTYN",
     "year": "1972",
-    "description": "Feliza Burstyn (Bogotá, Colombia - 1933) es considerada la precursora de la instalación en Colombia. Una escultora polémica y transgresora que fue capaz de ir en contra del orden establecido en el arte, usando materiales no convencionales como chatarra de hierro, desperdicios de acero inoxidable y motores para realizar sus composiciones escultóricas. De igual manera se interesó por incluir movimiento y sonido en sus obras; con su serie de camas —esculturas cubiertas de telas brillantes que sugieren cuerpos en movimiento durante sus actos sexuales. Feliza buscó escenificar un momento íntimo y privado para sacarlo a lo público, creando un ambiente de erotismo que envuelve al espectador en una experiencia emotiva y sensorial.",
+    "description": "Feliza Burstyn (Bogotá, Colombia - 1933) is considered the precursor of the installation in Colombia. A controversial and transgressive sculptor who was able to go against the established order of art, using unconventional materials such as scrap metal. iron, stainless steel waste and motors to make his sculptural compositions. Similarly, he became interested in including movement and sound in his works, with his series of beds - sculptures covered with shiny fabrics that suggest bodies in motion during their sexual acts. Feliza sought to stage an intimate and private moment to bring it out to the public, creating an environment of eroticism that envelops the viewer in an emotional and sensorial experience. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1dQx-Anm9dtOPfPZ_ty0CU10aoQGFAlxo/view"
   },
   {
     "id": 9,
-    "title": "INCENDIO EDIFICIO AVIANCA",
+    "title": "AVIANCA BUILDING FIRE",
     "year": "1973",
-    "description": "Antes del accidente este edificio era el más alto de Suramérica.",
+    "description": "Before the accident this building was the tallest in South America.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=_wbpnukqHWQ"
   },
   {
     "id": 9,
-    "title": "OBRAS CARLOS CAICEDO",
+    "title": "CARLOS CAICEDO WORKS",
     "year": "1973",
-    "description": "El reportero que hablaba con imágenes.",
+    "description": "The reporter who spoke with images.",
     "type": "image",
     "url": "https://alianzafrancesa.org.co/bogota/wp-content/uploads/2019/05/Carlos-Caicedo.png"
   },
   {
     "id": 9,
-    "title": "A COLOMBIAN HISTORY BY ESSO. NIRMA ZARATE Y DIEGO ARANGO",
+    "title": "A COLOMBIAN HISTORY BY ESSO. NIRMA ZARATE AND DIEGO ARANGO",
     "year": "1973",
-    "description": "El reportero que hablaba con imágenes",
+    "description": "The reporter who spoke with images",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/1nxwAO0YBWPMPWYnZddJGP7MqQrbE8OXt/view"
   },
   {
     "id": 9,
-    "title": "FIN FRENTE NACIONAL",
+    "title": "END OF THE NATIONAL FRONT",
     "year": "1974",
-    "description": "Finaliza el Frente Nacional con el conservador Misael Pastrana",
+    "description": "The National Front ends with the conservative Misael Pastrana",
     "type": "image",
     "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/6668368/descarga_%286%29.jpg"
   },
   {
     "id": 9,
-    "title": "ORIGEN DEL M-19",
+    "title": "ORIGIN OF THE M-19",
     "year": "1974",
-    "description": "Surge esta organización guerrillera urbana colombiana a raíz del fraude en las elecciones presidenciales del 19 de abril de 1970, en las que fue elegido Misael Pastrana. Lee más en:",
+    "description": "This Colombian urban guerrilla organization arises as a result of the fraud in the presidential elections of April 19, 1970, in which Misael Pastrana was elected. Read more at:",
     "type": "image",
     "url": "https://www.eltiempo.com/colombia/50-anos-del-19-de-abril-de-1970-485916"
   },
   {
     "id": 9,
-    "title": "PAISAJE, DE LA SERIE PARTITURAS MENTALES. GUSTAVO SORZANO",
+    "title": "LANDSCAPE, FROM THE MENTAL SCORES SERIES. GUSTAVO SORZANO",
     "year": "1974",
-    "description": "Gustavo Sorzano (Bucaramanga, Colombia - 1944) se interesó por involucrar al espectador de forma activa. En esta obra reproduce en serigrafía y en impresión offset, íconos del arte como La Mona Lisa, modificando su color, formato y técnica para atribuirle un carácter popular, dejando un espacio 9 para ser intervenido por el espectador.",
+    "description": "Gustavo Sorzano (Bucaramanga, Colombia - 1944) was interested in actively involving the viewer. In this work he reproduces in serigraphy and offset printing, art icons such as the Mona Lisa, modifying its color, format and technique to give it a popular character, leaving a space 9 to be intervened by the viewer. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1NLpeCsONQx15yGHQqW_lFHoqYpkDBq0-/view"
   },
   {
     "id": 8,
-    "title": "INICIAN LOS SALONES ATENAS",
+    "title": "THE ATHENS ROOMS START",
     "year": "1975",
-    "description": "Espacio para las prácticas vanguardistas de la época en el país.",
+    "description": "Space for the avant-garde practices of the time in the country.",
     "type": "image",
     "url": "http://liberatorio.org/wp-content/uploads/2016/04/30-aos-del-salon-atenas.jpg"
   },
@@ -708,17 +708,17 @@
   },
   {
     "id": 8,
-    "title": "SE FUNDA LA REVISTA “ARTE EN COLOMBIA",
+    "title": "THE MAGAZINE 'ARTE EN COLOMBIA' IS FOUNDED",
     "year": "1976",
-    "description": "Con un desnudo femenino del artista Darío Morales en la portada empezó a circular la única revista especializada en arte que existe en Colombia.",
+    "description": "With a female nude by the artist Darío Morales on the cover, the only magazine specialized in art that exists in Colombia began to circulate.",
     "type": "image",
-    "url": "https://www.elespectador.com/resizer/P-p-A4wB5jA7gBlWrBtfJ7R-OGk=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/AUOB3BSJ6NDCVJ3SBCI5JNVKHU.jpg"
+    "url": "https://www.elespectador.com/resizer/P-p-A4wB5jA7gBlWrBtfJ7R-OGk=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/AUOB3BSJ6NDCVJ3SBCI5JNVKHU.pg"
   },
   {
     "id": 9,
     "title": "MARCHAS ANTINUCLEARE",
     "year": "1976",
-    "description": "Se hicieron en Inglaterra, Alemania y EEUU: surge en respuesta a la peligrosidad del uso, desarrollo y expansión de la tecnología nuclear para la guerra.",
+    "description": "They were made in England, Germany and the USA: it arises in response to the dangerous use, development and expansion of nuclear technology for warfare.",
     "type": "image",
     "url": "https://www.dw.com/image/39485973_303.jpg"
   },
@@ -726,54 +726,54 @@
     "id": 1,
     "title": "SUN TUNNELS. NANCY HOLT",
     "year": "1976",
-    "description": "Nancy Holt (Worcester, Estados Unidos - 1938) fue una de las precursoras en proponer nuevas formas de percibir el paisaje a través de obras transdisciplinares. En esta obra característica del Land Art y el Minimalismo instaló una serie de túneles de cemento con agujeros en una planicie. Cada 21 de diciembre, solsticio de invierno, el sol se alinea con los túneles reflejándose en el interior del túnel.",
+    "description": "Nancy Holt (Worcester, United States - 1938) was one of the forerunners in proposing new ways of perceiving the landscape through transdisciplinary works. In this work characteristics of Land Art and Minimalism installed a series of cement tunnels with holes in a plain. Every December 21st, winter solstice, the sun aligns itself with the tunnels, reflecting inside the tunnel. ",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/1KyiQc68tyH78g7xB8iOzlQ34fYAO3q4N/view"
   },
   {
     "id": 6,
-    "title": "PAPEL Y LÁPIZ. JONIER MARÍN.",
+    "title": "PAPER AND PENCIL. JONIER MARÍN.",
     "year": "1976",
-    "description": "Jonier Marín (Argelia, Colombia - 1946) cuestiona los procesos tradicionales del arte, y con su propuesta genera una obra que nos enfrenta a la pregunta sobre ¿Qué es el arte y quién lo valida? “Sin perder tiempo propuse a artistas que conocí viajando, dibujar a lápiz en una hoja cualquier cosa, y adjuntar su retrato al dibujo, validando así la obra”. Jonier Marín",
+    "description": "Jonier Marín (Algeria, Colombia - 1946) questions the traditional processes of art, and with his proposal he generates a work that confronts us with the question of What is art and who validates it? 'Without wasting time I proposed to artists I met while traveling, to draw anything in pencil on a sheet of paper, and attach their portrait to the drawing, thus validating the work.'Jonier Marín",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/10jNcgF3b1Gl0ZxhrG_RwuN_dTxu_jHns/view"
   },
   {
     "id": 9,
-    "title": "TURBAY AYALA PRESIDENTE LIBERAL",
+    "title": "TURBAY AYALA LIBERAL PRESIDENT",
     "year": "1978",
-    "description": "Su mandato presidencial fue del 7 de agosto de 1978 – 7 de agosto de 1982",
+    "description": "His presidential term was from August 7, 1978 - August 7, 1982",
     "type": "image",
     "url": "https://cdn.colombia.com/images/colombia-info/historia-de-colombia/52.jpg"
   },
   {
     "id": 6,
-    "title": "A-LA-CENA CON ZAPATOS GANA EL PRIMER PREMIO EN EL SALÓN NACIONAL DE ARTISTAS",
+    "title": "A-LA-DINNER WITH SHOES WINS THE FIRST PRIZE AT THE NATIONAL HALL OF ARTISTS",
     "year": "1978",
-    "description": "Los premios a las obras de El Sindicato  'Alacena con zapatos' y de Ana Mercedes Hoyos 'Atmósfera', fueron el primer reconocimiento al arte conceptual en Colombia",
+    "description": "The awards for the works of El Sindicato 'Alacena con zapatos' and Ana Mercedes Hoyos 'Atmosphere', were the first recognition of conceptual art in Colombia",
     "type": "image",
     "url": "http://liberatorio.org/wp-content/uploads/2017/10/El-Sindicato2.jpg"
   },
   {
     "id": 1,
-    "title": "INICIA LA CONSTRUCCIÓN DE LA SEDE ACTUAL DEL MAMBO",
+    "title": "THE CONSTRUCTION OF THE CURRENT HEADQUARTERS OF THE MAMBO BEGINS",
     "year": "1978",
-    "description": "Fotografía de Oscar Monsalve",
+    "description": "Photograph of Oscar Monsalve",
     "type": "image"
   },
   {
     "id": 6,
-    "title": "EL GRAN PLEXI. ÁLVARO BARRIOS",
+    "title": "THE GREAT PLEXI. ÁLVARO BARRIOS",
     "year": "1979",
-    "description": "Álvaro Barrios (Cartagena, Colombia - 1945) es un artista del Caribe Colombiano, que desde joven manifestó su interés por el conceptualismo, realizando ready-mades y apropiaciones de la gráfica popular. En esta obra, el artista hace referencia a la obra de Marcel Duchamp, El Gran Vidrio, pero utiliza plexiglás e incorpora una serie de cartas, notas y fotografías que hicieron parte de un intercambio realizado con un amigo suyo.",
+    "description": "Álvaro Barrios (Cartagena, Colombia - 1945) is an artist from the Colombian Caribbean, who from a young age expressed his interest in conceptualism, making ready-mades and appropriations of popular graphics. In this work, the artist makes reference to Marcel Duchamp's work, The Big Glass, but uses Plexiglas and incorporates a series of letters, notes and photographs that were part of an exchange made with a friend of his. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1R9gXabyMwNblwXxfO5XKH5jzg2mzEgdu/view"
   },
   {
     "id": 9,
-    "title": "LUNA PAPEL, CAMISA BICICLETA, AMANTE CHICAGO, RANA JINETE. ADOLFO BERNAL",
+    "title": "LUNA PAPEL, BICYCLE SHIRT, CHICAGO LOVER, FROG RIDER. ADOLFO BERNAL",
     "year": "1979",
-    "description": "Adolfo Bernal (Medellín, 1954) es un artista que aborda el contexto urbano y sus interacciones. Estudió minuciosamente las tipografías, convirtiendo las palabras en imágenes; esta obra instalada en el espacio público propone carteles con palabras sin una relación aparente, abriendo posibilidades de interpretación en cada transeúnte.",
+    "description": "Adolfo Bernal (Medellín, 1954) is an artist who addresses the urban context and its interactions. He studied typographies meticulously, turning words into images; this work installed in public space proposes posters with words without an apparent relationship , opening possibilities of interpretation in each passerby. ",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/1gQ2jdSGNPCEYJTjznmbccq36L21Ji04W/view"
   },
@@ -781,63 +781,63 @@
     "id": 9,
     "title": "COLOMBIA COCA COLA. ANTONIO CARO",
     "year": "1979",
-    "description": "Antonio Caro (Bogotá, Colombia - 1950) es uno de los artistas conceptuales más importantes de Colombia. Sus obras reflejan un alto contenido político y social expresado a través del humor y la ironía. Caro contradecía los parámetros artísticos de la época, utilizando imágenes populares, materiales y técnicas no convencionales. Esta litografía es una de las obras más importantes del arte conceptual, en ella, el artista se apropia del logo de Coca Cola para generar una reflexión sobre el imperialismo.",
+    "description": "Antonio Caro (Bogotá, Colombia - 1950) is one of the most important conceptual artists in Colombia. His works reflect a high political and social content expressed through humor and irony. Caro contradicted the artistic parameters of the period, using popular images, materials and unconventional techniques. This lithograph is one of the most important works of conceptual art, in it, the artist appropriates the Coca Cola logo to generate a reflection on imperialism. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1wCiyfUYvTKNcpOzyqsDmg5HyaPXGcULs/view"
   },
   {
     "id": 9,
-    "title": "TOMA DE LA EMBAJADA DE REPÚBLICA DOMINICANA POR PARTE DEL M-19",
+    "title": "SEIZURE OF THE DOMINICAN REPUBLIC EMBASSY BY THE M-19",
     "year": "1980",
-    "description": "Secuestro a diplomáticos de numerosos países en una fiesta conmemorativa de la independencia de la República Dominicana",
+    "description": "Kidnapping of diplomats from many countries at a celebration commemorating the independence of the Dominican Republic",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=MVDXT_ZzXqw"
   },
   {
     "id": 8,
-    "title": "SUEÑOS CON M. DUCHAMP",
+    "title": "DREAMS WITH M. DUCHAMP",
     "year": "1980",
-    "description": "Álvaro Barrios, a partir de la utilización de los medios masivos, logró realizar y distribuir miles de copias de su trabajo y difundir las obras de arte a un público que no tiene acceso a piezas únicas.",
+    "description": "Álvaro Barrios, using the mass media, managed to make and distribute thousands of copies of his work and spread the works of art to a public that does not have access to unique pieces.",
     "type": "image",
     "url": "https://www.museolatertulia.com/wp-content/uploads/2016/08/2972-001-Barrios-Sue%C3%B1os-con-Marcel-Duchamp-scaled.jpg"
   },
   {
     "id": 9,
-    "title": "TRAMPA. FERNANDO CEPEDA",
+    "title": "TRAP. FERNANDO CEPEDA",
     "year": "1980",
-    "description": "Fernando Cepeda (s.f.) hizo del MAMBO su casa por dos semanas. Construyó una especie de celda en el primer piso del Museo dejando expuesta su vida privada ante todos los visitantes. El fotógrafo Oscar Monsalve registró periódicamente la estadía del artista en el Museo mientras lavaba sus dientes, antes de dormir, sus horas de lectura, etc. Estas fotografías se pegaron en una pared fuera de la celda y de esta manera los visitantes pudieron ver el día a",
+    "description": "Fernando Cepeda (nd) made MAMBO his home for two weeks. He built a kind of cell on the first floor of the Museum, exposing his private life to all visitors. Photographer Oscar Monsalve periodically recorded the artist's stay in the Museum while brushing his teeth, before sleeping, sus hours of reading, etc. These photographs were pasted on a wall outside the cell and in this way the visitors could see the day to ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1R-XmSZ9xABG7is6MWTkQV6GqNRVyu5tV/view"
   },
   {
     "id": 8,
-    "title": "PRIMER COLOQUIO LATINOAMÉRICANO DE ARTE NO OBJETUAL",
+    "title": "FIRST LATIN AMERICAN COLLOQUIUM OF NON-OBJETUAL ART",
     "year": "1981",
-    "description": "Críticos y académicos debatieron durante cuatro días en Medellín sobre el no-objetualismo",
+    "description": "Critics and academics debated non-objectualism for four days in Medellín",
     "type": "image",
     "url": "https://www.elmamm.org/Portals/0/sebastian/col_charlainaugural_jorgevelasquez.jpg"
   },
   {
     "id": 8,
-    "title": "INAUGURACIÓN DEL MUSEO DE ARTE MODERNO DE MEDELLÍN",
+    "title": "INAUGURATION OF THE MEDELLIN MUSEUM OF MODERN ART",
     "year": "1981",
-    "description": "Ha sido un museo vivo, urbano y actual, un espacio de encuentro, conocimiento y disfrute en el que tienen cabida manifestaciones artísticas y culturales contemporáneas y diversas.",
+    "description": "It has been a living, urban and current museum, a space for meeting, knowledge and enjoyment in which contemporary and diverse artistic and cultural manifestations have a place.",
     "type": "image",
     "url": "https://static.iris.net.co/semana/upload/images/2018/8/2/577536_1.jpg"
   },
   {
     "id": 9,
-    "title": "ANÓNIMO 1. MARIA EVELIA MARMOLEJO",
+    "title": "ANONYMOUS 1. MARIA EVELIA MARMOLEJO",
     "year": "1981",
-    "description": "Maria Evelia Marmolejo (Pradera, Colombia - 1958) es una artista que desde los 80’s ha usado su cuerpo como herramienta de creación y comunicación de sus denuncias contra la opresión y la violencia. Su marcado carácter feminista, ambientalista y anti militarista ha definido sus obras como radicales y activistas.",
+    "description": "Maria Evelia Marmolejo (Pradera, Colombia - 1958) is an artist who since the 80's has used her body as a tool for creating and communicating her denunciations against oppression and violence. Her marked feminist, environmentalist and anti Militarist has defined his works as radicals and activists. ",
     "type": "image",
     "url": "https://institutodevision.com/visionarios/maria-evelia-marmolejo/"
   },
   {
     "id": 9,
-    "title": "GRANO, EL TÚNEL DEL TIEMPO. MIGUEL ÁNGEL ROJAS.",
+    "title": "GRANO, THE TUNNEL OF TIME. MIGUEL ÁNGEL ROJAS.",
     "year": "1981",
-    "description": "Miguel Ángel Rojas (Bogotá, Colombia - 1946 ) es uno de los artistas más importantes del país. La observación de la arquitectura del siglo XIX y XX ha sido una de las fuentes de inspiración de su trabajo. En esta instalación, el artista reconstruye (con carbón y arena) las baldosas de cemento del piso de la casa de sus abuelos en Girardot, lugar donde vivió su infancia. La instalación habla de la sutileza de la memoria a través del material que se desvanece a lo largo de la exposición.",
+    "description": "Miguel Ángel Rojas (Bogotá, Colombia - 1946) is one of the most important artists in the country. The observation of 19th and 20th century architecture has been one of the sources of inspiration for his work. In this installation , the artist reconstructs (with charcoal and sand) the cement tiles on the floor of his grandparents' house in Girardot, the place where he lived his childhood. The installation speaks of the subtlety of memory through the material that fades throughout of the exhibition.",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/1rD5R1UYHyJ9Y97uvZ9J3ngT8ezMbAWN8/view"
   },
@@ -845,31 +845,31 @@
     "id": 9,
     "title": "BETANCUR PRESIDENTE CONSERVADOR",
     "year": "1982",
-    "description": "Mandato presidencial: 7 de agosto de 1982 – 7 de agosto de 1986",
+    "description": "Presidential term: August 7, 1982 - August 7, 1986",
     "type": "image",
     "url": "https://www.eltiempo.com/files/article_main/uploads/2018/12/06/5c097f28a4426.jpeg"
   },
   {
     "id": 9,
-    "title": "SERIE ROSA DE LOS VIENTOS. ROSA NAVARRO",
+    "title": "ROSA DE LOS VENTOS SERIES. ROSA NAVARRO",
     "year": "1983",
-    "description": "Rosa Navarro (Barranquilla, Colombia - 1955) fue una artista conceptual interesada en el lenguaje. Su obra parte de la exploración de su nombre como el tema central de su trabajo. Esta serie de autorretratos es una muestra del juego de significados con la palabra rosa",
+    "description": "Rosa Navarro (Barranquilla, Colombia - 1955) was a conceptual artist interested in language. Her work starts from the exploration of her name as the central theme of her work. This series of self-portraits is a sample of the game of meanings with the word rose ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1ifX1O1XF3iuAURMHj21U1JqfXJ5mEuLn/view"
   },
   {
     "id": 9,
-    "title": "DE LA SERIE INTERIORES. FERNELL FRANCO",
+    "title": "FROM THE INTERIOR SERIES. FERNELL FRANCO",
     "year": "1983",
-    "description": "Fernell Franco (Versalles, Colombia - 1942) desarrolla su obra principalmente en torno a la vida urbana de Cali en la década de los 70’s. En la urbe captura imágenes de las calles, prostitutas, billares, demoliciones, casas, festivales y bicicletas. En esta serie en particular, registra espacios interiores de lugares en donde vivió y trabajó a través de la fotografía análoga en 9 9 y que luego interviene manualmente con color",
+    "description": "Fernell Franco (Versalles, Colombia - 1942) develops his work mainly around the urban life of Cali in the 70's. In the city he captures images of the streets, prostitutes, billiards, demolitions, houses, festivals and bicycles. In this series in particular, he records interior spaces of places where he lived and worked through analog photography in 9 9 and then intervenes manually with color ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1YB5k79TwF9Gr0Et7ZD7dqYd79jABKvCH/view"
   },
   {
     "id": 4,
-    "title": "FIN DE LA GUERRA FRÍA",
+    "title": "END OF THE COLD WAR",
     "year": "1989",
-    "description": "La caída del Muro de Berlín marcó la caída de la U.R.S.S y el fin de la Guerra Fría",
+    "description": "The fall of the Berlin Wall marked the fall of the U.S.S.R. and the end of the Cold War",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=EXijvhBQ-u8&feature=emb_logo"
   },
@@ -877,7 +877,7 @@
     "id": 1,
     "title": "YOUR BODY IS A BATTLEGROUND. BARBARA KRUGER",
     "year": "1989",
-    "description": "Barbara Kruger (Nueva Jersey, Estados Unidos - 1945) reflexionó sobre las nociones del cuerpo, el género y la identidad a través de imágenes de carácter publicitario con mensajes críticos. Su estilo se caracterizó por el uso de fotografías en 9 y 9 intervenidas con texto. En esta obra, reflexiona sobre la violencia hacia el cuerpo femenino, entendiéndolo como el campo de batalla de múltiples conflictos políticos, sociales y culturales presentes en la sociedad",
+    "description": "Barbara Kruger (New Jersey, United States - 1945) reflected on the notions of the body, gender and identity through advertising images with critical messages. Her style was characterized by the use of photographs in 9 and 9 intervened with text. In this work, she reflects on violence against the female body, understanding it as the battlefield of multiple political, social and cultural conflicts present in society ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1i20ykTbyRNyaz1F1aM6eYn_LrfIWcpzC/view"
   },
@@ -885,15 +885,15 @@
     "id": 7,
     "title": "BODY PAINT",
     "year": "1990",
-    "description": "El cuerpo se interviene como material plástico",
+    "description": "The body is intervened as a plastic material",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=n-rhRbkCyYk&feature=youtu.be"
   },
   {
     "id": 7,
-    "title": "ARTE DIGITAL",
+    "title": "DIGITAL ART",
     "year": "1990",
-    "description": "Uso de herramientas digitales como sensores, videoproyecciones, luces, etc",
+    "description": "Use ofdigital tools such as sensors, video projections, lights, etc ",
     "type": "image",
     "url": "https://www.gndiario.com/sites/default/files/styles/noticia_detalle_noticia_2_1/public/noticias/Arte.png?itok=LLJ821pd"
   },
@@ -901,62 +901,62 @@
     "id": 7,
     "title": "NET AR",
     "year": "1990",
-    "description": "Utilizar el internet como una plataforma de creación artística",
+    "description": "Use the internet as a platform for artistic creation",
     "type": "image",
-    "url": "https://static.wixstatic.com/media/11f033_d7108cad19ed40788e6d4cc8270c944c~mv2.jpg/v1/fill/w_768,h_432,al_c,lg_1,q_90/11f033_d7108cad19ed40788e6d4cc8270c944c~mv2.webp"
+    "url": "https://static.wixstatic.com/media/11f033_d7108cad19ed40788e6d4cc8270c944c~mv2.jpg/v1/fill/w_768,h_432,al_c,lg_1,q_90/11f033_d7108cad19ed40788e6d44~"
   },
   {
     "id": 7,
-    "title": "ARTE RELACIONAL",
+    "title": "RELATIONAL ART",
     "year": "1990",
-    "description": "Interacciones entre el espectador y la obra",
+    "description": "Interactions between the viewer and the work",
     "type": "image",
-    "url": "https://1.bp.blogspot.com/-eDzjqN3siuY/WU17Ai2xMlI/AAAAAAAAH5M/BeUZxh0AzAQTBYRWkUm6RDoVtMYHINypwCLcBGAs/s400/felix02.jpg"
+    "url": "https://1.bp.blogspot.com/-eDzjqN3siuY/WU17Ai2xMlI/AAAAAAAAH5M/BeUZxh0AzAQTBYRWkUm6RDoVtMYHINypwCLcBGAs/sjpg/felix02"
   },
   {
     "id": 8,
-    "title": "CORONA PARA UNA PRINCESA CHIBCHA. MARIA FERNANDA CARDOSO",
+    "title": "CROWN FOR A CHIBCHA PRINCESS. MARIA FERNANDA CARDOSO",
     "year": 1990,
-    "description": "Maria Fernanda Cardoso (Bogotá, Colombia - 1963) es una artista multidisciplinar que ha investigado la naturaleza a partir de la fotografía, la escultura y el performance. Su trabajo la ha llevado a importantes escenarios como la Bienal de Venecia. En esta obra, la artista realiza una corona con lagartijas disecadas.",
+    "description": "Maria Fernanda Cardoso (Bogotá, Colombia - 1963) is a multidisciplinary artist who has investigated nature through photography, sculpture and performance. Her work has taken her to important stages such as the Venice Biennale. In this work, the artist makes a crown with stuffed lizards. ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1fsOtGUO_ljhV9nDC-mZy32URj0k5qNvY/view"
   },
   {
     "id": 9,
-    "title": "UNA COSA ES UNA COSA Y OTRA COSA ES OTRA COSA. MARIA TERESA HINCAPIÉ",
+    "title": "ONE THING IS ONE THING AND ANOTHER THING IS ANOTHER THING. MARIA TERESA HINCAPIÉ",
     "year": "1990",
-    "description": "Esta obra ganó el premio en el Salon Nacional de Artistas, siendo el primer reconocimiento oficial al performance en Colombia",
+    "description": "This work won the award at the National Salon of Artists, being the first official recognition of performance in Colombia",
     "type": "image"
   },
   {
     "id": 7,
-    "title": "LA IMPOSIBILIDAD FÍSICA DE LA MUERTE EN LA MENTE DEL VIVO. DAMIEN HIRST",
+    "title": "THE PHYSICAL IMPOSSIBILITY OF DEATH IN THE MIND OF THE LIVING. DAMIEN HIRST",
     "year": "1991",
-    "description": "Damien Hirst (Bristol, Reino Unido - 1965) es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte",
+    "description": "Damien Hirst (Bristol, United Kingdom - 1965) is one of the most sought-after contemporary artists on the art market. He makes this series of sculptures with animals dissected in formaldehyde to question the public about the ephemeral and the limits between life and death",
     "type": "image",
     "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg"
   },
   {
     "id": 7,
-    "title": "MIS MANOS SON MI CORAZÓN. GABRIEL OROZCO",
+    "title": "MY HANDS ARE MY HEART. GABRIEL OROZCO",
     "year": "1991",
-    "description": "Gabriel Orozco (Veracruz, México - 1962) es un artista que desde la década de los 90’s ha explorado los límites de la escultura, a través de múltiples conceptos y medios. En esta obra, realiza una fotografía de una acción con un resultado escultórico, que reflexiona sobre el cuerpo humano",
+    "description": "Gabriel Orozco (Veracruz, Mexico - 1962) is an artist who since the 90's has explored the limits of sculpture, through multiple concepts and media. In this work, he takes a photograph of an action with a sculptural result, which reflects on the human body ",
     "type": "image",
     "url": "http://www.artnet.com/artists/gabriel-orozco/mis-manos-son-mi-coraz%C3%B3n-my-hands-are-my-heart-2iHZAlMkQsd5GdgCMLsUBg2"
   },
   {
     "id": 9,
-    "title": "ASAMBLEA CONSTITUYENTE",
+    "title": "CONSTITUENT ASSEMBLY",
     "year": "1991",
-    "description": "Declaración de la nueva constitución en Colombia que decreta el Estado Social de Derecho",
+    "description": "Declaration of the new constitution in Colombia that decrees the Social State of Law",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=rQGFUE5wikU&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "LA MAESTRA DE CELÁN. ELÍAS HEIM",
+    "title": "THE MASTER OF CELÁN. ELIAS HEIM",
     "year": "1992",
-    "description": "Elías Heim (Cali, Colombia - 1966) es reconocido por sus instalaciones in situ, que incorporan hechos y situaciones del lugar de montaje. Las obras de Heim se funden con la arquitectura utilizando tecnologías y materiales industriales, como esta obra en la que dibuja un esqueleto con rejillas de aluminio conectadas a un aire acondicionado",
+    "description": "Elías Heim (Cali, Colombia - 1966) is recognized for his on-site installations, which incorporate facts and situations from the assembly site. Heim's works blend with architecture using industrial technologies and materials, such as this work in which he draws a skeleton with aluminum grilles connected to an air conditioner ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1HA7k63jA3gEIuIE4-2hm04OXQDlEitQl/view"
   },
@@ -964,38 +964,38 @@
     "id": 9,
     "title": "ELECTRONIC SUPERHIGHWAY: CONTINENTAL U.S., NAM JUNE PAIK",
     "year": "1995",
-    "description": "Videoinstalación del artista representante del Fluxus",
+    "description": "Video installation of the artist representing Fluxus",
     "type": "image"
   },
   {
     "id": 9,
-    "title": "¿QUIÉN DA MÁS? FERNANDO ARIAS?",
+    "title": "WHO GIVES MORE? FERNANDO ARIAS?",
     "year": "1997",
-    "description": "Fernando Arias (Armenia, Colombia - 1963) trabaja en torno a múltiples problemáticas sociopolíticas como la explotación de los recursos, el VIH y el conflicto armado. Esta obra es el registro fotográfico de un tatuaje de su firma sobre su piel, que posteriormente fue vendido en una subasta cuestionando el arte y el cuerpo como objetos de consumo",
+    "description": "Fernando Arias (Armenia, Colombia - 1963) works around multiple socio-political problems such as the exploitation of resources, HIV and the armed conflict. This work is the photographic record of a tattoo of his signature on his skin , which was later sold at auction questioning art and the body as consumer objects ",
     "type": "image",
     "url": "https://www.daros-latinamerica.net/es/artwork/%C2%BFqui%C3%A9n-da-m%C3%A1s"
   },
   {
     "id": 7,
-    "title": "OBSESIÓN DE PUNTOS. YAYOI KUSAMA",
+    "title": "POINT OBSESSION. YAYOI KUSAMA",
     "year": "1999",
-    "description": "Yayoi Kusama (Matsumoto, Japón - 1929) es una artista que construye grandes ambientes con texturas, manchas y colores ofreciendo una experiencia inmersiva en la que la sensación del espacio y el cuerpo cambian por completo. Sus instalaciones artísticas son espacios alucinante",
+    "description": "Yayoi Kusama (Matsumoto, Japan - 1929) is an artist who builds large environments with textures, spots and colors, offering an immersive experience in which the sensation of space and the body change completely. His artistic installations are spaces. Amazing ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1BZmlkfLEEB7IDPiMjB47Yc4Tw19OBjP5/view"
   },
   {
     "id": 7,
-    "title": "ARTE URBANO",
+    "title": "URBAN ART",
     "year": "2000",
-    "description": "Arte que interviene el espacio público a través de técnicas como el graffiti, el muralismo, el cartel, y el performance",
+    "description ": " Art that intervenes in the public space through techniques such as graffiti, muralism, posters, and performance ",
     "type": "image",
     "url": "https://www.fundeu.es/wp-content/uploads/2018/05/arte-urbano.jpg"
   },
   {
     "id": 7,
-    "title": "ARTE VIRTUAL",
+    "title": "VIRTUAL ART",
     "year": "2000",
-    "description": "Uso de herramientas de realidad virtual y expandida en el arte",
+    "description": "Use of virtual and expanded reality tools in art",
     "type": "image",
     "url": "https://userscontent2.emaze.com/images/9af6c99c-7c92-4177-a4c9-b9cd20eabe46/e2468479-1992-4fb6-b24b-3bbe5940f646.jpg"
   },
@@ -1003,7 +1003,7 @@
     "id": 7,
     "title": "VIDEO PERFORMANCE",
     "year": "2000",
-    "description": "Performance a través de medios audiovisuales",
+    "description": "Performance through audiovisual media",
     "type": "image",
     "url": "https://i.ytimg.com/vi/RACQeGaHXDI/maxresdefault.jpg"
   },
@@ -1011,7 +1011,7 @@
     "id": 7,
     "title": "DARKYTOWN REBELLION. KARA WALKER",
     "year": "2001",
-    "description": "Kara Walker (Stockton, Estados Unidos - 1969) es una artista afro que desde los años 60’s ha incursionado en el dibujo, el collage, la instalación y el cine. Su obra está ambientada en la época de la pre-guerra civil norteamericana y a través del uso de personajes construidos con siluetas, cuestiona las nociones de raza, género e identidad. Esta obra es una instalación que reconstruye los episodios de rebelión de los esclavos afroamericanos durante la guerra civil.",
+    "description": "Kara Walker (Stockton, United States - 1969) is an Afro artist who has dabbled in drawing, collage, installation and film since the 1960s. Her work is set in the time of the The North American Civil War and through the use of characters built with silhouettes, questions the notions of race, gender and identity. This work is an installation that reconstructs the episodes of rebellion of African American slaves during the civil war. ",
     "type": "image",
     "url": "https://artsandculture.google.com/asset/kara-walker-darkytown-rebellion-2001/3AGP-gbWUkKt8Q?hl=es-419&avm=2"
   },
@@ -1019,15 +1019,15 @@
     "id": 9,
     "title": "NATALIA RIVERA",
     "year": "2001",
-    "description": "Natalia Rivera (Bogotá, 1953) utiliza objetos cotidianos para realizar instalaciones. En esta obra reconstruye una escena de un reinado de belleza con tres pares de tacones, cuestionando al espectador sobre los estereotipos del cuerpo femenino",
+    "description": "Natalia Rivera (Bogotá, 1953) uses everyday objects to create installations. In this work she reconstructs a scene from a beauty reign with three pairs of heels, questioning the viewer about the stereotypes of the female body",
     "type": "image",
     "url": "https://drive.google.com/file/d/1HSrPCKmolJzPGKpPP1F1eBDqiYhx1CkS/view"
   },
   {
     "id": 9,
-    "title": "DETECCIÓN 1. ANA ADARVE",
+    "title": "DETECTION 1. ANA ADARVE",
     "year": "2005",
-    "description": "Ana Adarve (Bogotá, Colombia - 1976) es una artista colombiana que se ha destacado en los últimos años por su trabajo con la fotografía digital. Realiza un minucioso trabajo de fotomontaje con el que compone fotografías panorámicas en gran formato del espacio urbano",
+    "description": "Ana Adarve (Bogotá, Colombia - 1976) is a Colombian artist who has stood out in recent years for her work with digital photography. She carries out a meticulous job of photomontage with which she composes large-format panoramic photographs of the urban space",
     "type": "image",
     "url": "https://drive.google.com/file/d/1c-ywaXW4DOIIt-R1efpz7YTvEK3oy0TK/view"
   },
@@ -1035,7 +1035,7 @@
     "id": 7,
     "title": "MAID IN LONDON. BANKSY",
     "year": "2006",
-    "description": "Banksy (Bristol, Reino Unido - 1974) es el sobrenombre de uno de los artistas más conocidos del arte urbano. A partir de la incursión del Arte Pop en medios gráficos y publicitarios, las prácticas artísticas en el espacio urbano han adquirido un importante protagonismo. En esta obra Banksy hace un comentario crítico sobre la desigualdad social y la forma en la que la sociedad oculta sus problemas",
+    "description": "Banksy (Bristol, United Kingdom - 1974) is the nickname of one of the best-known artists of urban art. From the incursion of Pop Art in graphic and advertising media, artistic practices in urban space have acquired an important role. In this work Banksy makes a critical comment on social inequality and the way in which society hides its problems ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1KcLwuLLj0EJa2CX-KyzX-22jz_TouKBo/view"
   },
@@ -1043,77 +1043,77 @@
     "id": 9,
     "title": "REQUIEM N.N. JUAN MANUEL ECHAVARRÍA",
     "year": "2006",
-    "description": "Juan Manuel Echavarría (Medellín, Colombia - 1947) es un artista que desde los 90’s explora los diferentes territorios del país en busca de la huella del conflicto armado. A través de la fotografía y el video, registra escenarios donde sucedieron hechos de violencia para conservar su memoria y generar una mirada poética sobre la realidad. En esta obra, fotografió las lápidas de un cementerio a orillas del Río Magdalena donde han sido enterrados los cuerpos de los N.N. arrojados río abajo",
+    "description": "Juan Manuel Echavarría (Medellín, Colombia - 1947) is an artist who since the 90's explores the different territories of the country in search of the trace of the armed conflict. Through photography and video, he records scenarios where they happened acts of violence to preserve their memory and generate a poetic look at reality. In this work, he photographed the tombstones of a cemetery on the banks of the Magdalena River where the bodies of the NN dumped downstream have been buried ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1rHmxVf7MGrMRY4k0JTNZr3zPbbOvHsWb/view"
   },
   {
     "id": 9,
-    "title": "ESPACIOS AMBIENTALES II. HOMENAJE A MARTA TRABA. SANTIAGO CÁRDENAS",
+    "title": "ENVIRONMENTAL SPACES II. TRIBUTE TO MARTA TRABA. SANTIAGO CÁRDENAS",
     "year": "2006",
-    "description": "Santiago Cárdenas (Bogotá, Colombia - 1937) es reconocido como un exponente de la pintura contemporánea por retomar y profundizar en el realismo. En esta instalación, el artista utiliza la pintura para recrear espacios irreales que juegan con la percepción del espectador. Esta obra fue realizada por primera vez en la exposición Espacios Ambientales del Museo de Arte Moderno de Bogotá - MAMBO en 1968",
+    "description": "Santiago Cárdenas (Bogotá, Colombia - 1937) is recognized as an exponent of contemporary painting for revisiting and deepening realism. In this installation, the artist uses painting to recreate unreal spaces that play with the perception of the viewer. This work was made for the first time in the exhibition Espacios Ambientales at the Museum of Modern Art of Bogotá - MAMBO in 1968 ",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/1zYA3Ax1CPLOrrEASmcd48yvE2gpzLTtT/view"
   },
   {
     "id": 9,
-    "title": "OLVIDO DE ARENA. MARIO OPAZO",
+    "title": "SAND FORGETTING. MARIO OPAZO",
     "year": "2007",
-    "description": "Mario Opazo (Tomé, Chile - 1969) emigró como consecuencia de la dictadura hacia Colombia, donde ha recibido varios premios por su labor artística. Su obra incluye instalaciones, videos, performance y dibujos, con los que crea obras poéticas como actos de resistencia que aluden a la memoria y el desplazamiento. En esta acción realizada en una playa del Magdalena Medio se evidencia su interés por el video-performance",
+    "description": "Mario Opazo (Tomé, Chile - 1969) emigrated as a result of the dictatorship to Colombia, where he has received several awards for his artistic work. His work includes installations, videos, performance and drawings, with which he creates poetic works as acts of resistance that allude to memory and displacement. In this action carried out on a beach in Magdalena Medio, his interest in video-performance is evidenced ",
     "type": "image"
   },
   {
     "id": 7,
     "title": "POST INTERNET",
     "year": "2010",
-    "description": "Obras derivadas de Internet o sus efectos en la estética, la cultura y la sociedad. Más información en:",
+    "description": "Works derived from the Internet or their effects on aesthetics, culture and society. More information at:",
     "type": "image",
     "url": "http://www.linkartcenter.eu/dadaclub/wp-content/uploads/2016/05/postinternet-poet_800.gif"
   },
   {
     "id": 7,
-    "title": "ARTE GENERATIVO",
+    "title": "GENERATIVE ART",
     "year": "2010",
-    "description": "Es aquel que parcialmente o en su totalidad, ha sido creado con el uso de un sistema autónomo. Explora estos referentes",
+    "description": "It is one that partially or in its entirety, has been created with the use of an autonomous system. Explore these references",
     "type": "image",
     "url": "https://i2.wp.com/www.hisour.com/wp-content/uploads/2018/01/Generative-art.jpg?w=960&ssl=1"
   },
   {
     "id": 7,
-    "title": "LA ARTISTA ESTÁ PRESENTE. MARINA ABRÁMOVIC",
+    "title": "THE ARTIST IS PRESENT. MARINA ABRÁMOVIC",
     "year": "2010",
-    "description": "Marina Abramovic (Belgrado, Serbia - 1946) es una artista conocida por ser precursora del performance. A lo largo de su vida propuso diferentes acciones artísticas que tendían a involucrar al público, cuestionando los límites entre el arte y la vida. En esta obra, propone una acción muy simple: mirar a los ojos al espectador durante el tiempo que éste decida. Este performance invita a la participación del público y genera un espacio íntimo y profundo en el museo, a partir del silencio y la mirada",
+    "description": "Marina Abramovic (Belgrade, Serbia - 1946) is an artist known for being a forerunner of performance. Throughout her life she proposed different artistic actions that tended to involve the public, questioning the limits between art and life. In this work, he proposes a very simple action: look the viewer in the eye for as long as he or she decides. This performance invites the public to participate and generates an intimate and deep space in the museum, based on silence and gaze ",
     "type": "image",
     "url": "https://historia-arte.com/obras/la-artista-esta-presente"
   },
   {
     "id": 8,
-    "title": "ROSAS Y ESPINAS. CATALINA MEJÍA",
+    "title": "ROSES AND THORNS. CATALINA MEJÍA",
     "year": "2011",
-    "description": "Catalina Mejía (Bogotá, Colombia - 1962) es una artista representativa de la pintura contemporánea en Colombia. Ha experimentado con el collage proponiendo imágenes enigmáticas con atmósferas nostálgicas, donde habitan lo figurativo y lo abstracto a través del manejo de la luz. En esta obra se evidencia la sencillez y sensibilidad de la artista que de forma sutil nos transmite una sensación profunda y dramática",
+    "description": "Catalina Mejía (Bogotá, Colombia - 1962) is a representative artist of contemporary painting in Colombia. She has experimented with collage proposing enigmatic images with nostalgic atmospheres, where the figurative and the abstract inhabit through the management of the light. This work shows the simplicity and sensitivity of the artist who in a subtle way transmits a deep and dramatic feeling ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1kaVUdt93itMhCgVjvnhZFaWPwAf1Cc8k/view"
   },
   {
     "id": 1,
-    "title": "CLAUDIA HAKIM ASUME LA DIRECCIÓN DEL MAMBO",
+    "title": "CLAUDIA HAKIM TAKES THE DIRECTION OF THE MAMBO",
     "year": "2016",
-    "description": "La artista asumió la dirección con un nuevo equipo que plantea un Museo con toda la ciudadanía y con diversas propuestas de curaduría, museografía y educación.",
+    "description": "The artist assumed the direction with a new team that proposes a Museum with all citizens and with various proposals for curatorship, museography and education.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=SJqC_B_idBI&feature=emb_logo"
   },
   {
     "id": 9,
-    "title": "FIRMA DEL ACUERDO DE PAZ CON LAS FARC",
+    "title": "SIGNING OF THE PEACE AGREEMENT WITH THE FARC",
     "year": "2016",
-    "description": "Fin de un conflicto de más de 50 años",
+    "description": "End of a conflict of more than 50 years",
     "type": "image"
   },
   {
     "id": 9,
-    "title": "RITUAL LABERINTOS. GILLES CHARALMBOS.",
+    "title": "LABYRINTHS RITUAL. GILLES CHARALMBOS.",
     "year": "2020",
-    "description": "Gilles Charalambos (Francia - 1958) desde 1973 vive en Colombia donde ha sido uno de los precursores del video arte. Ha trabajado desde finales de los 70’s en artes electrónicas, performance, y televisión, entre otros. Esta obra es un recorrido por diferentes laberintos sensoriales que explora sonidos y texturas visuales",
+    "description": "Gilles Charalambos (France - 1958) has lived in Colombia since 1973 where he has been one of the forerunners of video art. He has worked since the late 70's in electronic arts, performance, and television, among others. This work is a journey through different sensory labyrinths that explores sounds and visual textures ",
     "type": "image",
     "url": "https://www.youtube.com/watch?time_continue=1&v=vm9_bPAs6gs&feature=emb_logo"
   }
