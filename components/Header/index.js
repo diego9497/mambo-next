@@ -15,6 +15,7 @@ import { useRouter } from "next/router";
 import { useState } from "react";
 
 const Header = ({ config, locale = "es" }) => {
+  console.log(process.env.SPA);
   const router = useRouter();
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -26,7 +27,6 @@ const Header = ({ config, locale = "es" }) => {
     setMenuOpen(false);
   };
 
-  console.log(router);
   return (
     <Container>
       <Link href={locale === "es" ? "/" : "/en"}>
