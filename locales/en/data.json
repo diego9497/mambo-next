@@ -268,99 +268,98 @@
     "id": 4,
     "color": "#F7D44A",
     "text": "black",
-    "title": "Arte Moderno en Colombia",
-    "history": "Cómo surgió el arte moderno",
-    "historyDescription": "A principios del siglo XX se ven los <span>primeros ejemplos</span> de pintura <span>moderna</span> en Colombia. Apropiándose de la herencia del <span>dadaísmo</span> y el <span>cubismo</span>, los artistas buscaron <span>nuevas formas de pintura</span> y <span>escultura</span> para desligarse de la estética de lo bello. Colombia también fue escenario del debate mundial entre el <span>capitalismo vs. comunismo</span> y el impulso por transformar su contexto llevó a los artistas a cuestionar la moral establecida y proponer obras de arte con contenido político transgresor. El deseo por desvincular la historia del arte colombiano de la tradición europea motivó a los artistas del grupo <span>“Bachué”</span> a investigar símbolos e imágenes de las expresiones indígenas y campesinas locales. \n\n A partir de la década de 1950, e influenciados por acontecimientos políticos como <span>El Bogotazo</span>, los artistas asumieron fuertes posturas políticas, expresadas en el enfrentamiento entre quienes defendieron el <span>realismo socialista</span> y la defensa de una identidad propia y quienes apoyaron el <span>expresionismo abstracto</span>. Esta contraposición entre la abstracción y el arte figurativo fue determinante para los artistas de la década de los sesenta y el origen del arte contemporáneo (Jaramillo, 2012, pp. 129-206). ",
+    "title": "Modern Art in Colombia",
+    "history": "Modernism in Colombia",
+    "historyDescription": "In Colombia, the first examples of modernist painting start to appear during the early years of the twentieth century. Artists taking on the legacy of Dadaism and cubism searched for new forms in painting and sculpture as an escape from the traditional aesthetic of beauty.\n\n Colombia was also a scenario for the global debate between capitalism and communism, and the drive for change led artists to question established moral principles in politically transgressive artworks. A desire to uncouple Colombian art history from the European tradition, inspired the “Bachué” group of artists to explore the imagery and symbols of local indigenous and rural communities.\n\n From the 1950s onwards, influenced by political events such as El Bogotazo, artists adopted a firm political stance, clearly seen in the confrontation between the defenders of socialist realism and the maintenance of a separate identity, and the supporters of abstract expressionism. This clash between abstraction and figurative art had a decisive influence on the origins of contemporary art in the country (Jaramillo, 2012, pp. 129-206). ",
     "author": "Beatriz Daza",
-    "authorContent": "(Pamplona, Colombia, 1927-1968) fue una ceramista y pintora pionera en los ensamblajes y la experimentación del lienzo como soporte de diferentes objetos. Esta obra es una de sus representaciones de espacios domésticos a partir de bodegones fragmentados. ",
-    "forWhat": "¿Política y arte?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionalistas frente a las influencias extranjeras.",
-    "didYouKnow": "La época conocida como La Violencia, caracterizada por los enfrentamientos entre los partidos liberal y conservador, impulsó a los artistas a manifestarse ante la situación social y política. ",
-    "activity": "Investiga tu árbol genealógico, identifica los orígenes y rasgos de tu familia, y dibuja un rostro o diseña un logo que los represente. Explica por qué. ",
+    "authorContent": "Beatriz Daza (Pamplona, Colombia, 1927-1968) was a ceramist and painter, pioneer of assemblages and experimentation in the use of the canvas as support for a variety of objects. This work is one of her representations of domestic spaces as fragmented still-life composition. ",
+    "forWhat": "Art and politics",
+    "forWhatContent": "Art in its political context, and the need for a national discourse in the face of foreign influence.",
+    "didYouKnow": "Did you know the period of fighting between Liberals and Conservatives in Colombia, known as La Violencia, drove artists to protest against the social and political situation. ",
+    "activity": "Research your own family tree, pinpoint your family origins and facial features. Draw a face or design a logo to represent your family, and explain why. ",
     "questions": [
-      "¿Cuáles eran las diferencias ideológicas entre el realismo socialista y el expresionismo abstracto?",
-      "¿Cómo definirías la identidad nacional?",
-      "¿Qué valores tradicionales y modernos identificas en tu familia?",
-      "¿Si la moral, las creencias y los valores no son los mismos para todos y todas, cómo se puede llegar a un consenso y evitar la violencia? "
+      "What are the ideological differences between socialist realism and abstract expressionism? ",
+      "How would you define national identity? What modern and traditional values do you see in your own family? ",
+      "Since not everyone shares the same morals, beliefs and values, how do we arrive at a consensus and avoid violence?"
     ],
     "gallery": [],
-    "proposal": "En esta sección se propone reflexionar sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionales frente a las influencias extranjeras.",
+    "proposal": "Art in its political context, and the need for a national discourse in the face of foreign influence.",
     "keyConcepts": [
       {
-        "title": "guerra fría",
-        "content": "Enfrentamiento militar, político y cultural que se desarrolló entre los años 1945 y 1989 entre el bloque occidental, representado por Estados Unidos en defensa del capitalismo contra la Unión Soviética (U.R.R.S) en defensa del comunismo. ",
+        "title": "Cold War",
+        "content": "Political, military and cultural confrontation lasting from 1945 – 1989 between capitalist Western powers, led by the United States, and communist Soviet Union.",
         "img": {
           "src": "mv4/c1.jpg",
-          "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: <a href='https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg' targe='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2' target='blank'>GNU.</a> "
+          "alt": "Unknown author. Photograph of the Berlin Wall. 1989. Source: Wikimedia Commons under GNU licence. "
         }
       },
       {
-        "title": "el bogotazo",
-        "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
+        "title": "El Bogotazo",
+        "content": "Eruption of rioting and violence in Bogota, triggered by the assassination of presidential candidate Jorge Eliécer Gaitán on 9 April 1948, giving rise to the period of fighting between Liberal and Conservative parties known as La Violencia.",
         "img": {
           "src": "mv4/c2.jpg",
-          "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
+          "alt": "Sady González. Burning Tram. 1948. Source: MAMBO Collection. REG 2825"
         }
       },
       {
-        "title": "realismo socialista",
-        "content": "Corriente artística que surge en los años 20 en la Unión Soviética, motivada por la representación de la realidad con fines ideológicos y muchas veces con contenido de denuncia. Fue influyente en la creación de movimientos latinoamericanos que defendieron el realismo social como un instrumento contra el imperialismo. ",
+        "title": "Socialist Realism",
+        "content": "Artistic style developed in the Soviet Union during the 1920s, aimed at an ideologically motivated representation of reality, often with the intention of denouncing supposed anti-Soviet tendencies. Influential in the creation of Latin American movements, for whom socialist realism was a weapon in the fight against imperialism.  ",
         "img": {
           "src": "mv4/c3.jpg",
-          "alt": "Autor desconocido. Monumento a los combatiantes de la revolución de Octubre. en Almaty, Kasakhstan. Fuente: <a href='https://commons.wikimedia.org/wiki/File:ALAOctober.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público."
+          "alt": "Unknown author. Monument to combatants in the October Revolution. Almaty, Kasakhstan. Source: Wikimedia Commons under public licence. "
         }
       },
       {
-        "title": "expresionismo norteamericano",
-        "content": "Se considera la primera corriente de arte abstracto en Estados Unidos, caracterizada por obras pictóricas en lienzos de gran formato en donde arrojaban la pintura espontáneamente, creando imágenes libres y expresivas. Esta corriente se opuso al realismo socialista y se usó como una herramienta de expansión de las ideas expresadas por el bloque capitalista en la Guerra Fría.",
+        "title": "North American Expressionism (Abstract Expressionism)",
+        "content": "Considered USA’s first abstract art movement. Pictorial works on large canvases onto which paint has been spattered in a spontaneous manner, creating free, expressive images. Abstract expressionism stood in opposition to socialist realism, and was used during the Cold War to propagate ideas associated with capitalism.  ",
         "img": {
           "src": "mv4/c4.jpg",
-          "alt": "Jackson Pollock. Head. 1938-1941. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Head_(1938-1941)_-_Jackson_Pollock_(1912-1956).jpg' target='blank'> Wikimedia Commons bajo la licencia </a>  <a href='https://creativecommons.org/licenses/by/2.0/deed.en' target='blank'>CC BY 2.0.</a>"
+          "alt": "Jackson Pollock. Head. 1938-1941. Source: Wikimedia Commons under licence CC BY 2.0."
         }
       },
       {
-        "title": "comunismo",
-        "content": "Sistema económico propuesto por Karl Marx en el cual no existe la propiedad privada y la ganancia producida por los trabajadores se distribuye equitativamente, siendo todos los medios de producción administrados por el Estado. ",
+        "title": "Communism",
+        "content": "Economic system proposed by Karl Marx; in which private property is eliminated and goods produced by the workers are distributed equally, and where the state controls the means of production.",
         "img": {
           "src": "mv4/c5.jpg",
-          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Fuente:<a href='https://commons.wikimedia.org/wiki/File:Karl_Marx_001.jpg' target='blank'> Wikimedia Commons</a> bajo dominio público. "
+          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Source: Wikimedia Commons under public licence."
         }
       },
       {
-        "title": "capitalismo",
-        "content": "Sistema económico propuesto por Adam Smith en donde el capital producido por los medios de producción a partir de la fuerza de trabajo obrera es de una persona o empresa privada; siendo éste, el motor de la economía de mercados y lo que diferencia las clases socioeconómicas.",
+        "title": "Capitalism",
+        "content": "Economic system put forward by Adam Smith; in which capital generated through workers’ labour belongs to an individual or private company, driving a market economy and creating socio-economic division.",
         "img": {
           "src": "mv4/c6.jpg",
-          "alt": "Autor desconocido. Retrato de Adam Smith. 1800. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Adam_Smith_The_Muir_portrait.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
+          "alt": "Unknown Author. Portrait of Adam Smith. 1800. Source: Wikimedia Commons under public licence."
         }
       }
     ],
     "img1": {
       "src": "mv4/1.jpg",
-      "alt": "Beatriz Daza. Dos días amarillos. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera. Fuente: Colección MAMBO",
-      "caption": "<a href='https://www.museolatertulia.com/beatriz-daza/' target='blank'>Beatriz Daza</a> (Pamplona, Colombia, 1927-1968) fue una ceramista y pintora pionera en los <a href='https://www.lifeder.com/ensamblaje-artistico/' target='blank'>ensamblajes</a> y la experimentación del lienzo como soporte de diferentes objetos. Esta obra es una de sus representaciones de espacios domésticos a partir de bodegones fragmentados."
+      "alt": "Beatriz Daza. Two Yellow Days. 1966. Porcelain, glass, ceramic, plaster and metal on wood. Source: MAMBO Collection.",
+      "caption": "Beatriz Daza (Pamplona, Colombia, 1927-1968) was a ceramist and painter, pioneer of assemblages and experimentation in the use of the canvas as support for a variety of objects. This work is one of her representations of domestic spaces as fragmented still-life composition. "
     },
     "img2": {
       "src": "mv4/2.jpg",
-      "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO",
-      "caption": "<a href='https://www.youtube.com/watch?v=P5MEvSnlxhM' target='blank'>Alejandro Obregón</a> (Barcelona, España, 1920-1992) vivió en el país desde los 6 años, hizo parte del Grupo de Barranquilla y fue un referente de la pintura moderna y contemporánea en Colombia. Creó imágenes que se debatían entre la figuración y la abstracción (expresionismo figurativo), que resaltaban las pinceladas expresivas y la mancha de color. Esta emblemática obra es un reflejo de su interés por denunciar la crudeza de la realidad nacional. "
+      "alt": "Alejandro Obregón. Violence. 1962. Obregón. Hernán Díaz. Source: MAMBO Collection.",
+      "caption": "Alejandro Obregón (Barcelona, Spain, 1920-1992), came to this country at the age of six. He was a member of the Barranquilla Group and an important figure in Colombian modern and contemporary painting. He combines figuration and abstraction in his paintings (figurative expressionism), which display expressive brushstrokes and patches of colour.  This work shows Obregón’s preoccupation with denouncing harsh realities in Colombia."
     },
     "img3": {
       "src": "mv4/3.jpg",
-      "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO",
-      "caption": "<a href='https://www.latinamericanart.com/es/artista/edgar-negret/' target='blank'>Edgar Negret</a> (Popayán, Colombia, 1920-2012) fue uno de los escultores más influyentes de las artes plásticas en Colombia. Cuestionó las nociones de lo industrial y lo natural al incorporar en su escultura materiales representativos de la modernidad como el hierro, el aluminio y la madera. En esta obra, se aprecia una representación abstracta de una figura de la cultura religiosa colombiana. "
+      "alt": "Edgar Negret. Face of Christ. 1949. Wood and steel: MAMBO Collection.",
+      "caption": "Edgar Negret (Popayán, Colombia, 1920-2012). One of Colombia’s most influential sculptors. By incorporating materials denoting modernity into his work such as iron, aluminium and wood, he brings into question ideas of the industrial and the natural. This piece represents a figure from Colombian religious culture, but in an abstract manner."
     },
     "didYouKnowImg": {
       "src": "mv4/did_you_know.jpg",
-      "alt": "Sady González. Cadáveres en el cementerio, 9 de abril, Bogotá. 1948. Fuente: Colección MAMBO. "
+      "alt": "Sady González. Corpses in a cemetery, 9th April, Bogotá. 1948. Source: MAMBO Collection."
     },
     "questionImg": {
       "src": "mv4/question.jpg",
-      "alt": "León Ruiz. Sin título. 1981. Fuente: Colección MAMBO. "
+      "alt": "León Ruiz. Untitled. 1981. Source: MAMBO Collection."
     },
     "activityImg": {
       "src": "mv4/activity.jpg",
-      "alt": "Gertjan Bartelsman. Floralba. 1976. Fuente: Colección MAMBO. "
+      "alt": "Gertjan Bartelsman. Floralba. 1976. Source: MAMBO Collection."
     },
     "knowMore": [
       {
@@ -405,69 +404,69 @@
     "id": 5,
     "color": "#162D1C",
     "text": "white",
-    "title": "Arte Conceptual en el Mundo",
-    "history": "¿Qué es el arte conceptual?",
-    "historyDescription": "Esta corriente aparece hacia la década de 1960 y consiste en reconocer el arte no solo por su valor <span>estético</span> sino por su valor intelectual. El arte conceptual no usa un medio específico pues no depende de la forma sino del contenido y de la capacidad de comunicar una idea, por eso puede ser una <span>instalación, fotografía, ready-made, performance, obra gráfica o video-arte.</span> \n Los artistas conceptuales se interesan por su <span>contexto</span>, se apropian de un <span>tema</span> y por medio de una obra resignifican los objetos, las imágenes y los conceptos. Por ejemplo, en el <span>Land Art</span> el interés por el espacio llevó a los artistas a alterar el paisaje y a usar los materiales disponibles; por otro lado, en el <span>Minimalismo</span> los artistas se interesaron por la percepción alejándose de la representación realista (Tate, s. f.). \n\n El periodo comprendido entre las décadas de 1960 y 1970 se caracterizó por grandes cambios sociales generados por diversos movimientos activistas en el mundo: los <span>movimientos feministas</span> y <span> LGBT</span>, las <span>organizaciones antirracistas</span>, las <span>manifestaciones en contra de la guerra de Vietnam</span> y las revueltas de París en <span>Mayo del 68.</span> \n\n En el arte conceptual a menudo se identifican y denuncian problemas del entorno social, político, religioso o ecológico, usando frecuentemente la ironía y la sátira. En adición, se cuestiona el significado mismo del arte afirmando que la subjetividad del artista define qué es arte y el espectador completa la obra con su interpretación (EcuRed, 2019). ",
+    "title": "Conceptual Art in the world.",
+    "history": "What is Conceptual Art?",
+    "historyDescription": "Conceptual Art (also known as Conceptualism), has its beginnings during the 1960s and consists in recognising art not only for its aesthetic qualities, but also for its intellectual significance. Conceptual art does not use one medium in particular, as it does not rely on form, but on content and the ability to communicate an idea. For this reason, it may take different forms: installation, photography, readymade, performance, graphic work or video art.\n\n Conceptual artists are interested in context. They take a theme and confer new meanings on objects, images and concepts through their work. With Land Art for example, an interest in space has led artists to alter the landscape and make use of available materials. Minimalism, on the other hand, makes no attempt to represent an outside reality, “what you see is what you see” (Tate, s. f.). \n\n During the 1960s and 1970s great social changes were brought about through activism on the part of various movements: Feminist, LGBT, and antiracist movements, protests against the Vietnam War and the May 1968 demonstrations in Paris.\n Conceptual art often pinpoints and denounces social, political, religious or ecological problems, with frequent use of irony and satire. It also questions the significance of art itself, asserting that what is “art” is subjectively determined by the artist themselves, while the spectator completes the work with their own interpretation (EcuRed, 2019). ",
     "author": "Cildo Merireles",
-    "authorContent": "Es reconocido por sus aportes al arte conceptual latinoamericano, con obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericano. En esta serie, el artista recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. ",
-    "forWhat": "¿Un concepto para qué?",
-    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
-    "didYouKnow": "Una de las primeras obras de arte conceptual fue un orinal instalado en una galería por Marcel Duchamp.",
+    "authorContent": "Cildo Meireles (Rio de Janeiro, Brazil, 1948) is an artist recognised for his contribution to conceptual art in Latin America, through works based on an analysis of Latin American political and economic systems. Here he uses a series of fake Brazilian banknotes to generate reflection around capital, power, and exploitation. ",
+    "forWhat": "Why Conceptual Art?",
+    "forWhatContent": "Art as intellectual process.",
+    "didYouKnow": "",
     "questions": [
-      "¿Qué significa que el contenido sea más importante que la forma?",
-      "¿Qué crees que es arte y qué no?",
-      "¿Cuáles son los métodos de investigación de los artistas? "
+      "What is the significance of content over form? ",
+      "In your opinion, what is and is not art?",
+      "What research methods do artists use?"
     ],
     "gallery": [],
-    "proposal": "En esta sección se propone reflexionar sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
+    "proposal": "Art as intellectual process.",
     "keyConcepts": [
       {
-        "title": "contracultura",
-        "content": "La contracultura son los valores y las expresiones sociales que se oponen a las establecidas en una sociedad. El término aparece en el año 1968, en uno de los libros del historiador Theodore Roszak para referirse a la generación beat, el movimiento hippie, la revolución sexual y los movimientos pacifistas estadounidenses.",
+        "title": "Counterculture",
+        "content": "Counterculture refers to values and modes of behaviour that are opposed to those established by a society. The term first appears in a 1968 book by historian Theodore Roszak, who uses “counterculture” to describe the beat generation, the hippie movement, the sexual revolution and the pacifist movements of the United States.",
         "img": {
           "src": "mv5/c1.jpg",
-          "alt": "Mark Goff. Ceremonia de apertura del festival de Woodstock. 1969. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Swami_opening.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
+          "alt": "Mark Goff. Woodstock Festival opening ceremony. 1969. Source: Wikimedia Commons under public licence. "
         }
       },
       {
-        "title": "contexto",
-        "content": "Es el conjunto de condiciones físicas, sociopolíticas y culturales que rodean a un objeto o a una circunstancia. Define el uso, las costumbres y los valores de un grupo humano específico.",
+        "title": "Context",
+        "content": "Array of physical, sociopolitical and cultural conditions surrounding an object or event. Context determines the purpose, customs and values of a particular human group.",
         "img": {
           "src": "mv5/c2.jpg",
-          "alt": "Carlos Caicedo. Bogotá, 1975. Fuente: Colección MAMBO. "
+          "alt": "Carlos Caicedo. Bogotá, 1975. Source: MAMBO collection."
         }
       },
       {
-        "title": "estética",
-        "content": "Es una disciplina filosófica que estudia la percepción, las sensaciones y los criterios para valorar la belleza y el gusto en el arte.",
+        "title": "Aesthetics",
+        "content": "A philosophical discipline that studies the perception, sensations and criteria involved in our judgement of beauty and taste in art.",
         "img": {
           "src": "mv5/c3.jpg",
-          "alt": "Francisco Antonio Cano. Bodegón. 1912. Fuente: Colección MAMBO. "
+          "alt": "Francisco Antonio Cano. Still Life. 1912. Source: MAMBO Collection. "
         }
       }
     ],
     "img1": {
       "src": "mv5/1.jpg",
-      "alt": "Cildo Meireles.<a href='https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw' target='blank'>Zero cruzeiro.</a> 1974. Litografía. Fuente: Colección MAMBO. ",
-      "caption": "<a href='http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm' target='blank'>Cildo Meireles</a> (Rio de Janeiro, Brasil, 1948) es un reconocido artista por sus aportes al arte conceptual latinoamericano mediante obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericanos. En esta serie que vemos él recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. "
+      "alt": "Cildo Meireles. Zero Cruzeiro. 1974. Lithograph. Source: MAMBO Collection.",
+      "caption": "Cildo Meireles (Rio de Janeiro, Brazil, 1948) is an artist recognised for his contribution to conceptual art in Latin America, through works based on an analysis of Latin American political and economic systems. Here he uses a series of fake Brazilian banknotes to generate reflection around capital, power, and exploitation. "
     },
     "img2": {
       "src": "mv5/2.jpg",
-      "alt": "Andy Warhol. Campbell's soup cans. 1962. Edición especial. 2015. Fuente: Wikimedia Commons bajo la licencia Creative Commons Attribution 3.0 Unported.",
-      "caption": "<a href='https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importantes-y-frases' target='blank'>Andy Warhol</a> (Pittsburg, Estados Unidos, 1928-1987) es reconocido como uno de los pioneros del Arte Pop en Estados Unidos. Warhol utilizó productos del mercado para reflexionar sobre el consumismo y la originalidad en el arte. En esta obra el artista copió la caja de un producto de consumo masivo y elaboró reproducciones de los empaques, poniendo en tela de juicio si cualquier objeto puede ser arte y señalando el consumismo como el modo de vida contemporáneo. "
+      "alt": "Andy Warhol. Campbell's Soup Cans. 1962. Special edition. 2015. Source: Wikimedia Commons under Creative Commons licence Attribution 3.0 Unported.",
+      "caption": "Andy Warhol (Pittsburg, USA, 1928-1987) was one of the pioneers of Pop Art in the United States. Warhol used grocery products to reflect on consumerism and originality in art. In this well-known work, the artist copied the packaging of a product of mass consumption. He then reproduced it, marking consumerism as a contemporary way of life, and posing the question:  can any object can be considered art?"
     },
     "img3": {
       "src": "mv5/3.jpg",
-      "alt": "Nancy Holt. Sun Tunnels.  1976. Tubos de cemento agujereados. Fuente: Wikimedia Commons bajo la licencia C.C. 2.0.",
-      "caption": "<a href='https://exit-express.com/adios-a-nancy-holt-pionera-del-land-art/' target='blank'>Nancy Holt </a>(Worcester, Estados Unidos, 1938-2014) fue una de las precursoras de nuevas formas de percibir el paisaje a través de obras transdisciplinares. En esta obra característica del Land Art y el Minimalismo instaló una serie de túneles de cemento con agujeros en una planicie. Cada 21 de diciembre, solsticio de invierno, el sol se alinea con los túneles reflejándose en el interior del túnel. "
+      "alt": "Nancy Holt. Sun Tunnels. 1976. Cement tubes with drilled holes. Source: Wikimedia Commons under licence C.C. 2.0.",
+      "caption": "Nancy Holt (Worcester, USA, 1938-2014) is one of the first artists to find new ways of viewing the landscape through transdisciplinary works. In this piece, characteristic of Land Art and Minimalism, she sets a group of cement tunnels with holes drilled in them onto a flat area of land. On the winter solstice, 21st December, the sun aligns with the tunnels and its light is reflected on their interior."
     },
     "didYouKnowImg": {
       "src": "mv5/did_you_know.jpg",
-      "alt": "Marcel Duchamp. The Fountain. 1917. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Duchamp_Fountaine.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público."
+      "alt": "Marcel Duchamp. The Fountain. 1917. Fuente: Wikimedia Commons bajo dominio público."
     },
     "questionImg": {
       "src": "mv5/question.jpg",
-      "alt": "Luis Camnitzer. Ventana con paisaje sobre pared empapelada de flores, 1968. Fuente: Colección MAMBO."
+      "alt": "Luis Camnitzer. Window with Landscape above Wallpapered Wall with Flowers.1968. Source: MAMBO Collection."
     },
     "knowMore": [
       {

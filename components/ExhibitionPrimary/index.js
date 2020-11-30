@@ -33,7 +33,6 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     author,
     authorContent,
     authorAudio,
-    gallery,
     keyConcepts,
     didYouKnowImg,
     activityImg,
