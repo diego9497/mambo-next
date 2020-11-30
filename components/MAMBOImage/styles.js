@@ -15,7 +15,6 @@ export const Container = styled.div`
   right: 0;
   bottom: 0;
   z-index: 9999999;
-  padding: 15px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,6 +25,7 @@ export const ContainerImage = styled.div`
   width: 100%;
   height: 100%;
   margin: 0 auto;
+  padding: 15px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -49,9 +49,15 @@ export const ModalImage = styled.div`
     max-width: 95vw;
     visibility: hidden;
   }
+  :hover {
+    > p {
+      display: initial;
+    }
+  }
 `;
 
 export const Description = styled.p`
+  display: none;
   padding: 20px 20px;
   background: rgba(255, 255, 255, 0.9);
   color: black;
@@ -60,6 +66,7 @@ export const Description = styled.p`
   grid-column: 1/-1;
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 100%;
   white-space: pre-wrap;
 

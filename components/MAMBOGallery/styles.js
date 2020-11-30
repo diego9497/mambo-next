@@ -52,9 +52,16 @@ export const ModalImage = styled.div`
     max-width: 95vw;
     visibility: hidden;
   }
+
+  :hover {
+    > p {
+      display: initial;
+    }
+  }
 `;
 
 export const Description = styled.p`
+  display: none;
   padding: 20px 20px;
   padding-right: 50px;
   background: rgba(255, 255, 255, 0.9);
@@ -62,6 +69,7 @@ export const Description = styled.p`
   padding-right: 50px;
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 100%;
   white-space: pre-wrap;
 

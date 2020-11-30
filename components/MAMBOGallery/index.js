@@ -55,6 +55,13 @@ export default function MAMBOGallery({
     }
   };
 
+  const handleCloseFromBackground = (e) => {
+    let childElement = e.target.querySelector("div");
+    if (childElement?.getAttribute("src")) {
+      setOpen(false);
+    }
+  };
+
   return (
     <>
       <ImageToolTipContainer animation={animation}>
@@ -79,7 +86,7 @@ export default function MAMBOGallery({
             </RightButton>
             <ImageSlider current={current}>
               {gallery.map((img) => (
-                <ImageContainer>
+                <ImageContainer onClick={handleCloseFromBackground}>
                   <ModalImage
                     src={
                       process.env.SPA

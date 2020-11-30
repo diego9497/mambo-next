@@ -576,7 +576,6 @@
     "forWhatAudio": "url",
     "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá.",
     "didYouKnowAudio": "url",
-    "activity": "Desarrolla una obra conceptual en la cual plasmes una problemática de tu contexto local.",
     "questions": [
       "¿Cómo se refleja la democracia en el arte?",
       "¿Qué elementos podrías reconocer del contexto histórico en una obra de arte?",
@@ -635,10 +634,6 @@
     "questionImg": {
       "src": "mv6/question.jpg",
       "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
-    },
-    "activityImg": {
-      "src": "mv6/activity.jpg",
-      "alt": ""
     },
     "knowMore": [
       {

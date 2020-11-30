@@ -1,7 +1,6 @@
 //TODO Wikicommos y enlace en alts
-//TODO Alt y caption en hover al abrir detalle imagen.
 //TODO Poner video en sección video nuevos medios
-import { useState } from "react";
+import { useRef, useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Accessibility from "../Icons/Accessibility";
 import Close from "../Icons/Close";
@@ -29,12 +28,19 @@ export default function MAMBOImage({
   loading = "lazy",
 }) {
   const [open, setOpen] = useState(false);
+  const imageModal = useRef(null);
 
   const openModal = () => {
     setOpen(true);
   };
   const closeModal = () => {
     setOpen(false);
+  };
+
+  const closeModalFromBackground = (e) => {
+    if (e.target === imageModal.current) {
+      setOpen(false);
+    }
   };
 
   return (
@@ -54,7 +60,7 @@ export default function MAMBOImage({
       {open && (
         <ClientPortal selector="#modal">
           <Container>
-            <ContainerImage>
+            <ContainerImage onClick={closeModalFromBackground} ref={imageModal}>
               <ModalImage
                 src={
                   process.env.SPA ? `/image/${src}` : `/image/optimizado/${src}`
