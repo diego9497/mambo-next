@@ -87,12 +87,16 @@ export default function MAMBOGallery({
           goRight={nextImage}
         >
           <Container>
-            <LeftButton onClick={previousImage}>
-              <Previous />
-            </LeftButton>
-            <RightButton onClick={nextImage}>
-              <Next />
-            </RightButton>
+            {current > 0 && (
+              <LeftButton onClick={previousImage}>
+                <Previous />
+              </LeftButton>
+            )}
+            {current < gallery.length - 1 && (
+              <RightButton onClick={nextImage}>
+                <Next />
+              </RightButton>
+            )}
             <ImageSlider current={current}>
               {gallery.map((img) => (
                 <ImageContainer onClick={handleCloseFromBackground}>
