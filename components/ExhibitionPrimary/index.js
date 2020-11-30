@@ -20,18 +20,32 @@ import Accessibility from "../Icons/Accessibility";
 import MAMBOImage from "../MAMBOImage";
 import MAMBOGallery from "../MAMBOGallery";
 import Slider from "react-slick";
+import { useEffect, useState } from "react";
+import useWindowSize from "../../hooks/useWindowSize";
 
 export default function ExhibitionPrimary({ exhibition, config }) {
   const {
     history,
     historyDescription,
+    mainAudio,
     color,
     text,
     author,
     authorContent,
-    img1,
+    authorAudio,
     gallery,
+    keyConcepts,
+    didYouKnowImg,
+    activityImg,
+    questionImg,
+    img1,
+    img2,
+    img3,
   } = exhibition;
+
+  const [numberOfSlides, setNumberOfSlides] = useState(3);
+
+  const [width] = useWindowSize();
 
   function NextArrow(props) {
     const { className, style, onClick } = props;
@@ -79,7 +93,6 @@ export default function ExhibitionPrimary({ exhibition, config }) {
 
   const settings = {
     infinite: true,
-    slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
@@ -87,6 +100,25 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     prevArrow: <PrevArrow />,
   };
 
+  useEffect(() => {
+    if (width <= 575) {
+      setNumberOfSlides(1);
+    } else {
+      setNumberOfSlides(3);
+    }
+  }, [width]);
+
+  let generatedGallery = [
+    ...keyConcepts.map(({ img }) => img),
+    img1,
+    img2,
+    img3,
+    activityImg,
+    didYouKnowImg,
+    questionImg,
+  ];
+
+  generatedGallery = generatedGallery.filter((img) => img);
   return (
     <>
       <GridHistory>
@@ -94,20 +126,24 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           <Title color={color}>{history}</Title>
         </ContainerTitle>
         <ContainerImagePrincipal>
-          <MAMBOImage src={img1.src} alt={img1.alt} loading="eager" />
+          <MAMBOImage {...img1} loading="eager" />
         </ContainerImagePrincipal>
         <ContentHistory>
           <TextContentHistory>
-            <AudioContainerHistory>
-              <Accessibility />
-            </AudioContainerHistory>
+            {mainAudio && (
+              <AudioContainerHistory>
+                <Accessibility />
+              </AudioContainerHistory>
+            )}
             <p dangerouslySetInnerHTML={{ __html: historyDescription }}></p>
           </TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color}>
-          <AudioContainer stroke={text}>
-            <Accessibility />
-          </AudioContainer>
+          {authorAudio && (
+            <AudioContainer stroke={text}>
+              <Accessibility />
+            </AudioContainer>
+          )}
           <TitleContentSecond
             color={text}
             dangerouslySetInnerHTML={{ __html: author }}
@@ -118,10 +154,17 @@ export default function ExhibitionPrimary({ exhibition, config }) {
         <SecondEmpty />
       </GridHistory>
       <GalleryContainer>
-        <Slider {...settings}>
-          {gallery?.map((img, index) => (
+        <Slider
+          {...settings}
+          slidesToShow={process.env.SPA ? numberOfSlides : 1}
+        >
+          {generatedGallery?.map((img, index) => (
             <GalleryImageContainer num={index + 1}>
-              <MAMBOGallery gallery={gallery} index={index} animation={true} />
+              <MAMBOGallery
+                gallery={generatedGallery}
+                index={index}
+                animation={true}
+              />
             </GalleryImageContainer>
           ))}
         </Slider>

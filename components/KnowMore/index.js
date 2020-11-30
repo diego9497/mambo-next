@@ -30,7 +30,7 @@ function KnowMore({ exhibition, config }) {
   };
 
   return (
-    <Container>
+    <Container id="more">
       <ContainerSection>
         <Title color={color}>{config.more}</Title>
       </ContainerSection>

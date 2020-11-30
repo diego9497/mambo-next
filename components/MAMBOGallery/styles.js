@@ -64,6 +64,10 @@ export const Description = styled.p`
   bottom: 0;
   width: 100%;
   white-space: pre-wrap;
+
+  p {
+    margin-top: 6px;
+  }
 `;
 
 export const CloseContainer = styled.div`

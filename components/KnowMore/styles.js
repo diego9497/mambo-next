@@ -14,8 +14,8 @@ export const Container = styled.div`
   @media screen and (max-width: 575px) {
     height: initial;
     grid-template-columns: 1fr;
-    grid-template-rows: 150px 200px 200px 200px 200px 200px 200px;
-    grid-template-areas: "Title" "Information" "Empty0" "Author" "EmptyTw" "EmptyTh";
+    grid-template-rows: 175px repeat(5, 250px);
+    grid-template-areas: "Title" "Information" "EmptyO" "Author" "EmptyTw" "EmptyTh";
   }
 `;
 export const ContainerSection = styled.a`
@@ -44,6 +44,7 @@ export const ContainerSection = styled.a`
   }
   :nth-child(3) {
     grid-area: EmptyO;
+    min-height: 200px;
     border-bottom: 1px solid var(--borderColor);
   }
   :nth-child(4) {
@@ -56,6 +57,12 @@ export const ContainerSection = styled.a`
   }
   :nth-child(6) {
     grid-area: EmptyTh;
+  }
+
+  @media screen and (max-width: 575px) {
+    > div {
+      display: initial;
+    }
   }
 `;
 export const Title = styled.p`
@@ -101,6 +108,11 @@ export const ReferenceContainer = styled.article`
   display: grid;
   grid-template-rows: 63px 1fr;
   height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+
+  @media screen and (max-width: 575px) {
+    grid-column: 1/-1;
+    height: initial;
+  }
 `;
 
 export const ReferencesHeader = styled.header`

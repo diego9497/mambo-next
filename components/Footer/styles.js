@@ -23,7 +23,11 @@ export const LeftContainer = styled.div`
   display: flex;
   width: 100%;
 
-  & a:first-child {
+  > a {
+    width: 100%;
+  }
+
+  > div:first-child {
     @media screen and (max-width: 575px) {
       display: none;
     }
@@ -33,9 +37,14 @@ export const TimeLineMapContainer = styled.div`
   grid-area: right;
   display: flex;
   width: 100%;
+
+  > a {
+    width: 100%;
+  }
 `;
 
 export const ItemOption = styled.div`
+  position: relative;
   padding: 0 15px;
   display: flex;
   align-items: center;
@@ -43,10 +52,34 @@ export const ItemOption = styled.div`
   width: 100%;
   height: 100%;
   cursor: pointer;
+  border-right: 1px solid var(--borderColor);
+  color: black;
   @media screen and (max-width: 575px) {
     flex-direction: column;
     padding: 0 7px;
   }
+
+  :hover {
+    background: ${({ color }) => color};
+    color: ${({ text }) => (text ? text : "white")};
+    fill: ${({ text }) => (text ? text : "white")};
+  }
+
+  ${({ active }) =>
+    active &&
+    css`
+      background: ${({ color }) => color};
+      color: white;
+      fill: white;
+    `}
+
+  :active {
+    filter: grayscale(0.3);
+  }
+`;
+export const Empty = styled.div`
+  width: 100%;
+  border-right: 1px solid var(--borderColor);
 `;
 export const ContainerIcon = styled.div`
   width: 30px;
@@ -82,24 +115,6 @@ export const Anchor = styled.a`
   fill: black;
   transition: background 0.3s ease;
 
-  :hover {
-    background: ${({ color }) => color};
-    color: ${({ text }) => (text ? text : "white")};
-    fill: ${({ text }) => (text ? text : "white")};
-  }
-
-  ${({ active }) =>
-    active &&
-    css`
-      background: ${({ color }) => color};
-      color: white;
-      fill: white;
-    `}
-
-  :active {
-    filter: grayscale(0.3);
-  }
-
   :nth-child(5) {
     border-right: 0px;
   }
@@ -126,21 +141,12 @@ export const ContainerActivities = styled.div`
 
     :nth-child(1) {
       color: #ffcf12;
-      /* :hover {
-        color: black;
-      } */
     }
     :nth-child(2) {
       color: #17331c;
-      /* :hover {
-        color: white;
-      } */
     }
     :nth-child(3) {
       color: #335fd7;
-      /* :hover {
-        color: white;
-      } */
     }
 
     :hover {

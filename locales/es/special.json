@@ -227,8 +227,9 @@
     "title": "Nuevos medios",
     "content": [
       {
-        "title": "ready made",
+        "title": "Ready made",
         "description": "El ready-made se conoce como “objeto encontrado” en español. Es una técnica en la cual el artista usa objetos cotidianos, los cambia de contexto o los interviene para crear una obra de arte. Marcel Duchamp fue el primer artista en utilizar esta técnica al introducir un orinal en una galería y presentarlo como una obra de arte. En Colombia uno de los referentes más importantes de esta práctica es Álvaro Barrios, quien desde muy joven empezó a utilizar en sus esculturas objetos como utensilios domésticos, juguetes, retratos y reproducciones de otras obras de la historia del arte. En sus dibujos y pinturas usa imágenes del cómic, la cultura popular y la historia para resignificarlas.",
+        "sectionAudio": "url",
         "gallery": [
           {
             "alt": "Grupo El Sindicato. Ramiro Gómez, Carlos Restrepo, Alberto del Castillo, Efraín Arrieta, Aníbal Tobón y Guillermo Aragón. A-la-cena con zapatos. 1979. Fuente: Colección MAMBO. ",

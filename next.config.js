@@ -1,5 +1,5 @@
 module.exports = {
   env: {
-    SPA: false,
+    SPA: true,
   },
 };

@@ -1,5 +1,6 @@
 //TODO Wikicommos y enlace en alts
-//TODO Arte de la desobediencia no tiene audioguia
+//TODO Alt y caption en hover al abrir detalle imagen.
+//TODO Poner video en sección video nuevos medios
 import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Accessibility from "../Icons/Accessibility";
@@ -20,6 +21,8 @@ import Image from "../Image";
 export default function MAMBOImage({
   src,
   alt,
+  audio,
+  caption,
   fit = "cover",
   width = 500,
   height = 300,
@@ -52,13 +55,29 @@ export default function MAMBOImage({
         <ClientPortal selector="#modal">
           <Container>
             <ContainerImage>
-              <ModalImage src={`/image/${src}`}>
-                <img src={`/image/${src}`} alt={alt} />
+              <ModalImage
+                src={
+                  process.env.SPA ? `/image/${src}` : `/image/optimizado/${src}`
+                }
+              >
+                <img
+                  src={
+                    process.env.SPA
+                      ? `/image/${src}`
+                      : `/image/optimizado/${src}`
+                  }
+                  alt={alt}
+                />
                 <Description>
                   <p dangerouslySetInnerHTML={{ __html: alt }}></p>
-                  <AudioContainer>
-                    <Accessibility />
-                  </AudioContainer>
+                  {caption && (
+                    <p dangerouslySetInnerHTML={{ __html: caption }}></p>
+                  )}
+                  {audio && (
+                    <AudioContainer>
+                      <Accessibility />
+                    </AudioContainer>
+                  )}
                 </Description>
               </ModalImage>
             </ContainerImage>

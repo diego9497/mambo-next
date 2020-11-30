@@ -6,12 +6,13 @@ import {
   Option,
   ItemOption,
   ContainerActivities,
+  Empty,
 } from "./styles";
 import Before from "../Icons/Before";
 import Game from "../Icons/Game";
 import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
-import Link from "next/link";
+import Link from "../Link";
 import { useRouter } from "next/router";
 import { useCallback, useState } from "react";
 function Footer({ exhibition, config, index, choose, locale = "es" }) {
@@ -39,37 +40,35 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
   return (
     <ContainerFooter>
       <LeftContainer>
-        <Anchor onClick={handleBack} text={text} color={color}>
-          {!index && (
-            <ItemOption>
-              <Before />
-              <Option>
-                {!title || choose || exhibition.id === 9 || exhibition.id === 2
-                  ? config.back
-                  : title}
-              </Option>
-            </ItemOption>
-          )}
-        </Anchor>
+        {!index ? (
+          <ItemOption onClick={handleBack} text={text} color={color}>
+            <Before />
+            <Option>
+              {!title || choose || exhibition.id === 9 || exhibition.id === 2
+                ? config.back
+                : title}
+            </Option>
+          </ItemOption>
+        ) : (
+          <Empty></Empty>
+        )}
         {!index && exhibition.id !== 9 ? (
           <Link href={locale === "es" ? `/special/9` : `/en/special/9`}>
-            <Anchor text="white" color="black">
-              <ItemOption>
-                <Option>{config.mv9.title}</Option>
-              </ItemOption>
-            </Anchor>
+            <ItemOption text="white" color="black">
+              <Option>{config.mv9.title}</Option>
+            </ItemOption>
           </Link>
-        ) : null}
-        <Anchor
+        ) : (
+          <Empty></Empty>
+        )}
+        <ItemOption
+          onClick={clickGames}
           text={text}
           color={color}
-          onClick={clickGames}
           active={openGames}
         >
-          <ItemOption>
-            <Game />
-            <Option>{config.games}</Option>
-          </ItemOption>
+          <Game />
+          <Option>{config.games}</Option>
           {openGames && (
             <ContainerActivities>
               <a>Trivia</a>
@@ -77,24 +76,20 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
               <a>Runner</a>
             </ContainerActivities>
           )}
-        </Anchor>
+        </ItemOption>
       </LeftContainer>
       <TimeLineMapContainer>
         <Link href={locale === "es" ? "/timeline" : "/en/timeline"}>
-          <Anchor text={text} color={color}>
-            <ItemOption>
-              <TimeLine />
-              <Option>{config.timeline}</Option>
-            </ItemOption>
-          </Anchor>
+          <ItemOption text={text} color={color}>
+            <TimeLine />
+            <Option>{config.timeline}</Option>
+          </ItemOption>
         </Link>
         <Link href={locale === "es" ? "/map" : "/en/map"}>
-          <Anchor text={text} color={color}>
-            <ItemOption>
-              <Map />
-              <Option>{config.map}</Option>
-            </ItemOption>
-          </Anchor>
+          <ItemOption text={text} color={color}>
+            <Map />
+            <Option>{config.map}</Option>
+          </ItemOption>
         </Link>
       </TimeLineMapContainer>
     </ContainerFooter>

@@ -26,7 +26,14 @@ import Gallery from "../Gallery";
 import MAMBOImage from "../MAMBOImage";
 
 export default function ExhibitionSpecial({ exhibition, config }) {
-  const { color, content, withPrimary, description, title } = exhibition;
+  const {
+    color,
+    content,
+    mainAudio,
+    withPrimary,
+    description,
+    title,
+  } = exhibition;
   return (
     <>
       {withPrimary && (
@@ -41,25 +48,22 @@ export default function ExhibitionSpecial({ exhibition, config }) {
             />
           </ContainerImagePrincipal>
           <ContentHistory>
-            <TextContentHistory>
-              <AudioContainerHistory>
-                <Accessibility />
-              </AudioContainerHistory>
-              {description}
-            </TextContentHistory>
+            <TextContentHistory>{description}</TextContentHistory>
           </ContentHistory>
           <ContentSecond background={color}></ContentSecond>
           <FirstEmpty />
           <SecondEmpty />
         </GridHistory>
       )}
-      {content.map(({ title, description, gallery }, i) => (
+      {content.map(({ title, description, gallery, sectionAudio }, i) => (
         <ContainerDetail special invert={i % 2 !== 0}>
           <ContainerTitle>
             <Title color={color}>
-              <AudioContainer>
-                <Accessibility />
-              </AudioContainer>
+              {sectionAudio && (
+                <AudioContainer>
+                  <Accessibility />
+                </AudioContainer>
+              )}
               {title}
             </Title>
           </ContainerTitle>

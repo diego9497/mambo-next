@@ -22,7 +22,7 @@ export const ContainerList = styled.article`
     margin-left: auto;
     padding-left: 3px;
     background: ${({ color }) => color};
-    z-index: 999999;
+    z-index: 999;
     grid-column: 1/-1;
   }
 `;

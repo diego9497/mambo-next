@@ -1,7 +1,10 @@
 import styled, { css } from "styled-components";
 
-export const Container = styled.a`
+export const Container = styled.div`
   position: relative;
+  height: 100%;
+  width: 100%;
+  display: block;
   cursor: pointer;
   :active {
     filter: brightness(1.2);

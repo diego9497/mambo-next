@@ -2,6 +2,10 @@ import styled from "styled-components";
 
 export const Container = styled.section`
   height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+
+  @media screen and (max-width: 575px) {
+    height: initial;
+  }
 `;
 export const Top = styled.div`
   display: flex;
@@ -21,7 +25,6 @@ export const Top = styled.div`
   }
   & > div:nth-child(1) {
     padding: 20px;
-    /* color: ${({ color }) => color}; */
     line-height: 1;
     h1 {
       width: 60%;
@@ -44,7 +47,7 @@ export const Top = styled.div`
     }
   }
   @media screen and (max-width: 575px) {
-    height: 20vh;
+    min-height: 20vh;
   }
 `;
 
@@ -57,6 +60,7 @@ export const Bottom = styled.div`
     width: 33.3333333%;
     height: 100%;
     border-right: 1px solid var(--borderColor);
+    position: relative;
     @media screen and (max-width: 575px) {
       width: 100%;
       height: initial;
@@ -70,9 +74,9 @@ export const Bottom = styled.div`
   }
 `;
 
-export const SubtitleContainerAnchor = styled.a`
-  position: relative;
+export const SubtitleContainerAnchor = styled.div`
   cursor: pointer;
+  height: 100%;
 
   :active {
     filter: brightness(1.2);

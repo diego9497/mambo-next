@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "../Link";
 import Next from "../Icons/Next";
 import Image from "../Image";
 import { Container, Background, Content, Text } from "./styles";

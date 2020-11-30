@@ -13,19 +13,6 @@ export default function Image({
   onClick,
 }) {
   return (
-    // <ImageContainer fit={fit} position={position}>
-    //   <Img
-    //     onClick={onClick}
-    //     src={`/image/${src}`}
-    //     alt={alt}
-    //     quality={90}
-    //     width={width}
-    //     height={height}
-    //     layout="fixed"
-    //     // loading={loading}
-    //     loading="eager"
-    //   />
-    // </ImageContainer>
     <Picture fit={fit} position={position}>
       <img onClick={onClick} src={`/image/optimizado/${src}`} alt={alt} />
     </Picture>

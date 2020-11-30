@@ -4,18 +4,18 @@ import {
   MenuButtonContainer,
   MenuButton,
   Lang,
+  LogoContainer,
 } from "./styles";
 import MenuIcon from "../Icons/Menu";
 import Logo from "../Icons/Logo";
 import Close from "../Icons/Close";
 import Menu from "../Menu";
-import Link from "next/link";
+import Link from "../Link";
 
 import { useRouter } from "next/router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const Header = ({ config, locale = "es" }) => {
-  console.log(process.env.SPA);
   const router = useRouter();
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -23,16 +23,16 @@ const Header = ({ config, locale = "es" }) => {
     setMenuOpen(!menuOpen);
   };
 
-  const handleClose = () => {
+  useEffect(() => {
     setMenuOpen(false);
-  };
+  }, [router]);
 
   return (
     <Container>
       <Link href={locale === "es" ? "/" : "/en"}>
-        <div>
+        <LogoContainer>
           <Logo />
-        </div>
+        </LogoContainer>
       </Link>
       <div></div>
       <Options>
@@ -54,7 +54,7 @@ const Header = ({ config, locale = "es" }) => {
             href={
               router.asPath.includes("en")
                 ? router.asPath
-                : "/en" + router.asPath
+                : `/en${router.asPath === "/" ? "" : router.asPath}`
             }
             scroll={false}
           >
@@ -69,7 +69,7 @@ const Header = ({ config, locale = "es" }) => {
           </MenuButtonContainer>
         </div>
       </Options>
-      {menuOpen && <Menu close={handleClose} config={config} locale={locale} />}
+      {menuOpen && <Menu config={config} locale={locale} />}
     </Container>
   );
 };

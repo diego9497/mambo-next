@@ -147,6 +147,9 @@ export const SecondEmpty = styled.div`
 export const GalleryContainer = styled.section`
   border-bottom: 1px solid var(--borderColor);
   min-height: 340px;
+  @media screen and (max-width: 420px) {
+    min-height: 320px;
+  }
 `;
 export const GalleryImageContainer = styled.div`
   width: 33vw;
@@ -159,8 +162,10 @@ export const GalleryImageContainer = styled.div`
     min-width: calc(66vw - 20px);
   }
 
-  @media screen and (max-width: 420px) {
+  @media screen and (max-width: 575px) {
     min-width: calc(100vw - 20px);
+    margin: 0;
+    padding: 0;
   }
 `;
 

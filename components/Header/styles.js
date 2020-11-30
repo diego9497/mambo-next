@@ -33,6 +33,20 @@ export const Container = styled.header`
   }
 `;
 
+export const LogoContainer = styled.div`
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding-left: 15px;
+
+  @media screen and (max-width: 575px) {
+    svg {
+      height: 36px;
+      margin-top: -4px;
+    }
+  }
+`;
+
 export const Options = styled.div`
   display: grid;
   grid-template-columns: 4fr 1fr 4fr 2fr;
@@ -84,7 +98,7 @@ export const Options = styled.div`
   }
 `;
 
-export const Lang = styled.a`
+export const Lang = styled.p`
   padding-top: 8px;
   margin: 0 8px;
   color: black;
@@ -104,14 +118,6 @@ export const MenuButtonContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-
-  /* display: none;
-
-  @media screen and (max-width: 575px) {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  } */
 `;
 
 export const MenuButton = styled.button`

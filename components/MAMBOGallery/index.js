@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect } from "react";
+import { useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Close from "../Icons/Close";
 import {
@@ -31,7 +31,6 @@ export default function MAMBOGallery({
 }) {
   const [open, setOpen] = useState(false);
   const [current, setCurrent] = useState(index);
-  const img = useRef(null);
 
   const openModal = () => {
     setOpen(true);
@@ -81,13 +80,32 @@ export default function MAMBOGallery({
             <ImageSlider current={current}>
               {gallery.map((img) => (
                 <ImageContainer>
-                  <ModalImage src={`/image/${img.src}`}>
-                    <img src={`/image/${img.src}`} />
+                  <ModalImage
+                    src={
+                      process.env.SPA
+                        ? `/image/${img.src}`
+                        : `/image/optimizado/${img.src}`
+                    }
+                  >
+                    <img
+                      src={
+                        process.env.SPA
+                          ? `/image/${img.src}`
+                          : `/image/optimizado/${img.src}`
+                      }
+                    />
                     <Description>
                       <p dangerouslySetInnerHTML={{ __html: img.alt }}></p>
-                      <AudioContainer>
-                        <Accessibility />
-                      </AudioContainer>
+                      {img.caption && (
+                        <p
+                          dangerouslySetInnerHTML={{ __html: img.caption }}
+                        ></p>
+                      )}
+                      {img.audio && (
+                        <AudioContainer>
+                          <Accessibility />
+                        </AudioContainer>
+                      )}
                     </Description>
                   </ModalImage>
                 </ImageContainer>

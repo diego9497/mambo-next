@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "../Link";
 import {
   Top,
   Bottom,
@@ -18,7 +18,6 @@ const ExhibitionChoose = ({ exhibition, config }) => {
     text,
     history,
     forWhat,
-    author,
     color,
     id,
     img1,
@@ -58,7 +57,10 @@ const ExhibitionChoose = ({ exhibition, config }) => {
             </SubtitleContent>
           </SubtitleContainerAnchor>
         </Link>
-        <Link href={`${id}/detail?content2=true`}>
+        <Link
+          href={process.env.SPA ? `${id}/detail#content` : `${id}/detail`}
+          hash="#content"
+        >
           <SubtitleContainerAnchor>
             <SubtitleBgContainer>
               <Image
@@ -79,7 +81,10 @@ const ExhibitionChoose = ({ exhibition, config }) => {
             </SubtitleContent>
           </SubtitleContainerAnchor>
         </Link>
-        <Link href={`${id}/detail?content3=true`}>
+        <Link
+          href={process.env.SPA ? `${id}/detail#more` : `${id}/detail`}
+          hash="#more"
+        >
           <SubtitleContainerAnchor>
             <SubtitleBgContainer>
               <Image

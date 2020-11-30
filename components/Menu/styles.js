@@ -62,7 +62,7 @@ export const Options = styled.ul`
   flex-direction: column;
   padding-top: 35px;
 
-  li {
+  a {
     cursor: pointer;
     color: black;
     fill: black;
@@ -73,8 +73,8 @@ export const Options = styled.ul`
   }
 `;
 
-export const OptionContent = styled.a`
-  color: inherit;
+export const OptionContent = styled.span`
+  color: black;
   text-decoration: none;
   height: 100%;
   display: flex;

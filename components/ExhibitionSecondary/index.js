@@ -48,11 +48,14 @@ function ExhibitionSecondary({ exhibition, config }) {
     color,
     text,
     forWhat,
-    forWhatContent,
+    forWhatAudio,
     proposal,
     questions,
+    questionsAudio,
     didYouKnow,
+    didYouKnowAudio,
     activity,
+    activityAudio,
     keyConcepts,
     img2,
     didYouKnowImg,
@@ -80,9 +83,11 @@ function ExhibitionSecondary({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <RowEnd>
-                <AudioContainerAlt text={text}>
-                  <Accessibility />
-                </AudioContainerAlt>
+                {didYouKnowAudio && (
+                  <AudioContainerAlt text={text}>
+                    <Accessibility />
+                  </AudioContainerAlt>
+                )}
               </RowEnd>
               <BigFont>
                 {didYouKnowImg && (
@@ -112,9 +117,11 @@ function ExhibitionSecondary({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
               <RowEnd>
-                <AudioContainerAlt text={text}>
-                  <Accessibility />
-                </AudioContainerAlt>
+                {activityAudio && (
+                  <AudioContainerAlt text={text}>
+                    <Accessibility />
+                  </AudioContainerAlt>
+                )}
               </RowEnd>
               <BigFont>
                 <ImageOfMenuContainer>
@@ -141,9 +148,11 @@ function ExhibitionSecondary({ exhibition, config }) {
               <QuestionContainer>
                 <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
                 <div>
-                  <AudioContainerAlt text={text}>
-                    <Accessibility />
-                  </AudioContainerAlt>
+                  {questionsAudio && (
+                    <AudioContainerAlt text={text}>
+                      <Accessibility />
+                    </AudioContainerAlt>
+                  )}
                   {questions.map((question) => (
                     <p>{question}</p>
                   ))}
@@ -168,15 +177,14 @@ function ExhibitionSecondary({ exhibition, config }) {
               {keyConcepts.map((keyConcept, index) => (
                 <ConceptContainer key={index}>
                   <ConceptImageContainer>
-                    <MAMBOImage
-                      src={keyConcept.img.src}
-                      alt={keyConcept.img.alt}
-                    />
+                    <MAMBOImage {...keyConcept.img} />
                   </ConceptImageContainer>
                   <ConceptInfoContainer>
-                    <AudioContainerAlt text={text}>
-                      <Accessibility />
-                    </AudioContainerAlt>
+                    {keyConcept.audio && (
+                      <AudioContainerAlt text={text}>
+                        <Accessibility />
+                      </AudioContainerAlt>
+                    )}
                     <h3>{keyConcept.title}</h3>
                     <span>{keyConcept.content}</span>
                   </ConceptInfoContainer>
@@ -191,17 +199,21 @@ function ExhibitionSecondary({ exhibition, config }) {
   }
 
   return (
-    <ContainerDetail>
+    <ContainerDetail id="content">
       <ContainerTitle>
         <Title color={color}>
-          <AudioContainer>
-            <Accessibility />
-          </AudioContainer>
+          {forWhatAudio && (
+            <AudioContainer>
+              <Accessibility />
+            </AudioContainer>
+          )}
           {forWhat}
         </Title>
       </ContainerTitle>
       <ContainerContent>
-        <TextContent>{proposal}</TextContent>
+        <TextContent
+          dangerouslySetInnerHTML={{ __html: proposal }}
+        ></TextContent>
       </ContainerContent>
       <ContainerContentSecond></ContainerContentSecond>
       <ContainerMenu>
