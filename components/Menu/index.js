@@ -14,6 +14,8 @@ import Link from "../Link";
 const Menu = ({ config }) => {
   const router = useRouter();
 
+  const prefix = router.asPath.includes("/en") ? "/en" : "";
+
   return (
     <Background>
       <Container>
@@ -41,47 +43,47 @@ const Menu = ({ config }) => {
           </Link>
         </Language>
         <Options>
-          <Link href="/exhibition/1">
+          <Link href={`${prefix}/exhibition/1`}>
             <OptionContent color={config.mv1.color}>
               {config.mv1.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/special/2">
+          <Link href={`${prefix}/special/2`}>
             <OptionContent color={config.mv2.color}>
               {config.mv2.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/exhibition/3">
+          <Link href={`${prefix}/exhibition/3`}>
             <OptionContent color={config.mv3.color}>
               {config.mv3.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/exhibition/4">
+          <Link href={`${prefix}/exhibition/4`}>
             <OptionContent color={config.mv4.color}>
               {config.mv4.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/exhibition/5">
+          <Link href={`${prefix}/exhibition/5`}>
             <OptionContent color={config.mv5.color}>
               {config.mv5.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/exhibition/6">
+          <Link href={`${prefix}/exhibition/6`}>
             <OptionContent color={config.mv6.color}>
               {config.mv6.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/exhibition/7">
+          <Link href={`${prefix}/exhibition/7`}>
             <OptionContent color={config.mv7.color}>
               {config.mv7.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/exhibition/8">
+          <Link href={`${prefix}/exhibition/8`}>
             <OptionContent color={config.mv8.color}>
               {config.mv8.title} <Next size={22} />
             </OptionContent>
           </Link>
-          <Link href="/special/9">
+          <Link href={`${prefix}/special/9`}>
             <OptionContent color={config.mv9.color}>
               {config.mv9.title} <Next size={22} />
             </OptionContent>
