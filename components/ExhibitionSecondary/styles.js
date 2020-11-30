@@ -193,7 +193,6 @@ export const ConceptContainer = styled.div`
 export const ConceptImageContainer = styled.div`
   width: 50%;
   object-fit: contain;
-  filter: grayscale(1);
 
   @media screen and (max-width: 575px) {
     width: 100%;

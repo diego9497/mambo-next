@@ -38,14 +38,7 @@ const ExhibitionChoose = ({ exhibition, config }) => {
         <Link href={`${id}/detail`}>
           <SubtitleContainerAnchor>
             <SubtitleBgContainer>
-              <Image
-                src={img1.src}
-                fit="fixed"
-                loading="eager"
-                width={600}
-                height={400}
-                quality={90}
-              />
+              <Image src={img1.src} width={600} height={400} quality={90} />
             </SubtitleBgContainer>
             <SubtitleContent className="content">
               <SubtitleTextContainer color={color} text={text}>
@@ -63,13 +56,7 @@ const ExhibitionChoose = ({ exhibition, config }) => {
         >
           <SubtitleContainerAnchor>
             <SubtitleBgContainer>
-              <Image
-                src={img2.src}
-                fit="fixed"
-                loading="eager"
-                width={600}
-                height={400}
-              />
+              <Image src={img2.src} width={600} height={400} />
             </SubtitleBgContainer>
             <SubtitleContent className="content">
               <SubtitleTextContainer color={color} text={text}>
@@ -87,13 +74,7 @@ const ExhibitionChoose = ({ exhibition, config }) => {
         >
           <SubtitleContainerAnchor>
             <SubtitleBgContainer>
-              <Image
-                src={img3.src}
-                fit="fixed"
-                loading="eager"
-                width={600}
-                height={400}
-              />
+              <Image src={img3.src} width={600} height={400} />
             </SubtitleBgContainer>
             <SubtitleContent className="content">
               <SubtitleTextContainer color={color} text={text}>
