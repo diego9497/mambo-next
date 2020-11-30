@@ -71,7 +71,9 @@ export default function ExhibitionSpecial({ exhibition, config }) {
               </Title>
             </ContainerTitle>
             <ContainerContent>
-              <TextContent>{description}</TextContent>
+              <TextContent>
+                <p dangerouslySetInnerHTML={{ __html: description }}></p>
+              </TextContent>
             </ContainerContent>
             <GalleryContainer invert={i % 2 !== 0}>
               {video ? (

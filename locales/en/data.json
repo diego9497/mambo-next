@@ -12,61 +12,61 @@
     "forWhatContent": "Museums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
     "proposal": "Museums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
     "questions": [
-      "¿Por qué la creación del Museo de Arte Moderno fue importante para la modernización del país?",
-      " ¿Cómo crees que amplían la comprensión del mundo los museos?",
-      " ¿Qué es ser democrático, inclusivo y polifónico?",
-      " ¿Por qué los museos buscan salvaguardar memorias diversas para las generaciones futuras?",
-      " ¿Cómo puede un museo contribuir a la dignidad humana, la justicia social y el bienestar planetario? "
+      "Why was the creation of MAMBO important for the modernisation of Colombia? ",
+      "How do museums help us understand the world?",
+      "What does it mean to be democratic, inclusive and polyphonic?",
+      "Why do museums want to safeguard diverse memories for future generations?",
+      "How can a museum contribute to human dignity, social justice and planetary wellbeing?"
     ],
-    "didYouKnow": "En tu ciudad tienes el Museo de Arte Moderno de Bogotá - MAMBO, con una colección de más de 4.500 piezas de arte, las cuales hacen parte del patrimonio cultural de nuestro país.",
-    "activity": "Mambo Pop Up: Diseña y construye tu museo imaginario con papel y muéstralo a tu clase.",
+    "didYouKnow": "Did you know the collection of the Bogotá Museum of Modern Art MAMBO numbers over 4500 works of art, forming part of Colombia’s cultural heritage.",
+    "activity": "Design and make your own museum out of paper and show it to your class.",
     "keyConcepts": [
       {
-        "title": "Curaduría",
-        "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
+        "title": "Curatorship",
+        "content": "The practice of selecting and organising a series of artworks into an exhibition according to a predefined thematic framework.",
         "img": {
           "src": "mv1/c1.jpg",
           "alt": "1978. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
-        "title": "Museografía",
-        "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
+        "title": "Museography",
+        "content": "Discipline dealing with development of techniques and methods in the running of a museum, primarily the architectural and spatial features of temporary exhibitions and permanent collection. ",
         "img": {
           "src": "mv1/c2.jpg",
-          "alt": "1981. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. Fotografía de Oscar Monsalve."
+          "alt": "1981. Installing ‘Yellows and Reds’, by Pedro Ramos for VII Salón Atenas. Photo: Oscar Monsalve."
         }
       },
       {
-        "title": "patrimonio cultural",
-        "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
+        "title": "Cultural Heritage",
+        "content": "A set of tangible and intangible attributes making up the memory and identity of a human group, and which has a symbolic, historic and economic value.",
         "img": {
           "src": "mv1/c3.jpg",
-          "alt": "1983. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
+          "alt": "1983. Third floor of present building under construction. Photo: Oscar Monsalve."
         }
       },
       {
-        "title": "colección",
-        "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
+        "title": "Collection",
+        "content": "A set of material products of a culture forming part of an institution dedicated to the preservation of its heritage. In museums of anthropology these may be objects such as tools and clothing; in art museums, paintings and sculptures.",
         "img": {
           "src": "mv1/c4.jpg",
-          "alt": "1981. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. Fotografía de Oscar Monsalve."
+          "alt": "1981. Works by Mónica Negret and Pedro Ramos at VII Salón Atenas. Photo: Oscar Monsalve."
         }
       },
       {
-        "title": "democracia",
-        "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
+        "title": "Democracy",
+        "content": "A system of government by the entire population of a state, where decisions are taken collectively and which seeks the guaranteed participation of the majority.",
         "img": {
           "src": "mv1/c5.jpg",
-          "alt": "1982. Taller educativo con niños y Daniel Castro. Fotografía de Oscar Monsalve"
+          "alt": "1982. Children during an educational workshop, with Daniel Castro. Photo: Oscar Monsalve"
         }
       },
       {
-        "title": "educación en la museos",
-        "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
+        "title": "Museum Education",
+        "content": "Sector that promotes learning inside the museum, studies its community, and designs teaching activities and programmes aimed at members of the public.",
         "img": {
           "src": "mv1/c6.jpg",
-          "alt": "1982. Auditorio del Museo de Arte Moderno. Fotografía de Oscar Monsalve."
+          "alt": "982. Auditorium of Museum of Modern Art. Photo: Oscar Monsalve."
         }
       }
     ],
@@ -86,36 +86,36 @@
     "gallery": [
       {
         "src": "mv1/g1.jpg",
-        "alt": ""
+        "alt": "1965. Facade of Museum of Modern Art at National University. Photo: Efraín García.jpg"
       },
       {
         "src": "mv1/g2.jpg",
-        "alt": ""
+        "alt": "1979. Hoarding “Museum of Modern Art, 25 years on.” Photo: Oscar Monsalve."
       },
       {
         "src": "mv1/g3.jpg",
-        "alt": ""
+        "alt": "1982. Third floor of present building under construction. Photo: Oscar Monsalve."
       },
       {
         "src": "mv1/g4.jpg",
-        "alt": ""
+        "alt": "976. Santiago Cárdenas at the District Planetarium site. Photo: Oscar Monsalve."
       },
       {
         "src": "mv1/g5.jpg",
-        "alt": ""
+        "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano and John Stringer installing work at the District Planetarium. Photo: Oscar Monsalve."
       }
     ],
     "didYouKnowImg": {
       "src": "mv1/did_you_know.jpg",
-      "alt": ""
+      "alt": "nstagram: @mambogota\n Facebook: @fanmambogota\n Twitter: @_mambogota\n YouTube: Museo de Arte Moderno de Bogotá "
     },
     "questionImg": {
       "src": "mv1/question.jpg",
-      "alt": "1978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
+      "alt": "978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
     },
     "activityImg": {
       "src": "mv1/activity.jpg",
-      "alt": "<strong>Planos del Museo</strong>. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
+      "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
     },
     "knowMore": [
       {
@@ -157,77 +157,77 @@
     "id": 3,
     "color": "#EFB8BC",
     "text": "black",
-    "title": "Arte Moderno en el Mundo",
-    "history": "Cómo surgió el arte moderno",
-    "historyDescription": "El <span> Arte Moderno </span> fue un proceso de transformación en el cual pintores, escultores y escritores de ese periodo buscaron <span> nuevas formas de representación </span>. Se dio aproximadamente entre 1850 y 1970, como consecuencia de la <span> Revolución Industrial</span>, la Revolución Francesa y la caída de la monarquía. Los artistas se rebelaron frente a la inspiración renacentista del arte <span>académico</span>, fundamentada en la religión, la mitología griega, el retrato y el bodegón, para plasmar en sus obras sus intereses y cuestionamientos propios (Gallerix, 2009).\n\n La invención de la cámara y de la fotografía alrededor de la década de 1830 impulsó a los artistas a romper con la tradición de la <span>representación figurativa</span> para crear obras desde su <span>estética</span> personal. Las <span>vanguardias europeas</span> son ejemplo de las diferentes exploraciones formales y conceptuales de los artistas de este periodo quienes experimentaron con nuevos temas, materiales, técnicas y procesos, ampliando el concepto del arte, sus límites y funciones (Academia Play, 2016).",
+    "title": "Modern Art and the world.",
+    "history": "The emergence of Modern Art",
+    "historyDescription": "Modern Art was a process during which painters, sculptors and writers sought out novel forms of representation. The modern period in art is usually described as occurring between 1850 – 1970. The industrial revolutions of nineteenth century Europe and the violent upheavals inspired by the 1789 Revolution in France, all contributed to the modern movement. Artists rebelled against academic art with its Renaissance preoccupations; religion, Greek mythology, and the traditional genres of portrait and still life, preferring to explore individual interests and problems in their work (Gallerix, 2009).\n\n In the 1830s the invention of photography caused a break with the tradition of figurative representation and led artists to create work according to a personal aesthetic. The work of the European vanguards exemplifies formal and conceptual explorations made by artists of this period as they experimented with new subjects, materials, techniques and processes, pushing the boundaries of what was understood as “art”. (Academia Play, 2016). ",
     "author": "<span>Edouard Manet</span>",
-    "authorContent": "Fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que al parecer era una trabajadora sexual, desafiando los códigos morales y la tradición del desnudo femenino en el arte. ",
-    "forWhat": "¿Una revolución para qué?",
-    "forWhatContent": "<span>En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.</span>",
-    "didYouKnow": "La fotografía modificó radicalmente la materialidad de las obras de arte, la forma de producir imágenes y de relacionarnos con el mundo. ",
+    "authorContent": "Édouard Manet (Paris, France, 1832-1883). Forerunner of impressionism and modern painting. This painting caused controversy for its depiction of a nude woman who appears to be a sex worker, challenging contemporary morality and traditional portrayals of the nude in art. ",
+    "forWhat": "Why do revolutions happen?",
+    "forWhatContent": "The rebellious roots of modern art.",
+    "didYouKnow": "Did you know the advent of photography radically altered the way we see the world. It brought about great changes in the image-making process and the materiality of works of art. ",
     "questions": [
-      "¿Por qué fue importante para los artistas de la época cuestionar los ideales de belleza clásicos? ",
-      "¿Por qué rebelarse y cuestionarse es importante para la creación artística?",
-      "¿Por qué crees que deben existir espacios para la libre expresión?"
+      "Why was it important for the artists of the time to question classical ideals of beauty?",
+      "Why does a creative artist need to rebel and ask questions?",
+      "Why do we need areas where we can use our right to free expression?"
     ],
     "gallery": [],
     "keyConcepts": [
       {
-        "title": "arte académico",
-        "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
+        "title": "Academism",
+        "content": "Artistic current emerging from the Paris Academy of Fine Arts at the start of the nineteenth century and which looks back to art of the classical period. Also known as Neoclassicism; it is a romantic and idealist movement, linking art to ideas of beauty, perfection and technical skill.",
         "img": {
           "src": "mv3/c1.jpg",
-          "alt": "Ricardo Acevedo Bernal. Modelo en París, 1889. Fuente: Colección MAMBO."
+          "alt": "Ricardo Acevedo Bernal. Model in Paris, 1889. Source: MAMBO Collection."
         }
       },
       {
-        "title": "vanguardias",
-        "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
+        "title": "Vanguards",
+        "content": "Early twentieth century antiacademic and experimental art movements, emerging out of the First World War and its aftermath. Cubism, Dadaism and Futurism all influenced the birth of modern art.",
         "img": {
           "src": "mv3/c2.jpg",
-          "alt": "Salvador Dalí. La venus con cabeza de flechas. Sin fecha. Fuente: Colección MAMBO."
+          "alt": "Salvador Dalí. Venus of the Head of Roses. Undated. Source MAMBO Collection."
         }
       },
       {
-        "title": "arte abstracto",
-        "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
+        "title": "Abstract Art",
+        "content": "Refers to artworks that do not represent any part of their subjects in a precise way.",
         "img": {
           "src": "mv3/c3.jpg",
-          "alt": "Amelia Peláez. Sin título, 1967. Fuente: Colección MAMBO."
+          "alt": "Amelia Peláez. Untitled, 1967. Source: MAMBO Collection."
         }
       },
       {
-        "title": "arte figurativo",
-        "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
+        "title": "Figurative Art",
+        "content": "Refers to artworks that represent images, objects and scenes from life in a realistic and recognisable way.",
         "img": {
           "src": "mv3/c4.jpg",
-          "alt": "Liliana Porter. Rasgadura, 1974. Fuente: Colección MAMBO."
+          "alt": "Liliana Porter. Tear. 1974. Source: MAMBO Collection."
         }
       }
     ],
-    "proposal": "En esta sección se propone reflexionar sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.",
+    "proposal": "The rebellious roots of modern art.",
     "img1": {
       "src": "mv3/1.jpg",
-      "alt": "<span>Édouard Manet. Olimpia. 1863. Óleo sobre lienzo.</span> Fuente: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'>Fundación Wikimedia</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0.</a> ",
-      "caption": "Fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que al parecer era una trabajadora sexual, desafiando los códigos morales y la tradición del desnudo femenino en el arte. "
+      "alt": "Édouard Manet. Olympia. 1863. Oil on canvas. Source: Wikimedia Foundation under licence C.C. BY 2.0.",
+      "caption": "Édouard Manet (Paris, France, 1832-1883). Forerunner of impressionism and modern painting. This painting caused controversy for its depiction of a nude woman who appears to be a sex worker, challenging contemporary morality and traditional portrayals of the nude in art. "
     },
     "img2": {
       "src": "mv3/2.jpg",
-      "alt": "<span>Camille Claudel. La Edad Madura. 1899. Bronce.</span> Fuente: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'>Wikimedia Commons</a> bajo la <a href='https://es.wikipedia.org/wiki/Licencia_de_documentaci%C3%B3n_libre_de_GNU' target='blank'>licencia de documentación libre de GNU.</a> ",
-      "caption": "Camille Claudel (Fère-en-Tardenois, Francia, 1864-1943) fue una de las precursoras de la escultura moderna en oposición a la Academia Francesa. En esta obra cargada de simbolismo se evidencia su interés por temas diferentes a los que dictaba el canon clásico: la exaltación de la belleza y la perfección. "
+      "alt": "Camille Claudel. The Age of  Maturity. 1899. Bronze. Source: Wikimedia Commons under GNU free documentation licence.",
+      "caption": "Camille Claudel (Fère-en-Tardenois, France, 1864-1943). One of the pioneers of modern sculpture in her opposition to the French Academy. In this highly symbolic work, Claudel shows her interest in themes other than the canonical glorification of beauty and perfection. "
     },
     "img3": {
       "src": "mv3/3.jpg",
-      "alt": "<span>Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo.</span> Fuente: <a href='https://pablo-picasso.space/obras-de-picasso/las-senoritas-de-avignon-les-demoiselles-davignon/' target='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0</a> ",
-      "caption": "<a href='https://www.youtube.com/watch?v=oOOY6GbV9Ks' target='blank' >Pablo Picasso</a> (Málaga, España, 1881-1973) fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo."
+      "alt": "Pablo Picasso. Les Demoiselles d’Avignon. 1907. Oil on Canvas. Source: Wikimedia Commons under licence C.C. BY 2.0. Collection of New York Museum of Modern Art (Moma).",
+      "caption": "Pablo Picasso (Malaga, Spain, 1881-1973). Probably the most celebrated of all modern artists for his defiance of form and use of   distortion. The iconic work, Les Demosielles d’Avignon, was the first painting to feature physical distortion and geometric abstraction as a new procedure in painting, qualities which would later develop into Cubism. "
     },
     "didYouKnowImg": {
       "src": "mv3/did_you_know.jpg",
-      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
+      "alt": "Nicéphore Niépce. Untitled. 1826. Source: Wikimedia Commons in the public domain."
     },
     "questionImg": {
       "src": "mv3/question.jpg",
-      "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Fuente: <a href='https://es.wikipedia.org/wiki/David_(Miguel_%C3%81ngel)#/media/Archivo:'David'_by_Michelangelo_Fir_JBU004.jpg' target='blank' >Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/3.0/' target='blank'>CC BY 3.0</a>"
+      "alt": "Michelangelo. David. 1501-1504, Gallery of the Academy of Florence. Source: Wikimedia Commons under licence CC BY 3.0"
     },
     "knowMore": [
       {

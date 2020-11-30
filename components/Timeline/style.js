@@ -88,7 +88,7 @@ export const ContainerCards = styled.div`
   display: grid;
   max-width: 580px;
   margin: 0 auto;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 50% 50%;
   grid-template-rows: auto;
   background: black;
   column-gap: 2px;

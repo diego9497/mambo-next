@@ -35,7 +35,6 @@ export const Title = styled.p`
   font-weight: bold;
   text-transform: uppercase;
   color: ${({ text }) => (text ? text : "white")};
-  line-break: anywhere;
   hyphens: auto;
 `;
 export const Year = styled.p`

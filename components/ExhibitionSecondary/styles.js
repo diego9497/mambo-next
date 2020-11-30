@@ -74,6 +74,11 @@ export const TextContent = styled.p`
   white-space: pre-wrap;
   font-size: 1.1em;
   color: black;
+
+  small {
+    font-size: 1em;
+    font-style: italic;
+  }
 `;
 export const ContainerMenu = styled.div`
   grid-area: menu;
