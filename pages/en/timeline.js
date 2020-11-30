@@ -17,7 +17,7 @@ const Timeline = ({ config, timeline, locale }) => {
 
 export const getStaticProps = () => {
   return {
-    props: { config: enCommon, timeline: enTime, index: true, locale: "en" },
+    props: { config: enCommon, timeline: enTime, locale: "en" },
   };
 };
 

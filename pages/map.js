@@ -23,7 +23,7 @@ function Map({ config }) {
 
 export const getStaticProps = () => {
   return {
-    props: { config: esCommon, index: true },
+    props: { config: esCommon },
   };
 };
 

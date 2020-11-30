@@ -1,12 +1,4 @@
-import Video from "../Icons/Video";
-import Photo from "../Icons/Photo";
-import {
-  ContainerCard,
-  ContainerTitleYear,
-  Title,
-  Year,
-  ContainerImage,
-} from "./styles";
+import { ContainerCard, ContainerTitleYear, Title, Year } from "./styles";
 
 function CardTimeline(props) {
   return (
@@ -19,9 +11,6 @@ function CardTimeline(props) {
         <Title text={props.textColor}>{props.content}</Title>
         <Year text={props.textColor}>{props.year}</Year>
       </ContainerTitleYear>
-      {/* <ContainerImage text={props.textColor}>
-        {props.type === "image" ? <Photo /> : <Video />}
-      </ContainerImage> */}
     </ContainerCard>
   );
 }

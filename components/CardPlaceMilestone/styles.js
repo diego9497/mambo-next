@@ -52,7 +52,6 @@ export const HeaderInfo = styled.div`
     ${({ color, text }) => icons(color, text)};
     border: none;
     @media screen and (max-width: 768px) {
-      border: 2px solid white;
       border-radius: 50%;
     }
   }

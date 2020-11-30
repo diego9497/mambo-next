@@ -70,6 +70,7 @@ export default function MapPage({ config }) {
     setDetailInfo({
       ...location,
       color: config[`mv${location.id}`].color,
+      text: config[`mv${location.id}`].text,
       topic: config[`mv${location.id}`].title,
     });
     setCenter(location.location);
@@ -91,18 +92,13 @@ export default function MapPage({ config }) {
       setDetailInfo({
         ...location,
         color: config[`mv${location.id}`].color,
+        text: config[`mv${location.id}`].text,
         topic: config[`mv${location.id}`].title,
       });
       setCenter(location.location);
       setZoom(15);
     }
   }, [current]);
-  console.log(
-    locations.map((location) => ({
-      ...location,
-      color: config[`mv${location.id}`].color,
-    }))
-  );
   return (
     <Container>
       <ContainerList color={config.mv1.color} open={openList}>
@@ -143,6 +139,7 @@ export default function MapPage({ config }) {
           <CardPlaceMilestone
             color={detailInfo.color}
             content={detailInfo.description}
+            text={detailInfo.text}
             title={detailInfo.name}
             subtitle={detailInfo.topic}
             handleClose={handleClose}

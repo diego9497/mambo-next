@@ -43,6 +43,7 @@ export const ContainerHeaderTimeline = styled.div`
   padding: 0 20px;
   @media screen and (max-width: 768px) {
     display: flex;
+    margin-bottom: 15px;
   }
 `;
 export const TextHeaderTimeline = styled.div`
@@ -68,7 +69,6 @@ export const ContainerLists = css`
 `;
 export const TitleCard = styled.p`
   font-size: 1.1.em;
-  color: red;
 `;
 export const ContainerInfo = styled.div`
   width: 35%;
@@ -97,9 +97,11 @@ export const ContainerCards = styled.div`
 
 export const CardTimelineLeft = styled.div`
   padding-right: 14px;
+  padding-left: 10px;
   background: white;
 `;
 export const CardTimelineRight = styled.div`
   padding-left: 14px;
+  padding-right: 10px;
   background: white;
 `;

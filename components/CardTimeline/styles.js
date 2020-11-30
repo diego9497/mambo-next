@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const ContainerCard = styled.div`
   background: ${(props) => props.color};
@@ -20,13 +20,6 @@ export const ContainerCard = styled.div`
     right: ${(props) =>
       props.pointUbication === "right" ? "-20px" : "initial"};
     left: ${(props) => (props.pointUbication === "left" ? "-20px" : "initial")};
-
-    @media screen and (max-width: 375px) {
-      right: ${(props) =>
-        props.pointUbication === "right" ? "-16px" : "initial"};
-      left: ${(props) =>
-        props.pointUbication === "left" ? "-16px" : "initial"};
-    }
   }
   @media screen and (max-width: 500px) {
     font-size: 14px;
@@ -37,26 +30,17 @@ export const ContainerTitleYear = styled.div`
   /* width: calc(100% - 30px); */
 `;
 export const Title = styled.p`
-  font-size: 0.9em;
-  line-height: 17px;
+  font-size: 0.85em;
+  line-height: 1;
   font-weight: bold;
   text-transform: uppercase;
   color: ${({ text }) => (text ? text : "white")};
-  /* width: 150px; */
-  /* overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap; */
-
-  @media screen and (max-width: 500px) {
-    /* width: 83px; */
-  }
-  @media screen and (max-width: 320px) {
-    /* width: 70px; */
-  }
+  line-break: anywhere;
+  hyphens: auto;
 `;
 export const Year = styled.p`
   line-height: 17px;
-  font-size: 0.9em;
+  font-size: 0.85em;
   color: ${({ text }) => (text ? text : "white")};
 `;
 export const ContainerImage = styled.div`
