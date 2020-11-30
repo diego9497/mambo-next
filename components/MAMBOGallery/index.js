@@ -40,19 +40,23 @@ export default function MAMBOGallery({
   };
 
   const nextImage = () => {
-    if (current === gallery.length - 1) {
-      setCurrent(0);
-    } else {
-      setCurrent(current + 1);
-    }
+    setCurrent((state) => {
+      if (state === gallery.length - 1) {
+        return 0;
+      } else {
+        return state + 1;
+      }
+    });
   };
 
   const previousImage = () => {
-    if (current === 0) {
-      setCurrent(gallery.length - 1);
-    } else {
-      setCurrent(current - 1);
-    }
+    setCurrent((state) => {
+      if (state === 0) {
+        return gallery.length - 1;
+      } else {
+        return state - 1;
+      }
+    });
   };
 
   const handleCloseFromBackground = (e) => {
@@ -76,7 +80,12 @@ export default function MAMBOGallery({
         <Tooltip>{gallery[index].alt}</Tooltip>
       </ImageToolTipContainer>
       {open && (
-        <ClientPortal selector="#modal" close={closeModal}>
+        <ClientPortal
+          selector="#modal"
+          close={closeModal}
+          goLeft={previousImage}
+          goRight={nextImage}
+        >
           <Container>
             <LeftButton onClick={previousImage}>
               <Previous />
