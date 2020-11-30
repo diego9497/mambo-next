@@ -4,1268 +4,856 @@
     "color": "#3D57D5",
     "text": "white",
     "title": "MAMBO Pop Up",
-    "history": "History of the MAMBO Museum",
-    "historyDescription": [
-      "In 1953, Rojas Pinilla led a coup d'état with which he established a Military Junta as a government during the following years, which were characterized by the restriction of freedoms and rights. However, during the military regime important events were carried out works for the modernization process of Colombia, among them, the foundation of the Museum of Modern Art. ",
-      "With an act signed by intellectuals, artists and ministers, the creation of the Museum was decreed in 1955. Before the construction of the current building, the Museum lasted several years without a fixed headquarters, moving through different areas of the city such as the National University and the District Planetarium, among others. The critic and manager Marta Traba promoted the opening of the Museum to the public from 1962 until his expulsion from the country in 1967, for questioning",
-      "The military intervention in the University where the museum had its headquarters. In 1969, Gloria Zea took over the direction of the Museum when it left the university campus, Zea managed several headquarters until finally a lot was acquired in 1974 where the current headquarters was built of the Museum between 1979 and 1985 (Zea, 1994, p.50 - p.78). The Museum building is located in the center of the city and is adjacent to the Bicentennial Park, the ",
-      "Parque de la Independencia and the District Planetarium. It was designed by the architect Rogelio Salmona as a sample of the geometric criteria of abstract art and modern architecture in Bogotá (Moreno and Medina, 1994. p.88 - p.92). MAMBO, for 57 years, has worked to investigate, preserve and promote the manifestations of modern and contemporary art. In 2016, the artist Claudia Hakim assumed the direction of the Museum with a new team that proposes a Museum with all citizens and with various proposals for curatorship, museography and education. "
-    ],
-    "author": "Oscar Monsalve",
-    "authorContent": "He was the official photographer of the Museum for several years, consolidating an important visual memory of modern and contemporary art in Colombia. In this series of photographs, you can see the construction of the current museum headquarters and the assembly of some representative exhibitions. ",
-    "forWhat": "A museum for what?",
-    "forWhatContent": "Museums are democratizing, inclusive and polyphonic spaces for critical dialogue about the past and the future. Recognizing and addressing the conflicts and challenges of the present, they safeguard artifacts and specimens for society, safeguard diverse memories for future generations , and guarantee equal rights and equal access to heritage for all peoples. Museums are non-profit making. \n They are participatory and transparent, and work in active collaboration with and for various communities in order to collect, preserve , investigate, interpret, expose, and expand understanding of the world, with the purpose of contributing to human dignity and social justice, global equality and planetary well-being. (Icom, 2019) ",
-    "proposal": "This section proposes to reflect on the value of museums, taking into account the new global definition that is still under discussion and the history of the Museum of Modern Art (MAMBO)",
+    "history": "The story of the Bogota Museum of Modern Art MAMBO",
+    "historyDescription": "In 1953, General Gustavo Rojas Pinilla mounted a military coup, establishing a dictatorship that restricted the rights and freedoms of the citizens of Colombia. Nevertheless, during this period important steps were taken in the modernisation of the country. One of these was a decree leading to the creation of the Museum of Modern Art, signed in 1955 by a group comprising intellectuals, artists and government ministers. \n\n The Museum existed for several years without a permanent site. During this time, it occupied various venues, including the National University and the District Planetarium. The critic and administrator Marta Traba was a driving force behind opening the Museum to the public from 1962, until 1967, when she was expelled from the country for her objection to military intervention at the National University, where the Museum was then based. Gloria Zea took over as director when the Museum left the university campus, managing various sites until the acquisition in 1974, of the plot on which the present building now stands. Construction began in 1979 and was completed in 1985 (Zea, 1994, pp.50-78).n\n Today, MAMBO is situated in the centre of the city, neighbouring both the Parque Bicentenario and the Parque de la Independencia and within easy walking distance of the District Planetarium. It is housed in a building designed by Colombian architect Rogelio Salmona, based on the principles of abstract art, and modern architecture in Bogotá (Moreno y Medina,1994, pp.88-92).n\n MAMBO has worked for 57 years in the research, preservation and promotion of modern and contemporary art. The artist Claudia Hakim took over as director in 2016, heading a new team with aims to work with the general public on a variety of projects involving curatorship, museography, and education. ",
+    "author": "<span> Oscar Monsalve </span>",
+    "authorContent": "Oscar Monsalve, the museum’s first official photographer, built an important visual record of modern and contemporary art in Colombia. This series of photos documents the construction of the present MAMBO building and the installation of several key exhibitions.",
+    "forWhat": "Why museums exist?",
+    "forWhatContent": "Museums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
+    "proposal": "Museums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
     "questions": [
-      "Why was the creation of the Museum of Modern Art important for the modernization of the country?",
-      "How do you think museums expand understanding of the world?",
-      "What is it to be democratic, inclusive and polyphonic?",
-      "Why do museums seek to safeguard diverse memories for future generations?",
-      "How can a museum contribute to human dignity, social justice and planetary well-being?"
+      "¿Por qué la creación del Museo de Arte Moderno fue importante para la modernización del país?",
+      " ¿Cómo crees que amplían la comprensión del mundo los museos?",
+      " ¿Qué es ser democrático, inclusivo y polifónico?",
+      " ¿Por qué los museos buscan salvaguardar memorias diversas para las generaciones futuras?",
+      " ¿Cómo puede un museo contribuir a la dignidad humana, la justicia social y el bienestar planetario? "
     ],
-    "gallery": [
-      {
-        "src": "mv1/g1.jpg",
-        "alt": "1965. Facade of the Museum of Modern Art, National University of Colombia headquarters. Photograph by Efraín García.jpg"
-      },
-      {
-        "src": "mv1/g2.jpg",
-        "alt": "1979. Fence 'Museum of Modern Art 25 years later'. Photograph by Oscar Monsalve."
-      },
-      {
-        "src": "mv1/g3.jpg",
-        "alt": "1982. Construction of the third floor of the current headquarters. Photograph by Oscar Monsalve."
-      },
-      {
-        "src": "mv1/g4.jpg",
-        "alt": "1976. Santiago Cárdenas, headquarters of the District Planetarium. Photograph of Oscar Monsalve."
-      },
-      {
-        "src": "mv1/g5.jpg",
-        "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano and John Stringer during assembly at the District Planetarium headquarters. Photograph by Oscar Monsalve."
-      },
-      {
-        "src": "mv1/did_you_know.jpg",
-        "alt": "Instagram: @mambogota \nFacebook: @fanmambogota \nTwitter: @_mambogota \nYouTube: Museum of Modern Art of Bogotá"
-      },
-      {
-        "src": "mv1/question.jpg",
-        "alt": "1978. Construction of the current headquarters of the Museum. Photograph of Oscar Monsalve"
-      },
-      {
-        "src": "mv1/activity.jpg",
-        "alt": "Museum plans. Designs by Rogelio Salmona. Source: Moreno and Medina (1994. pp.88-92)."
-      }
-    ],
-    "didYouKnow": "In your city you have the Museum of Modern Art of Bogotá - MAMBO, with a collection of more than 4,500 pieces of art, which are part of the cultural heritage of our country.",
-    "activity": "Mambo Pop Up: Design and build your imaginary museum with paper and show it to your class.",
+    "didYouKnow": "En tu ciudad tienes el Museo de Arte Moderno de Bogotá - MAMBO, con una colección de más de 4.500 piezas de arte, las cuales hacen parte del patrimonio cultural de nuestro país.",
+    "activity": "Mambo Pop Up: Diseña y construye tu museo imaginario con papel y muéstralo a tu clase.",
     "keyConcepts": [
       {
-        "title": "Curatorship",
-        "content": "It is the exercise of selecting and organizing a series of works of art for the realization of an exhibition under a thematic framework defined by a curator.",
+        "title": "Curaduría",
+        "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
         "img": {
           "src": "mv1/c1.jpg",
-          "alt": "1978. Eduardo Serrano next to the sculpture 'Toro de lidia' by Maria Cristina Franco. Assembly of the IV Salón Atenas. Photograph by Oscar Monsalve."
+          "alt": "1978. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
-        "title": "Museography",
-        "content": "Discipline that deals with developing methods and techniques for the operation of a museum, mainly the architectural and spatial aspects of the exhibitions and the collection.",
+        "title": "Museografía",
+        "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
         "img": {
           "src": "mv1/c2.jpg",
-          "alt": "1981. Editing of 'Yellows and Reds' by Pedro Ramoss at the VII Salón Atenas. Photograph by Oscar Monsalve."
+          "alt": "1981. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
-        "title": "cultural heritage",
-        "content": "It is a set of tangible and intangible goods that constitute the memory and identity of a human group and have a symbolic, historical and economic value.",
+        "title": "patrimonio cultural",
+        "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
         "img": {
           "src": "mv1/c3.jpg",
-          "alt": "1983. Construction of the third floor of the current headquarters. Photograph by Oscar Monsalve."
+          "alt": "1983. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
         }
       },
       {
-        "title": "collection",
-        "content": "It is the set of material products of culture that are part of an institution dedicated to preserving heritage. They can be various objects such as tools and clothing in the case of anthropology museums or paintings and sculptures in the case of art museums. ",
+        "title": "colección",
+        "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
         "img": {
           "src": "mv1/c4.jpg",
-          "alt": "1981. Works by Mónica Negret and Pedro Ramos in the VII Salón Atenas. Photograph by Oscar Monsalve."
+          "alt": "1981. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. Fotografía de Oscar Monsalve."
         }
       },
       {
-        "title": "democracy",
-        "content": "It is a system of social organization where power is attributed to citizens from collective decision-making, which guarantee a majority participation of society.",
+        "title": "democracia",
+        "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
         "img": {
           "src": "mv1/c5.jpg",
-          "alt": "1982. Educational workshop with children and Daniel Castro. Photograph of Oscar Monsalve"
+          "alt": "1982. Taller educativo con niños y Daniel Castro. Fotografía de Oscar Monsalve"
         }
       },
       {
-        "title": "education in museums",
-        "content": "It is the field that promotes learning in the museum, studies audiences, designs activities and pedagogical programs aimed at various audiences.",
+        "title": "educación en la museos",
+        "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
         "img": {
           "src": "mv1/c6.jpg",
-          "alt": "1982. Auditorium of the Museum of Modern Art. Photograph by Oscar Monsalve."
+          "alt": "1982. Auditorio del Museo de Arte Moderno. Fotografía de Oscar Monsalve."
         }
       }
     ],
-    "next": {
-      "id": 2,
-      "title": "MAMBO Traveler Exhibition"
-    },
     "img1": {
       "src": "mv1/1.jpg",
-      "alt": "1979. Fence of the inauguration of the First Stage of MAMBO in the current headquarters. Photograph by Oscar Monsalve."
+      "alt": "1979. Hoarding marking launch of first phase of building work at present site. Photo: Oscar Monsalve.",
+      "caption": "Oscar Monsalve, the museum’s first official photographer, built an important visual record of modern and contemporary art in Colombia. This series of photos documents the construction of the present MAMBO building and the installation of several key exhibitions."
     },
     "img2": {
       "src": "mv1/2.jpg",
-      "alt": "1979. School visit to the Museum of Modern Art. Photograph by Oscar Monsalve."
+      "alt": "1979. School visit to MAMBO. Photo: Oscar Monsalve."
     },
     "img3": {
       "src": "mv1/3.jpg",
-      "alt": "1977. Selection of works by Colombian artists in the MAMBO collection, District Planetarium headquarters. Photography by Oscar Monsalve."
+      "alt": "977. Selection of works in MAMBO collection on show at the District Planetarium. Photo: Oscar Monsalve."
     },
+    "gallery": [
+      {
+        "src": "mv1/g1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "mv1/g2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "mv1/g3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "mv1/g4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "mv1/g5.jpg",
+        "alt": ""
+      }
+    ],
     "didYouKnowImg": {
       "src": "mv1/did_you_know.jpg",
-      "alt": "Instagram: @mambogota\nFacebook: @fanmambogota \nTwitter: @_mambogota \nYouTube: Museum of Modern Art of Bogotá"
+      "alt": ""
     },
     "questionImg": {
       "src": "mv1/question.jpg",
-      "alt": "1978. Construction of the current headquarters of the Museum. Photograph of Oscar Monsalve"
+      "alt": "1978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
     },
     "activityImg": {
       "src": "mv1/activity.jpg",
-      "alt": "Museum plans. Designs by Rogelio Salmona. Source: Moreno and Medina (1994. pp.88-92)."
+      "alt": "<strong>Planos del Museo</strong>. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). "
     },
     "knowMore": [
       {
         "title": "¿Cómo se hace una curaduría? \nCarolina Ponce de León y Santiago Rueda",
-        "link": "https://www.youtube.com/watch?v=DfxT_lg-DUA",
-        "img": {
-          "src": "mv1/m1.jpg",
-          "alt": "¿Cómo se hace una curaduría? \nCarolina Ponce de León y Santiago Rueda"
-        }
+        "link": "https://www.youtube.com/watch?v=DfxT_lg-DUA"
       },
       {
         "title": "Museos y educación.\nEVE Museos. 2018.",
-        "link": "https://evemuseografia.com/2014/05/14/museos-y-educacion/",
-        "img": {
-          "src": "mv1/m2.jpg",
-          "alt": "Museos y educación.\nEVE Museos. 2018."
-        }
+        "link": "https://evemuseografia.com/2014/05/14/museos-y-educacion/"
       },
       {
         "title": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar.",
-        "link": "https://www.archdaily.co/co/910192/guia-de-arquitectura-moderna-de-bogota",
-        "img": {
-          "src": "mv1/m3.jpg",
-          "alt": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar."
-        }
+        "link": "https://www.archdaily.co/co/910192/guia-de-arquitectura-moderna-de-bogota"
       }
     ],
     "references": [
-      "BIBLIOGRAPHY",
-      "\nICOM, 2019. Museum definition. (Online) Available at: https://icom.museum/es/resources/standards-and-guidelines/definition-of-the-museum/ (Consulted: June 18, 2020). ",
-      "\nZea, G., 1994. Museum of Modern Art of Bogotá: A singular experience, El Arte en Colombia. 21. pp. 50 - 78.",
-      "\nMoreno, B. and Medina, A., 1994. The Museum of Modern Art of Rogelio \nSalmona, El Arte en Colombia. 21. pp. 78 - 82.",
-      "\nLinks",
-      "\nEl Espectador., (2019). Who was Gustavo Rojas Pinilla? | History \nin emojis | El Espectador [Online video]. https://www.youtube.com/\nwatch?v=A29EShsn2c4 [Consulted on 13 June 2020]. ",
-      "\nHernández, Esteban., (2006). Marta Traba [Online video]. Available \nen: https://martatrabaenlinea.wordpress.com/about/ [Accessed June 20, 2020].",
-      "\nBritish Council Colombia., (2019) Rogelio Salmona Fellowship: Dominic Dudley. (Online Video) Available at: https://www.youtube.com/\nwatch?v=7V26eSBcIS8&t=102s (Accessed June 8, 2020 ) ",
-      "\nArchDaily., (2018) Parque Bicentenario: Mazzanti's Team helps \na sew an urban wound in Bogotá. (Online Video). Available at: \nhttps://www.youtube.com/watch?time_continue=113&v=tTotX94RiLw&feature=emb_title (Accessed June 13, 2020) ",
-      "\nPlanetario de Bogotá., 2019. Official website. (Online) Available at: \nhttps://docs.google.com/document/d/18YWHoGVQKGwDNF8_wu6HKDSu4IMbp8v8r-cG30LCvRI/edit (Consulted on June 28, \n2020)",
-      "\nSin Autor., No Year. Modern Architecture Guide of Bogotá. (Map \nOnline) Available at: https://www.google.com/maps/d/u/0/viewer?mid=1R8wySqRMA7WyXsCOPWXdP9KBGWM2PBcO&hl=en_US&ll=4.601162983643145%2C-74.09097256599122&z=13 (Consulted on June 12, 2020) ",
-      "\n \nCanal Trece Colombia., 2017. Claudia Hakim tells us about the Museum of Modern Art in Bogotá MAMBO. (Online video) Available en: https://www.youtube.com/watch?time_continue=14&v=HR30F7Dgy_o&feature=emb_title (Consulted on June 15, 2020) ",
-      "\nArtbo co., 2014. How to do a curation - Carolina Ponce de \nLeón and Santiago Rueda. (Online video) Available at: https://www.youtube.com/watch? v = DfxT_lg-DUA (Consulted on June 21, \n2020) ",
-      "\nEspacio Visual Europa (EVE)., 2015. What is Museography. (Online) \nAvailable at: https://evemuseografia.com/2015/07/22/que-es-museografia/ (Consulted on June 26, 2020) ",
-      "\n \nEspacio Visual Europa (EVE)., 2014. Museums and Education. (Online) Available at: https://evemuseografia.com/2014/05/14/museos-y-educacion/ (Consulted on June 26 2020) ",
-      "\nW Radio., 2020.“ Photographing art demands the utmost respect for the artist ”: \nOscar Monsalve. (Audio online) Available at: https://www.wradio.com.co/noticias/actualidad/fotografiar-art-demands-the-maximum-respect-to-artist-oscar-monsalve/20200624/nota/4049652.aspx (Accessed June 24, 2020) ",
-      "\nArchDaily (nd). Obras Rogelio Salmona. (Photographs online) Available at: https://www.archdaily.co/search/co/projects/country/colombia/offices/rogelio-salmona (Consulted on June 15 2020) ",
-      "\nMinisterio de Cultura de Colombia., 2015. Architectural heritage. \n (Online) Available at: https://www.mincultura.gov.co/areas/patrimonio/patrimonio-cultural-inmueble/patrimonio-arquitectonico/Paginas/ \ndefault.aspx (Consulted on June 15, 2020) ",
-      "\nMuseo de Arte Moderno de Bogotá., 2019. Official Website. (Online) Available at: https://www.mambogota.com/ (Consulted on June 7)."
+      "BIBLIOGRAFÍA",
+      "\nICOM, 2019. Definición del Museo. (Online) Disponible en: https://icom.\nmuseum/es/recursos/normas-y-directrices/definicion-del-museo/\n(Consultado: 18 de Junio del 2020).",
+      "\nZea, G.,1994. Museo de Arte Moderno de Bogotá: Una experiencia singular, El Arte en Colombia. 21. pp. 50 - 78.",
+      "\nMoreno, B. y Medina, A., 1994. El Museo de Arte Moderno de Rogelio\nSalmona, El Arte en Colombia. 21. pp. 78 - 82.",
+      "\nEnlaces",
+      "\nEl Espectador., (2019). ¿Quién fue Gustavo Rojas Pinilla? | Historia\nen emojis | El Espectador [Vídeo online]. https://www.youtube.com/\nwatch?v=A29EShsn2c4 [Consultado el 13 de junio 2020].",
+      "\nHernández, Esteban., (2006). Marta Traba [Video online]. Disponible\nen: https://martatrabaenlinea.wordpress.com/about/ [Consultado el 20\nJunio de 2020].",
+      "\nBritish Council Colombia., (2019) Rogelio Salmona Fellowship: Dominic Dudley. (Video Online) Disponible en: https://www.youtube.com/\nwatch?v=7V26eSBcIS8&t=102s (Consultado el 8 de Junio de 2020)",
+      "\nArchDaily., (2018) Parque Bicentenario: El Equipo de Mazzanti ayuda\na coser una herida urbana en Bogotá. (Video Online). Disponible en:\nhttps://www.youtube.com/watch?time_continue=113&v=tTotX94RiLw&feature=emb_title (Consultado 13 de Junio del 2020)",
+      "\nPlanetario de Bogotá., 2019. Sitio web oficial. (Online) Disponible en:\nhttps://docs.google.com/document/d/18YWHoGVQKGwDNF8_wu6HKDSu4IMbp8v8r-cG30LCvRI/edit (Consultado el 28 de Junio del\n2020)",
+      "\nSin Autor., Sin Año. Guía de arquitectura moderna de Bogotá. (Mapa\nOnline) Disponible en: https://www.google.com/maps/d/u/0/viewer?mid=1R8wySqRMA7WyXsCOPWXdP9KBGWM2PBcO&hl=en_\nUS&ll=4.601162983643145%2C-74.09097256599122&z=13 (Consultado el 12 de Junio del 2020)",
+      "\n\nCanal Trece Colombia., 2017. Claudia Hakim nos cuenta sobre el Museo de Arte Moderno de Bogotá MAMBO. (Video online) Disponible\nen: https://www.youtube.com/watch?time_continue=14&v=HR30F7Dgy_o&feature=emb_title (Consultado el 15 de Junio del 2020)",
+      "\nArtbo co., 2014. Cómo se hace una curaduría - Carolina Ponce de\nLeón y Santiago Rueda. (Video Online) Disponible en: https://www.\nyoutube.com/watch?v=DfxT_lg-DUA (Consultado el 21 de Junio del\n2020)",
+      "\nEspacio Visual Europa (EVE)., 2015. Qué es Museografía. (Online)\nDisponible en: https://evemuseografia.com/2015/07/22/que-es-museografia/ (Consultado el 26 de Junio del 2020)",
+      "\n\nEspacio Visual Europa (EVE)., 2014. Museos y Educación.(Online) Disponible en: https://evemuseografia.com/2014/05/14/museos-y-educacion/ (Consultado el 26 de Junio del 2020)",
+      "\nW Radio., 2020. “Fotografiar arte exige el máximo respeto al artista”:\nOscar Monsalve. (Audio en línea) Disponible en: https://www.wradio.\ncom.co/noticias/actualidad/fotografiar-arte-exige-el-maximo-respeto-al-artista-oscar-monsalve/20200624/nota/4049652.aspx (Consultado el 24 de Junio del 2020)",
+      "\nArchDaily (nd). Obras Rogelio Salmona. (Fotografías en linea) Disponible en: https://www.archdaily.co/search/co/projects/country/colombia/offices/rogelio-salmona (Consultado el 15 de Junio del 2020)",
+      "\nMinisterio de Cultura de Colombia., 2015. Patrimonio arquitectónico.\n(Online) Disponible en: https://www.mincultura.gov.co/areas/patrimonio/patrimonio-cultural-inmueble/patrimonio-arquitectonico/Paginas/\ndefault.aspx (Consultado el 15 de Junio del 2020)",
+      "\nMuseo de Arte Moderno de Bogotá., 2019. Sitio Web Oficial. (Online)\nDisponible en: https://www.mambogota.com/ (Consultado el 7 de junio)."
     ]
   },
   {
     "id": 3,
     "color": "#EFB8BC",
     "text": "black",
-    "title": "Modern Art in the World",
-    "history": "How modern art came about",
-    "historyDescription": [
-      "Modern art was a process of transformation in which painters, sculptors and writers of that period sought new forms of representation. It occurred approximately between 1850 and 1970, as a consequence of the Industrial Revolution, the French Revolution and the fall of the monarchy The artists rebelled against the Renaissance inspiration of academic art, ",
-      "based on religion, Greek mythology, portraiture and still life, to capture their own interests and questions in their works. (Gallerix, 2009) The invention of the camera and photography around the 1830s prompted the artists to break with the tradition of figurative representation to create works from their personal aesthetics. ",
-      "The European avant-gardes are an example of the different formal and conceptual explorations of the artists of this periodor those who experimented with new themes, materials, techniques and processes, expanding the concept of art, its limits and functions. (Play Academy, 2016) "
-    ],
-    "author": "Edouard Manet",
-    "authorContent": "He was one of the forerunners of impressionism and modern painting. This work called Olympia, an ironic reference to Greek history, generated controversy for presenting a nude woman who apparently was a sex worker, defying the codes morals and the tradition of the female nude in art. ",
-    "forWhat": "A revolution for what?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the Industrial Revolution, the French Revolution and the origin of Modern Art that rebels against historical tradition.",
-    "didYouKnow": "Photography radically modified the materiality of works of art, the way of producing images and of relating to the world.",
+    "title": "Arte Moderno en el Mundo",
+    "history": "Cómo surgió el arte moderno",
+    "historyDescription": "El <span> Arte Moderno </span> fue un proceso de transformación en el cual pintores, escultores y escritores de ese periodo buscaron <span> nuevas formas de representación </span>. Se dio aproximadamente entre 1850 y 1970, como consecuencia de la <span> Revolución Industrial</span>, la Revolución Francesa y la caída de la monarquía. Los artistas se rebelaron frente a la inspiración renacentista del arte <span>académico</span>, fundamentada en la religión, la mitología griega, el retrato y el bodegón, para plasmar en sus obras sus intereses y cuestionamientos propios (Gallerix, 2009).\n\n La invención de la cámara y de la fotografía alrededor de la década de 1830 impulsó a los artistas a romper con la tradición de la <span>representación figurativa</span> para crear obras desde su <span>estética</span> personal. Las <span>vanguardias europeas</span> son ejemplo de las diferentes exploraciones formales y conceptuales de los artistas de este periodo quienes experimentaron con nuevos temas, materiales, técnicas y procesos, ampliando el concepto del arte, sus límites y funciones (Academia Play, 2016).",
+    "author": "<span>Edouard Manet</span>",
+    "authorContent": "Fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que al parecer era una trabajadora sexual, desafiando los códigos morales y la tradición del desnudo femenino en el arte. ",
+    "forWhat": "¿Una revolución para qué?",
+    "forWhatContent": "<span>En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.</span>",
+    "didYouKnow": "La fotografía modificó radicalmente la materialidad de las obras de arte, la forma de producir imágenes y de relacionarnos con el mundo. ",
     "questions": [
-      "Why was it important for artists of the time to question classical beauty ideals?",
-      "Why is rebelling and questioning important for artistic creation?",
-      "Why do you think there should be spaces for free expression?"
+      "¿Por qué fue importante para los artistas de la época cuestionar los ideales de belleza clásicos? ",
+      "¿Por qué rebelarse y cuestionarse es importante para la creación artística?",
+      "¿Por qué crees que deben existir espacios para la libre expresión?"
     ],
-    "gallery": [
-      {
-        "src": "mv3/c1.jpg",
-        "alt": "Ricardo Acevedo Bernal. Model in Paris, 1889. Source: MAMBO Collection."
-      },
-      {
-        "src": "mv3/c2.jpg",
-        "alt": "Salvador Dalí. The Venus with the head of arrows. No date. Source: MAMBO Collection."
-      },
-      {
-        "src": "mv3/c3.jpg",
-        "alt": "Amelia Peláez. Untitled, 1967. Source: MAMBO Collection."
-      },
-      {
-        "src": "mv3/c4.jpg",
-        "alt": "Liliana Porter. Rasgadura, 1974. Source: MAMBO Collection."
-      },
-      {
-        "src": "mv3/1.jpg",
-        "alt": "Édouard Manet. Olympia. 1863. Oil on canvas. Source: Wikimedia Foundation under the license C.C. BY 2.0."
-      },
-      {
-        "src": "mv3/2.jpg",
-        "alt": "Camille Claudel. The Old Age. 1899. Bronze. Source: Wikimedia Commons under the GNU Free Documentation License."
-      },
-      {
-        "src": "mv3/3.jpg",
-        "alt": "Pablo Picasso. The young ladies of Avignon. 1907. Oil on canvas. Source: Wikimedia Commons under the license C.C. BY 2.0"
-      },
-      {
-        "src": "mv3/did_you_know.jpg",
-        "alt": "Nicéphore Niépce, untitled. 1826. Source: Wikimedia Commons under public domain."
-      },
-      {
-        "src": "mv3/question.jpg",
-        "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Source: Wikimedia Commons under the CC BY 3.0 license"
-      }
-    ],
+    "gallery": [],
     "keyConcepts": [
       {
-        "title": "academic art",
-        "content": "Artistic current that arises in the School of Fine Arts in Paris at the beginning of the 14th century that takes up the interests of classical art, it is also known as Neoclassicism: a romantic and idealistic current, in which art was associated to beauty, perfection and mastery of technique. ",
+        "title": "arte académico",
+        "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
         "img": {
           "src": "mv3/c1.jpg",
-          "alt": "Ricardo Acevedo Bernal. Model in Paris, 1889. Source: MAMBO Collection."
+          "alt": "Ricardo Acevedo Bernal. Modelo en París, 1889. Fuente: Colección MAMBO."
         }
       },
       {
-        "title": "vanguards",
-        "content": "Anti-academic and experimental artistic movements of the early twentieth century that emerged in the context of war and postwar Europe. Avant-gardes such as Cubism, Dadaism and Futurism, were decisive for the consolidation of modern art.",
+        "title": "vanguardias",
+        "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
         "img": {
           "src": "mv3/c2.jpg",
-          "alt": "Salvador Dalí. The Venus with the head of arrows. No date. Source: MAMBO Collection."
+          "alt": "Salvador Dalí. La venus con cabeza de flechas. Sin fecha. Fuente: Colección MAMBO."
         }
       },
       {
-        "title": "abstract art",
-        "content": "Term to refer to works that do not represent any object or scene exactly.",
+        "title": "arte abstracto",
+        "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
         "img": {
           "src": "mv3/c3.jpg",
-          "alt": "Amelia Peláez. Untitled, 1967. Source: MAMBO Collection."
+          "alt": "Amelia Peláez. Sin título, 1967. Fuente: Colección MAMBO."
         }
       },
       {
-        "title": "figurative art",
-        "content": "Term to refer to works that represent images, objects and scenes of life in a realistic and recognizable way.",
+        "title": "arte figurativo",
+        "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
         "img": {
           "src": "mv3/c4.jpg",
-          "alt": "Liliana Porter. Tear, 1974. Source: MAMBO Collection."
+          "alt": "Liliana Porter. Rasgadura, 1974. Fuente: Colección MAMBO."
         }
       }
     ],
-    "proposal": "This section proposes to reflect on the relationship between the Industrial Revolution, the French Revolution and the origin of Modern Art that rebels against historical tradition.",
-    "previous": {
-      "id": 2,
-      "title": "MAMBO Traveler Exhibition"
-    },
-    "next": {
-      "id": 4,
-      "title": "Modern Art in Colombia"
-    },
+    "proposal": "En esta sección se propone reflexionar sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.",
     "img1": {
       "src": "mv3/1.jpg",
-      "alt": "Édouard Manet. Olympia. 1863. Oil on canvas. Source: Wikimedia Foundation under the license C.C. BY 2.0."
+      "alt": "<span>Édouard Manet. Olimpia. 1863. Óleo sobre lienzo.</span> Fuente: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'>Fundación Wikimedia</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0.</a> ",
+      "caption": "Fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que al parecer era una trabajadora sexual, desafiando los códigos morales y la tradición del desnudo femenino en el arte. "
     },
     "img2": {
       "src": "mv3/2.jpg",
-      "alt": "Camille Claudel. The Old Age. 1899. Bronze. Source: Wikimedia Commons under the GNU Free Documentation License."
+      "alt": "<span>Camille Claudel. La Edad Madura. 1899. Bronce.</span> Fuente: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'>Wikimedia Commons</a> bajo la <a href='https://es.wikipedia.org/wiki/Licencia_de_documentaci%C3%B3n_libre_de_GNU' target='blank'>licencia de documentación libre de GNU.</a> ",
+      "caption": "Camille Claudel (Fère-en-Tardenois, Francia, 1864-1943) fue una de las precursoras de la escultura moderna en oposición a la Academia Francesa. En esta obra cargada de simbolismo se evidencia su interés por temas diferentes a los que dictaba el canon clásico: la exaltación de la belleza y la perfección. "
     },
     "img3": {
       "src": "mv3/3.jpg",
-      "alt": "Pablo Picasso. The young ladies of Avignon. 1907. Oil on canvas. Source: Wikimedia Commons under the license C.C. BY 2.0"
+      "alt": "<span>Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo.</span> Fuente: <a href='https://pablo-picasso.space/obras-de-picasso/las-senoritas-de-avignon-les-demoiselles-davignon/' target='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0</a> ",
+      "caption": "<a href='https://www.youtube.com/watch?v=oOOY6GbV9Ks' target='blank' >Pablo Picasso</a> (Málaga, España, 1881-1973) fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo."
     },
     "didYouKnowImg": {
       "src": "mv3/did_you_know.jpg",
-      "alt": "Nicéphore Niépce, untitled. 1826. Source: Wikimedia Commons under public domain."
+      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
     },
     "questionImg": {
       "src": "mv3/question.jpg",
-      "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Source: Wikimedia Commons under the CC BY 3.0 license"
+      "alt": "Miguel Ángel, David. Galleria dell'Accademia, 1501-1504. Fuente: <a href='https://es.wikipedia.org/wiki/David_(Miguel_%C3%81ngel)#/media/Archivo:'David'_by_Michelangelo_Fir_JBU004.jpg' target='blank' >Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/3.0/' target='blank'>CC BY 3.0</a>"
     },
     "knowMore": [
       {
         "title": "Arte Académico.",
-        "link": "https://www.hisour.com/es/academic-art-3023/",
-        "img": {
-          "src": "mv3/m1.jpg",
-          "alt": "Arte Académico."
-        }
+        "link": "https://www.hisour.com/es/academic-art-3023/"
       },
       {
         "title": "Vanguardias Europeas.",
-        "link": "https://www.youtube.com/watch?v=vQxNi2MNHhY&ab_channel=AyaAltamirano",
-        "img": {
-          "src": "mv3/m2.jpg",
-          "alt": "Vanguardias Europeas."
-        }
+        "link": "https://www.youtube.com/watch?v=vQxNi2MNHhY&ab_channel=AyaAltamirano"
       },
       {
         "title": "Revolución Francesa.",
-        "link": "https://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa",
-        "img": {
-          "src": "mv3/m3.jpg",
-          "alt": "Revolución Francesa."
-        }
+        "link": "https://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa"
       }
     ],
     "references": [
-      "BIBLIOGRAPHY",
-      "\nGallerix, 2009. Modern art: stories, characteristics, movements. \n (Online) Available at: https://es.gallerix.ru/pedia/modern-art/ (Consulted: June 11, 2020).",
-      "\nAcademia Play, 2016. The 20th century in 20 artistic movements. (Online) \nAvailable at: https://academiaplay.es/siglo-xx-2-movimientos-artisticos/ (Consulted: June 11, 2020). ",
-      "\nLINKS",
-      "\nCapital del Arte., 2018. Modern Art. (Online) Available at: https: // \nwww.capitaldelarte.com/el-arte-moderno/ (accessed June 16, 2020)",
-      "\nLasso, Sara., 2019. Characteristics of modern art. (Online) Available at: https://www.aboutespanol.com/caracteristicas-del-arte-moderno-180218 (Consulted on June 16, 2020)",
-      "\nFinanzas para todos., 1970. The Industrial Revolution (1760-1840). (Online) Available at: http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html (Consulted on June 16, 2020) ",
-      "\nHistoria Universal., n.d. The French Revolution. (Online) Available at: \nhttps://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa/ (Consulted on June 16, 2020)",
-      "\nCapital del Arte., 2018. Academic art, main characteristics. \n (Online) Available at: https://www.capitaldelarte.com/arte-academico-principales-caracteristicas/ (Consulted on June 16, 2020) ",
-      "\nAguilar, Armando., 2016. What is figurative and non-figurative image? [Online video] Available at: https://www.youtube.com/\nwatch?v=Oke3xat764A (Consulted on June 16, 2020) ",
-      "\nImaginario, Andrea., 2019. Meaning of aesthetics. (Online) Available \nat: https://www.significados.com/estetica/. (Consulted June 16, 2020)",
-      "\nAltamirano, Ayarith., 2015. European vanguards. (Online) Available \nen: https://www.dw.com/es/la-musa-de-rodin-ya-tiene-su-propio-museo/a -38131077 (Consulted on June 16, 2020) ",
-      "\nTodo cuadros., s.f. Édouard Manet. (Online) Available at: https://www.todocuadros.com.co/pintores-famosos/manet/ (Consulted on 16 June 2020)",
-      "\nCalvo, Miguel., 2016. Olympia de Manet. (Online) Available at https://historia-arte.com/obras/olympia-de-manet (Consulted on June 16 del 2020)",
-      "\nCords, Suzanne., 2017. Rodin's muse already has its own museum. \n (Online) Available at: https://www.dw.com/es/la-musa-de-rodin-yatiene-su -propio-museo / a-38131077 (Consulted on June 16, 2020) ",
-      "\nMusée Rodin., sf Mature age or destiny, or the path of life or \nfatality. (Online) Available at: http://www.musee-rodin.fr/es/collections/esculturas/la-mature-age-or-destiny-or-the-way-of-life-or-doom (Consulted on June 16, 2020) ",
-      "\nRoyal Academy of Arts., 2020. Picasso and Paper: virtual exhibition tour. (Online) Available at: https://www.youtube.com/\nwatch?v=oOOY6GbV9Ks (Accessed June 16, 2020)",
-      "\nIborio, Esteban., 2017. The ladies of Avignon: the most famous brothel in the history of art. (Online) Available at: https://historia-arte.com/works/las-senoritas-de-avignon (Consulted on June 16, 2020) "
+      "BIBLIOGRAFÍA",
+      "\nGallerix, 2009. Arte moderno: historias, características, movimientos.\n(Online) Disponible en: https://es.gallerix.ru/pedia/modern-art/ (Consultado: 11 de Junio del 2020).",
+      "\nAcademia Play, 2016. El siglo XX en 20 movimientos artísticos.(Online)\nDisponible en: https://academiaplay.es/siglo-xx-2-movimientos-artisticos/ (Consultado: 11 de Junio del 2020).",
+      "\nENLACES",
+      "\nCapital del Arte., 2018. El Arte Moderno.(Online) Disponible en: https://\nwww.capitaldelarte.com/el-arte-moderno/ (consultado el 16 de Junio\ndel 2020)",
+      "\nLasso, Sara., 2019. Características del arte moderno. (Online) Disponible en: https://www.aboutespanol.com/caracteristicas-del-arte-moderno-180218 (Consultado el 16 de Junio del 2020)",
+      "\nFinanzas para todos., 1970. La Revolución Industrial (1760-1840). (Online) Disponible en: http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html (Consultado el\n16 de Junio del 2020)",
+      "\nHistoria Universal., n.d. La Revolución Francesa. (Online) Disponible en:\nhttps://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa/ (Consultado el 16 de Junio del 2020)",
+      "\nCapital del Arte., 2018. Arte académico, principales características.\n(Online) Disponible en: https://www.capitaldelarte.com/arte-academico-principales-caracteristicas/ (Consultado el 16 de Junio del 2020)",
+      "\nAguilar, Armando., 2016. ¿Qué es la imagen figurativa y no figurativa? [Video en línea] Disponible en: https://www.youtube.com/\nwatch?v=Oke3xat764A (Consultado el 16 de Junio del 2020)",
+      "\nImaginario, Andrea., 2019. Significado de estética. (Online) Disponible\nen: https://www.significados.com/estetica/. (Consultado 16 de Junio del\n2020)",
+      "\nAltamirano, Ayarith., 2015. Vanguardias europeas. (Online) Disponible\nen: https://www.dw.com/es/la-musa-de-rodin-ya-tiene-su-propio-museo/a-38131077 (Consultado el 16 de Junio del 2020)",
+      "\nTodo cuadros., s.f. Édouard Manet. (Online) Disponible en: https://www.\ntodocuadros.com.co/pintores-famosos/manet/ (Consultado el 16 de\nJunio del 2020)",
+      "\nCalvo, Miguel., 2016. Olympia de Manet. (Online) Disponible en https://\nhistoria-arte.com/obras/olympia-de-manet (Consultado el 16 de Junio\ndel 2020)",
+      "\nCords, Suzanne., 2017. La musa de Rodin ya tiene su propio museo.\n(Online) Disponible en: https://www.dw.com/es/la-musa-de-rodin-yatiene-su-propio-museo/a-38131077 (Consultado el 16 de Junio del\n2020)",
+      "\nMusée Rodin., s.f. La edad madura o el destino, o el camino de la vida o\nla fatalidad.(Online) Disponible en: http://www.musee-rodin.fr/es/colecciones/esculturas/la-edad-madura-o-el-destino-o-el-camino-de-lavida-o-la-fatalidad (Consultado el 16 de Junio del 2020)",
+      "\nRoyal Academy of Arts., 2020. Picasso and Paper: virtual exhibition tour. (Online) Disponible en: https://www.youtube.com/\nwatch?v=oOOY6GbV9Ks (Consultado el 16 de Junio del 2020)",
+      "\nIborio, Esteban., 2017. Las señoritas de Avignon: el puticlub más famoso de la historia del arte. (Online) Disponible en: https://historia-arte.\ncom/obras/las-senoritas-de-avignon (Consultado el 16 de Junio del\n2020)"
     ]
   },
   {
     "id": 4,
     "color": "#F7D44A",
     "text": "black",
-    "title": "Modern Art in Colombia",
-    "history": "How modern art came about",
-    "historyDescription": [
-      "At the beginning of the 20th century the first examples of modern painting are seen in Colombia, the artists sought new forms of painting and sculpture, appropriating the heritage of Dadaism and Cubism to detach themselves from the aesthetics of the beautiful.",
-      "Colombia was also the scene of the global debate between capitalism vs. communism and the impulse to transform its context led artists to question established morality and propose works of art with transgressive political content.",
-      "The desire to unlinkColombian art history of the European tradition, motivated the artists of the “Bachué” group to investigate symbols and images of local indigenous and peasant expressions. ",
-      "01 From the 50s influenced by political events such as El Bogotazo, the artists assumed strong political positions, expressed in the confrontation between those who defended socialist realism and the defense of",
-      "an own identity, against those who supported abstract expressionism. This contrast between abstraction and figurative art was decisive for the artists of the sixties and the origin of contemporary art. (Jaramillo, 2012. p. 129 - p. 206) "
-    ],
-    "author": "Alejandro Obregón",
-    "authorContent": "From the age of 6 he lived in the country, he was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that debated between figuration and abstraction (figurative expressionism), highlighting the expressive brushstrokes and the stain of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality. ",
-    "forWhat": "Politics and art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the political context and art, and the need to build nationalist discourses in the face of foreign influences.",
-    "didYouKnow": "The period known as La Violencia, characterized by clashes between the liberal and conservative parties, prompted artists to demonstrate in the face of the social and political situation.",
-    "activity": "Research your family tree, identify the origins and traits of your family, and draw a face or design a logo to represent them. Explain why.",
+    "title": "Arte Moderno en Colombia",
+    "history": "Cómo surgió el arte moderno",
+    "historyDescription": "A principios del siglo XX se ven los <span>primeros ejemplos</span> de pintura <span>moderna</span> en Colombia. Apropiándose de la herencia del <span>dadaísmo</span> y el <span>cubismo</span>, los artistas buscaron <span>nuevas formas de pintura</span> y <span>escultura</span> para desligarse de la estética de lo bello. Colombia también fue escenario del debate mundial entre el <span>capitalismo vs. comunismo</span> y el impulso por transformar su contexto llevó a los artistas a cuestionar la moral establecida y proponer obras de arte con contenido político transgresor. El deseo por desvincular la historia del arte colombiano de la tradición europea motivó a los artistas del grupo <span>“Bachué”</span> a investigar símbolos e imágenes de las expresiones indígenas y campesinas locales. \n\n A partir de la década de 1950, e influenciados por acontecimientos políticos como <span>El Bogotazo</span>, los artistas asumieron fuertes posturas políticas, expresadas en el enfrentamiento entre quienes defendieron el <span>realismo socialista</span> y la defensa de una identidad propia y quienes apoyaron el <span>expresionismo abstracto</span>. Esta contraposición entre la abstracción y el arte figurativo fue determinante para los artistas de la década de los sesenta y el origen del arte contemporáneo (Jaramillo, 2012, pp. 129-206). ",
+    "author": "Beatriz Daza",
+    "authorContent": "(Pamplona, Colombia, 1927-1968) fue una ceramista y pintora pionera en los ensamblajes y la experimentación del lienzo como soporte de diferentes objetos. Esta obra es una de sus representaciones de espacios domésticos a partir de bodegones fragmentados. ",
+    "forWhat": "¿Política y arte?",
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionalistas frente a las influencias extranjeras.",
+    "didYouKnow": "La época conocida como La Violencia, caracterizada por los enfrentamientos entre los partidos liberal y conservador, impulsó a los artistas a manifestarse ante la situación social y política. ",
+    "activity": "Investiga tu árbol genealógico, identifica los orígenes y rasgos de tu familia, y dibuja un rostro o diseña un logo que los represente. Explica por qué. ",
     "questions": [
-      "What were the ideological differences between socialist realism and abstract expressionism?",
-      "How would you define national identity?",
-      "What traditional and modern values ​​do you identify in your family?",
-      "If morals, beliefs and values ​​are not the same for everyone, how can consensus be reached and violence avoided?"
+      "¿Cuáles eran las diferencias ideológicas entre el realismo socialista y el expresionismo abstracto?",
+      "¿Cómo definirías la identidad nacional?",
+      "¿Qué valores tradicionales y modernos identificas en tu familia?",
+      "¿Si la moral, las creencias y los valores no son los mismos para todos y todas, cómo se puede llegar a un consenso y evitar la violencia? "
     ],
-    "gallery": [
-      {
-        "src": "mv4/c1.jpg",
-        "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: Wikimedia Commons bajo la licencia GNU. "
-      },
-      {
-        "src": "mv4/c2.jpg",
-        "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv4/c3.jpg",
-        "alt": "Autor desconocido. Monumento a los combatiantes de la revolución de Octubre. en Almaty, Kasakhstan. Fuente: Wikimedia Commons bajo dominio público."
-      },
-      {
-        "src": "mv4/c4.jpg",
-        "alt": "Jackson Pollock. Head. 1938-1941. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
-      },
-      {
-        "src": "mv4/c5.jpg",
-        "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Fuente: Wikimedia Commons bajo dominio público. "
-      },
-      {
-        "src": "mv4/c6.jpg",
-        "alt": "Autor desconocido. Retrato de Adam Smith. 1800. Fuente: Wikimedia Commons bajo dominio público. "
-      },
-      {
-        "src": "mv4/1.jpg",
-        "alt": "Beatriz Daza. Dos días amarillos. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv4/2.jpg",
-        "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv4/3.jpg",
-        "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv4/did_you_know.jpg",
-        "alt": "Sady González. Cadáveres en el cementerio, 9 de abril, Bogotá. 1948. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv4/question.jpg",
-        "alt": "León Ruiz. Sin título. 1981. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv4/activity.jpg",
-        "alt": "Gertjan Bartelsman. Floralba. 1976. Fuente: Colección MAMBO. "
-      }
-    ],
-    "proposal": "This section proposes to reflect on the relationship between the political context and art, and the need to build national discourses in the face of foreign influences.",
+    "gallery": [],
+    "proposal": "En esta sección se propone reflexionar sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionales frente a las influencias extranjeras.",
     "keyConcepts": [
       {
-        "title": "cold war",
-        "content": "Military, political and cultural confrontation that took place between 1945 and 1989 between the western bloc, represented by the United States in defense of capitalism against the Soviet Union (U.R.R.S) in defense of communism.",
+        "title": "guerra fría",
+        "content": "Enfrentamiento militar, político y cultural que se desarrolló entre los años 1945 y 1989 entre el bloque occidental, representado por Estados Unidos en defensa del capitalismo contra la Unión Soviética (U.R.R.S) en defensa del comunismo. ",
         "img": {
           "src": "mv4/c1.jpg",
-          "alt": "Unknown author. Photograph of the Berlin Wall. 1989. Source: Wikimedia Commons under the GNU license."
+          "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: <a href='https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg' targe='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2' target='blank'>GNU.</a> "
         }
       },
       {
         "title": "el bogotazo",
-        "content": "Popular revolts that took place in Bogotá after the assassination of Jorge Eliécer Gaitán on April 9, 1948, which originated the period known as La Violencia in which the liberal and conservative parties clashed.",
+        "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
         "img": {
           "src": "mv4/c2.jpg",
-          "alt": "Sady González. Tram on fire. 1948. Source: MAMBO Collection."
+          "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
         }
       },
       {
-        "title": "socialist realism",
-        "content": "Artistic current that emerged in the 1920s in the Soviet Union, motivated by the representation of reality for ideological purposes and often with content of denunciation. It was influential in the creation of Latin American movements that defended social realism as an instrument against imperialism. ",
+        "title": "realismo socialista",
+        "content": "Corriente artística que surge en los años 20 en la Unión Soviética, motivada por la representación de la realidad con fines ideológicos y muchas veces con contenido de denuncia. Fue influyente en la creación de movimientos latinoamericanos que defendieron el realismo social como un instrumento contra el imperialismo. ",
         "img": {
           "src": "mv4/c3.jpg",
-          "alt": "Unknown author. Monument to the fighters of the October revolution. in Almaty, Kasakhstan. Source: Wikimedia Commons under public domain."
+          "alt": "Autor desconocido. Monumento a los combatiantes de la revolución de Octubre. en Almaty, Kasakhstan. Fuente: <a href='https://commons.wikimedia.org/wiki/File:ALAOctober.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público."
         }
       },
       {
-        "title": "North American expressionism",
-        "content": "It is considered the first current of abstract art in the United States, characterized by pictorial works on large-format canvases where paint was thrown spontaneously, creating free and expressive images. This current was opposed to socialist realism and was used as a tool for expanding the ideas expressed by the capitalist bloc in the Cold War. ",
+        "title": "expresionismo norteamericano",
+        "content": "Se considera la primera corriente de arte abstracto en Estados Unidos, caracterizada por obras pictóricas en lienzos de gran formato en donde arrojaban la pintura espontáneamente, creando imágenes libres y expresivas. Esta corriente se opuso al realismo socialista y se usó como una herramienta de expansión de las ideas expresadas por el bloque capitalista en la Guerra Fría.",
         "img": {
           "src": "mv4/c4.jpg",
-          "alt": "Jackson Pollock. Head. 1938-1941. Source: Wikimedia Commons under the CC BY 2.0 license."
+          "alt": "Jackson Pollock. Head. 1938-1941. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Head_(1938-1941)_-_Jackson_Pollock_(1912-1956).jpg' target='blank'> Wikimedia Commons bajo la licencia </a>  <a href='https://creativecommons.org/licenses/by/2.0/deed.en' target='blank'>CC BY 2.0.</a>"
         }
       },
       {
-        "title": "communism",
-        "content": "Economic system proposed by Karl Marx in which there is no private property and the profit produced by the workers is distributed equitably, all means of production being administered by the State.",
+        "title": "comunismo",
+        "content": "Sistema económico propuesto por Karl Marx en el cual no existe la propiedad privada y la ganancia producida por los trabajadores se distribuye equitativamente, siendo todos los medios de producción administrados por el Estado. ",
         "img": {
           "src": "mv4/c5.jpg",
-          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Source: Wikimedia Commons under public domain."
+          "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Fuente:<a href='https://commons.wikimedia.org/wiki/File:Karl_Marx_001.jpg' target='blank'> Wikimedia Commons</a> bajo dominio público. "
         }
       },
       {
-        "title": "capitalism",
-        "content": "Economic system proposed by Adam Smith where the capital produced by the means of production from the labor force is a private person or company; this being the engine of the market economy and what differentiate socioeconomic classes. ",
+        "title": "capitalismo",
+        "content": "Sistema económico propuesto por Adam Smith en donde el capital producido por los medios de producción a partir de la fuerza de trabajo obrera es de una persona o empresa privada; siendo éste, el motor de la economía de mercados y lo que diferencia las clases socioeconómicas.",
         "img": {
           "src": "mv4/c6.jpg",
-          "alt": "Author unknown. Portrait of Adam Smith. 1800. Source: Wikimedia Commons under public domain."
+          "alt": "Autor desconocido. Retrato de Adam Smith. 1800. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Adam_Smith_The_Muir_portrait.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
         }
       }
     ],
-    "previous": {
-      "id": 3,
-      "title": "Modern Art in Colombia"
-    },
-    "next": {
-      "id": 5,
-      "title": "Conceptual Art in the World"
-    },
     "img1": {
       "src": "mv4/1.jpg",
-      "alt": "Beatriz Daza. Two yellow days. 1966. Porcelain, glass, ceramic, plaster and metal on wood. Source: MAMBO Collection"
+      "alt": "Beatriz Daza. Dos días amarillos. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera. Fuente: Colección MAMBO",
+      "caption": "<a href='https://www.museolatertulia.com/beatriz-daza/' target='blank'>Beatriz Daza</a> (Pamplona, Colombia, 1927-1968) fue una ceramista y pintora pionera en los <a href='https://www.lifeder.com/ensamblaje-artistico/' target='blank'>ensamblajes</a> y la experimentación del lienzo como soporte de diferentes objetos. Esta obra es una de sus representaciones de espacios domésticos a partir de bodegones fragmentados."
     },
     "img2": {
       "src": "mv4/2.jpg",
-      "alt": "Alejandro Obregón. Violence. 1962. Obregón. Hernán Díaz. Source: MAMBO Collection"
+      "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO",
+      "caption": "<a href='https://www.youtube.com/watch?v=P5MEvSnlxhM' target='blank'>Alejandro Obregón</a> (Barcelona, España, 1920-1992) vivió en el país desde los 6 años, hizo parte del Grupo de Barranquilla y fue un referente de la pintura moderna y contemporánea en Colombia. Creó imágenes que se debatían entre la figuración y la abstracción (expresionismo figurativo), que resaltaban las pinceladas expresivas y la mancha de color. Esta emblemática obra es un reflejo de su interés por denunciar la crudeza de la realidad nacional. "
     },
     "img3": {
       "src": "mv4/3.jpg",
-      "alt": "Edgar Negret. Face of Christ. 1949. Steel and Wood. Source: MAMBO Collection"
+      "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO",
+      "caption": "<a href='https://www.latinamericanart.com/es/artista/edgar-negret/' target='blank'>Edgar Negret</a> (Popayán, Colombia, 1920-2012) fue uno de los escultores más influyentes de las artes plásticas en Colombia. Cuestionó las nociones de lo industrial y lo natural al incorporar en su escultura materiales representativos de la modernidad como el hierro, el aluminio y la madera. En esta obra, se aprecia una representación abstracta de una figura de la cultura religiosa colombiana. "
     },
     "didYouKnowImg": {
       "src": "mv4/did_you_know.jpg",
-      "alt": "Sady González. Corpses in the cemetery, April 9, Bogotá. 1948. Source: MAMBO Collection."
+      "alt": "Sady González. Cadáveres en el cementerio, 9 de abril, Bogotá. 1948. Fuente: Colección MAMBO. "
     },
     "questionImg": {
       "src": "mv4/question.jpg",
-      "alt": "León Ruiz. Untitled. 1981. Source: MAMBO Collection."
+      "alt": "León Ruiz. Sin título. 1981. Fuente: Colección MAMBO. "
     },
     "activityImg": {
       "src": "mv4/activity.jpg",
-      "alt": "Gertjan Bartelsman. Floralba. 1976. Source: MAMBO Collection."
+      "alt": "Gertjan Bartelsman. Floralba. 1976. Fuente: Colección MAMBO. "
     },
     "knowMore": [
       {
         "title": "Padilla, C. (2013). El Bogotazo y los artistas colombianos.",
-        "link": "https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/",
-        "img": {
-          "src": "mv4/m1.jpg",
-          "alt": "Padilla, C. (2013). El Bogotazo y los artistas colombianos."
-        }
+        "link": "https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/"
       },
       {
         "title": "Señal Memoria. (9 de abril de 2020). Recorrido por las vías de Bogotá",
-        "link": "https://www.youtube.com/watch?time_continue=155&amp;v=pKUahH5uT5M&amp;feature=emb_logo",
-        "img": {
-          "src": "mv4/m2.jpg",
-          "alt": "Señal Memoria. (9 de abril de 2020). Recorrido por las vías de Bogotá"
-        }
+        "link": "https://www.youtube.com/watch?time_continue=155&amp;v=pKUahH5uT5M&amp;feature=emb_logo"
       },
       {
         "title": "Esguerra, C. (2017, 5 de junio). Andrés de Santa María, un pintor Moderno. El Espectador.",
-        "link": "https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-pintor-moderno/",
-        "img": {
-          "src": "mv4/m3.jpg",
-          "alt": "Esguerra, C. (2017, 5 de junio). Andrés de Santa María, un pintor Moderno. El Espectador."
-        }
+        "link": "https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-pintor-moderno/"
       },
       {
         "title": "Rubiano, G. (2016). Pintores colombianos de 1905 a 1933.",
-        "link": "http://www.revistacredencial.com/credencial/historia/temas/pintores-colombianos-de-1905-1933",
-        "img": {
-          "src": "mv4/m4.jpg",
-          "alt": "Rubiano, G. (2016). Pintores colombianos de 1905 a 1933."
-        }
+        "link": "http://www.revistacredencial.com/credencial/historia/temas/pintores-colombianos-de-1905-1933"
       }
     ],
     "references": [
-      "BIBLIOGRAPHY",
-      "\nJaramillo, C., 2012. Fissures of Modern Art in Colombia. Bogotá: \nFundación Gilberto Alzate Avendaño.",
-      "\nLINKS",
-      "\nEsguerra, Cristina., 2017. Andrés de Santa María, a modern painter. \n (Online) Available at: https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-modern-painter / (Consulted on \nJune 17, 2020) ",
-      "\nMedina, Álvaro., 1997. Colombia, on the threshold of modernity. (Online) Available at: https://www.eltiempo.com/archivo/documento/MAM-674453 (Accessed June 17, 2020 ) ",
-      "\nRubiano, Germán., 2016. Colombian painters from 1905 to 1933. (Online) Available at: http://www.revistacredencial.com/credencial/historia/temas/pintores-colombianos-de-1905-1933 (Consulted on June 17, 2020) ",
-      "\nHistoria-arte., s.f. Dadaism: 1916-1923. (Online) Available at: https://historia-arte.com/movimientos/dadaismo (Consulted on June 17 \ndel 2020)",
-      "\nHistoria-arte., s.f. Cubismo: 1907-1917. (Online) Available at: https://historia-arte.com/movimientos/cubismo (Consulted on June 17, \n2020)",
-      "\nCuriosamente., 2019. Capitalism or socialism ?. [Online video] (Online) Available at: https://www.youtube.com/watch?v=vSsJQ1UsIpE\n( Consulted on June 17, 2020) ",
-      "\nTorres, Ángel., sf The“ Bachués ”artists: from June 7, 1895 to December 15, 1915. (Online) Available at: https://www.radionacional.co/detail-milestones/los-artists-bachues (Consulted on June 17, \n2020) ",
-      "\nSeñal Memoria., 2020. Tour of the roads of Bogotá. [Video on \nline] Available at: https://www.youtube.com/watch?time_continue=155&v=pKUahH5uT5M&feature=emb_logo (Consulted on June 17 2020) ",
-      "\nPadilla, Christian., 2013. El Bogotazo and Colombian artists. (Online) \nAvailable at: https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/ (Consulted on 17 June 2020) ",
-      "\nHistoria-arte. Social realism: 1929-1955. (Online) Available: https://historia-arte.com/movimientos/realismo-social (Consulted on 17 \nJune 2020)",
-      "\nHistoria-arte. Abstract Expressionism: 1943-1965. (Online) Available \nen: https://historia-arte.com/movimientos/expresionismo-abstracto\n( Consulted on June 17, 2020)",
-      "\nBanrepcultural., 2020. Commented works 'Violencia' by Alejandro Obregón. (Online) Available at: https://www.youtube.com/\nwatch?v=P5MEvSnlxhM (Consulted on June 17, 2020)",
-      "\nMuseo la Tertulia., s.f. Beatriz Daza. Available at: https://www.museolatertulia.com/beatriz-daza/ (Consulted on June 17, 2020)",
-      "\nIbarra, Marco., s.f. Artistic Ensemble: Technique, Types and Featured Artists. (Online) Available at: https://www.lifeder.com/ensamblaje-artistico/ (Consulted on June 17, 2020)",
-      "\nLatin American Art., s.f. Edgar Negret Definition of Context. (Online) \nAvailable at: https://www.latinamericanart.com/es/artista/edgar-negret/ (Accessed June 17, 2020)"
+      "BIBLIOGRAFÍA",
+      "\nJaramillo, C., 2012. Fisuras del Arte Moderno en Colombia. Bogotá:\nFundación Gilberto Alzate Avendaño.",
+      "\nENLACES",
+      "\nEsguerra, Cristina., 2017. Andrés de Santa María, un pintor moderno.\n(Online) Disponible en: https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-pintor-moderno/ (Consultado el 17 de\nJunio del 2020)",
+      "\nMedina, Álvaro., 1997. Colombia, en el umbral de la modernidad. (Online) Disponible en: https://www.eltiempo.com/archivo/documento/\nMAM-674453 (Consultado el 17 de Junio del 2020)",
+      "\nRubiano, Germán., 2016. Pintores colombianos de 1905 a 1933. (Online) Disponible en: http://www.revistacredencial.com/credencial/historia/temas/pintores-colombianos-de-1905-1933 (Consultado el 17 de\nJunio del 2020)",
+      "\nHistoria-arte., s.f. Dadaísmo: 1916-1923. (Online) Disponible en: https://\nhistoria-arte.com/movimientos/dadaismo (Consultado el 17 de Junio\ndel 2020)",
+      "\nHistoria-arte., s.f. Cubismo: 1907-1917. (Online) Disponible en: https://\nhistoria-arte.com/movimientos/cubismo (Consultado el 17 de Junio del\n2020)",
+      "\nCuriosamente., 2019. ¿Capitalismo o socialismo?. [Video en línea] (Online)Disponible en: https://www.youtube.com/watch?v=vSsJQ1UsIpE\n(Consultado el 17 de Junio del 2020)",
+      "\nTorres, Ángel., s.f. Los artistas “Bachués”: del 7 de Junio 1895 hasta 15\nde Diciembre 1915.(Online) Disponible en: https://www.radionacional.\nco/detalle-hitos/los-artistas-bachues (Consultado el 17 de Junio del\n2020)",
+      "\nSeñal Memoria., 2020. Recorrido por las vías de Bogotá. [Video en\nlínea] Disponible en: https://www.youtube.com/watch?time_continue=155&v=pKUahH5uT5M&feature=emb_logo (Consultado el 17 de\nJunio del 2020)",
+      "\nPadilla, Christian., 2013. El Bogotazo y los artistas colombianos.(Online)\nDisponible en: https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/ (Consultado el 17 de Junio del 2020)",
+      "\nHistoria-arte. Realismo social: 1929-1955. (Online) Disponible: https://\nhistoria-arte.com/movimientos/realismo-social (Consultado el 17 de\nJunio del 2020)",
+      "\nHistoria-arte. Expresionismo Abstracto: 1943-1965. (Online) Disponible\nen: https://historia-arte.com/movimientos/expresionismo-abstracto\n(Consultado el 17 de Junio del 2020)",
+      "\nBanrepcultural., 2020. Obras comentadas “Violencia” de Alejandro Obregón. (Online) Disponible en: https://www.youtube.com/\nwatch?v=P5MEvSnlxhM (Consultado el 17 de Junio del 2020)",
+      "\nMuseo la Tertulia., s.f. Beatriz Daza. Disponible en: https://www.museolatertulia.com/beatriz-daza/ (Consultado el 17 de Junio del 2020)",
+      "\nIbarra, Marco., s.f. Ensamblaje Artístico: Técnica,Tipos y Artistas Destacados. (Online) Disponible en: https://www.lifeder.com/ensamblaje-artistico/ (Consultado el 17 de Junio del 2020)",
+      "\nLatin American Art., s.f. Edgar Negret Definición de Contexto.(Online)\nDisponible en: https://www.latinamericanart.com/es/artista/edgar-negret/ (Consultado el 17 de Junio del 2020)"
     ]
   },
   {
     "id": 5,
     "color": "#162D1C",
     "text": "white",
-    "title": "Conceptual Art in the World",
-    "history": "What is conceptual art?",
-    "historyDescription": [
-      "This trend appeared around the 1960s and consists of recognizing art not only for its aesthetic value but also for its intellectual value. Conceptual art does not use a specific medium since it does not depend on the form but on the content and capacity of communicate an idea, so it can be an installation, ",
-      "Photography, ready-made, performance, graphic work or video-art. Conceptual artists are interested in their context, they appropriate a theme and by means of a work they resignify objects, images and concepts. In Land Art, for example, interest in space led artists to alter ",
-      "The landscape and using the available materials; on the other hand, in Minimalism the artists were interested in perception, moving away from realistic representation. (Tate, nd) 01 The period between the 60s and 70s was characterized by great social changes generated by various activist movements around the world such as: ",
-      "feminist and LGBT movements, anti-racist organizations, demonstrations against the war in Vietnam and the riots in Paris in May 68. In conceptual art, problems of the social, political, religious environment are often identified and denounced or ecological, frequently using irony and satire. ",
-      "In addition, the very meaning of art is questioned, stating that the artist's subjectivity defines what art is and the viewer completes the work with his interpretation. (EcuRed, 2019)"
-    ],
+    "title": "Arte Conceptual en el Mundo",
+    "history": "¿Qué es el arte conceptual?",
+    "historyDescription": "Esta corriente aparece hacia la década de 1960 y consiste en reconocer el arte no solo por su valor <span>estético</span> sino por su valor intelectual. El arte conceptual no usa un medio específico pues no depende de la forma sino del contenido y de la capacidad de comunicar una idea, por eso puede ser una <span>instalación, fotografía, ready-made, performance, obra gráfica o video-arte.</span> \n Los artistas conceptuales se interesan por su <span>contexto</span>, se apropian de un <span>tema</span> y por medio de una obra resignifican los objetos, las imágenes y los conceptos. Por ejemplo, en el <span>Land Art</span> el interés por el espacio llevó a los artistas a alterar el paisaje y a usar los materiales disponibles; por otro lado, en el <span>Minimalismo</span> los artistas se interesaron por la percepción alejándose de la representación realista (Tate, s. f.). \n\n El periodo comprendido entre las décadas de 1960 y 1970 se caracterizó por grandes cambios sociales generados por diversos movimientos activistas en el mundo: los <span>movimientos feministas</span> y <span> LGBT</span>, las <span>organizaciones antirracistas</span>, las <span>manifestaciones en contra de la guerra de Vietnam</span> y las revueltas de París en <span>Mayo del 68.</span> \n\n En el arte conceptual a menudo se identifican y denuncian problemas del entorno social, político, religioso o ecológico, usando frecuentemente la ironía y la sátira. En adición, se cuestiona el significado mismo del arte afirmando que la subjetividad del artista define qué es arte y el espectador completa la obra con su interpretación (EcuRed, 2019). ",
     "author": "Cildo Merireles",
-    "authorContent": "He is recognized for his contributions to Latin American conceptual art, with works made from the analysis of Latin American economic and political systems. In this series, the artist recreates a series of counterfeit bills to reflect on capital, power and exploitation. ",
-    "forWhat": "A concept for what?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the implications of understanding art as an intellectual process based on ideas and concepts.",
-    "didYouKnow": "One of the first works of conceptual art was a chamber pot installed in a gallery by Marcel Duchamp.",
+    "authorContent": "Es reconocido por sus aportes al arte conceptual latinoamericano, con obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericano. En esta serie, el artista recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. ",
+    "forWhat": "¿Un concepto para qué?",
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
+    "didYouKnow": "Una de las primeras obras de arte conceptual fue un orinal instalado en una galería por Marcel Duchamp.",
     "questions": [
-      "What does it mean that content is more important than form?",
-      "What do you think is art and what is not?",
-      "What are the artists' research methods?"
+      "¿Qué significa que el contenido sea más importante que la forma?",
+      "¿Qué crees que es arte y qué no?",
+      "¿Cuáles son los métodos de investigación de los artistas? "
     ],
-    "gallery": [
-      {
-        "src": "mv5/c1.jpg",
-        "alt": "Mark Goff. Ceremonia de apertura del festival de Woodstock. 1969. Fuente: Wikimedia Commons bajo dominio público. "
-      },
-      {
-        "src": "mv5/c2.jpg",
-        "alt": "Carlos Caicedo. Bogotá, 1975. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv5/c3.jpg",
-        "alt": "Francisco Antonio Cano. Bodegón. 1912. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv5/1.jpg",
-        "alt": "Cildo Meireles. Zero cruzeiro. 1974. Litografía. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv5/2.jpg",
-        "alt": "Andy Warhol. Campbell's soup cans. 1962. Edición especial. 2015. Fuente: Wikimedia Commons bajo la licencia Creative Commons Attribution 3.0 Unported."
-      },
-      {
-        "src": "mv5/3.jpg",
-        "alt": "Nancy Holt. Sun Tunnels.  1976. Tubos de cemento agujereados. Fuente: Wikimedia Commons bajo la licencia C.C. 2.0."
-      },
-      {
-        "src": "mv5/did_you_know.jpg",
-        "alt": "Marcel Duchamp. The Fountain. 1917. Fuente: Wikimedia Commons bajo dominio público."
-      },
-      {
-        "src": "mv5/question.jpg",
-        "alt": "Luis Camnitzer. Ventana con paisaje sobre pared empapelada de flores, 1968. Fuente: Colección MAMBO."
-      }
-    ],
-    "proposal": "This section proposes to reflect on the implications of understanding art as an intellectual process based on ideas and concepts.",
+    "gallery": [],
+    "proposal": "En esta sección se propone reflexionar sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
     "keyConcepts": [
       {
-        "title": "counterculture",
-        "content": "The counterculture is the values ​​and social expressions that are opposed to those established in a society. The term appears in 1968, in one of the books of the historian Theodore Roszak to refer to the beat generation, the movement hippie, the sexual revolution and the pacifist movements andAmericans. ",
+        "title": "contracultura",
+        "content": "La contracultura son los valores y las expresiones sociales que se oponen a las establecidas en una sociedad. El término aparece en el año 1968, en uno de los libros del historiador Theodore Roszak para referirse a la generación beat, el movimiento hippie, la revolución sexual y los movimientos pacifistas estadounidenses.",
         "img": {
           "src": "mv5/c1.jpg",
-          "alt": "Mark Goff. Woodstock festival opening ceremony. 1969. Source: Wikimedia Commons under public domain."
+          "alt": "Mark Goff. Ceremonia de apertura del festival de Woodstock. 1969. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Swami_opening.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
         }
       },
       {
-        "title": "context",
-        "content": "It is the set of physical, socio-political and cultural conditions that surround an object or a circumstance. It defines the use, customs and values ​​of a specific human group.",
+        "title": "contexto",
+        "content": "Es el conjunto de condiciones físicas, sociopolíticas y culturales que rodean a un objeto o a una circunstancia. Define el uso, las costumbres y los valores de un grupo humano específico.",
         "img": {
           "src": "mv5/c2.jpg",
-          "alt": "Carlos Caicedo. Bogotá, 1975. Source: MAMBO Collection."
+          "alt": "Carlos Caicedo. Bogotá, 1975. Fuente: Colección MAMBO. "
         }
       },
       {
-        "title": "aesthetics",
-        "content": "It is a philosophical discipline that studies perception, sensations and criteria to value beauty and taste in art.",
+        "title": "estética",
+        "content": "Es una disciplina filosófica que estudia la percepción, las sensaciones y los criterios para valorar la belleza y el gusto en el arte.",
         "img": {
           "src": "mv5/c3.jpg",
-          "alt": "Francisco Antonio Cano. Still life. 1912. Source: MAMBO Collection."
+          "alt": "Francisco Antonio Cano. Bodegón. 1912. Fuente: Colección MAMBO. "
         }
       }
     ],
-    "previous": {
-      "id": 4,
-      "title": "Modern Art in Colombia"
-    },
-    "next": {
-      "id": 6,
-      "title": "Conceptual Art in Colombia"
-    },
     "img1": {
       "src": "mv5/1.jpg",
-      "alt": "Cildo Meireles. Zero cruzeiro. 1974. Lithograph. Source: MAMBO Collection."
+      "alt": "Cildo Meireles.<a href='https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw' target='blank'>Zero cruzeiro.</a> 1974. Litografía. Fuente: Colección MAMBO. ",
+      "caption": "<a href='http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm' target='blank'>Cildo Meireles</a> (Rio de Janeiro, Brasil, 1948) es un reconocido artista por sus aportes al arte conceptual latinoamericano mediante obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericanos. En esta serie que vemos él recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. "
     },
     "img2": {
       "src": "mv5/2.jpg",
-      "alt": "Andy Warhol. Campbell's soup cans. 1962. Special edition. 2015. Source: Wikimedia Commons under the Creative Commons Attribution 3.0 Unported license."
+      "alt": "Andy Warhol. Campbell's soup cans. 1962. Edición especial. 2015. Fuente: Wikimedia Commons bajo la licencia Creative Commons Attribution 3.0 Unported.",
+      "caption": "<a href='https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importantes-y-frases' target='blank'>Andy Warhol</a> (Pittsburg, Estados Unidos, 1928-1987) es reconocido como uno de los pioneros del Arte Pop en Estados Unidos. Warhol utilizó productos del mercado para reflexionar sobre el consumismo y la originalidad en el arte. En esta obra el artista copió la caja de un producto de consumo masivo y elaboró reproducciones de los empaques, poniendo en tela de juicio si cualquier objeto puede ser arte y señalando el consumismo como el modo de vida contemporáneo. "
     },
     "img3": {
       "src": "mv5/3.jpg",
-      "alt": "Nancy Holt. Sun Tunnels. 1976. Leaky cement pipes. Source: Wikimedia Commons under the C.C. 2.0 license."
+      "alt": "Nancy Holt. Sun Tunnels.  1976. Tubos de cemento agujereados. Fuente: Wikimedia Commons bajo la licencia C.C. 2.0.",
+      "caption": "<a href='https://exit-express.com/adios-a-nancy-holt-pionera-del-land-art/' target='blank'>Nancy Holt </a>(Worcester, Estados Unidos, 1938-2014) fue una de las precursoras de nuevas formas de percibir el paisaje a través de obras transdisciplinares. En esta obra característica del Land Art y el Minimalismo instaló una serie de túneles de cemento con agujeros en una planicie. Cada 21 de diciembre, solsticio de invierno, el sol se alinea con los túneles reflejándose en el interior del túnel. "
     },
     "didYouKnowImg": {
       "src": "mv5/did_you_know.jpg",
-      "alt": "Marcel Duchamp. The Fountain. 1917. Source: Wikimedia Commons under public domain."
+      "alt": "Marcel Duchamp. The Fountain. 1917. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Duchamp_Fountaine.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público."
     },
     "questionImg": {
       "src": "mv5/question.jpg",
-      "alt": "Luis Camnitzer. Window with landscape on wall covered with flowers, 1968. Source: MAMBO Collection."
+      "alt": "Luis Camnitzer. Ventana con paisaje sobre pared empapelada de flores, 1968. Fuente: Colección MAMBO."
     },
     "knowMore": [
       {
         "title": "El País (3 de mayo de 2018). ¿Qué ocurrió en Mayo del 68?",
-        "link": "https://www.youtube.com/watch?v=Tp-VXKQuQig",
-        "img": {
-          "src": "mv5/m1.jpg",
-          "alt": "El País (3 de mayo de 2018). ¿Qué ocurrió en Mayo del 68?"
-        }
+        "link": "https://www.youtube.com/watch?v=Tp-VXKQuQig"
       },
       {
         "title": "The New York Times (23 de enero de 2015). Black Panthers Revisited | Op-Docs | The New York Times",
-        "link": "https://www.youtube.com/watch?v=qGZpDt6OYnI",
-        "img": {
-          "src": "mv5/m2.jpg",
-          "alt": "The New York Times (23 de enero de 2015). Black Panthers Revisited | Op-Docs | The New York Times"
-        }
+        "link": "https://www.youtube.com/watch?v=qGZpDt6OYnI"
       },
       {
         "title": "La Vanguardia (2018, 28 de junio). La rebelión homosexual en el bar Stonewall",
-        "link": "https://www.youtube.com/watch?v=o6zoap0iSFw",
-        "img": {
-          "src": "mv5/m3.jpg",
-          "alt": "La Vanguardia (2018, 28 de junio). La rebelión homosexual en el bar Stonewall"
-        }
+        "link": "https://www.youtube.com/watch?v=o6zoap0iSFw"
       },
       {
         "title": "NBC News (26 de abril de 2016). The Fight for Women&#39;s Rights | Flashback | NBC News [video].",
-        "link": "https://www.youtube.com/watch?v=g2CewziXoDg",
-        "img": {
-          "src": "mv5/m4.jpg",
-          "alt": "NBC News (26 de abril de 2016). The Fight for Women&#39;s Rights | Flashback | NBC News [video]."
-        }
+        "link": "https://www.youtube.com/watch?v=g2CewziXoDg"
       }
     ],
     "references": [
-      "BIBLIOGRAPHY",
-      "\nEcuRed., 2019. Arte Conceptual. (Online) Available at: https://www.ecured.cu/index.php?title=Arte_conceptual&oldid=3462366. (Consulted: June 8, 2020).",
-      "\nTate., sf ,. Art Terms - Conceptual Art. (Online) Available at: https://www.tate.org.uk/art/art-terms/c/conceptual-art (Accessed June 8, 2020). ",
-      "\nLINKS",
-      "\nMoreno, Juana., 2018. Conceptual Art - Definition and characteristics. \n (Online) Available at: https://www.unprofesor.com/ciencias-sociales/arte-conceptual-definicion-y-caracteristicas-1989.html (Consulted on \n15 June) ",
-      "\nBembibre, Cecilia., 2009. Definition of context (Online) Available \nat: https://www.definicionabc.com/general/contexto.php (Consulted on June 18, 2020)",
-      "\nWalls, Ivonne. 2018. Land Art - landscape as a canvas. (Online) Available at: https://www.landuum.com/historia-y-cultura/land-art-elpaisajes-como-lienzo/ (Consulted June 18, 2020) ",
-      "\nTipos de arte., s.f. Minimalist art What is it? (Online) Available at: \nhttps://tiposdearte.com/arte-minimalista-que-es/ (Consulted on 18 \nJune 2020)",
-      "\nLa Vanguardia., 2018. The homosexual rebellion at the Stonewall bar. \n (Online) Available at: https://www.youtube.com/watch?v=o6zoap0iSFw (Consulted on June 18, 2020)",
-      "\nNBC News., 2016. The Fight for Women's Rights - Flashback - NBC \nNews. (Online) Available at: https://www.youtube.com/watch?v=g2CewziXoDg (Accessed June 18, 2020) ",
-      "\nThe New York Times. 2015. Black Panthers Revisited | Op-Docs | \nThe New York Times. (Online) Available: https://www.youtube.com/watch?v=qGZpDt6OYnI (Accessed June 18 2020) ",
-      "\nSobrón, Ignacio. 2018. Protests against the Vietnam War. (Online) Available at: https://www.youtube.com/watch?v=eamLnq7Diyw( Consulted on June 18, 2020)",
-      "\nEl País., 2018. What happened in May 68? (Online) Available at: \nhttps://www.youtube.com/watch?v=Tp-VXKQuQig (Consulted on June 18, 2020) ",
-      "\nGeifco., sf Cildo Meireles. (Online) Available at: http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/\nmeireles/meireles.htm (Consulted on June 18 2020) ",
-      "\nDos Anjos, Moacir. Cildo Meireles, Insertions in ideological circuits. \n (Online) Available at: https://www.daros-latinamerica.net/es/ensayo/cildo-meireles-inserciones-en-circuitos-ideol%C3%B3ógicos (Consulted on June 18, 2020) ",
-      "\nGraphic designers., s.f. Barbara Kruger. (Online) Available at: http: // \nwww.disenadorasgraficas.com/archivo/barbara-kruger/ (Consulted on \n18 June 2020)",
-      "\nTrinidad, Emma., 2015. Your body is a battlefield. (Online) Available at: http://www.thelightingmind.com/tu-cuerpo-es-un-campode-batalla/ (Consulted on 18 June 2020) ",
-      "\nAyala, Anylu., 2019. Andy Warhol, the creator of pop icons. (Online) \nAvailable at: https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importdamientos-y-phrases (Consulted on June 18, \n2020) ",
-      "\nPrieto, Laura., 2016. Cajas Brillo, Warhol. (Online) Available at: https://arte.laguia2000.com/vanguardias-artisticas-del-siglo-xx/cajas-brillo-warhol (Consulted on 18 June 2020) ",
-      "\nExit Express., 2014. Goodbye to Nancy Holt, pioneer of Land Art. (Online) \nAvailable at: https://exit-express.com/adios-a-nancy-holt-pioneradel-land-art/ ( Accessed June 18, 2020) ",
-      "\nGalician Garden., 2017. Los Túneles de Sol, by Nancy Holt. (Online) \nAvailable at: https://galiciangarden.com/los-tuneles-de-sol-de-nancy-holt/ (Consulted on 18 June 2020) ",
-      "\nImaginario, Andrea., 2019. What is aesthetics. (Online) Available at: \nhttps://www.significados.com/estetica/ (Consulted on July 16, \n2020)"
+      "BIBLIOGRAFÍA",
+      "\nEcuRed., 2019. Arte Conceptual. (Online) Disponible en: https://www.\necured.cu/index.php?title=Arte_conceptual&oldid=3462366. (Consultado: 8 de Junio del 2020).",
+      "\nTate.,s.f.,. Art Terms - Conceptual Art. (Online) Disponible en: https://\nwww.tate.org.uk/art/art-terms/c/conceptual-art (Consultado 8 de Junio del 2020).",
+      "\nENLACES",
+      "\nMoreno, Juana., 2018. Arte Conceptual - Definición y características.\n(Online) Disponible en: https://www.unprofesor.com/ciencias-sociales/\narte-conceptual-definicion-y-caracteristicas-1989.html (Consultado el\n15 de Junio)",
+      "\nBembibre, Cecilia., 2009. Definición de contexto (Online) Disponible\nen: https://www.definicionabc.com/general/contexto.php (Consultado\nel 18 de Junio del 2020)",
+      "\nWalls, Ivonne. 2018. Land Art - el paisaje como lienzo. (Online) Disponible en: https://www.landuum.com/historia-y-cultura/land-art-elpaisaje-como-lienzo/ (Consultado el 18 de Junio del 2020)",
+      "\nTipos de arte., s.f. Arte minimalista ¿Qué es?. (Online) Disponible en:\nhttps://tiposdearte.com/arte-minimalista-que-es/ (Consultado el 18 de\nJunio del 2020)",
+      "\nLa Vanguardia., 2018. La Rebelión homosexual en el bar Stonewall.\n(Online) Disponible en: https://www.youtube.com/watch?v=o6zoap0iSFw (Consultado el 18 de Junio del 2020)",
+      "\nNBC News., 2016. The Fight for Women’s Rights - Flashback - NBC\nNews.(Online) Disponible en: https://www.youtube.com/watch?v=g2CewziXoDg (Consultado el 18 de Junio del 2020)",
+      "\nThe New York Times. 2015. Black Panthers Revisited | Op-Docs |\nThe New York Times. (Online) Disponible: https://www.youtube.com/\nwatch?v=qGZpDt6OYnI (Consultado el 18 de Junio del 2020)",
+      "\nSobrón, Ignacio. 2018. Protestas contra la Guerra de Vietnam. (Online) Disponible en: https://www.youtube.com/watch?v=eamLnq7Diyw\n(Consultado el 18 de Junio del 2020)",
+      "\nEl País.,2018. ¿Qué ocurrió en Mayo del 68? (Online) Disponible en:\nhttps://www.youtube.com/watch?v=Tp-VXKQuQig (Consultado el 18\nde Junio del 2020)",
+      "\nGeifco.,s.f. Cildo Meireles. (Online) Disponible en: http://www.geifco.org/\nactionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/\nmeireles/meireles.htm (Consultado el 18 de Junio del 2020)",
+      "\nDos Anjos, Moacir. Cildo Meireles, Inserciones en circuitos ideológicos.\n(Online) Disponible en: https://www.daros-latinamerica.net/es/ensayo/\ncildo-meireles-inserciones-en-circuitos-ideol%C3%B3gicos (Consultado el 18 de Junio del 2020)",
+      "\nDiseñadoras gráficas., s.f. Barbara Kruger.(Online) Disponible en: http://\nwww.disenadorasgraficas.com/archivo/barbara-kruger/ (Consultado el\n18 de Junio del 2020)",
+      "\nTrinidad, Emma., 2015. Tu cuerpo es un campo de batalla.(Online) Disponible en: http://www.thelightingmind.com/tu-cuerpo-es-un-campode-batalla/ (Consultado el 18 de Junio del 2020)",
+      "\nAyala, Anylu., 2019. Andy Warhol, el creador de los íconos pop. (Online)\nDisponible en: https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importantes-y-frases (Consultado el 18 de Junio del\n2020)",
+      "\nPrieto, Laura., 2016. Cajas Brillo, Warhol. (Online) Disponible en: https://\narte.laguia2000.com/vanguardias-artisticas-del-siglo-xx/cajas-brillo-warhol (Consultado el 18 de Junio del 2020)",
+      "\nExit Express., 2014. Adiós a Nancy Holt, pionera del Land Art. (Online)\nDisponible en: https://exit-express.com/adios-a-nancy-holt-pioneradel-land-art/ (Consultado el 18 de Junio del 2020)",
+      "\nGalician Garden., 2017. Los Túneles de Sol, de Nancy Holt. (Online)\nDisponible en: https://galiciangarden.com/los-tuneles-de-sol-de-nancy-holt/ (Consultado el 18 de Junio del 2020)",
+      "\nImaginario, Andrea.,2019. Qué es estética. (Online) Disponible en:\nhttps://www.significados.com/estetica/ (Consultado el 16 de Julio del\n2020)"
     ]
   },
   {
     "id": 6,
     "color": "#4A8F5C",
     "text": "white",
-    "title": "Conceptual Art in Colombia",
-    "history": "Why did conceptual art emerge in Colombia?",
-    "historyDescription": [
-      "In Colombia, as in most Latin American countries, there was a state of social and political tension reflected in a period of restricted democracy that began with the Rojas Pinilla coup in 1953 and continued for 16 years in the period known as National Front. ",
-      "Conceptual art arises as a reaction against the arbitrariness of artistic and political institutions, which is why some artists, such as Feliza Bursztyn, were persecuted and had to go into exile. Conceptual artists in Colombia experimented with new media and formats, combining different artistic disciplines such as ready-made, photography and installation, among others. ",
-      "01 The artists created collectives such as El Grupo de Arte Experimental 'El Sindicato' to question individualism and propose new ideas about society, consigned in their manifestos (Barrios, A. 1999). The use of means of reproduction such as photocopies and serigraphs was a tool for ",
-      "Take art out of official places and democratize its creations. The debates and controversies associated with the National Artists' Hall show the desire of artists to transgress this institution, which until 1978 recognized the proposals of conceptual art, granting it the first prize to the work “A-la-cena con Zapatos” by “El Sindicato” (Herrera, 2011) "
-    ],
-    "author": "Bernardo Salcedo",
-    "authorContent": "He was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as a tribute to the life of Dante Alighieri and his muse Beatriz Portinari with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art, with the use of minimalist volumes and irony in its name. ",
-    "forWhat": "Context and art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the relationship between the counterculture (the social movements of the 60s and 70s) and the creation of new artistic expressions in Colombia.",
-    "didYouKnow": "One of the first performances in Colombia was carried out by a group of artists who took down their paintings from the National Artists' Hall and later burned some coffins in the center of Bogotá.",
-    "activity": "Develop a conceptual work in which you capture a problem in your local context.",
+    "title": "Arte Conceptual en Colombia",
+    "history": "¿Por qué surge el arte conceptual en Colombia?",
+    "historyDescription": "En Colombia, como en la mayoría de países latinoamericanos, se vivía un estado de tensión social y político reflejado en un periodo de democracia restringida que inició con el <span>Golpe de Estado</span> de Rojas Pinilla en 1953 y continuó durante 16 años en el periodo conocido como <span>Frente Nacional.</span> El arte conceptual surge como una reacción en contra de la arbitrariedad de las instituciones artísticas y políticas, razón por la que algunos artistas, como <span>Feliza Bursztyn</span>, fueron perseguidos y tuvieron que exiliarse. \n\n Los artistas conceptuales en Colombia experimentaron con <span>nuevos medios</span> y formatos, combinando diferentes disciplinas artísticas como el <span>ready-made, la fotografía y la instalación</span>, entre otras. Los artistas crearon colectivos como <span>el grupo de arte experimental El Sindicato</span> para cuestionar el individualismo y proponer nuevas ideas sobre la sociedad, consignadas en sus </span>manifiestos</span> (Barrios, 1999). El uso de medios de reproducción como fotocopias y serigrafías fue una herramienta para sacar el arte de lugares oficiales y democratizar sus creaciones. Los <span>debates y polémicas</span> asociados al <span>Salón Nacional de Artistas</span> revelan el deseo de los artistas por transgredir esta institución que hasta el año 1978 reconoció las propuestas del arte conceptual y dio el primer premio a la obra <span>“A-la-cena con Zapatos”</span> de El Sindicato. (Herrera, 2011) ",
+    "author": "Feliza Burstyn",
+    "authorContent": "(Bogotá, Colombia, 1933-1982) es considerada la precursora de la instalación en Colombia. Una escultora polémica y transgresora que fue capaz de ir en contra del orden establecido en el arte, usando materiales no convencionales como chatarra de hierro, desperdicios de acero inoxidable y motores para realizar sus composiciones escultóricas. De igual manera, se interesó por incluir movimiento y sonido en sus obras; en su serie de camas-esculturas cubiertas de telas brillantes se sugieren cuerpos en movimiento durante sus actos sexuales. Con esto Feliza buscó escenificar un momento íntimo y privado para sacarlo a lo público, creando un ambiente de erotismo que envuelve al espectador en una experiencia emotiva y sensorial.",
+    "forWhat": "¿Contexto y arte?",
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la contracultura (los movimientos sociales de los 60 y 70) y la creación de nuevas expresiones artísticas en Colombia. ",
+    "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá.",
     "questions": [
-      "How is democracy reflected in art?",
-      "What elements could you recognize from the historical context in a work of art?",
-      "Why do you think artists manifest themselves with works and actionsdisruptive? ",
-      "What struggles of the social movements of the 60s and 70s are still valid and why?"
+      "¿Cómo se refleja la democracia en el arte?",
+      "¿Qué elementos podrías reconocer del contexto histórico en una obra de arte?",
+      "¿Por qué crees que los artistas se manifiestan con obras y acciones disruptivas?",
+      "¿Cuáles luchas de los movimientos sociales de los 60 y 70 siguen vigentes y por qué?"
     ],
-    "gallery": [
-      {
-        "src": "mv6/c1.jpg",
-        "alt": "Autor desconocido. Retrato de Gustavo Rojas Pinilla. S,f. Fuente: Wikimedia Commons bajo la licencia CC BY SA 4.0."
-      },
-      {
-        "src": "mv6/c2.jpg",
-        "alt": "Revista Semana. General Gustavo Rojas Pinilla, Presidente de Colombia rodeado por su gabinete. 1956. Fuente: Wikimedia Commons bajo dominio público. "
-      },
-      {
-        "src": "mv6/c3.jpg",
-        "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
-      },
-      {
-        "src": "mv6/1.jpg",
-        "alt": "Feliza Bursztyn. Cuja. 1972. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv6/2.jpg",
-        "alt": "Jonier Marín. Papel Y Lápiz.  1976. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv6/3.jpg",
-        "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv6/did_you_know.jpg",
-        "alt": "Leo Matiz. Los Rechazados. 1952. Colección del Banco de la República. "
-      },
-      {
-        "src": "mv6/question.jpg",
-        "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv6/activity.jpg",
-        "alt": ""
-      }
-    ],
-    "proposal": "This section proposes to reflect on the relationship between the counterculture (the social movements of the 1960s and 1970s) and the creation of new artistic expressions in Colombia.",
+    "gallery": [],
+    "proposal": "En esta sección se propone reflexionar sobre la relación entre la contracultura (los movimientos sociales de las décadas de 1960 y 1970) y la creación de nuevas expresiones artísticas en Colombia. ",
     "keyConcepts": [
       {
-        "title": "coup",
-        "content": "Civil or military overthrow of a democratically elected government. In the Colombian case, it refers to the military government led by Gustavo Rojas Pinilla, established after a coup against the conservative president Laureano Gómez, characterized by a high restriction of rights and civil liberties and the construction of important infrastructure works for the country. ",
+        "title": "golpe de estado",
+        "content": "Derrocamiento civil o militar de un gobierno elegido democráticamente. En el caso Colombiano se refiere al gobierno militar liderado por Gustavo Rojas Pinilla instaurado después de un golpe de estado al presidente conservador Laureano Gómez, caracterizado por una alta restricción de derechos y libertades civiles y la construcción de importantes obras de infraestructura para el país.",
         "img": {
           "src": "mv6/c1.jpg",
-          "alt": "Unknown author. Portrait of Gustavo Rojas Pinilla. S, f. Source: Wikimedia Commons under the CC BY SA 4.0 license."
+          "alt": "Autor desconocido. Retrato de Gustavo Rojas Pinilla. S,f. Fuente: Wikimedia Commons bajo la licencia CC BY SA 4.0."
         }
       },
       {
-        "title": "national front",
-        "content": "Period of restricted democracy between 1957 and 1974 in which the liberal and conservative parties took the presidency. The origin of the armed conflict is attributed to this period due to the exclusion of socialist ideas from the political scene.",
+        "title": "frente nacional",
+        "content": "Periodo de democracia restringida entre 1957 y 1974 en el que los partidos liberal y conservador se tomaron la presidencia. Se le atribuye a este periodo el origen del conflicto armado por la exclusión de las ideas socialistas del escenario político.",
         "img": {
           "src": "mv6/c2.jpg",
-          "alt": "Semana Magazine. General Gustavo Rojas Pinilla, President of Colombia surrounded by his cabinet. 1956. Source: Wikimedia Commons under public domain."
+          "alt": "Revista Semana. General Gustavo Rojas Pinilla, Presidente de Colombia rodeado por su gabinete. 1956. Fuente:<a href='https://commons.wikimedia.org/wiki/File:Cabinet_of_Rojas_Pinilla.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
         }
       },
       {
-        "title": "national art salon",
-        "content": "Annual exhibition that was inaugurated in 1940 by the then Minister of Education Jorge Eliécer Gaitán and President Eduardo Santos. This event, in which the most outstanding artists were awarded, was a platform for national exhibition and debate that documented important proposals of modern and contemporary art during the following decades. ",
+        "title": "salón nacional de arte",
+        "content": "Exposición anual que se inauguró en 1940 por el entonces Ministro de Educación Jorge Eliécer Gaitán y el presidente Eduardo Santos. Este evento, en el que se premiaba a los artistas más destacados, fue una plataforma de exhibición y debate nacional que documentó importantes propuestas del arte moderno y contemporáneo durante las siguientes décadas.",
         "img": {
           "src": "mv6/c3.jpg",
-          "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional in Re-View of Art and Architecture in Latin America (Medellín, Colombia) - Vol. 2 no. 6, pp. 17-21, 1981. Courtesy Familia Sierra Maya. "
+          "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
         }
       }
     ],
-    "previous": {
-      "id": 5,
-      "title": "Conceptual Art in the World"
-    },
-    "next": {
-      "id": 7,
-      "title": "Contemporary Art in the World"
-    },
     "img1": {
       "src": "mv6/1.jpg",
-      "alt": "Feliza Bursztyn. Cuja. 1972. Source: MAMBO Collection"
+      "alt": "Feliza Bursztyn. Cuja. 1972. Fuente: Colección MAMBO",
+      "caption": "<a href='https://cerosetenta.uniandes.edu.co/feliza-bursztyn-en-un-pais-de-machistas-hagase-la-loca/' target='blank'>Feliza Burstyn</a> (Bogotá, Colombia, 1933-1982) es considerada la precursora de la instalación en Colombia. Una escultora polémica y transgresora que fue capaz de ir en contra del orden establecido en el arte, usando materiales no convencionales como chatarra de hierro, desperdicios de acero inoxidable y motores para realizar sus composiciones escultóricas. De igual manera, se interesó por incluir movimiento y sonido en sus obras; en su serie de camas-esculturas cubiertas de telas brillantes se sugieren cuerpos en movimiento durante sus actos sexuales. Con esto Feliza buscó escenificar un momento íntimo y privado para sacarlo a lo público, creando un ambiente de erotismo que envuelve al espectador en una experiencia emotiva y sensorial. "
     },
     "img2": {
       "src": "mv6/2.jpg",
-      "alt": "Jonier Marín. Paper and Pencil. 1976. Source: MAMBO Collection"
+      "alt": "Jonier Marín. Papel Y Lápiz.  1976. Fuente: Colección MAMBO",
+      "caption": "<a href='https://ceronresumido.com/Jonier-Marin-Obra-activa' target='blank'>Jonier Marín</a> (Argelia, Colombia, 1946) cuestiona los procesos tradicionales del arte, y con su propuesta genera una obra que nos plantea la pregunta ¿qué es el arte y quién lo valida?</br></br> 'Sin perder tiempo propuse a artistas que conocí viajando, dibujar a lápiz en una hoja cualquier cosa, y adjuntar su retrato al dibujo, validando así la obra'. Jonier Marín."
     },
     "img3": {
       "src": "mv6/3.jpg",
-      "alt": "Álvaro Barrios. The Great Plexi. 1979. Source: MAMBO Collection"
-    },
-    "didYouKnowImg": {
-      "src": "mv6/did_you_know.jpg",
-      "alt": "Leo Tint. The Rejected. 1952. Collection of the Bank of the Republic."
+      "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO",
+      "caption": "<a href='http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html' target='blank'>Álvaro Barrios</a> (Cartagena, Colombia, 1945) es un artista del Caribe colombiano que desde joven manifestó su interés por el conceptualismo, realizando ready-mades y apropiaciones de la gráfica popular. En esta obra, el artista hace referencia a la obra de Marcel Duchamp; Barrios utiliza plexiglás e incorpora una serie de cartas, notas y fotografías que hicieron parte de un intercambio realizado con un amigo suyo. "
     },
     "questionImg": {
       "src": "mv6/question.jpg",
-      "alt": "Carlos Echeverry. He who sows collects, 1982. Printing. Source: MAMBO Collection."
-    },
-    "activityImg": {
-      "src": "mv6/activity.jpg",
-      "alt": ""
+      "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
     },
     "knowMore": [
       {
         "title": "Vallejo, V. (2014). A la memoria de Feliza Bursztyn.",
-        "link": "https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn",
-        "img": {
-          "src": "mv6/m1.jpg",
-          "alt": "Vallejo, V. (2014). A la memoria de Feliza Bursztyn."
-        }
+        "link": "https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn"
       },
       {
         "title": "Al Derecho (2019). Tradición, novedad y escándalo: un prólogo al Salón Nacional de Artistas en su versión 45.",
-        "link": "https://alderecho.org/2019/10/20/tradicion-novedad-y-escandalo-un-prologo-al-salon-nacional-de-artistas-en-su-version-45/",
-        "img": {
-          "src": "mv6/m2.jpg",
-          "alt": "Al Derecho (2019). Tradición, novedad y escándalo: un prólogo al Salón Nacional de Artistas en su versión 45."
-        }
+        "link": "https://alderecho.org/2019/10/20/tradicion-novedad-y-escandalo-un-prologo-al-salon-nacional-de-artistas-en-su-version-45/"
       },
       {
         "title": "Márceles, E. (3 de noviembre de 2018). El Sindicato de Barranquilla: la aventura del arte conceptual.",
-        "link": "https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/",
-        "img": {
-          "src": "mv6/m3.jpg",
-          "alt": "Márceles, E. (3 de noviembre de 2018). El Sindicato de Barranquilla: la aventura del arte conceptual."
-        }
+        "link": "https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/"
       }
     ],
     "references": [
-      "BIBLIOGRAPHY",
-      "\nHerrera Buitrago, María Mercedes., 2011. Emergence of conceptual art in Colombia (1968-1982). Bogotá: Pontificia Universidad Javeriana.",
-      "\nBarrios, Álvaro., 1999. Origins of conceptual art in Colombia. Bogotá: Mayor's Office of Bogotá.",
-      "\nLINKS",
-      "\nCultural Sub-management of the Banco de la República. (2015). The National Front. (Online) Available at: http://www.banrepcultural.org/blaavirtual/ayudadetareas/politica/el_frente_nacional (Consulted on June 19, 2020 ) ",
-      "\nVallejo, Vanessa., 2014. In memory of Feliza Bursztyn. (Online) Available at: https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn (Consulted on June 19, 2020) ",
-      "\nMárceles, Eduardo., 2018. The Barranquilla Sindicato: The adventure \ndel conceptual art. (Online) The spectator. Available at: https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/ \n (Consulted on June 19, 2020) ",
-      "\nOdiseo de Cipria., 2012. Gonzalo Arango - Manifesto nadaísta al Homo \nSapiens. [online video] Available at https://www.youtube.com/watch?v=tXHxuxDE870 (Consulted on June 19, 2020 ) ",
-      "\nPeriódico Al Derecho., 2019. Tradition, novelty and scandal: a \nprologue to the National Artists Salon in its version 45. Available \nin: https://alderecho.org/2019/10/20/tradicion-novedad-and-scandal-a-prologue-to-the-national-salon-of-artists-in-its-version-45/ (Consulted on June 19, 2020) ",
-      "\nUniverses in Universe., sf Salón Nacional de Artistas: Brief history of the \nNational Salon. Available at: https://universes.art/es/sna-colombia/salon-nacional-colombia-historia (Consulted on 19 June 2020) ",
-      "\nRestrepo, Carlos., 2017. The Union: the forty years of Alacena con \nZapatos. (Online) Available at: http://liberatorio.org/?p=8026 (Consulted on June 19, 2020)",
-      "\nMaría A. Iovino Moscarella, sf, What Dante never knew: Bernardo \nSalcedo. Banco de la República Cultural Network in Colombia. (Online) \nAvailable at: https://www.banrepcultural.org/coleccion-de-art/artist/bernardo-salcedo (Consulted on July 14, 2020) ",
-      "\nSáenz de Ibarra, María Belén. The Legend of the Dream - Álvaro Barrios. \nBlog sculptures of Colombia. (Online) Available at: http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html (Consulted on June 19, 2020) ",
-      "\nCerón, Jaime., 2015. Jonier Marín: Active work. (Online) Available at: \nhttps: //ceronresumido.com/Jonier-Marin-Obra-activa (Accessed June 19, 2020)",
-      "\nOspina, Lucas., 2019. Feliza Bursztyn:“ In a country of sexists, make yourself crazy! ”(Online) Available at: https://cerosetenta.uniandes.edu.co/feliza-bursztyn-en-un-pais-de-macho-hagase-la-loca / (Consulted on June 19, 2020) ",
-      "\nVvallejo., 2016. Coup d'état of 1953. Radio Nacional de Colombia. \n (Online) Available at: https://www.radionacional.co/linea-tiempo-paz/\ngolpe-estado-1953 (Consulted on July 17, 2020) "
+      "BIBLIOGRAFÍA",
+      "\nHerrera Buitrago, María Mercedes., 2011. Emergencia del arte conceptual en Colombia (1968-1982). Bogotá: Pontificia Universidad Javeriana.",
+      "\nBarrios, Álvaro., 1999. Orígenes del arte conceptual en Colombia. Bogotá: Alcaldía Mayor de Bogotá.",
+      "\nENLACES",
+      "\nSubgerencia Cultural del Banco de la República. (2015). El Frente Nacional.(Online) Disponible en: http://www.banrepcultural.org/blaavirtual/ayudadetareas/politica/el_frente_nacional (Consultado el 19 de\nJunio del 2020)",
+      "\nVallejo, Vanessa., 2014. A la memoria de Feliza Bursztyn. (Online) Disponible en: https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn (Consultado el 19 de Junio del 2020)",
+      "\nMárceles, Eduardo., 2018. El Sindicato de Barranquilla: La aventura\ndel arte conceptual. (Online) El espectador. Disponible en: https://\nwww.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/\n(Consultado el 19 de Junio del 2020)",
+      "\nOdiseo de Cipria., 2012. Gonzalo Arango - Manifiesto nadaísta al Homo\nSapiens. [video en línea] Disponible en https://www.youtube.com/\nwatch?v=tXHxuxDE870 (Consultado el 19 de Junio del 2020)",
+      "\nPeriódico Al Derecho., 2019. Tradición, novedad y escándalo: un\nprólogo al Salón Nacional de Artistas en su versión 45. Disponible\nen: https://alderecho.org/2019/10/20/tradicion-novedad-y-escandalo-un-prologo-al-salon-nacional-de-artistas-en-su-version-45/ (Consultado el 19 de Junio del 2020)",
+      "\nUniverses in Universe., s.f. Salón Nacional de Artistas: Breve historia del\nSalón Nacional. Disponible en: https://universes.art/es/sna-colombia/\nsalon-nacional-colombia-historia (Consultado el 19 de Junio del 2020)",
+      "\nRestrepo, Carlos., 2017. El Sindicato: los cuarenta años de Alacena con\nZapatos. (Online) Disponible en: http://liberatorio.org/?p=8026 (Consultado el 19 de Junio del 2020)",
+      "\nMaría A. Iovino Moscarella, s.f., Lo que Dante nunca supo: Bernardo\nSalcedo. Red Cultural del Banco de la República en Colombia. (Online)\nDisponible en: https://www.banrepcultural.org/coleccion-de-arte/artista/bernardo-salcedo (Consultado el 14 de Julio del 2020)",
+      "\nSáenz de Ibarra, María Belén. La Leyenda del Sueño - Álvaro Barrios.\nBlog esculturas de Colombia. (Online) Disponible en: http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html (Consultado el 19 de Junio del 2020)",
+      "\nCerón, Jaime., 2015. Jonier Marín: Obra activa. (Online) Disponible en:\nhttps://ceronresumido.com/Jonier-Marin-Obra-activa (Consultado 19\nde Junio del 2020)",
+      "\nOspina, Lucas., 2019. Feliza Bursztyn: “En un país de machistas, ¡hágase la loca!”.(Online) Disponible en: https://cerosetenta.uniandes.edu.\nco/feliza-bursztyn-en-un-pais-de-machistas-hagase-la-loca/ (Consultado de19 de Junio del 2020)",
+      "\nVvallejo., 2016. Golpe de estado de 1953. Radio Nacional de Colombia.\n(Online) Disponible en: https://www.radionacional.co/linea-tiempo-paz/\ngolpe-estado-1953 (Consultado el 17 de Julio del 2020)"
     ]
   },
   {
     "id": 7,
     "color": "#6133A1",
     "text": "white",
-    "title": "Contemporary Art in the World",
-    "history": "Origins of contemporary art",
-    "historyDescription": [
-      "Contemporary art arises in the second half of the 20th century and is characterized by a multiplicity of theoretical and technical approaches. Contemporary artists take art practices to their limits, and seek to generate a reflection in the viewer criticism from his personal research. ",
-      "Artists are beginning to cover the different fields of knowledge in a transdisciplinary way. Globalization and access to the internet have allowed the expansion of new technologies, providing the public",
-      "a new approach to the image through the screen (Ampudia, M. 2016). The incursion of technology and new media propose different relationships between works of art, the public and artists, resulting in frequent proposals interactive and relational like the happening and the performance. ",
-      "Many times, in contemporary art, the viewer becomes a participant in the work, offering them the possibility of immersing themselves in environments that involve all the senses. (Pazos, A. 2018)"
-    ],
+    "title": "Arte Contemporáneo en el Mundo",
+    "history": "Orígenes del arte contemporáneo",
+    "historyDescription": "El <span>arte contemporáneo</span> surge en la segunda mitad del siglo XX y se caracteriza por una multiplicidad de abordajes teóricos y técnicos. Los artistas contemporáneos llevan las prácticas del arte hasta sus límites y buscan generar en el espectador una <span>reflexión crítica</span> a partir de sus investigaciones personales. Los artistas empiezan a abarcar los diferentes campos del conocimiento de manera <span>transdisciplinar.</span> \n\nLa globalización y el acceso a internet han permitido la expansión de nuevas tecnologías, proporcionando al público un nuevo acercamiento de la imagen por medio de la pantalla (Ampudia, 2016). La incursión de la tecnología y los <span>nuevos medios</span> proponen diversas relaciones entre las obras de arte, el público y los artistas, lo que resulta en propuestas frecuentemente <span>interactivas</span> y <span>relacionales</span> como el <span>happening</span> y el <span>performance</span>. Muchas veces en el arte contemporáneo el espectador pasa participar en la obra, ofreciéndole la posibilidad de <span>inmergirse</span> en ambientes que involucran todos los sentidos (Pazos, 2018).",
     "author": "Damien Hirst",
-    "authorContent": "He is one of the most sought-after contemporary artists on the art market. He makes this series of sculptures with animals dissected in formaldehyde to question the public about the ephemeral and the limits between life and death.",
-    "forWhat": "Infinite possibilities?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on transdisciplinarity in art, the use of technologies andthe multiple possibilities of interaction with the viewer. ",
-    "didYouKnow": "The international art market has recently grown as an investment, with high-priced works circulating among private collectors and museums.",
+    "authorContent": "Es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte. ",
+    "forWhat": "¿Infinitas posibilidades?",
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador. ",
+    "didYouKnow": "El mercado del arte internacional ha crecido recientemente como una inversión, con obras de altos precios que circulan entre coleccionistas privados y museos.",
     "questions": [
-      "What do you think are the possibilities that arise when approaching art as a transdisciplinary practice?",
-      "How does technology affect our relationship with the world?",
-      "What are the opportunities offered by works that involve the viewer?"
+      "¿Cuáles crees que son las posibilidades que se presentan al abordar el arte como una práctica transdisciplinar?",
+      "¿Cómo afecta la tecnología nuestra relación con el mundo?",
+      "¿Cuáles son las oportunidades que ofrecen las obras que involucran al espectador?"
     ],
-    "gallery": [
-      {
-        "src": "mv7/c1.jpg",
-        "alt": "Blake Patterson. The art of video games exhibition crowd. Fuente: Wikimedia Commons bajo CC BY 2.0"
-      },
-      {
-        "src": "mv7/c2.jpg",
-        "alt": "Internet map. The Opte Project. Fuente: Wikimedia Commons bajo licencia CC BY S.A 2.5"
-      },
-      {
-        "src": "mv7/c3.jpg",
-        "alt": "Interactive whiteboard. Fuente: Wikimedia Commons bajo dominio público. "
-      },
-      {
-        "src": "mv7/c4.jpg",
-        "alt": "Immersive shadow. Fuente: Wikimedia Commons bajo dominio público. "
-      },
-      {
-        "src": "mv7/c5.jpg",
-        "alt": "Le tunnel sous l’atlantique, Moben. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
-      },
-      {
-        "src": "mv7/1.jpg",
-        "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: Wikimedia Commons bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 3.0."
-      },
-      {
-        "src": "mv7/2.jpg",
-        "alt": "Yayoi Kusama. Obsesión de puntos. 1999. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
-      },
-      {
-        "src": "mv7/3.jpg",
-        "alt": "Banksy. Lovers.  2006. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0."
-      },
-      {
-        "src": "mv7/did_you_know.jpg",
-        "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Fuente: Wikimedia Commons bajo licencia 3.0"
-      },
-      {
-        "src": "mv7/question.jpg",
-        "alt": "Computer chips circuits. 2013. Fuente: Wikimedia Commons bajo dominio público."
-      }
-    ],
-    "proposal": "This section proposes to reflect on transdisciplinarity in art, the use of technologies and the multiple possibilities of interaction with the viewer.",
+    "gallery": [],
+    "proposal": "En esta sección se propone reflexionar sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador.",
     "keyConcepts": [
       {
-        "title": "transdisciplinary",
-        "content": "It is the practice of comprehensive knowledge that transcends the division of disciplines to stimulate innovation and creativity. For example, art in dialogue with other disciplines such as science, sociology or design.",
+        "title": "transdisciplinar",
+        "content": "Es la práctica de un conocimiento integral que trasciende la división de las disciplinas para estimular la innovación y creatividad. Por ejemplo el arte en diálogo con otras disciplinas como la ciencia, la sociología o el diseño.",
         "img": {
           "src": "mv7/c1.jpg",
-          "alt": "Blake Patterson. The art of video games exhibition crowd. Source: Wikimedia Commons under CC BY 2.0"
+          "alt": "Blake Patterson. The art of video games exhibition crowd. Fuente: <a href='https://es.wikipedia.org/wiki/Archivo:The_art_of_video_games_exhibition_crowd.jpg' target='blank'>Wikimedia Commons</a> bajo <a href='https://creativecommons.org/licenses/by/2.0/deed.es' target='blank'>CC BY 2.0</a>"
         }
       },
       {
-        "title": "globalization",
-        "content": "Global exchange and communication process enhanced by the internet, virtual technologies and the expansion of the economic development model.",
+        "title": "globalización",
+        "content": "Proceso de intercambio y comunicación global potenciado por el internet, las tecnologías virtuales y la expansión del modelo económico de desarrollo.",
         "img": {
           "src": "mv7/c2.jpg",
-          "alt": "Internet map. The Opte Project. Source: Wikimedia Commons licensed under CC BY S.A 2.5"
+          "alt": "Internet map. The Opte Project. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Internet_map_1024.jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by/2.5/deed.en' target='blank'>CC BY S.A 2.5</a>"
         }
       },
       {
-        "title": "interactive art",
-        "content": "Works of art that propose an exchange with the viewer through mechanical systems or digital or virtual interfaces that generate action and reaction between the public and the work.",
+        "title": "arte interactivo",
+        "content": "Obras de arte que proponen un intercambio con el espectador a través de sistemas mecánicos o interfaces digitales o virtuales que generan acción y reacción entre el público y la obra.",
         "img": {
           "src": "mv7/c3.jpg",
-          "alt": "Interactive whiteboard. Source: Wikimedia Commons under public domain."
+          "alt": "Interactive whiteboard. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Interactive_whiteboard2.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
         }
       },
       {
-        "title": "immersive art",
-        "content": "Most of them are installations where the viewer not only contemplates the work but is part of it and experiences it through the senses.",
+        "title": "arte inmersivo",
+        "content": "En su mayoría son instalaciones en donde el espectador ya no solo contempla la obra sino que es parte de ella y la experimenta a través de los sentidos.",
         "img": {
           "src": "mv7/c4.jpg",
-          "alt": "Immersive shadow. Source: Wikimedia Commons under Public Domain."
+          "alt": "Immersive shadow. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Immersive_Shadow.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
         }
       },
       {
-        "title": "relational art",
-        "content": "Works of art that conceive social relations as the raw material of artistic creation, therefore many of these works have been performances and happenings.",
+        "title": "arte relacional",
+        "content": "Obras de arte que conciben las relaciones sociales como materia prima de la creación artística, por lo tanto muchas de estas obras han sido performances y happenings.",
         "img": {
           "src": "mv7/c5.jpg",
-          "alt": "Le tunnel sous l’atlantique, Moben. Source: Wikimedia Commons licensed under CC BY SA 3.0"
+          "alt": "Le tunnel sous l’atlantique, Moben. Fuente: <a href='' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by/3.0/deed.en' target='blank'>CC BY SA 3.0</a>"
         }
       }
     ],
-    "previous": {
-      "id": 6,
-      "title": "Conceptual Art in Colombia"
-    },
-    "next": {
-      "id": 8,
-      "title": "Contemporary art in Colombia"
-    },
     "img1": {
       "src": "mv7/1.jpg",
-      "alt": "Damien Hirst. The physical impossibility of death in the mind of the living. 1991. Source: Wikimedia Commons under the Creative Commons Generic Attribution / Share-Alike 3.0 license."
+      "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: <a href='https://en.wikipedia.org/wiki/File:Hirst-Shark.jpg' target='blank'>Wikimedia Commons</a> bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 3.0.",
+      "caption": "<a href='http://velvet-mag.lat/2019/07/04/controversia-muerte-y-colores-damien-hirst/' target='blank'>Damien Hirst</a> (Bristol, Reino Unido, 1965) es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte. "
     },
     "img2": {
       "src": "mv7/2.jpg",
-      "alt": "Yayoi Kusama. Point obsession. 1999. Source: Wikimedia Commons under the CC BY 2.0 license."
+      "alt": "<a href='https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama' target='blank'>Yayoi Kusama. Obsesión de puntos. 1999.</a> Fuente: Wikimedia Commons bajo la licencia CC BY 2.0.",
+      "caption": "<a href='https://www.alejandradeargos.com/index.php/es/completas/32-artistas/41530-yayoi-kusama-biografia-obra-y-exposiciones' target='blank'>Yayoi Kusama</a> (Matsumoto, Japón, 1929) es una artista que construye grandes ambientes con texturas, manchas y colores ofreciendo una experiencia inmersiva en la que la sensación del espacio y el cuerpo cambian por completo. Sus instalaciones artísticas son espacios alucinantes."
     },
     "img3": {
       "src": "mv7/3.jpg",
-      "alt": "Banksy. Lovers. 2006. Source: Wikimedia Commons under the CC BY 2.0 license."
+      "alt": "Banksy. <a href='https://commons.wikimedia.org/wiki/File:Banksy_lovers.jpg' target='blank'>Lovers.</a>  2006. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0.",
+      "caption": "<a href='https://www.oldskull.net/design/banksy-mas-que-un-artista/' target='blank'>Banksy</a> (Bristol, Reino Unido, 1974) es el sobrenombre de uno de los artistas más conocidos del arte urbano. A partir de la incursión del Arte Pop en medios gráficos y publicitarios, las prácticas artísticas en el espacio urbano han adquirido un importante protagonismo. En esta obra Banksy recrea una escena graciosa, utilizando el muro como una superficie narrativa en el espacio público."
     },
     "didYouKnowImg": {
       "src": "mv7/did_you_know.jpg",
-      "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Source: Wikimedia Commons licensed under 3.0"
+      "alt": "Maastricht, the Netherlands. View of TEFAF 2014, The European Fine Art Fair. 2014. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Maastricht,_TEFAF2014-13.jpg' target='blank'>Wikimedia Commons</a> bajo licencia 3.0"
     },
     "questionImg": {
       "src": "mv7/question.jpg",
-      "alt": "Computer chips circuits. 2013. Source: Wikimedia Commons under public domain."
+      "alt": "Computer chips circuits. 2013. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Computers_chips_circuits.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público."
     },
     "knowMore": [
       {
         "title": "Pinzón, D. (1950). Happening.",
-        "link": "https://proyectoidis.org/happening/",
-        "img": {
-          "src": "mv7/m1.jpg",
-          "alt": "Pinzón, D. (1950). Happening."
-        }
+        "link": "https://proyectoidis.org/happening/"
       },
       {
-        "title": "Abigail, L. (2014). The“ Princess of the Polka Dots ”Yayoi Kusama. Vice.",
-        "link": "https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama",
-        "img": {
-          "src": "mv7/m2.jpg",
-          "alt": "Abigail, L. (2014). The“ Princess of the Polka Dots ”Yayoi Kusama. Vice."
-        }
+        "title": "Abigail, L. (2014). La “Princesa de los lunares” Yayoi Kusama. Vice.",
+        "link": "https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama"
       },
       {
-        "title": "Hisour (s. f.). Interactive Art. Accessed June 20, 2020.",
-        "link": "https://www.hisour.com/es/interactive-art-21343/",
-        "img": {
-          "src": "mv7/m3.jpg",
-          "alt": "Hisour (s. f.). Interactive Art. Accessed June 20, 2020."
-        }
+        "title": "Hisour (s. f.). Arte Interactivo. Consultado el 20 de junio del 2020.",
+        "link": "https://www.hisour.com/es/interactive-art-21343/"
       }
     ],
     "references": [
-      "BIBLIOGRAPHY",
-      "\nPasos Otton, Adriana., 2018. What is Contemporary Art? (Online) Available at: https://arteaunclick.es/2018/06/13/arte-contemporaneo/ (accessed June 16, 2020) ",
-      "\nAmpudia, Mariana., 2016. Reflections on a globalized art. (Online) Available at: https://www.eleconomista.com.mx/arteseideas/\nReflexiones-sobre-un-arte-globalizado-20160828-0094. html (Consulted on June 16, 2020) ",
-      "\nLINKS",
-      "\nPazos Otton, Adriana., 2018. What is contemporary art ?. Available at: (Consulted on June 20, 2020)",
-      "\nChung, Becky., 2014. Eyal Gever transforms sublime moments into 3D printing \nescultures. Vice. (Online) Available at: https: // www. \nvice.com/es/article/wn48dz/eyal-gever- transform-sublime-moments-into-3d-printing-sculptures (Consulted on June 20, \n2020) ",
-      "\nAzócar, Ramon E., 2013. Distinction between: interdisciplinary / transdisciplinary / multidisciplinary. (Online) Available at: http://ramonazocargestiondetalentohumano.blogspot.com/2013/05/distincion-entre-interdisciplinario.html (Consulted on 20 June 2020) ",
-      "\nCaramantin Cruz, Leonardo R., 2018. Art and new media. (Online) \nAvailable at: https://medium.com/@leonardo.caramantin/arte-y-nuevos-medios-3101bb37a439 (Consulted on 20 June 2020) ",
-      "\nHisour., n.d. Interactive Art. (Online) Available at: https://www.hisour.com/es/interactive-art-21343 / (Consulted on June 20, 2020)",
-      "\nRey, Mariana., 2014. What is Relational Art ?. Collective Culture. (Online) Available: https://culturacolectiva.com/generales/\nque-es-el-arte-relacional (Consulted on 20 June 2020) ",
-      "\nPinzón, Diego., 1950. Happening. (Online) Available at: https://proyectoidis.org/happening/ (Consulted on June 20, 2020)",
-      "\nVoto, Cristina., 1997. Performance. (Online) Available at: https: // \nproyectoidis.org/performance/ (Consulted on June 20, 2020)",
-      "\nManifesto de Arte., s.f. Discovering Immersive Art. (Online) Available at: http://manifiestodearte.com/descubrando-el-arte-inmersivo/\n(Consulted on June 20, 2020)",
-      "\nHirst, Damien., sf The Physical Impossibility of Death in the Mind of \nSomeone Living, 1991. Official website. (Online) Available at: http: // \ndamienhirst.com/the-physical-impossibility-of ( Consulted on \nJune 20, 2020) ",
-      "\nRodriguez, Helena., 2019. Controversia, Muerte y Colores: Damien \nHirst. (Online) Available at: http://velvet-mag.lat/2019/07/04/controversia-muerte-y-colores-damien -hirst / (Consulted on June 20, \n2020) ",
-      "\nSánchez, Marta. 2017., Yayoi Kusama: Biography, work and exhibitions. \n (Online) Available at: https://www.alejandradeargos.com/index.php/\nes/completas/32-artistas/41530-yayoi-kusama-biography-work-and-exhibitions (Consulted on June 20, 2020) ",
-      "\nAbigail, Laurel. 2014. The“ Princess of the Polka Dots ”Yayoi Kusama. Vice. \n (Online) Available at: https://www.vice.com/es/article/xy5z97/laprincesa-de-los-lunares-yayoi-kusama (Consulted on June 20, \n2020) ",
-      "\nDon't shoot the artist., 2012. Kara Walker. (Online) Blog available at: \nhttps://nodisparenalartista.wordpress.com/2012/09/28/kara-walker/ \n (Consulted on June 20, 2020) ",
-      "\nGoogle Arts & Culture., sf Kara Walker - Darkytown Rebellion, 2001. \n (Online) Available at: https://artsandculture.google.com/asset/kara-walker-darkytown-rebellion-2001/3AGP-gbWUkKt8Q?hl=es-419 \n (Consulted on June 20, 2020) ",
-      "\nMás de Mx., 2016. 5 fundamental works by Gabriel Orozco to \nknow this Mexican artist. (Online) Available at: https://masdemx.com/2016/01/5-obras-fundamentales-de-gabriel -orozco-to-meet-this-Mexican-artist / (Consulted on June 20, \n2020) ",
-      "\nPinterest, nd Gabriel Orozco - My hands are my heart. \n1991. (Online) Available at: https://www.pinterest.com.mx/\npin/543739354990783834/ (Accessed June 20, 2020)",
-      "\nLavernia, Kilian., 2017. Marina Abramovic: Biography, work and exhibitions. (Online) Available at: https://www.alejandradeargos.com/\nindex.php/es/completas/32-artistas/41444-marina-abramovic-biography-work-exhibitions (Consulted on June 20, 2020) ",
-      "\nMetaconsciencia., 2013. Marina Abramovic and Ulay - MoMA 2010. (Online) Available at: https://www.youtube.com/watch?v=traUaknfR5o\n( Consulted on June 20, 2020)",
-      "\nOld skull., nd Banksy, the most famous graffiti artist nobody knows. (Online) Available at: https://www.oldskull.net/design/banksy-mas-queun-artista/ (Consulted on June 20, 2020) ",
-      "\nQuezada, Natalia., 2018. Street Art, the“ new ”art that will make us wake up. Reflexiones Marginales Magazine. (Online) Available at: https://revista.reflexionesmarginales.com/street-art-el-nuevo-art-que-noshara-awaken / (Consulted on June 20, 2020) "
+      "BIBLIOGRAFÍA",
+      "\nPasos Otton, Adriana., 2018. ¿Qué es el Arte Contemporáneo? (Online) Disponible en: https://arteaunclick.es/2018/06/13/arte-contemporaneo/ (consultado el 16 de Junio del 2020)",
+      "\nAmpudia, Mariana., 2016. Reflexiones sobre un arte globalizado. (Online) Disponible en: https://www.eleconomista.com.mx/arteseideas/\nReflexiones-sobre-un-arte-globalizado-20160828-0094.html (Consultado el 16 de Junio del 2020)",
+      "\nENLACES",
+      "\nPazos Otton, Adriana., 2018. ¿Qué es el arte contemporáneo?. Disponible en: (Consultado el 20 de Junio del 2020)",
+      "\nChung, Becky., 2014. Eyal Gever transforma momentos sublimes en\nesculturas de impresión 3D. Vice. (Online) Disponible en: https://www.\nvice.com/es/article/wn48dz/eyal-gever-transforma-momentos-sublimes-en-esculturas-de-impresion-3d (Consultado el 20 de Junio del\n2020)",
+      "\nAzócar, Ramon E., 2013. Distinción entre: interdisciplinario / transdisciplinario / multidisciplinario. (Online) Disponible en: http://ramonazocargestiondetalentohumano.blogspot.com/2013/05/distincion-entre-interdisciplinario.html (Consultado el 20 de Junio 2020)",
+      "\nCaramantin Cruz, Leonardo R., 2018. Arte y nuevos medios. (Online)\nDisponible en: https://medium.com/@leonardo.caramantin/arte-y-nuevos-medios-3101bb37a439 (Consultado el 20 de Junio del 2020)",
+      "\nHisour., n.d. Arte Interactivo. (Online) Disponible en: https://www.hisour.\ncom/es/interactive-art-21343/ (Consultado el 20 de Junio del 2020)",
+      "\nRey, Mariana., 2014. ¿Qué es el Arte Relacional?. Cultura Colectiva. (Online) Disponible: https://culturacolectiva.com/generales/\nque-es-el-arte-relacional (Consultado el 20 de Junio del 2020)",
+      "\nPinzón, Diego., 1950. Happening. (Online) Disponible en: https://proyectoidis.org/happening/ (Consultado el 20 de Junio del 2020)",
+      "\nVoto, Cristina., 1997. Performance. (Online) Disponible en: https://\nproyectoidis.org/performance/ (Consultado el 20 de Junio del 2020)",
+      "\nManifiesto de Arte., s.f. Discovering Immersive Art. (Online) Disponibke en: http://manifiestodearte.com/descubriendo-el-arte-inmersivo/\n(Consultado el 20 de Junio del 2020)",
+      "\nHirst, Damien., s.f. The Physical Impossibility of Death in the Mind of\nSomeone Living, 1991. Sitio Web oficial. (Online)Disponible en: http://\ndamienhirst.com/the-physical-impossibility-of (Consultado el 20 de\nJunio del 2020)",
+      "\nRodriguez, Helena., 2019. Controversia, Muerte y Colores: Damien\nHirst. (Online) Disponible en: http://velvet-mag.lat/2019/07/04/controversia-muerte-y-colores-damien-hirst/ (Consultado el 20 de Junio del\n2020)",
+      "\nSánchez, Marta. 2017., Yayoi Kusama: Biografía, obra y exposiciones.\n(Online) Disponible en: https://www.alejandradeargos.com/index.php/\nes/completas/32-artistas/41530-yayoi-kusama-biografia-obra-y-exposiciones (Consultado el 20 de Junio del 2020)",
+      "\nAbigail, Laurel. 2014. La “Princesa de los lunares” Yayoi Kusama. Vice.\n(Online) Disponible en: https://www.vice.com/es/article/xy5z97/laprincesa-de-los-lunares-yayoi-kusama (Consultado el 20 de Junio del\n2020)",
+      "\nNo disparen al artista., 2012. Kara Walker. (Online) Blog disponible en:\nhttps://nodisparenalartista.wordpress.com/2012/09/28/kara-walker/\n(Consultado el 20 de Junio del 2020)",
+      "\nGoogle Arts & Culture., s.f. Kara Walker - Darkytown Rebellion, 2001.\n(Online) Disponible en: https://artsandculture.google.com/asset/kara-walker-darkytown-rebellion-2001/3AGP-gbWUkKt8Q?hl=es-419\n(Consultado el 20 de Junio del 2020)",
+      "\nMás de Mx., 2016. 5 obras fundamentales de Gabriel Orozco para\nconocer a este artista mexicano. (Online) Disponible en: https://masdemx.com/2016/01/5-obras-fundamentales-de-gabriel-orozco-para-conocer-a-este-artista-mexicano/ (Consultado el 20 de Junio del\n2020)",
+      "\nPinterest, n.d. Gabriel Orozco - Mis manos son mi corazón.\n1991.(Online) Disponible en: https://www.pinterest.com.mx/\npin/543739354990783834/ (Consultado el 20 de Junio del 2020)",
+      "\nLavernia, Kilian., 2017. Marina Abramovic: Biografía, obra y exposiciones.(Online) Disponible en: https://www.alejandradeargos.com/\nindex.php/es/completas/32-artistas/41444-marina-abramovic-biografia-obra-exposiciones (Consultado el 20 de Junio del 2020)",
+      "\nMetaconsciencia., 2013. Marina Abramovic y Ulay - MoMA 2010. (Online) Disponible en: https://www.youtube.com/watch?v=traUaknfR5o\n(Consultado el 20 de Junio del 2020)",
+      "\nOld skull., n.d. Banksy, el graffitero más famoso que nadie conoce.(Online) Disponible en: https://www.oldskull.net/design/banksy-mas-queun-artista/ (Consultado el 20 de Junio del 2020)",
+      "\nQuezada, Natalia.,2018. Street Art, el “nuevo” arte que nos hará despertar. Revista Reflexiones Marginales. (Online) Disponible en: https://\nrevista.reflexionesmarginales.com/street-art-el-nuevo-arte-que-noshara-despertar/ (Consultado el 20 de Junio del 2020)"
     ]
   },
   {
     "id": 8,
     "color": "#9ED1F2",
-    "title": "Contemporary art in Colombia",
     "text": "black",
-    "history": "Expressions of contemporary art in Colombia",
-    "historyDescription": [
-      "Beginning in the 50s, Colombia experienced important social transformations marked by rapid urban growth, caused by displacement and modernization. The new representations of the city were a recurring theme for artists such as Fernell Franco, Carlos Caicedo or Dora Franco, who they used photography artistically, connecting with other areas of visual production such as design, advertising, popular graphics and the media. ",
-      "The struggles for gender rights and freedoms motivated the creation of works around the body, homoeroticism and sexuality, opening in art a space for free expression. Artists such as María Evelia Marmolejo, Luis Caballero or Karen Lamassonne,",
-      "they made works around their gender identity, combining differenttechniques such as drawing, video and performance. The political and social tensions of the 60s and 70s, prompted the production of works that questioned the patriotic, religious and cultural symbols; this is reflected in the works of Antonio Caro and Bernardo Salcedo. (Jaramillo, Suarez and Wills, 2018) ",
-      "The Museum of Modern Art of Bogotá - MAMBO was connected with the Museums of Modern Art of Medellín, Cali and Barranquilla, to make visible artists from different regions. Two decisive events for Contemporary Art in Colombia happened at MAMBO: the exhibition Environmental Spaces which introduced the installation and the Atenas Salons that strengthened the emergence of contemporary art. (Jaramillo, 2012) "
-    ],
+    "title": "Arte contemporáneo en Colombia",
+    "history": "Expresiones del arte contemporáneo en colombia",
+    "historyDescription": "A partir de la década de 1950 Colombia vivió importantes transformaciones sociales marcadas por el rápido crecimiento urbano, causado por el desplazamiento y la modernización. Las nuevas representaciones de la ciudad fueron un tema recurrente para artistas como Fernell Franco, Carlos Caicedo o Dora Franco, quienes emplearon la fotografía artísticamente, conectándose con otros ámbitos de la producción visual como el diseño, la publicidad, la gráfica popular y los medios de comunicación. \n\nLas luchas por los derechos y libertades de género motivaron la creación de obras en torno al cuerpo, el homoerotismo y la sexualidad, abriendo en el arte un espacio para la libre expresión. Artistas como María Evelia Marmolejo, Luis Caballero o Karen Lamassonne, realizaron obras en torno a su identidad de género, combinando diferentes técnicas como el dibujo, el video y el performance. Las tensiones políticas y sociales de los decenios de 1960 y 1970, incitaron a la producción de obras que cuestionaron los símbolos patrios, religiosos y culturales; esto se refleja en las obras de Antonio Caro y Bernardo Salcedo (Jaramillo, Suarez y Wills, 2018) \n\n El Museo de Arte Moderno de Bogotá (MAMBO) se conectó con los museos de Arte Moderno de Medellín, Cali y Barranquilla para visibilizar artistas de diferentes regiones. Dos acontecimientos determinantes para el Arte Contemporáneo en Colombia sucedieron en el MAMBO: la exposición Espacios Ambientales que introdujo la instalación y los Salones Atenas que fortalecieron el surgimiento del arte contemporáneo (Jaramillo, 2012). ",
     "author": "Beatriz González",
-    "authorContent": "She is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using popular culture images in everyday objects to communicate her reflections on the Colombian context and the problems associated with it. conflict, gender and landscape. In this work, the artist intervenes a wooden bed with a religious image. ",
-    "forWhat": "Today's art?",
-    "forWhatContent": "In this section it is proposed that teachers and students reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context.",
-    "didYouKnow": "In the 1991 Constitution the State recognizes its duty to promote access to art and culture in society as a guarantee of the rights of all citizens to the free expression of their identity.",
-    "activity": "After making this journey from Modern Art in the world to Contemporary Art in Colombia, you already have the creative tools to make a work of art. We invite you to propose a work of art with the means you have available and that expresses a personal disagreement. ",
+    "authorContent": "(Bucaramanga, Colombia, 1938) es una de las artistas más reconocidas de Colombia, su trabajo ha explorado los límites entre la pintura y la escultura, usando imágenes de la cultura popular en objetos cotidianos para comunicar sus reflexiones sobre el contexto colombiano y las problemáticas asociadas al conflicto, el género y el paisaje. En esta obra, la artista interviene una cama de madera con una imagen religiosa.",
+    "forWhat": "¿Arte de hoy?",
+    "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las expresiones particulares del arte contemporáneo y el rol de los artistas en el contexto social, político y cultural colombiano. ",
+    "didYouKnow": "En la Constitución de 1991 el Estado reconoce su deber de fomentar el acceso al arte y la cultura en la sociedad como garantía de los derechos de toda la ciudadanía a la libre expresión de su identidad.",
+    "activity": "Después de realizar este recorrido desde el Arte Moderno en el mundo hasta el Arte Contemporáneo en Colombia, ya tienes las herramientas creativas para realizar una obra de arte. Te invitamos a proponer una obra de arte con los medios que tengas disponibles y que exprese una inconformidad personal.",
     "questions": [
-      "What have been the influences of art in the history of Colombia?",
-      "On what subjects would you like to make art today?",
-      "How can art influence the change of stereotypes and discrimination?"
+      "¿Cuáles han sido las influencias del arte en la historia de Colombia?",
+      "¿Sobre qué temas te gustaría hacer arte hoy?",
+      "¿Cómo el arte puede incidir en el cambio de los estereotipos y la discriminación? "
     ],
-    "gallery": [
-      {
-        "src": "mv8/c1.jpg",
-        "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
-      },
-      {
-        "src": "mv8/c2.jpg",
-        "alt": "Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: Wikimedia Commons bajo licencia CC BY 2.0"
-      },
-      {
-        "src": "mv8/c3.jpg",
-        "alt": "Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: Wikimedia Commons bajo licencia CC BY SA 3.0"
-      },
-      {
-        "src": "mv8/1.jpg",
-        "alt": "Beatriz González. Naturaleza casi muerta. 1970. Esmalte sintético sobre lámina de metal ensamblada en muebles. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv8/2.jpg",
-        "alt": "Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv8/3.jpg",
-        "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO"
-      },
-      {
-        "src": "mv8/did_you_know.jpg",
-        "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
-      },
-      {
-        "src": "mv8/question.jpg",
-        "alt": "Clemencia Lucena. Yo no soy un hombre. Yo soy un programa. 1970. Fuente: Colección MAMBO. "
-      },
-      {
-        "src": "mv8/activity.jpg",
-        "alt": "New Orleans Square Caricature Artist Tools. 2014. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.0"
-      }
-    ],
-    "proposal": "This section proposes to reflect on the particular expressions of contemporary art and the role of artists in the Colombian social, political and cultural context.",
+    "gallery": [],
+    "proposal": "En esta sección se propone reflexionar sobre las expresiones particulares del arte contemporáneo y el papel de los artistas en el contexto social, político y cultural colombiano. ",
     "keyConcepts": [
       {
-        "title": "new media",
-        "content": "Techniques and strategies of contemporary art such as readymade, video, performance and installation among others, which expanded the tradition of art history based on drawing, painting and sculpture.",
+        "title": "nuevos medios",
+        "content": "Técnicas y estrategias del arte contemporáneo como el readymade, el video, el performance y la instalación entre otras, que ampliaron la tradición de la historia del arte fundamentada en el dibujo, la pintura y la escultura.",
         "img": {
           "src": "mv8/c1.jpg",
-          "alt": "José Alejandro Restrepo. Atrium and central nave. 1996. Video installation. Source: MAMBO Collection."
+          "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
         }
       },
       {
-        "title": "armed conflict",
-        "content": "Armed confrontation with more than eight million victims that arose in the 1960s with the founding of the guerrilla of the Revolutionary Armed Forces of Colombia FARC and culminated in the peace agreement signed in the government of Juan Manuel Santos in 2016. However, although this agreement ended a historic conflict, in some regions the violence continues. ",
+        "title": "conflicto armado",
+        "content": "Enfrentamiento armado con más de ocho millones de víctimas que surgió en los años 60 con la fundación de la guerrilla de las Fuerzas Armadas Revolucionarias de Colombia FARC y culminó con el acuerdo de paz firmado en el gobierno de Juan Manuel Santos en el 2016. Sin embargo, aunque este acuerdo puso fin a un conflicto histórico, en algunas regiones la violencia continúa.",
         "img": {
           "src": "mv8/c2.jpg",
-          "alt": "Head of State participates in the Peace Signing ceremony between the Government of Colombia and the FARC E.P. Government of Chile. 2016. Source: Wikimedia Commons under license CC BY 2.0"
+          "alt": "Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Jefa_de_Estado_participa_en_ceremonia_de_la_Firma_de_la_Paz_entre_el_Gobierno_de_Colombia_y_las_FARC_E.P._(29953487045).jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by/2.0/deed.en' target='blank'>CC BY 2.0</a>"
         }
       },
       {
-        "title": "constitution of 91",
-        "content": "The National Constituent Assembly of 1991 was the result of the peace agreement between the government of Belisario Betancur and the guerrilla group M - 19. In this assembly, the Political Constitution of Colombia was drawn up, a document that consolidated democracy in our country.",
+        "title": "constitución del 91",
+        "content": "La Asamblea Nacional Constituyente del año 1991 fue resultado del acuerdo de paz entre el gobierno de Belisario Betancur y el grupo guerrillero M - 19. En esta asamblea, se elaboró la Constitución Política de Colombia, documento que consolidó la democracia en nuestro país.",
         "img": {
           "src": "mv8/c3.jpg",
-          "alt": "Photograph of a publication of the Colombian constitution. The book was printed in December 1991, at the IMPREANDES, SA workshops, Bogotá, Colombia. 2019. Source: Wikimedia Commons under license CC BY SA 3.0 "
+          "alt": "Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Constituc%C3%B3n_Pol%C3%ADtica_de_Colombia_1991.jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' target='blank'>CC BY SA 3.0</a>"
         }
       }
     ],
-    "previous": {
-      "id": 7,
-      "title": "Contemporary Art in the World"
-    },
-    "next": {
-      "id": 9,
-      "title": "New media"
-    },
     "img1": {
       "src": "mv8/1.jpg",
-      "alt": "Beatriz González. Almost still life. 1970. Synthetic enamel on metal sheet assembled in furniture. Source: MAMBO Collection"
+      "alt": "Beatriz González. Naturaleza casi muerta. 1970. Esmalte sintético sobre lámina de metal ensamblada en muebles. Fuente: Colección MAMBO",
+      "caption": "<a href='https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html' target='blank'>Beatriz González</a> (Bucaramanga, Colombia, 1938) es una de las artistas más reconocidas de Colombia, su trabajo ha explorado los límites entre la pintura y la escultura, usando imágenes de la cultura popular en objetos cotidianos para comunicar sus reflexiones sobre el contexto colombiano y las problemáticas asociadas al conflicto, el género y el paisaje. En esta obra, la artista interviene una cama de madera con una imagen religiosa. "
     },
     "img2": {
       "src": "mv8/2.jpg",
-      "alt": "Óscar Muñoz. Shower curtains. 1986. Acrylic on plastic. Source: MAMBO Collection"
+      "alt": "Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO",
+      "caption": "<a href='https://www.banrepcultural.org/oscar-munoz/cortinas-bano.html' target='blank'>Oscar Muñoz</a> (Popayán, Colombia, 1951) es un artista que ha explorado diferentes soportes y materiales; incluso el video y la fotografía para realizar propuestas que incorporan el tiempo y el espacio en el dibujo. En esta serie de cortinas de baño con siluetas humanas dibujadas en ellas, el artista realiza un comentario sobre la intimidad y la ausencia de los cuerpos."
     },
     "img3": {
       "src": "mv8/3.jpg",
-      "alt": "Maria Fernanda Cardoso. Crown for a chibcha princess. Lizards and Metal. 1990.Source: MAMBO Collection "
+      "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha.  Lagartijas y Metal. 1990. Fuente: Colección MAMBO",
+      "caption": "<a href='http://camilolamprea.blogspot.com/2015/03/referentes-en-el-tema-de-y-bi-ologia.html' target='blank'>Maria Fernanda Cardoso</a> (Bogotá, Colombia, 1963) es una artista multidisciplinar que ha investigado la naturaleza a través de la fotografía, la escultura y el performance. Su trabajo la ha llevado a importantes escenarios como la Bienal de Venecia. Esta obra es una corona de lagartijas disecadas."
     },
     "didYouKnowImg": {
       "src": "mv8/did_you_know.jpg",
-      "alt": "Student demonstration. April 7, 2011. Source: Wikimedia Commons under license CC BY S.A 3. ="
+      "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
     },
     "questionImg": {
       "src": "mv8/question.jpg",
-      "alt": "Clemencia Lucena. I am not a man. I am a program. 1970. Source: MAMBO Collection."
+      "alt": "Clemencia Lucena. Yo no soy un hombre. Yo soy un programa. 1970. Fuente: Colección MAMBO. "
     },
     "activityImg": {
       "src": "mv8/activity.jpg",
-      "alt": "New Orleans Square Caricature Artist Tools. 2014. Source: Wikimedia Commons licensed under CC BY S.A 3.0"
+      "alt": "New Orleans Square Caricature Artist Tools. 2014. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.0"
     },
     "knowMore": [
       {
-        "title": "",
-        "link": "",
-        "img": {
-          "src": "mv8/3.jpg",
-          "alt": ""
-        }
+        "title": "Carlos Caicedo: el fotógrafo del instante por Estefanía Avella Bermúdez. ",
+        "link": "https://cerosetenta.uniandes.edu.co/carlos-caicedo-el-fotografo-del-instante/"
       },
       {
-        "title": "",
-        "link": "",
-        "img": {
-          "src": "mv8/3.jpg",
-          "alt": ""
-        }
+        "title": "Bernardo Salcedo: Cómo hacer las cosas con palabras. Revista Artishock. ",
+        "link": "https://artishockrevista.com/2017/02/21/bernardo-salcedo-las-cosas-palabras/ "
       },
       {
-        "title": "",
-        "link": "",
-        "img": {
-          "src": "mv8/3.jpg",
-          "alt": ""
-        }
+        "title": "Hace 50 años: Inaugura la exposición Espacios Ambientales en el Museo de Arte Moderno. ",
+        "link": "http://www.museonacional.gov.co/noticias/Paginas/inaugura%20la%20exposicio%CC%81n%20Espacios%20Ambientales%20en%20el%20Museo%20de%20Arte%20Moderno.aspx"
+      },
+      {
+        "title": "La Constitución de 1991: 25 años de un proyecto humanista y democrático por José Gregorio Hernández. Razón Pública.",
+        "link": "https://razonpublica.com/la-constitucion-de-1991-25-anos-de-un-proyecto-humanista-y-democratico/"
       }
     ],
     "references": [
-      "BIBLOGRAPHY",
-      "\nSuarez, Silvia., Jaramillo, Carmen M., Wills, Maria., 2018. The Art of \nDisobedience: Mambo Collection 1965-1984. Bogotá: Editorial Seal \nMuseo de Arte Moderno de Bogotá.",
-      "\nLINKS",
-      "\nFranco, Fernell., 2016. Fernell Franco Official Website. (Online) DiFranco, Fernell., 2016. Fernell Franco Official Website. (Online) Available \nen: http://fernellfranco.org/ (Consulted on 21 June 2020) ",
-      "\nAvella Bermúdez, Estefanía., 2015. Carlos Caicedo, the \ninstante photographer. (Online) Available at: https://cerosetenta.uniandes.edu.co/\ncarlos-caicedo-el-fotografo-del-instante/ (Consulted on June 21 \n2020) ",
-      "\nRed Cultural del Banco de la República., s.f. Dora Franco. (Online) Available at: https://enciclopedia.banrepcultural.org/index.php/Dora_\nFranco (Consulted on June 21, 2020)",
-      "\nEmcee's Corner., 2016. Pop Art and Publicity. (Online) Available \nen: https://fabianfajardoescobar.wordpress.com/2016/11/30/arte-pop-y-publicidad/ (Consulted on June 21 2020) ",
-      "\nVersión Beta., 2013. Gráfica Popular Investigación. [Online video] Available at: https://www.youtube.com/watch?v=yUBmRk7rQzk (Consulted on June 21, 2020)",
-      "\nCarrón, Mario., 2020. Media: Learn, get informed \nand relate - For teens. [Online video] Available at: \nhttps: //www.youtube.com/watch? v = wyG7nuRAs6g (Consulted on June 21, 2020) ",
-      "\nRed Cultural del Banco de la República., nd Luis Caballero Holguín. \n (Online) Available at: https://enciclopedia.banrepcultural.org/index.\nphp/Luis_Caballero_Holgu%C3%ADn (Consulted on June 21 from \n2020) ",
-      "\nCali creativa., s.f. Karen Lamassonne, the artist who drew sensual cali. Available at: http://calicreativa.com/karen-lamassonne-exposicion-tertulia/ (Consulted on June 21, 2020)",
-      "\nArte dos., s.f. Antonio Caro. (Online) Available at: https://tienda.artedos.com/collections/artista-antonio-caro (Consulted on June 21 \ndel 2020)",
-      "\nOchoa, Úrsula., 2017. Bernardo Salcedo: How to do things with words. (Online) Available at: https://artishockrevista.com/2017/02/21/\nbernardo-salcedo-las-cosas-palabras/ ( Consulted on June 21, \n2020) ",
-      "\nPosada, Valeria., 2018. 50 years ago ... opens the exhibition Environmental \nSpaces at the Museum of Modern Art (National University / Bogotá). (Online) Available at: http: //www.museonacional. gov.co/\nnoticias/Paginas/inaugura%20la%20exposicio%CC%81n%20Espacios%20Ambientales%20en%20el%20Museo%20de%20Arte%20\nModerno.aspx (Consulted on June 21, 2020) ",
-      "\nMás de Arte., sf Installation as creation in space: its development from Kienholz. Available at: https://masdearte.com/especiales/la-instalacion-como-creacion-en-el-espacio-caracteristicas- types-and-cases / \n (Consulted on June 21, 2020) ",
-      "\nMelser., 2013. Los Salones Atenas. El Tiempo. Available at: https: // \nwww.eltiempo.com/archivo/documento/MAM-6028570 (Consulted on June 21, 2020)",
-      "\nEspejo, Bea., 2018. Beatriz González“ The work of art serves as a historical reflection. ”El País. (Online) Available at: https: //www.eltiempo. \ncom / file / document / MAM-6028570 ( Consulted on June 21 \n2020) ",
-      "\nHistoria - Arte., s.f. Nadín Ospina. (Online) Available at: https://historia-arte.com/artistas/nadin-ospina (Consulted on June 21, \n2020)",
-      "\nVirtual Library of the Banco de la República., nd Oscar Muñoz, Cortinas de Baño, 1985-86. (Online) Available at: https://www.banrepcultural.org/oscar-munoz/cortinas-bano.html (Consulted on June 21 \ndel 2020) ",
-      "\nEchavarría, Juan Manuel., sf Requiem NN with the collaboration of \nFernando Grisalez. (Online) Official Website. Available at: https: // \njmechavarria.com/es/work/requiem-nn/ (Consulted on 21 June \n2020) ",
-      "\nEchavarría, Juan Manuel. s.f. Requiem Film NN. (Online video) Available at: http://www.requiemnnfilm.com/view.html (Accessed June 21, 2020)",
-      "\nLamprea León, Camilo., 2015. Referents on the subject of Art and Biology. \n (Online) Available at: http://camilolamprea.blogspot.com/2015/03/\nreferentes-en-el-tema- de-y-bi-ologia.html (Consulted on June 21 \ndel 2020) ",
-      "\nDaros - Latinoamérica., sf Maria Fernanda Cardoso Obra. (Online) Available at: https://www.daros-latinamerica.net/es/artwork/corona-para-una-princesa-chibcha (Consulted on June 21 2020) ",
-      "\nArtnet., s.f. Catalina Mejía. (Online) Available at: http: //www.artnet. \ncom / artists / catalina-mej% C3% ADa / biography (Consulted on \nJune 21, 2020)",
-      "\nEl Tiempo Televisión., 2015. This is the studio of the artist Catalina Mejía. [Online video] Available at: https://www.youtube.com/watch?v=-\nJ90SJo15lks (Consulted on June 21 2020) ",
-      "\nInternational Committee of the Red Cross., 2020. The difficult reality of armed conflict in Colombia. (Online) Available at: https: // www.icrc.org/es/document/colombia-preocupaciones-del-conflicto-armado-y-la-violencia (Consulted on July 17, 2020). "
+      "BIBLOGRAFÌA",
+      "\nSuarez, Silvia., Jaramillo, Carmen M., Wills, Maria., 2018. El Arte de la\nDesobediencia: Colección Mambo 1965-1984. Bogotá: Sello Editorial\nMuseo de Arte Moderno de Bogotá.",
+      "\nENLACES",
+      "\nFranco, Fernell., 2016. Fernell Franco Sitio Web Oficial. (Online) DiFranco, Fernell., 2016. Fernell Franco Sitio Web Oficial. (Online) Disponible\nen: http://fernellfranco.org/ (Consultado el 21 de Junio del 2020)",
+      "\nAvella Bermúdez, Estefanía., 2015. Carlos Caicedo, el fotógrafo del\ninstante.(Online) Disponible en: https://cerosetenta.uniandes.edu.co/\ncarlos-caicedo-el-fotografo-del-instante/ (Consultado el 21 de Junio\ndel 2020)",
+      "\nRed Cultural del Banco de la República., s.f. Dora Franco.(Online) Disponible en: https://enciclopedia.banrepcultural.org/index.php/Dora_\nFranco (Consultado el 21 de Junio del 2020)",
+      "\nEmcee’s Corner., 2016. Arte Pop y Publicidad. (Online) Disponible\nen: https://fabianfajardoescobar.wordpress.com/2016/11/30/arte-pop-y-publicidad/ (Consultado el 21 de Junio del 2020)",
+      "\nVersión Beta., 2013. Gráfica Popular Investigación. [Video en línea] Disponible en: https://www.youtube.com/watch?v=yUBmRk7rQzk (Consultado el 21 de Junio del 2020)",
+      "\nCarrón, Mario., 2020. Medios de comunicación: Aprender, informarse\ny relacionarse - Para adolescentes. [Video en línea] Disponible en:\nhttps://www.youtube.com/watch?v=wyG7nuRAs6g (Consultado el 21\nde Junio del 2020)",
+      "\nRed Cultural del Banco de la República., n.d. Luis Caballero Holguín.\n(Online) Disponible en: https://enciclopedia.banrepcultural.org/index.\nphp/Luis_Caballero_Holgu%C3%ADn (Consultado el 21 de Junio del\n2020)",
+      "\nCali creativa., s.f. Karen Lamassonne, la artista que dibujó la cali sensual. Disponible en: http://calicreativa.com/karen-lamassonne-exposicion-tertulia/ (Consultado el 21 de Junio del 2020)",
+      "\nArte dos., s.f. Antonio Caro. (Online) Disponible en: https://tienda.artedos.com/collections/artista-antonio-caro (Consultado el 21 de Junio\ndel 2020)",
+      "\nOchoa, Úrsula.,2017. Bernardo Salcedo: Cómo hacer las cosas palabras. (Online) Disponible en: https://artishockrevista.com/2017/02/21/\nbernardo-salcedo-las-cosas-palabras/ (Consultado el 21 de Junio del\n2020)",
+      "\nPosada, Valeria.,2018. Hace 50 años...inaugura la exposición Espacios\nAmbientales en el Museo de Arte Moderno (De la Universidad Nacional/Bogotá). (Online) Disponible en: http://www.museonacional.gov.co/\nnoticias/Paginas/inaugura%20la%20exposicio%CC%81n%20Espacios%20Ambientales%20en%20el%20Museo%20de%20Arte%20\nModerno.aspx (Consutlado el 21 de Junio del 2020)",
+      "\nMás de Arte., s.f. La instalación como creación en el espacio: su desarrollo desde Kienholz. Disponible en: https://masdearte.com/especiales/la-instalacion-como-creacion-en-el-espacio-caracteristicas-tipos-y-casos/\n(Consultado el 21 de Junio del 2020)",
+      "\nMelser., 2013. Los Salones Atenas. El Tiempo. Disponible en: https://\nwww.eltiempo.com/archivo/documento/MAM-6028570 (Consultado\nel 21 de Junio del 2020)",
+      "\nEspejo, Bea., 2018. Beatriz González “La obra de arte sirve como reflexión histórica”. El País. (Online) Disponible en: https://www.eltiempo.\ncom/archivo/documento/MAM-6028570 (Consultado el 21 de Junio\ndel 2020)",
+      "\nHistoria - Arte., s.f. Nadín Ospina.(Online) Disponible en: https://historia-arte.com/artistas/nadin-ospina (Consultado el 21 de Junio del\n2020)",
+      "\nBiblioteca Virtual del Banco de la República., n.d. Oscar Muñoz, Cortinas de Baño, 1985-86. (Online) Disponible en: https://www.banrepcultural.org/oscar-munoz/cortinas-bano.html (Consultado el 21 de Junio\ndel 2020)",
+      "\nEchavarría, Juan Manuel., s.f. Requiem NN con la colaboración de\nFernando Grisalez. (Online) Sitio Web Oficial. Disponible en: https://\njmechavarria.com/es/work/requiem-nn/ (Consultado el 21 de Junio del\n2020)",
+      "\nEchavarría, Juan Manuel. s.f. Requiem Film NN. (Video en línea) Disponible en: http://www.requiemnnfilm.com/view.html (Consultado el 21\nde Junio del 2020)",
+      "\nLamprea León, Camilo., 2015. Referentes en el tema de Arte y Biología.\n(Online) Disponible en: http://camilolamprea.blogspot.com/2015/03/\nreferentes-en-el-tema-de-y-bi-ologia.html (Consultado el 21 de Junio\ndel 2020)",
+      "\nDaros - Latinoamérica., s.f. Maria Fernanda Cardoso Obra.(Online) Disponible en: https://www.daros-latinamerica.net/es/artwork/corona-para-una-princesa-chibcha (Consultado el 21 de Junio del 2020)",
+      "\nArtnet., s.f. Catalina Mejía. (Online) Disponible en: http://www.artnet.\ncom/artists/catalina-mej%C3%ADa/biography (Consultado el 21 de\nJunio del 2020)",
+      "\nEl Tiempo Televisión., 2015. Así es el estudio de la artista Catalina Mejía. [Video en línea] Disponible en: https://www.youtube.com/watch?v=-\nJ90SJo15lks (Consultado el 21 de Junio del 2020)",
+      "\nComité Internacional de la Cruz Roja.,2020. La difícil realidad del\nconflicto armado en Colombia. (Online) Disponible en: https://www.\nicrc.org/es/document/colombia-preocupaciones-del-conflicto-armado-y-la-violencia (Consultado el 17 de Julio del 2020)."
     ]
   }
 ]
