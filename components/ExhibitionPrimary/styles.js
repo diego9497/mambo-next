@@ -82,6 +82,10 @@ export const TextContentHistory = styled.p`
       font-weight: 500;
       font-style: italic;
     }
+    small {
+      font-size: 1em;
+      font-style: italic;
+    }
   }
 `;
 

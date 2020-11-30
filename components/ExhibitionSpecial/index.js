@@ -48,33 +48,45 @@ export default function ExhibitionSpecial({ exhibition, config }) {
             />
           </ContainerImagePrincipal>
           <ContentHistory>
-            <TextContentHistory>{description}</TextContentHistory>
+            <TextContentHistory>
+              <p dangerouslySetInnerHTML={{ __html: description }}></p>
+            </TextContentHistory>
           </ContentHistory>
           <ContentSecond background={color}></ContentSecond>
           <FirstEmpty />
           <SecondEmpty />
         </GridHistory>
       )}
-      {content.map(({ title, description, gallery, sectionAudio }, i) => (
-        <ContainerDetail special invert={i % 2 !== 0}>
-          <ContainerTitle>
-            <Title color={color}>
-              {sectionAudio && (
-                <AudioContainer>
-                  <Accessibility />
-                </AudioContainer>
+      {content.map(
+        ({ title, description, gallery, sectionAudio, video }, i) => (
+          <ContainerDetail special invert={i % 2 !== 0}>
+            <ContainerTitle>
+              <Title color={color}>
+                {sectionAudio && (
+                  <AudioContainer>
+                    <Accessibility />
+                  </AudioContainer>
+                )}
+                {title}
+              </Title>
+            </ContainerTitle>
+            <ContainerContent>
+              <TextContent>{description}</TextContent>
+            </ContainerContent>
+            <GalleryContainer invert={i % 2 !== 0}>
+              {video ? (
+                <video
+                  src={`/image/optimizado/${video.src}`}
+                  width="100%"
+                  controls
+                ></video>
+              ) : (
+                <Gallery gallery={gallery} />
               )}
-              {title}
-            </Title>
-          </ContainerTitle>
-          <ContainerContent>
-            <TextContent>{description}</TextContent>
-          </ContainerContent>
-          <GalleryContainer invert={i % 2 !== 0}>
-            <Gallery gallery={gallery} />
-          </GalleryContainer>
-        </ContainerDetail>
-      ))}
+            </GalleryContainer>
+          </ContainerDetail>
+        )
+      )}
     </>
   );
 }

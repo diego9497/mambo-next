@@ -6,6 +6,7 @@ export const GalleryContainer = styled.div`
   width: 100%;
   height: 100%;
   height: calc(100vh - var(--headerHeight) - var(--footerHeight) - 1px);
+  display: flex;
   @media screen and (max-width: 575px) {
     grid-column: 1/-1;
     grid-row: -2/-1;
