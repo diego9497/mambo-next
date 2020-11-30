@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ClientPortal from "../ClientPortal";
 import Close from "../Icons/Close";
 import {
@@ -76,7 +76,7 @@ export default function MAMBOGallery({
         <Tooltip>{gallery[index].alt}</Tooltip>
       </ImageToolTipContainer>
       {open && (
-        <ClientPortal selector="#modal">
+        <ClientPortal selector="#modal" close={closeModal}>
           <Container>
             <LeftButton onClick={previousImage}>
               <Previous />

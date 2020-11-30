@@ -58,7 +58,7 @@ export default function MAMBOImage({
         <Tooltip>{alt}</Tooltip>
       </ImageContainer>
       {open && (
-        <ClientPortal selector="#modal">
+        <ClientPortal selector="#modal" close={closeModal}>
           <Container>
             <ContainerImage onClick={closeModalFromBackground} ref={imageModal}>
               <ModalImage
