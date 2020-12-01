@@ -1,10 +1,10 @@
 import Head from "next/head";
 
 import esCommon from "../locales/es/common.json";
-import enCommon from "../locales/en/common.json";
+import locations from "../locales/es/map.json";
 import MapPage from "../components/MapPage";
 
-function Map({ config }) {
+function Map({ config, locations }) {
   return (
     <>
       <Head>
@@ -16,14 +16,14 @@ function Map({ config }) {
           crossorigin=""
         />
       </Head>
-      <MapPage config={config} />
+      <MapPage config={config} locations={locations} />
     </>
   );
 }
 
 export const getStaticProps = () => {
   return {
-    props: { config: esCommon },
+    props: { config: esCommon, locations },
   };
 };
 

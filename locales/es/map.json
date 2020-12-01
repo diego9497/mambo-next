@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "name": "Museo de Arte Moderno de Bogotá",
+    "description": "Museo de Arte Moderno de Bogota. Sede actual en el centro de la ciudad. \n Instagram: @mambogota\n Facebook: @fanmambogota\n Twitter: @_mambogota\n YouTube: Museo de Arte Moderno de Bogotá",
+    "location": [
+      4.610238600000005,
+      -74.0692515
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Parque Bicentenario",
+    "description": "Ubicado al costado norte del Museo de Arte Moderno - MAMBO. ",
+    "location": [
+      4.61084280000001,
+      -74.0693931
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Planetario de Bogotá",
+    "description": "<a href='https://planetariodebogota.gov.co/ ' target='blank'>https://planetariodebogota.gov.co/ </a>",
+    "location": [
+      4.6120462,
+      -74.068775
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Gran Bretaña (Islas Británicas)",
+    "description": "La Revolución Industrial o Primera Revolución Industrial es el proceso de transformación económica, social y tecnológica que se inició en la segunda mitad del siglo XVIII en el Reino de Gran Bretaña, lo cual es fuente de grandes obras en el campo artístico, innovando también con nuevos artefactos en la captura de la imagen como la cámara. Esta imagen corresponde a las primeras maquinas a vapor que facilitaban el transporte. <a href=http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html'' target='blank'/>http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html</a>",
+    "location": [
+      53.8337367000000,
+      -2.429014799999991
+    ]
+  },
+  {
+    "id": 2,
+    "name": "París (Francia)",
+    "description": "Paris fue uno de los centros donde se gestaron las primeras manifestaciones del Estados Moderno, consagrado en los derechos humanos. Así mismo, fue un epicentro del arte moderno y del espíritu anti académico. Manet fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que, al parecer, es una trabajadora sexual; desafiando los códigos morales y la tradición del desnudo femenino en el arte. <a href='https://historia-arte.com/obras/olympia-de-manet' target='blank'/>https://historia-arte.com/obras/olympia-de-manet</a>",
+    "location": [
+      48.85661400000001,
+      2.3522218999999955
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Guanajuato (México) ",
+    "description": "Lugar de nacimiento del artista muralista Diego Rivera famoso por plasmar obras de alto contenido político y social en edificios públicos. La obra de Diego y de su esposa, la pintora Frida Kahlo, se influyeron mutuamente, y fueron determinantes para la identidad visual de los artistas latinoamericanos. <a href='https://es.wikipedia.org/wiki/Diego_Rivera' target='blank'/>https://es.wikipedia.org/wiki/Diego_Rivera</a>",
+    "location": [
+      20.9170187,
+      -101.1617356
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ciudad de México (México)",
+    "description": "La gráfica popular Mexicana ha influenciado a todos los países latinoamericanos, convirtiendo a la cultura popular visual una fuente inagotable de inspiración para artistas modernos y contemporáneos.\n <a target='_blank 'href='https://mxcity.mx/2016/11/la-fabulosa-historia-la-grafica-popular-mexicana/'>https://mxcity.mx/2016/11/la-fabulosa-historia-la-grafica-popular-mexicana/</a>",
+    "location": [
+      19.432607700000002,
+      -99.133208
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Málaga (España)",
+    "description": "Lugar de nacimiento de Pablo Picasso, uno de los representantes más importantes de la pintura moderna. La Imagen corresponde al Guernica famoso cuadro de Picasso, pintado entre los meses de mayo y junio de 1937, cuyo título alude al bombardeo de Guernica, ocurrido el 26 de abril de dicho año, durante la guerra civil española. <a rel='nofollow' target='_blank' href='https://historia-arte.com/artistas/pablo-picasso'>https://historia-arte.com/artistas/pablo-picasso</a>",
+    "location": [
+      36.67495459999999,
+      -4.430894999999997
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Weimar (Alemania )",
+    "description": "La Escuela de la Bauhaus ubicada en esta ciudad tuvo una importante influencia en el diseño y la arquitectura moderna. <a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=mHQmnumnNgo&amp;t=483s'>https://www.youtube.com/watch?v=mHQmnumnNgo&amp;t=483s</a>",
+    "location": [
+      50.9794934,
+      11.323543899999997
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Montaña Sainte-Victoire (Francia)",
+    "description": "Esta imagen corresponde a muchas de las pinturas que desarrolló Cezanne inspirado en la contemplación de estas Montañas en una serie de pinturas entre los años 1904-1906.\n <a rel='nofollow' target='_blank' href='https://www.biografiasyvidas.com/biografia/c/cezanne.htm'>https://www.biografiasyvidas.com/biografia/c/cezanne.htm</a>",
+    "location": [
+      43.53197280000001,
+      5.612751099999991
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Plaza de Bolívar de Bogotá (Colombia)",
+    "description": "Se conoce como El Bogotazo a una serie de disturbios ocurridos en la capital de Colombia, Bogotá, que fueron consecuencia del magnicidio al líder del Partido Liberal, Jorge Eliécer Gaitán, ocurrido el 9 de abril de 1948 , hecho que partió la historia de Colombia en dos. \n <a rel='nofollow' target='_blank' href='https://www.semana.com/nacion/articulo/que-fue-el-bogotazo-que-estremecio-colombia-hace-70-anos-y-por-que-cambio-la-historia-de-ese-pais/563036'>https://www.semana.com/nacion/articulo/que-fue-el-bogotazo-que-estremecio-colombia-hace-70-anos-y-por-que-cambio-la-historia-de-ese-pais/563036</a> ",
+    "location": [
+      4.598120600000002,
+      -74.0760435
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Norte de Santander  (Colombia)",
+    "description": "Imagen corresponde a la obra 'Dos días amarillos' de la artista Beatriz Daza. 1966. Porcelana, vidrio, cerámica, yeso y metal sobre madera(lugar de nacimiento de Beatriz Daza) \n<a rel='nofollow' target='_blank' href='https://enciclopedia.banrepcultural.org/index.php/Beatriz_Daza_Gonz%C3%A1lez'>https://enciclopedia.banrepcultural.org/index.php/Beatriz_Daza_Gonz%C3%A1lez</a> ",
+    "location": [
+      7.946283100000009,
+      -72.89880690000001
+    ]
+  },
+  {
+    "id": 4,
+    "name": "El  Sisga (Colombia)",
+    "description": "Esta obra de Beatriz Gonzales, inspirada en los sucesos que ocurrieron en este lugar obtuvo el segundo premio en el Salón Nacional de Artistas de 1965, marcando un hito en la pintura moderna en Colombia. <a rel='nofollow' target='_blank' href='https://historia-arte.com/obras/los-suicidas-del-sisga'>https://historia-arte.com/obras/los-suicidas-del-sisga</a>",
+    "location": [
+      5.091526999999984,
+      -73.718374
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cauca (Colombia)",
+    "description": "Lugar de nacimiento de Edgar Negret, uno de los artistas precursores de la escultura moderna en Colombia.  <a rel='nofollow' target='_blank' href='https://www.biografiasyvidas.com/biografia/n/negret.htm'>https://www.biografiasyvidas.com/biografia/n/negret.htm</a>",
+    "location": [
+      2.704981299999992,
+      -76.8259652
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Barcelona (España)",
+    "description": "En esta ciudad se encontraron importantes intelectuales y artistas latinoamericanos durante el Siglo XX, siendo además cuna de movimientos como el surealismo y el cubismo. La Imagen corresponde a una fotografia del artista colombiano Alejandro Obregón, quien nació en esta ciudad pero creció en Barranquilla, convirtiéndose en un importante referente de la pintura moderna.<a rel='nofollow' target='_blank' href='https://www.biografiasyvidas.com/biografia/o/obregon.htm'>https://www.biografiasyvidas.com/biografia/o/obregon.htm</a>",
+    "location": [
+      41.38506390000002,
+      2.1734035000000196
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pittsburgh (Estados Unidos) ",
+    "description": "Andy Warhol es reconocido como uno de los pioneros del Arte Pop en Estados Unidos. Warhol utilizó productos del mercado para reflexionar sobre el consumismo y la originalidad en el arte. En esta obra el artista copió la caja de un producto de consumo masivo y elaboró una escultura con 24 reproducciones de los empaques, poniendo en tela de juicio si cualquier objeto puede ser arte y señalando el consumismo como el modo de vida contemporáneo.\n<a rel='nofollow' target='_blank' href='https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importantes-y-frases'>https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importantes-y-frases</a>",
+    "location": [
+      40.44062480000001,
+      -79.9958864
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nueva Jersey (Estados Unidos)",
+    "description": "Lugar de nacimiento de la artista Barbara Kruger.\n <a rel='nofollow' target='_blank' href='http://www.disenadorasgraficas.com/archivo/barbara-kruger/'>http://www.disenadorasgraficas.com/archivo/barbara-kruger/</a>",
+    "location": [
+      40.0583238,
+      -74.4056612
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Utah (Estados Unidos)",
+    "description": "Lugar de desarrollo de la obra Spiral Jetty del artista norteamericano Robert Smithson emplazada en el desierto de Utah. El material empleado para realizarla fueron unas 5.000 toneladas de bloques de basalto negro. Fue construida en 1970, empleando potentes máquinas para el movimiento de las piedras\n<a rel='nofollow' target='_blank' href='https://masdearte.com/especiales/la-espiral-jetty-smithson-en-su-laberinto/'>https://masdearte.com/especiales/la-espiral-jetty-smithson-en-su-laberinto/</a>",
+    "location": [
+      39.32098009999998,
+      -111.09373109999999
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Brasilia (Brasil)",
+    "description": "Lugar de nacimiento del artista conceptual Cildo Meireles. La imagen corresponde a la obra 'Inserciones En Circuitos Ideológico - 1970'.\n<a rel='nofollow' target='_blank' href='http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm'>http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm</a>",
+    "location": [
+      -15.826691000000004,
+      -47.9218204
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Barranquilla",
+    "description": "Esta ciudad es un epicentro de la cultura del Caribe y ha sido cuna de importantes músicos, artistas y poetas.  Fue la ciudad donde se formó en 1979 el Grupo de Arte Experimental 'El Sindicato' conformado por Ramiro Gómez, Carlos Restrepo, Alberto del Castillo, Efraín Arrieta, Aníbal Tobón y Guillermo Aragón.",
+    "location": [
+      11.004107200000018,
+      -74.80698129999999
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cartagena (Colombia)",
+    "description": "Lugar de nacimiento de Alvaro Barrios. <a rel='nofollow' target='_blank' href='https://es.wikipedia.org/wiki/%C3%81lvaro_Barrios'>https://es.wikipedia.org/wiki/%C3%81lvaro_Barrios</a>",
+    "location": [
+      10.393227700000013,
+      -75.4832311
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bilbao (España) ",
+    "description": "El Museo Guggenheim de Bilbao, diseñado por el arquitecto Frank Gehry es un ejemplo de la arquitectura vanguardista del siglo XX. Actualmente expone obras de importantes artistas contemporáneos.<a rel='nofollow' target='_blank' href='https://www.guggenheim-bilbao.eus/'>https://www.guggenheim-bilbao.eus/</a>",
+    "location": [
+      43.263012599999996,
+      -2.9349851999999976
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Belgrado (Serbia)",
+    "description": "País de origen de Marina Abramovic,  artista conocida por ser precursora del performance. A lo largo de su vida propuso diferentes acciones artísticas que tendían a involucrar al público, cuestionando los límites entre el arte y la vida. En esta obra, propone una acción muy simple: mirar a los ojos al espectador durante el tiempo que éste decida. Este performance invita a la participación del público y genera un espacio íntimo y profundo en el museo, a partir del silencio y la mirada.\n<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=traUaknfR5o'>https://www.youtube.com/watch?v=traUaknfR5o</a>",
+    "location": [
+      44.78656800000001,
+      20.44892159999998
+    ]
+  },
+  {
+    "id": 7,
+    "name": "La Habana (Cuba)",
+    "description": "País de nacimiento  de Ana Mendieta, reconocida artista de performance, instalación y fotografía.<a rel='nofollow' target='_blank' href='https://www.nytimes.com/es/2018/09/21/espanol/cultura/ana-mendieta-artista-obituario.html'>https://www.nytimes.com/es/2018/09/21/espanol/cultura/ana-mendieta-artista-obituario.html</a>",
+    "location": [
+      23.11359250000001,
+      -82.36659559999998
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Londres (Reino Unido)",
+    "description": "Lugar de nacimiento Demian Hirst.<a rel='nofollow' target='_blank' href='https://es.qwe.wiki/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living'>https://es.qwe.wiki/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living</a>",
+    "location": [
+      51.50735090000001,
+      -0.12775830000001487
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Matsumoto (Japón) ",
+    "description": "Yayoi Kusama es una artista que construye grandes ambientes con texturas, manchas y colores para proporcionar en el espectador una experiencia inmersiva en la que la sensación del espacio y el cuerpo cambian por completo. Sus instalaciones son espacios donde la fantasía se mezcla con la realidad.",
+    "location": [
+      36.2380434,
+      137.9719897
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bucaramanga (Colombia)",
+    "description": "Lugar de nacimiento de Beatriz Gonzalez. <a rel='nofollow' target='_blank' href='https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html'>https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html</a>",
+    "location": [
+      7.119348999999999,
+      -73.12274159999998
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Medellín (Colombia)",
+    "description": "Capital de Antioquia, segunda ciudad más grande en Colombia. Lugar de nacimiento de muchos artistas modernos y contemporáneos, entre ellos, Pedro Nel Ospina, Gonzalo Arango, y Juan Manuel Echavarría, entre otros. <a rel='nofollow' target='_blank' href='https://jmechavarria.com/es/#1'>https://jmechavarria.com/es/#1</a> ",
+    "location": [
+      6.2476376000000124,
+      -75.56581530000001
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cali (Colombia)",
+    "description": "Cali es una ciudad que ha realizado importantes aportes a la cultura y el arte nacional, siendo cuna de escritores, artistas y cineastas como Luis Ospina, Andres Caicedo, Karen Lamassone y Fernell Franco. <a rel='nofollow' target='_blank' href='https://institutodevision.com/visionarios/fernell-franco/'>https://institutodevision.com/visionarios/fernell-franco/</a>",
+    "location": [
+      3.4516466999999937,
+      -76.53198540000001
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Huila (Colombia)",
+    "description": "Lugar de nacimiento de Carlos salas. <a rel='nofollow' target='_blank' href='https://www.eltiempo.com/bocas/carlos-salas-entrevista-revista-bocas-299032'>https://www.eltiempo.com/bocas/carlos-salas-entrevista-revista-bocas-299032</a>",
+    "location": [
+      2.535934900000005,
+      -75.52766990000002
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Museo de Arte Moderno de Medellín (Colombia)",
+    "description": "'Tan solo un año después de inaugurar su sede, el Museo realizó en mayo de 1981 el Primer Coloquio Latinoamericano de Arte No Objetual y Arte Urbano. Críticos y académicos debatieron durante cuatro días sobre el no-objetualismo'\n<a rel='nofollow' target='_blank' href='https://www.elmamm.org/I-Coloquio-de-Arte-No-Objetual'>https://www.elmamm.org/I-Coloquio-de-Arte-No-Objetual</a>",
+    "location": [
+      6.223506899999996,
+      -75.5741653
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tome (Chile)",
+    "description": "Maria Opazo (Tomé, Chile - 1969) emigró como consecuencia de la dictadura hacia Colombia, donde ha recibido varios premios por su labor artística. Su obra incluye instalaciones, videos, performances y dibujos, con los que crea obras poéticas como actos de resistencia que aluden a la memoria y el desplazamiento. En esta acción realizada en una playa del Magdalena Medio se evidencia su interés performativo en el video. \n<a rel='nofollow' target='_blank' href='https://www.utadeo.edu.co/es/comunidad/artes-plasticas/42/mario-opazo'>https://www.utadeo.edu.co/es/comunidad/artes-plasticas/42/mario-opazo</a>\n<a rel='nofollow' target='_blank' href='https://vimeo.com/428345586'>https://vimeo.com/428345586</a>",
+    "location": [
+      -36.613156199999985,
+      -72.9588593
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Embajada Dominicana (Colombia)",
+    "description": "La Toma de la embajada de la República Dominicana, llamada también 'Operación Libertad y Democracia', fue una acción armada del grupo guerrillero M-19 ejecutada en el año 1980, en la cual se tomaron por asalto la embajada y secuestraron a de 16 diplomáticos durante dos meses.\n<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=MVDXT_ZzXqw'>https://www.youtube.com/watch?v=MVDXT_ZzXqw</a>",
+    "location": [
+      4.675309899999996,
+      -74.0552289
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ciénaga (Colombia)",
+    "description": "La Masacre de las Bananeras fue la matanza de los trabajadores de la United Fruit Company que se produjo entre el 5 y el 6 de Diciembre de 1928 en el municipio de Ciénaga, Magdalena. \n<a rel='nofollow' target='_blank' href='https://www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-117/masacre-de-las-bananeras-diciembre-6-de-1928'>https://www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-117/masacre-de-las-bananeras-diciembre-6-de-1928</a> ",
+    "location": [
+      11.007984000000022,
+      -74.248926
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Nueva York (Estados Unidos)",
+    "description": "El movimiento LGBT comenzó formalmente en el año 1969 en la ciudad de Nueva York, con la marcha que se dio después de los llamados disturbios de Stonewall, aunque varias organizaciones y activistas habían dado los primeros pasos del movimiento LGBT ya desde finales del siglo XIX. Esta fotografía corresponde a la  Revuelta de Stonewall que consistió en una serie de manifestaciones espontáneas y violentas en protesta contra una redada policial que tuvo lugar en el pub conocido como Stonewall Inn, ubicado en el barrio neoyorquino de Greenwich Village.\n\n<a rel='nofollow' target='_blank' href='https://es.wikipedia.org/wiki/Movimiento_de_liberaci%C3%B3n_LGBT'>https://es.wikipedia.org/wiki/Movimiento_de_liberaci%C3%B3n_LGBT</a>",
+    "location": [
+      40.71277530000001,
+      -74.0059728
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Berlín (Alemania)",
+    "description": "La caída del Muro de Berlín fue un acontecimiento esencial en la historia mundial que marcó la caída de la Cortina de Hierro.La caída de la frontera interalemana tuvo lugar poco después.<a rel='nofollow' target='_blank' href='https://www.lavanguardia.com/vida/junior-report/20191030/471292597858/caida-muro-berlin-fin-era'>https://www.lavanguardia.com/vida/junior-report/20191030/471292597858/caida-muro-berlin-fin-era</a>",
+    "location": [
+      52.5200066,
+      13.404954
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Hanói (Vietnam)",
+    "description": "Guerra de Vietnam. Las imágenes logradas en medio del conflicto fueron de gran relevancia , como por ejemplo esta de fotografía Nick Ut, en la que se ve a una niña  corriendo desnuda por una carretera tras un ataque. La ciudad en la que se alojaba la mayor parte del ejercito fue Hanói. Grandes manifestaciones se realizaron en el mundo contra esta guerra, en la cual Estados Unidos debió retirarse.<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=eamLnq7Diyw'>https://www.youtube.com/watch?v=eamLnq7Diyw</a>",
+    "location": [
+      21.027764399999995,
+      105.83415980000001
+    ]
+  },
+  {
+    "id": 10,
+    "name": "La Higuera (Bolivia)",
+    "description": "En este lugar fue capturado y ejecutado el 9 de octubre de 1967, Ernesto 'el Che' Guevara, uno de los íconos revolucionarios latinoamericanos mas importantes.<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=fkDrMOUa2Us'>https://www.youtube.com/watch?v=fkDrMOUa2Us</a>",
+    "location": [
+      -18.794764999999988,
+      -64.2014337
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Brístol",
+    "description": "Banksy (Bristol, Reino Unido - 1974) es el sobrenombre de uno de los artistas británicos más conocidos del arte urbano. A partir de la incursión del Arte Pop en medios gráficos y publicitarios, las prácticas artísticas en el espacio urbano han adquirido un importante protagonismo. En esta obra Banksy hace un comentario crítico sobre la desigualdad social y la forma en la que la sociedad oculta sus problemas.\n<a rel='nofollow' target='_blank' href='https://www.oldskull.net/design/banksy-mas-que-un-artista/'>https://www.oldskull.net/design/banksy-mas-que-un-artista/</a>",
+    "location": [
+      51.45451300000002,
+      -2.5879099999999955
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Rosario (Argentina) ",
+    "description": "Lugar de nacimiento de  la artista Graciela Sacco.\n<a rel='nofollow' target='_blank' href='https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/'>https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/</a>\n<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=FGVY6iC7xGY'>https://www.youtube.com/watch?v=FGVY6iC7xGY</a>",
+    "location": [
+      -32.95870219999999,
+      -60.693041600000015
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Springfield (Estados Unidos) ",
+    "description": "Lugar de nacimiento de David Hammons,para el objeto efímero se vende y se transforma también el artista en un mediador para hablar con el espectador y el objeto como se ve en la imagen, donde vendía sus bolas de hielo. \n<a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>https://publicdelivery.org/david-hammons-snowball/</a>",
+    "location": [
+      37.20895719999999,
+      -93.2922989
+    ]
+  }
+]

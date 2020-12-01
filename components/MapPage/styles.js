@@ -65,9 +65,9 @@ export const ContainerDetail = styled.article`
   background: rgba(0, 0, 0, 0.2);
   border-right: 1px solid var(--borderColor);
 
+  z-index: 999999;
   @media screen and (max-width: 768px) {
     grid-column: 1/-1;
-    z-index: 999999;
   }
 `;
 
@@ -76,6 +76,7 @@ export const List = styled.ul`
   list-style: none;
   flex-direction: column;
   overflow-y: auto;
+  height: calc(100vh - var(--headerHeight) - var(--footerHeight));
 `;
 
 export const ListItem = styled.li`

@@ -121,6 +121,10 @@ export const SubtitleInfo = styled.p`
 export const TextContent = styled.p`
   font-size: 0.9em;
   font-weight: 100;
+
+  p {
+    white-space: pre-line;
+  }
   @media screen and (max-width: 768px) {
     padding: 0px 15px;
   }

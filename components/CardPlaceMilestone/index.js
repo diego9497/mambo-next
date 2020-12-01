@@ -54,7 +54,9 @@ export default function CardPlaceMilestone({
         </ContainerImage>
         <ContainerContent text={text}>
           <SubtitleInfo>{subtitle}</SubtitleInfo>
-          <TextContent>{content}</TextContent>
+          <TextContent>
+            <p dangerouslySetInnerHTML={{ __html: content }}></p>
+          </TextContent>
           {url && (
             <a href={url} target="blank">
               {url}
