@@ -96,6 +96,7 @@ export const ContainerContent = styled.div`
     font-weight: 100;
     font-size: 0.9em;
     display: inline-block;
+    line-break: anywhere;
     color: ${({ text }) => text};
   }
 `;
