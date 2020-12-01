@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 import en from "../../../locales/en/special.json";
-import esCommon from "../../../locales/es/common.json";
+import enCommon from "../../../locales/en/common.json";
 import ExhibitionSpecial from "../../../components/ExhibitionSpecial";
 
 const SpecialPage = ({ exhibition, config, locale }) => {
@@ -34,7 +34,7 @@ export const getStaticPaths = () => {
 export const getStaticProps = ({ params }) => {
   const exhibition = en.find((exhibition) => exhibition.id == params.id);
   return {
-    props: { exhibition, config: esCommon, locale: "en" },
+    props: { exhibition, config: enCommon, locale: "en" },
   };
 };
 export default SpecialPage;
