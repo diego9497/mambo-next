@@ -9,6 +9,7 @@ export const Background = styled.div`
   background: rgba(0, 0, 0, 0.3);
   display: flex;
   justify-content: flex-end;
+  z-index: 999999;
 `;
 
 export const Container = styled.div`

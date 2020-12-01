@@ -18,13 +18,24 @@ export const ContainerInfo = styled.div`
   height: 100%;
   color: white;
   display: grid;
-  grid-template-rows: 1fr 68px;
+  grid-template-rows: 1fr 50px;
   @media screen and (max-width: 376px) {
     overflow-y: scroll;
   }
 `;
 export const ContainerTop = styled.div`
   background: ${({ color }) => color};
+  overflow-y: auto;
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(202, 202, 202, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(187, 187, 187, 0.3);
+    border-radius: 4px;
+  }
   @media screen and (max-width: 768px) {
     background: white;
   }
@@ -132,7 +143,7 @@ export const TextContent = styled.p`
 export const ContainerButtons = styled.div`
   display: flex;
   justify-content: space-between;
-  padding: 20px 15px;
+  padding: 11px 15px;
 
   > div {
     > button {

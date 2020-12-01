@@ -22,7 +22,7 @@ export const ContainerList = styled.article`
     margin-left: auto;
     padding-left: 3px;
     background: ${({ color }) => color};
-    z-index: 999;
+    z-index: 1001;
     grid-column: 1/-1;
   }
 `;
@@ -65,7 +65,7 @@ export const ContainerDetail = styled.article`
   background: rgba(0, 0, 0, 0.2);
   border-right: 1px solid var(--borderColor);
 
-  z-index: 999999;
+  z-index: 99999;
   @media screen and (max-width: 768px) {
     grid-column: 1/-1;
   }
@@ -77,6 +77,10 @@ export const List = styled.ul`
   flex-direction: column;
   overflow-y: auto;
   height: calc(100vh - var(--headerHeight) - var(--footerHeight));
+
+  @media screen and (max-width: 768px) {
+    height: calc(100vh - var(--headerHeight) - var(--footerHeight) - 60px);
+  }
 `;
 
 export const ListItem = styled.li`

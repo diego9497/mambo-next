@@ -12,6 +12,8 @@ import Close from "../Icons/Close";
 import Menu from "../Menu";
 import Link from "../Link";
 
+import ClientPortal from "../ClientPortal";
+
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 
@@ -69,7 +71,11 @@ const Header = ({ config, locale = "es" }) => {
           </MenuButtonContainer>
         </div>
       </Options>
-      {menuOpen && <Menu config={config} locale={locale} />}
+      {menuOpen && (
+        <ClientPortal selector="#modal">
+          <Menu config={config} locale={locale} />
+        </ClientPortal>
+      )}
     </Container>
   );
 };
