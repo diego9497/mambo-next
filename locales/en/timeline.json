@@ -10,7 +10,7 @@
   {
     "id": 3,
     "title": "INDUSTRIAL REVOLUTION",
-    "year": "1970",
+    "year": "1760",
     "description": "The industrial revolution had a great influence on the modern world, especially the economy and culture.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=3LQAnFEADl4&feature=emb_logo"
@@ -28,7 +28,11 @@
     "title": "FOUNDATION OF THE SCHOOL OF FINE ARTS IN PARIS",
     "year": "1797",
     "description": "In this school the academicism was forged against which the vanguards would rebel.",
-    "type": "image"
+    "type": "image",
+    "image": {
+      "src": "mv3/did_you_know.jpg",
+      "alt": "Nicéphore Niépce, untitled. 1826. Source: Wikimedia Commons under public domain."
+    }
   },
   {
     "id": 3,
@@ -44,7 +48,12 @@
     "year": "1850",
     "description": "Modern art is a process of transformation in which artists try to overcome traditional art forms to seek new forms of representation in art. The period of Modern Art can be located approximately between 1850 and 1960 and It comprises a multiplicity of artists and movements. This work by Manet was one of the first modern paintings and caused a great rejection in Paris. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1d9fJ4fGAK5VircvtPFxg0I462ghIQfeb/view"
+    "url": "https://drive.google.com/file/d/1d9fJ4fGAK5VircvtPFxg0I462ghIQfeb/view",
+    "image": {
+      "src": "mv3/1.jpg",
+      "alt": "<span> Édouard Manet. Olympia. 1863. Oil on canvas. </span> Source: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'> Wikimedia Foundation </a> under the license <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'> CC BY 2.0. </a> ",
+      "caption": "He was one of the forerunners of impressionism and modern painting. This work called Olympia, an ironic reference to Greek history, generated controversy for presenting a naked woman who apparently was a sex worker, defying the codes morals and the tradition of the female nude in art. "
+    }
   },
   {
     "id": 3,
@@ -60,15 +69,25 @@
     "year": "1864",
     "description": "was one of the forerunners of modern sculpture in opposition to the French Academy. In this work full of symbolism, her interest in themes other than those dictated by the classical canon is evidenced: the exaltation of beauty and perfection.",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1atadIGIQsUnlniF3vFiaTPx56uUYDmTm/view"
+    "url": "https://drive.google.com/file/d/1atadIGIQsUnlniF3vFiaTPx56uUYDmTm/view",
+    "image": {
+      "src": "mv3/2.jpg",
+      "alt": "<span> Camille Claudel. The Old Age. 1899. Bronze. </span> Source: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'> Wikimedia Commons </a> under the <a href='https://es.wikipedia.org/wiki/License_de_documentaci%C3%B3n_libre_de_GNU' target='blank'> GNU free documentation license. </a> ",
+      "caption": "Camille Claudel (Fère-en-Tardenois, France, 1864-1943) was one of the forerunners of modern sculpture in opposition to the French Academy. In this work full of symbolism her interest in themes other than those dictated by the classical canon: the exaltation of beauty and perfection. "
+    }
   },
   {
     "id": 3,
     "title": "THE LADIES OF AVIGNON. PABLO PICASSO",
     "year": "1881",
-    "description": "was probably the best known reference in modern painting, for challenging the figure and presenting images with marked alterations. This work introduced the deformation of bodies and geometric abstraction. as a new procedure in painting, which more later it was consolidated in cubism. ",
+    "description": "was probably the best-known reference in modern painting, for challenging the figure and presenting images with marked alterations. This work introduced thedeformation of bodies and geometric abstraction. as a new procedure in painting, which was later consolidated in cubism. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1VKbwMdzSOwCKwn3fkoJc_Rk7WBebihR0/view"
+    "url": "https://drive.google.com/file/d/1VKbwMdzSOwCKwn3fkoJc_Rk7WBebihR0/view",
+    "image": {
+      "src": "mv3/3.jpg",
+      "alt": "<span> Pablo Picasso. The young ladies of Avignon. 1907. Oil on canvas. </span> Source: <a href = 'https: //pablo-picasso.space/obras-de-picasso/las -senoritas-de-avignon-les-demoiselles-davignon/'target =' blank '> Wikimedia Commons </a> under the license <a href =' https: //creativecommons.org/licenses/by/2.0/ 'target = 'blank'> CC BY 2.0 </a> ",
+      "caption": "<a href='https://www.youtube.com/watch?v=oOOY6GbV9Ks' target='blank'> Pablo Picasso </a> (Málaga, Spain, 1881-1973) was probably the best known reference in modern painting, for challenging the figure and presenting images with marked alterations. This work introduced the deformation of bodies and geometric abstraction as a new procedure in painting, which was later consolidated in cubism. "
+    }
   },
   {
     "id": 3,
@@ -84,7 +103,7 @@
     "year": "1904",
     "description": "This movement is characterized by the use of pure colors without mixing or hiding the brushstroke, giving prominence above all to light and color. I understand light and shadow from volumes such as the cylinder, the cone and the sphere.",
     "type": "image",
-    "url": "https://www.elespectador.com/resizer/obk3FcBKOgk1RRal35JR1_Q4CSQ=/657x0/filters:format(jpeg)/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/R2FJU7PE55DFPLPLJFJU7PE "
+    "url": "https://www.elespectador.com/resizer/obk3FcBKOgk1RRal35JR1_Q4CSQ=/657x0/filters:format(jpeg)/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/R2FJU7PE55DFPLPLR2FjU7PE55 "
   },
   {
     "id": 3,
@@ -98,7 +117,7 @@
     "id": 3,
     "title": "FUTURISM",
     "year": "1909",
-    "description ": " Futurism was so named for its intention to absolutely break with the art of the past. It was inspired by industrial progress and an exaltation of the machine and the city. ",
+    "description": "Futurism was so named because of its intention to break completely with the art of the past. It was inspired by industrial progress and an exaltation of the machine and the city.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=OyEH-Fs_VPs&feature=emb_logo"
   },
@@ -108,7 +127,12 @@
     "year": "1910",
     "description": "Found objects stripped of their instrumental meaning. Artists explore the intellectual aspects of objects.",
     "type": "image",
-    "url": "https://i.blogs.es/5e470c/san_francisco_museum_of_modern_art_-3023815215-/1366_2000.jpg"
+    "url": "https://i.blogs.es/5e470c/san_francisco_museum_of_modern_art_-3023815215-/1366_2000.jpg",
+    "image": {
+      "alt": "El Sindicato Group. Ramiro Gómez, Carlos Restrepo, Alberto del Castillo, Efraín Arrieta, Aníbal Tobón and Guillermo Aragón. A-dinner with shoes. 1979. Source: MAMBO Collection.",
+      "src": "mv9/1g1.jpg",
+      "caption": "<a href='https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/' target='blank'> The experimental art group El Sindicato </a> (Barranquilla, Colombia, 1973) was made up of various artists who worked on popular and socio-political concepts related to daily life with what was discarded by the system, and with those who were forgotten by it. This piece won the 1978 National Salon of Artists award, questioning the artistic institutionality, its materials, its codes and its power; both the title and the assembly with old and wasted shoes trigger reflections on social inequality. "
+    }
   },
   {
     "id": 3,
@@ -132,7 +156,7 @@
     "year": "1916",
     "description": "Artistic movement that emerged in Zurich (Switzerland) that explored chance and chaos as a creative form. It broke with traditional forms of art and combined different media in poetic and artistic actions that gave rise to performance.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=oeosT_6vG7g&feature=emb_logo"
+    "url": "https://www.youtube.com/watch? v = oeosT_6vG7g & feature = emb_logo "
   },
   {
     "id": 3,
@@ -148,7 +172,11 @@
     "year": "1920",
     "description": "Term to refer to works that do not represent objects of the visible world but rather explore geometric shapes to create images.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?time_continue=1&v=Cpny8EB06wE&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?time_continue=1&v=Cpny8EB06wE&feature=emb_logo",
+    "image": {
+      "src": "mv3/c3.jpg",
+      "alt": "Amelia Peláez. Untitled, 1967. Source: MAMBO Collection."
+    }
   },
   {
     "id": 3,
@@ -164,7 +192,11 @@
     "year": "1920",
     "description": "Artistic movement that investigated the subconscious and dreams as a matter of artistic creation.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=gBSk33r-BN0&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=gBSk33r-BN0&feature=emb_logo",
+    "image": {
+      "src": "mv3/c2.jpg",
+      "alt": "Salvador Dalí. The Venus with the head of arrows. No date. Source: MAMBO Collection."
+    }
   },
   {
     "id": 3,
@@ -172,10 +204,14 @@
     "year": "1921",
     "description": "Realism was a movement that influenced writing and the arts in Latin America at the beginning of the 20th century",
     "type": "image",
-    "url": "https://www.youtube.com/watch?time_continue=1&v=ToVUCdGZ99E&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?time_continue=1&v=ToVUCdGZ99E&feature=emb_logo",
+    "image": {
+      "src": "mv4/c3.jpg",
+      "alt": "Unknown author. Monument to the fighters of the October revolution. in Almaty, Kasakhstan. Source: <a href = 'https: //commons.wikimedia.org/wiki/File: ALAOctober.jpg' target = 'blank'> Wikimedia Commons </a> under public domain. "
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "GAITÁN PUBLISHES HIS THESIS: SOCIALIST IDEAS IN COLOMBIA",
     "year": "1922",
     "description": "Liberal revolutionary politician who was assassinated during his campaign for the Presidency of Colombia.",
@@ -183,7 +219,7 @@
     "url": "https://www.youtube.com/watch?v=diyY2VMNZRQ&feature=emb_logo"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "MASACRE DE LAS BANANERAS",
     "year": "1928",
     "description": "Massacre in which workers of the United Fruit Company, which owned large banana mills in Ciénaga, Magdalena, were murdered.",
@@ -198,7 +234,7 @@
     "type": "image"
   },
   {
-    "id": 6,
+    "id": 10,
     "title": "ALFONSO LÓPEZ PUMAREJO LIBERAL PRESIDENT: THE REVOLUTION IN MARCH",
     "year": "1934",
     "description": "Period that became known as the Second Liberal Republic in which the conservative hegemony was overthrown and the country entered a process of liberal modernization.",
@@ -218,7 +254,11 @@
     "title": "ABSTRACT EXPRESSIONISM",
     "year": "1940",
     "type": "image",
-    "url": "https://www.youtube.com / watch? time_continue = 1 & v = gWUSh10Cgjo & feature = emb_logo "
+    "url": "https://www.youtube.com/watch?time_continue=1&v=gWUSh10Cgjo&feature=emb_logo",
+    "image": {
+      "src": "mv4/c4.jpg",
+      "alt": "Jackson Pollock. Head. 1938-1941. Source: <a href = 'https: //commons.wikimedia.org/wiki/File: Head_ (1938-1941) _-_ Jackson_Pollock_ (1912-1956). jpg 'target =' blank '> Wikimedia Commons licensed under </a> <a href='https://creativecommons.org/licenses/by/2.0/deed.en' target='blank'> CC BY 2.0. </a> "
+    }
   },
   {
     "id": 4,
@@ -227,7 +267,7 @@
     "type": "image"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "MARIANO OSPINA PÉREZ, CONSERVATIVE PRESIDENT",
     "year": "1946",
     "description": "Conservative President",
@@ -243,17 +283,21 @@
   {
     "id": 4,
     "title": "THE HALL OF 26",
-    "year": "1948",
+    "year": " 1948 ",
     "description": "One of the fundamental exhibition events in the history of Colombian art. It was organized by the artist Obregón.",
     "type": "image"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "THE BOGOTAZO",
     "year": "1948",
-    "description": "Assassination of the liberal candidate Jorge Eliécer Gaitán, in the heart of Bogotá. His assassination began the Bogotazo; a period of social unrest in the city.",
+    "description": "Assassination of the liberal candidate Jorge Eliécer Gaitán, in the heart of Bogotá. His assassination started the Bogotazo; a period of social unrest in the city.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=pZtTzLAHEr0&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=pZtTzLAHEr0&feature=emb_logo",
+    "image": {
+      "src": "mv4/c2.jpg",
+      "alt": "Sady González. Tram on fire. 1948. Source: MAMBO Collection."
+    }
   },
   {
     "id": 4,
@@ -261,7 +305,12 @@
     "year": "1949",
     "description": "Edgar Negret (Popayán, Colombia - 1920) was one of the most influential sculptors of the plastic arts in Colombia. He questioned the notions of the industrial and the natural by incorporating representative materials of modernity such as iron in his sculpture , aluminum and wood. In this work, an abstract representation of a figure of the Colombian religious culture can be appreciated. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/18hDI5m3V0HQGtN5fvuyqHU7qwK9UE0Z8/view"
+    "url": "https://drive.google.com/file/d/18hDI5m3V0HQGtN5fvuyqHU7qwK9UE0Z8/view",
+    "image": {
+      "src": "mv4/3.jpg",
+      "alt": "Edgar Negret. Face of Christ. 1949. Steel and Wood. Source: MAMBO Collection",
+      "caption": "<a href='https://www.latinamericanart.com/es/artista/edgar-negret/' target='blank'> Edgar Negret </a> (Popayán, Colombia, 1920-2012) He was one of the most influential sculptors of the plastic arts in Colombia. He questioned the notions of the industrial and the natural by incorporating representative materials of modernity such as iron, aluminum and wood in his sculpture. In this work, a abstract representation of a figure from Colombian religious culture. "
+    }
   },
   {
     "id": 5,
@@ -269,18 +318,27 @@
     "year": "1950",
     "description": "Artistic movement that appropriates images and objects from consumer society.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?time_continue=1&v=6qr7cdpGDRo&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?time_continue=1&v=6qr7cdpGDRo&feature=emb_logo",
+    "image": {
+      "src": "mv5/2.jpg",
+      "alt": "Andy Warhol. Campbell's soup cans. 1962. Special edition. 2015. Source: Wikimedia Commons under the Creative Commons Attribution 3.0 Unported license.",
+      "caption": "<a href='https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importntación-y-frases' target='blank'> Andy Warhol </a> (Pittsburg , United States, 1928-1987) is recognized as one of the pioneers of Pop Art in the United States. Warhol used products from the market to reflect on consumerism and originality in art. In this work, the artist copied a product box of mass consumption and produced reproductions of the packaging, questioning whether any object can be art and pointing out consumerism as the contemporary way of life. "
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "COUP D'AT IN COLOMBIA",
     "year": "1953",
     "description": "Rojas Pinilla to power. The newspaper El Sigio and the Salón Nacional in Colombia will close. Read more about Rojas Pinilla.",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1hVuezrnU6uVMtmFm5JfPTMtgQgthYE0M/view"
+    "url": "https://drive.google.com/file/d/1hVuezrnU6uVMtmFm5JfPTMtgQgthYE0M/view",
+    "image": {
+      "src": "mv6/c1.jpg",
+      "alt": "Unknown author. Portrait of Gustavo Rojas Pinilla. S, f. Source: Wikimedia Commons under the CC BY SA 4.0 license."
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "ARRIVAL OF THE TV TO COLOMBIA",
     "year": "1954",
     "description": "The arrival of television marked a transformation of visual culture in the country. In the words of Rojas Pinillas, television was the state, implying that it should serve institutional purposes. At this time there were strong restriction of press freedom such as the closure of the newspaper El Tiempo. ",
@@ -288,7 +346,7 @@
     "url": "https://www.youtube.com/watch?v=n1auVbwvMBM&feature=emb_logo"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "CREATION OF THE REVOLUTIONARY ARMED FORCES OF COLOMBIA - FARC",
     "year": "1954",
     "description": "Start of the armed conflict in Colombia.",
@@ -300,15 +358,19 @@
     "year": "1955",
     "description": "Although the museum was founded this year, it began its work in 1963 under the direction of Marta Traba. Learn about the museum's history at:",
     "type": "image",
-    "url": "https://www.mambogota.com/el-museo/#historia"
+    "url": "https://www.mambogota.com/el-museo/#historia",
+    "image": {
+      "src": "mv1/did_you_know.jpg",
+      "alt": "Instagram: @mambogota </br> Facebook: @fanmambogota </br> Twitter: @_mambogota </br> YouTube: Museum of Modern Art of Bogotá"
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "CAE ROJAS PINILLA",
     "year": "1957",
     "description": "Vote of women in Colombia",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=lHUWckGfLmw&feature=emb_logo"
+    "url": "https: //www.youtube.com/watch?v=lHUWckGfLmw&feature=emb_logo "
   },
   {
     "id": 6,
@@ -322,11 +384,16 @@
     "title": "INSTALLATION",
     "year": "1958",
     "description": "The artist Allan Kaprow coined the term installation to refer to a work he made at home filling a space with objects.",
-    "type": "image"
+    "type": "image",
+    "image": {
+      "alt": "Miguel Ángel Rojas. Grano, the time tunnel. 2018. Reconstruction that was presented in the Project Room in 1981. Coal dust, stones and sand. Source: MAMBO Collection.",
+      "caption": "<a href='' target='blank'> Miguel Ángel Rojas </a> (Bogotá, Colombia, 1946) is one of the most important artists in the country. Observation of 19th century architecture and XX has been one of the sources of inspiration for his work. In this installation the artist reconstructs the cement tiles of the floor of his grandparents' house in Girardot, the place where he lived his childhood, using charcoal and sand. The installation speaks of the subtlety of memory through material that fades throughout exposure. ",
+      "src": "mv9/5g1.jpg"
+    }
   },
   {
     "id": 6,
-    "title": "PERFOMANCE OF ARTISTS IN THE HALL OF REJECTS",
+    "title": "PERFORMANCE OF ARTISTS IN THE HALL OF REJECTED",
     "year": "1959",
     "description": "Burning of coffins in downtown Bogota",
     "type": "image"
@@ -356,16 +423,8 @@
     "url": "http://www.efectokuleshov.com.ar/wp-content/uploads/2013/05/DSC08772-1024x768.jpg"
   },
   {
-    "id": 8,
-    "title": "THE CRITICAL. NADÍN OSPINA",
-    "year": "1960",
-    "description": "Nadín Ospina (Bogotá, Colombia - 1960) is an artist who combines elements of pop art and pre-Hispanic art, in order to make a critique of modern identity, through the use of irony and humor In this work, the artist makes a sculpture that resembles pre-Hispanic art but represents a figure from North American television, pointing out the identity conflicts in a colonized country. ",
-    "type": "image",
-    "url": "https://drive.google.com/file/d/1mN3giz1asWuJBJ9qcvOialJFL6vXN1rh/view"
-  },
-  {
     "id": 6,
-    "title": "SCRAPS - HAPPY BURZTYN:",
+    "title": "SCRAPS - HAPPY BURZTYN.",
     "year": "1961",
     "description": "His sculptures in scrap metal and stainless steel waste recall the discussions of the 1960s and 1970s around the use of unconventional material, sexuality, abstraction and unusual montages.",
     "type": "image",
@@ -380,7 +439,7 @@
     "url": "https://www.mambogota.com/wp-content/uploads/2017/01/Marta-Traba-inaugura-el-MAMBO-1.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "END OF THE ALGERIAN WAR OF INDEPENDENCE",
     "year": "1962",
     "description": "End of the Algerian War of Independence",
@@ -393,10 +452,15 @@
     "year": "1962",
     "description": "Alejandro Obregón, (Barcelona, ​​Spain - 1920) lived in the country since he was 6 years old, was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that were debated between the figuration and abstraction (figurative expressionism), highlighting the expressive brushstrokes and the spot of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality ",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=P5MEvSnlxhM&t=3s"
+    "url": "https://www.youtube.com/watch?v=P5MEvSnlxhM&t=3s",
+    "image": {
+      "src": "mv4/2.jpg",
+      "alt": "Alejandro Obregón. Violence. 1962. Obregón. Hernán Díaz. Source: MAMBO Collection",
+      "caption": "<a href='https://www.youtube.com/watch?v=P5MEvSnlxhM' target='blank'> Alejandro Obregón </a> (Barcelona, ​​Spain, 1920-1992) lived in the country from the age of 6, he was part of the Barranquilla Group and was a benchmark of modern and contemporary painting in Colombia. He created images that were debated between the figuretion and abstraction (figurative expressionism), which highlighted the expressive brushstrokes and the spot of color. This emblematic work is a reflection of his interest in denouncing the harshness of the national reality. "
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "STUDENT MOVEMENTS IN BERKLEY, CALIFORNIA",
     "year": "1964",
     "description": "Birth of movements in defense of public education. Beginning of the countercultural and left-wing press and the Hippie movement",
@@ -423,13 +487,13 @@
     "id": 5,
     "title": "MINIMALISM",
     "year": "1965",
-    "description": "Less is more; movimartistic endeavor that seeks to reduce works to their most essential form ",
+    "description": "Less is more; artistic movement that seeks to reduce works to their most essential form",
     "type": "image",
     "url": "https://masdearte.com/media/n_minimalismo2.jpg"
   },
   {
-    "id": 9,
-    "title": "THE BLACK POWER MOVEMENT (POWER 9) IS BORN IN THE US",
+    "id": 10,
+    "title": "THE BLACK POWER MOVEMENT IS BORN IN THE US",
     "year": "1966",
     "description": "Movement emerged to combat discrimination against the black population in the United States",
     "type": "image",
@@ -439,12 +503,12 @@
     "id": 6,
     "title": "WHAT DANTE DIDN'T KNOW, BEATRIZ LOVED BIRTH CONTROL. BERNARDO SALCEDO.",
     "year": "1966",
-    "description": "Bernardo Salcedo (Bogotá, Colombia - 1939) was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as homage to the life of Dante Alighieri and his muse Beatriz Portinari, with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art: the use of minimalist volumes and irony in his name ",
+    "description": "Bernardo Salcedo (Bogotá, Colombia - 1939) was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing and sculpture, to generate questions about the socio-historical context. This work arises as tribute to the life of Dante Alighieri and his muse Beatriz Portinari, with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art: the use of minimalist volumes and irony in his name ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1FdjZ92thyatDMIkCxZksYYjFYb1JmgQw/view"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "EXAMINATION OF CHE GUEVARA IN BOLIVIA",
     "year": "1967",
     "description": "Execution of Che Guevara in Bolivia. One of the Latin American revolutionary icons falls",
@@ -452,7 +516,7 @@
     "url": "https://ep01.epimg.net/internacional/imagenes/2017/10/08/estados_unidos/1507493842_800349_1507495086_sumario_normal_recorte1.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "EXTRAPARLIAMENTARY MOVEMENT",
     "year": "1967",
     "description": "Student demonstrations in West Germany",
@@ -460,7 +524,7 @@
     "url": "https://www.sinpermiso.info/sites/default/files/styles/adaptive/public/notstandsgesetze_bonn_may_11_1968.jpg?itok=7aMhZ9Sv"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "MOVEMENT FOR THE LIBERATION OF WOMEN",
     "year": "1967",
     "description": "The first organizations of the Women's Liberation Movement were formed in major cities such as Berkeley, Boston, Chicago, New York and Toronto",
@@ -469,14 +533,14 @@
   },
   {
     "id": 1,
-    "title": "GLORIA ZEA ASSUMES THE DIRECTION OF THE MAMBO",
+    "title": "GLORIA ZEA TAKES THE DIRECTION OF THE MAMBO",
     "year": "1967",
     "description": "Zea assumes the leadership after Marta Traba's exile due to her opposition to the measures of the National Government",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=UaKkqcSpz70&feature=emb_logo"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "MAY 68",
     "year": "1968",
     "description": "Chain of protests that took place in France",
@@ -500,7 +564,7 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Art-LanguageV3No1-1974.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "SPRING OF PRAGUE",
     "year": "1968",
     "description": "Repression of the USSR in Czechoslovakia",
@@ -508,7 +572,7 @@
     "url": "https://www.dw.com/image/42009753_303.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "ABBIE HOFFMAN AND THE CHICAGO SEVEN",
     "year": "1968",
     "description": "Accused of charges of conspiracy, incitement to riot, and other charges related to the violent protests",
@@ -527,9 +591,14 @@
     "id": 8,
     "title": "BATHROOM CURTAINS. ÓSCAR MUÑOZ",
     "year": "1968",
-    "description": "Oscar Muñoz (Popayán, Colombia - 1951) is an artist who has explored different media and materials, including video and photography to make proposals that incorporate timeand the space in the drawing. In this series, the artist makes a comment on intimacy and the absence of bodies based on a series of shower curtains with human silhouettes drawn on them. ",
+    "description": "Oscar Muñoz (Popayán, Colombia - 1951) is an artist who has explored different media and materials, including video and photography to make proposals that incorporate time and space in drawing. In this series, the artist makes a comment on intimacy and the absence of bodies from a series of shower curtains with human silhouettes drawn on them. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1bH2zkrWDf46ntBvG-UVbJi3Ky8kbCeMO/view"
+    "url": "https://drive.google.com/file/d/1bH2zkrWDf46ntBvG-UVbJi3Ky8kbCeMO/view",
+    "image": {
+      "src": "mv8/2.jpg",
+      "alt": "Óscar Muñoz. Shower curtains. 1986. Acrylic on plastic. Source: MAMBO Collection",
+      "caption": "<a href='https://www.banrepcultural.org/oscar-munoz/cortinas-bano.html' target='blank'> Oscar Muñoz </a> (Popayán, Colombia, 1951) is an artist who has explored different media and materials, including video and photography to make proposals that incorporate time and space in the drawing. In this series of shower curtains with human silhouettes drawn on them, the artist makes a comment about the intimacy and absence of bodies. "
+    }
   },
   {
     "id": 5,
@@ -548,7 +617,7 @@
     "url": "https://www.youtube.com/watch?v=v-N3vbH52bQ"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "FESTIVAL DE WOODSTOCK",
     "year": "1969",
     "description": "Famous festival that lasted several days in which the most important musicians of Rock'n Roll met, such as Jimi Hendrix, Janis Joplin and Santana, among others. This festival was a milestone in the hippie movement. I'm from the Woodstock nation, it's a state of mind. ",
@@ -556,7 +625,7 @@
     "url": "https://www.youtube.com/watch?v=q_9veLjxRG8&feature=emb_logo"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "PARIS CONFERENCE",
     "year": "1969",
     "description": "Peace agreement with Vietnam. The war ends with the withdrawal of US troops.",
@@ -564,7 +633,7 @@
     "url": "http://elsiglo.com.pa/media/news/image/207830_750x480_crop_56a81353dd11b.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "LGBT LIBERATION MOVEMENT",
     "year": "1969",
     "description": "LGBT liberation movement in NYC after the Stonewall riots",
@@ -577,7 +646,7 @@
     "year": "1970",
     "description": "He uses discarded materials in his works such as metal fragments, pieces of glass, earthenware, etc.",
     "type": "image",
-    "url": "https://2.bp.blogspot.com/-ifVOPhUGolk/Wvk1AXNc-3I/AAAAAAABWTE/O-c9pIVyDK0woTArNMj5cfMT4aOx9RTHQCLcBGAs/s1600/El%pa %2Bintercambiator2%Bistopg2Binterchange2"
+    "url": "https://2.bp.blogspot.com/-ifVOPhUGolk/Wvk1AXNc-3I/AAAAAAABWTE/O-c9pIVyDK0woTArNMj5cfMT4aOx9RTHQCLcBGAs/s1600/El%pa%2Bintercambiator2%Bistopg2Binterchange2"
   },
   {
     "id": 7,
@@ -601,7 +670,12 @@
     "year": "1970",
     "description": "Cildo Meireles (Rio de Janeiro, Brazil - 1948) is recognized for his contributions to Latin American conceptual art. In this series, the artist appropriates objects of everyday use and consumption, such as Coca Cola bottles, which intervenes with the phrase “Yankees go home” to reinsert them in the market. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1i6Q1lSpj789ZmWaJndmlqV4JR-YY-nig/view"
+    "url": "https://drive.google.com/file/d/1i6Q1lSpj789ZmWaJndmlqV4JR-YY-nig/view",
+    "image": {
+      "src": "mv5/1.jpg",
+      "alt": "Cildo Meireles. <a href='https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw' target='blank'> Zero cruzeiro. </a> 1974. Lithography. Source: MAMBO Collection. ",
+      "caption": "<a href='http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm' target='blank'> Cildo Meireles </a> (Rio de Janeiro, Brazil, 1948) is a renowned artist for his contributions to Latin American conceptual art through works made from the analysis of Latin American economic and political systems. In this series that we see he recreates a series of counterfeit bills to reflect on capital, power and exploitation. "
+    }
   },
   {
     "id": 8,
@@ -609,7 +683,12 @@
     "year": "1970",
     "description": "Beatriz González (Bucaramanga, Colombia - 1938) is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using popular culture images in everyday objects to communicate her reflections on the Colombian context and the problems associated with conflict, gender and landscape. In this work, the artist intervenes a wooden bed with a religious image. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/19HYsgewZCrQ2AXMi-djNdHtowTpSPbcB/view"
+    "url": "https://drive.google.com/file/d/19HYsgewZCrQ2AXMi-djNdHtowTpSPbcB/view",
+    "image": {
+      "src": "mv8/1.jpg",
+      "alt": "Beatriz González. Almost still life. 1970. Synthetic enamel on metal sheet assembled in furniture. Source: MAMBO Collection",
+      "caption": "<a href='https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html' target='blank'> Beatriz González </a> (Bucaramanga, Colombia, 1938 ) is one of the most recognized artists in Colombia, her work has explored the limits between painting and sculpture, using images from popular culture in everyday objects to communicate her reflections on the Colombian context and the problems associated with conflict, gender and the landscape. In this work, the artist intervenes a wooden bed with a religious image. "
+    }
   },
   {
     "id": 9,
@@ -619,12 +698,12 @@
     "type": "image"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "GREENPEACE",
     "year": "1971",
     "description": "Birth of the environmental organization Greenpeace.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=QyGIfEP8QC8 & feature = emb_logo "
+    "url": "https://www.youtube.com/watch?v=QyGIfEP8QC8&feature=emb_logo"
   },
   {
     "id": 6,
@@ -638,12 +717,17 @@
     "id": 6,
     "title": "CUJA, HAPPY BURSZTYN",
     "year": "1972",
-    "description": "Feliza Burstyn (Bogotá, Colombia - 1933) is considered the precursor of the installation in Colombia. A controversial and transgressive sculptor who was able to go against the established order of art, using unconventional materials such as scrap metal. iron, stainless steel waste and motors to make his sculptural compositions. Similarly, he became interested in including movement and sound in his works, with his series of beds - sculptures covered with shiny fabrics that suggest bodies in motion during their sexual acts. Feliza sought to stage an intimate and private moment to bring it out to the public, creating an environment of eroticism that envelops the viewer in an emotional and sensorial experience. ",
+    "description": "Feliza Burstyn (Bogotá, Colombia - 1933) is considered the precursor ofe installation in Colombia. A controversial and transgressive sculptor who was able to go against the established order of art, using unconventional materials such as iron scrap, stainless steel waste and motors to make her sculptural compositions. In the same way, she was interested in including movement and sound in her works; with its series of beds — sculptures covered in shiny fabrics that suggest bodies in motion during their sexual acts. Feliza sought to stage an intimate and private moment to bring it out to the public, creating an atmosphere of eroticism that envelops the viewer in an emotional and sensorial experience. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1dQx-Anm9dtOPfPZ_ty0CU10aoQGFAlxo/view"
+    "url": "https://drive.google.com/file/d/1dQx-Anm9dtOPfPZ_ty0CU10aoQGFAlxo/view",
+    "image": {
+      "src": "mv6/1.jpg",
+      "alt": "Feliza Bursztyn. Cuja. 1972. Source: MAMBO Collection",
+      "caption": "<a href 1963'https://cerosetenta.uniandes.edu.co/feliza-bursztyn-en-un-pais-de-machistas-hagase-la-loca/' target='blank'> Feliza, stainless steel waste and motors to make her sculptural compositions.In the same way, she was interested in including movement and sound in her works; in her series of beds-sculptures covered with shiny fabrics, bodies in movement are suggested during their sexual acts."
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "AVIANCA BUILDING FIRE",
     "year": "1973",
     "description": "Before the accident this building was the tallest in South America.",
@@ -651,12 +735,16 @@
     "url": "https://www.youtube.com/watch?v=_wbpnukqHWQ"
   },
   {
-    "id": 9,
+    "id": 5,
     "title": "CARLOS CAICEDO WORKS",
     "year": "1973",
     "description": "The reporter who spoke with images.",
     "type": "image",
-    "url": "https://alianzafrancesa.org.co/bogota/wp-content/uploads/2019/05/Carlos-Caicedo.png"
+    "url": "https://alianzafrancesa.org.co/bogota/wp-content/uploads/2019/05/Carlos-Caicedo.png",
+    "image": {
+      "src": "mv5/c2.jpg",
+      "alt": "Carlos Caicedo. Bogotá, 1975. Source: MAMBO Collection."
+    }
   },
   {
     "id": 9,
@@ -664,10 +752,15 @@
     "year": "1973",
     "description": "The reporter who spoke with images",
     "type": "image",
-    "url": "https://drive.google.com/file/u/0/d/1nxwAO0YBWPMPWYnZddJGP7MqQrbE8OXt/view"
+    "url": "https://drive.google.com/file/u/0/d/1nxwAO0YBWPMPWYnZddJGP7MqQrbE8OXt/view",
+    "image": {
+      "alt": "Nirma Zárate and Diego Arango. Colombian History by Esso. 1973. Serigraph. Source: MAMBO Collection.",
+      "caption": "<a href='https://enciclopedia.banrepcultural.org/index.php?title=Nirma_Z%C3%A1rate' target='blank'> Nirma Zárate </a> (Bogotá, 1936-1999 ) and <a href='http://pinturacolombiana.blogspot.com/2009/07/diego-arango.html' target='blank'> Diego Arango </a> (Medellín, 1946) were founders of <a href = 'http: //patrimoniocultural.bogota.unal.edu.co/eventos/article/taller-4-rojo-entre-el-arte-y-el-cartel.html' target = 'blank'> Taller 4 Rojo </a>, one of the most important artistic groups for graphic and critical production in the country. This work reflects its interest in denouncing imperialism with suggestive and symbolic images. ",
+      "src": "mv9/6g3.jpg"
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "END OF THE NATIONAL FRONT",
     "year": "1974",
     "description": "The National Front ends with the conservative Misael Pastrana",
@@ -675,7 +768,7 @@
     "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/6668368/descarga_%286%29.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "ORIGIN OF THE M-19",
     "year": "1974",
     "description": "This Colombian urban guerrilla organization arises as a result of the fraud in the presidential elections of April 19, 1970, in which Misael Pastrana was elected. Read more at:",
@@ -696,7 +789,7 @@
     "year": "1975",
     "description": "Space for the avant-garde practices of the time in the country.",
     "type": "image",
-    "url": "http://liberatorio.org/wp-content/uploads/2016/04/30-aos-del-salon-atenas.jpg"
+    "url": "http://liberatorio.org/wp-content/uploads/2016/04/30-years-of-the-salon-athens.jpg "
   },
   {
     "id": 8,
@@ -704,7 +797,12 @@
     "year": "1975",
     "description": "Antonio Caro",
     "type": "image",
-    "url": "https://admin.banrepcultural.org/sites/default/files/obra-de-arte/gallery/ap5362.jpg"
+    "url": "https://admin.banrepcultural.org/sites/default/files/obra-de-arte/gallery/ap5362.jpg",
+    "image": {
+      "alt": "Antonio Caro. Colombia Coca-Cola. 1976. Lithography. Source: MAMBO Collection.",
+      "caption": "<a href='https://perspectivasesteticas.blogspot.com/2012/05/antonio-caro-el-arte-como.html' target='blank'> Antonio Caro </a> (Bogotá , Colombia, 1950) is one of the <a href='https://www.banrepcultural.org/coleccion-de-arte/artista/antonio-caro' target='blank'> most important conceptual artists in Colombia. </a> His works reflect a high political and social content expressed through humor and irony. Caro contradicted the artistic parameters of the time by using popular images, materials and unconventional techniques. This lithograph is one of the most important works of the conceptual art, since in it the artist appropriates the Coca-Cola logo to generate a reflection on imperialism. ",
+      "src": "mv9/6g2.jpg"
+    }
   },
   {
     "id": 8,
@@ -712,34 +810,44 @@
     "year": "1976",
     "description": "With a female nude by the artist Darío Morales on the cover, the only magazine specialized in art that exists in Colombia began to circulate.",
     "type": "image",
-    "url": "https://www.elespectador.com/resizer/P-p-A4wB5jA7gBlWrBtfJ7R-OGk=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/AUOB3BSJ6NDCVJ3SBCI5JNVKHU.pg"
+    "url": "https://www.elespectador.com/resizer/P-p-A4wB5jA7gBlWrBtfJ7R-OGk=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/AUOB3BSJ6NDCVJ3SBCI5JNVKHU."
   },
   {
-    "id": 9,
-    "title": "MARCHAS ANTINUCLEARE",
+    "id": 10,
+    "title": "ANTINUCLEAR MARCHES",
     "year": "1976",
-    "description": "They were made in England, Germany and the USA: it arises in response to the dangerous use, development and expansion of nuclear technology for warfare.",
+    "description": "They were made in England, Germany and the US: it arises in response to the dangerous use, development and expansion of nuclear technology for warfare.",
     "type": "image",
     "url": "https://www.dw.com/image/39485973_303.jpg"
   },
   {
-    "id": 1,
+    "id": 5,
     "title": "SUN TUNNELS. NANCY HOLT",
     "year": "1976",
-    "description": "Nancy Holt (Worcester, United States - 1938) was one of the forerunners in proposing new ways of perceiving the landscape through transdisciplinary works. In this work characteristics of Land Art and Minimalism installed a series of cement tunnels with holes in a plain. Every December 21st, winter solstice, the sun aligns itself with the tunnels, reflecting inside the tunnel. ",
+    "description": "Nancy Holt (Worcester, United States - 1938) was one of the forerunners in proposing new ways of perceiving the landscape through transdisciplinary works. In this characteristic work of Land Art and Minimalism she installed a series of tunnels of cement with holes in a plain. Every December 21st, winter solstice, the sun aligns itself with the tunnels reflecting inside the tunnel. ",
     "type": "image",
-    "url": "https://drive.google.com/file/u/0/d/1KyiQc68tyH78g7xB8iOzlQ34fYAO3q4N/view"
+    "url": "https://drive.google.com/file/u/0/d/1KyiQc68tyH78g7xB8iOzlQ34fYAO3q4N/view",
+    "image": {
+      "src": "mv5/3.jpg",
+      "alt": "Nancy Holt. Sun Tunnels. 1976. Leaky cement pipes. Source: Wikimedia Commons under the C.C. 2.0 license.",
+      "caption": "<a href='https://exit-express.com/adios-a-nancy-holt-pionera-del-land-art/' target='blank'> Nancy Holt </a> ( Worcester, United States, 1938-2014) was one of the precursors of new ways of perceiving the landscape through transdisciplinary works.In this characteristic work of Land Art and Minimalism he installed a series of cement tunnels with holes in a plain. Every December 21, the winter solstice, the sun aligns itself with the tunnels by reflecting inside the tunnel. "
+    }
   },
   {
     "id": 6,
     "title": "PAPER AND PENCIL. JONIER MARÍN.",
     "year": "1976",
-    "description": "Jonier Marín (Algeria, Colombia - 1946) questions the traditional processes of art, and with his proposal he generates a work that confronts us with the question of What is art and who validates it? 'Without wasting time I proposed to artists I met while traveling, to draw anything in pencil on a sheet of paper, and attach their portrait to the drawing, thus validating the work.'Jonier Marín",
+    "description": "Jonier Marín (Algeria, Colombia - 1946) questions the traditional processes of art, and with her proposal she generates a work that confronts us with the question of What is art and who validates it?' Without wasting time I proposed to artists I met while traveling, draw anything in pencil on a sheet of paper, and attach their portrait to the drawing, thus validating the work.' Jonier Marín",
     "type": "image",
-    "url": "https://drive.google.com/file/u/0/d/10jNcgF3b1Gl0ZxhrG_RwuN_dTxu_jHns/view"
+    "url": "https://drive.google.com/file/u/0/d/10jNcgF3b1Gl0ZxhrG_RwuN_dTxu_jHns/view",
+    "image": {
+      "src": "mv6/2.jpg",
+      "alt": "Jonier Marín. Paper and Pencil. 1976. Source: MAMBO Collection",
+      "caption": "<a href='https://ceronresumido.com/Jonier-Marin-Obra-activa' target='blank'> Jonier Marín </a> (Algeria, Colombia, 1946) questions the traditional processes of art, and with his proposal he generates a work that raises the question: what is art and who validates it? </br> </br> 'Without wasting time I proposed to artists I met while traveling, to draw in pencil on any sheet of paper. thing, and attach his portrait to the drawing, thus validating the work '. Jonier Marín. "
+    }
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "TURBAY AYALA LIBERAL PRESIDENT",
     "year": "1978",
     "description": "His presidential term was from August 7, 1978 - August 7, 1982",
@@ -748,18 +856,27 @@
   },
   {
     "id": 6,
-    "title": "A-LA-DINNER WITH SHOES WINS THE FIRST PRIZE AT THE NATIONAL HALL OF ARTISTS",
+    "title": "A-LA-DINNER WITH SHOES WINS THE FIRST PRIZE IN THE NATIONAL HALL OF ARTISTS",
     "year": "1978",
-    "description": "The awards for the works of El Sindicato 'Alacena con zapatos' and Ana Mercedes Hoyos 'Atmosphere', were the first recognition of conceptual art in Colombia",
+    "description": "The awards for the works of The Union 'Alacena con zapatos' and Ana Mercedes Hoyos 'Atmosphere', were the firstbest recognition of conceptual art in Colombia ",
     "type": "image",
-    "url": "http://liberatorio.org/wp-content/uploads/2017/10/El-Sindicato2.jpg"
+    "url": "http://liberatorio.org/wp-content/uploads/2017/10/El-Sindicato2.jpg",
+    "image": {
+      "alt": "El Sindicato Group. Ramiro Gómez, Carlos Restrepo, Alberto del Castillo, Efraín Arrieta, Aníbal Tobón and Guillermo Aragón. A-dinner with shoes. 1979. Source: MAMBO Collection.",
+      "src": "mv9/1g1.jpg",
+      "caption": "<a href='https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/' target='blank'> The experimental art group El Sindicato </a> (Barranquilla, Colombia, 1973) was made up of various artists who worked on popular and socio-political concepts related to daily life with what was discarded by the system, and with those who were forgotten by it. This piece won the 1978 National Salon of Artists award, questioning the artistic institutionality, its materials, its codes and its power; both the title and the assembly with old and wasted shoes trigger reflections on social inequality. "
+    }
   },
   {
     "id": 1,
     "title": "THE CONSTRUCTION OF THE CURRENT HEADQUARTERS OF THE MAMBO BEGINS",
     "year": "1978",
     "description": "Photograph of Oscar Monsalve",
-    "type": "image"
+    "type": "image",
+    "image": {
+      "src": "mv1/question.jpg",
+      "alt": "1978. Construction of the current headquarters of the Museum. Photograph of Oscar Monsalve"
+    }
   },
   {
     "id": 6,
@@ -767,7 +884,12 @@
     "year": "1979",
     "description": "Álvaro Barrios (Cartagena, Colombia - 1945) is an artist from the Colombian Caribbean, who from a young age expressed his interest in conceptualism, making ready-mades and appropriations of popular graphics. In this work, the artist makes reference to Marcel Duchamp's work, The Big Glass, but uses Plexiglas and incorporates a series of letters, notes and photographs that were part of an exchange made with a friend of his. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1R9gXabyMwNblwXxfO5XKH5jzg2mzEgdu/view"
+    "url": "https://drive.google.com/file/d/1R9gXabyMwNblwXxfO5XKH5jzg2mzEgdu/view",
+    "image": {
+      "src": "mv6/3.jpg",
+      "alt": "Álvaro Barrios. The Great Plexi. 1979. Source: MAMBO Collection",
+      "caption": "<a href='http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html' target='blank'> Álvaro Barrios </a> (Cartagena, Colombia, 1945) is an artist from the Colombian Caribbean who from a young age expressed his interest in conceptualism, making ready-mades and appropriations of popular graphics. In this work, the artist refers to the work of Marcel Duchamp; Barrios it uses plexiglass and incorporates a series of letters, notes and photographs that were part of an exchange made with a friend of his. "
+    }
   },
   {
     "id": 9,
@@ -778,15 +900,7 @@
     "url": "https://drive.google.com/file/u/0/d/1gQ2jdSGNPCEYJTjznmbccq36L21Ji04W/view"
   },
   {
-    "id": 9,
-    "title": "COLOMBIA COCA COLA. ANTONIO CARO",
-    "year": "1979",
-    "description": "Antonio Caro (Bogotá, Colombia - 1950) is one of the most important conceptual artists in Colombia. His works reflect a high political and social content expressed through humor and irony. Caro contradicted the artistic parameters of the period, using popular images, materials and unconventional techniques. This lithograph is one of the most important works of conceptual art, in it, the artist appropriates the Coca Cola logo to generate a reflection on imperialism. ",
-    "type": "image",
-    "url": "https://drive.google.com/file/d/1wCiyfUYvTKNcpOzyqsDmg5HyaPXGcULs/view"
-  },
-  {
-    "id": 9,
+    "id": 10,
     "title": "SEIZURE OF THE DOMINICAN REPUBLIC EMBASSY BY THE M-19",
     "year": "1980",
     "description": "Kidnapping of diplomats from many countries at a celebration commemorating the independence of the Dominican Republic",
@@ -805,9 +919,14 @@
     "id": 9,
     "title": "TRAP. FERNANDO CEPEDA",
     "year": "1980",
-    "description": "Fernando Cepeda (nd) made MAMBO his home for two weeks. He built a kind of cell on the first floor of the Museum, exposing his private life to all visitors. Photographer Oscar Monsalve periodically recorded the artist's stay in the Museum while brushing his teeth, before sleeping, sus hours of reading, etc. These photographs were pasted on a wall outside the cell and in this way the visitors could see the day to ",
+    "description": "Fernando Cepeda (nd) made MAMBO his home for two weeks. He built a kind of cell on the first floor of the Museum, exposing his private life to all visitors. Photographer Oscar Monsalve periodically recorded the artist's stay in the Museum while brushing his teeth, before sleeping, his reading hours, etc. These photographs were pasted on a wall outside the cell and in this way the visitors could see the day to ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1R-XmSZ9xABG7is6MWTkQV6GqNRVyu5tV/view"
+    "url": "https://drive.google.com/file/d/1R-XmSZ9xABG7is6MWTkQV6GqNRVyu5tV/view",
+    "image": {
+      "alt": "Fernando Cepeda. Trap. 1980. Photographic Record of Oscar Monsalve. Source: MAMBO Collection.",
+      "src": "mv9/2g2.jpg",
+      "caption": "<a href = 'https: //www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-320/ni-reciente-ni-importado-historia-del-performance-en-colombia' target = 'blank'> Fernando Cepeda </a> (sf) made MAMBO his home for two weeks. Cepeda built a kind of cell on the first floor of the Museum, exposing his private life to all visitors. Photographer Oscar Monsalve periodically recorded the artist's stay in the Museum while brushing his teeth, before sleeping, during his reading hours, etc. These photographs were pasted on a wall outside the cell and in this way the visitors could see the day-to-day of the artist."
+    }
   },
   {
     "id": 8,
@@ -821,7 +940,7 @@
     "id": 8,
     "title": "INAUGURATION OF THE MEDELLIN MUSEUM OF MODERN ART",
     "year": "1981",
-    "description": "It has been a living, urban and current museum, a space for meeting, knowledge and enjoyment in which contemporary and diverse artistic and cultural manifestations have a place.",
+    "description": "It has been a living, urban and contemporary museum, a space for meeting, knowledge and enjoyment in which contemporary and diverse artistic and cultural manifestations have a place.",
     "type": "image",
     "url": "https://static.iris.net.co/semana/upload/images/2018/8/2/577536_1.jpg"
   },
@@ -831,7 +950,12 @@
     "year": "1981",
     "description": "Maria Evelia Marmolejo (Pradera, Colombia - 1958) is an artist who since the 80's has used her body as a tool for creating and communicating her denunciations against oppression and violence. Her marked feminist, environmentalist and anti Militarist has defined his works as radicals and activists. ",
     "type": "image",
-    "url": "https://institutodevision.com/visionarios/maria-evelia-marmolejo/"
+    "url": "https://institutodevision.com/visionarios/maria-evelia-marmolejo/",
+    "image": {
+      "alt": "María Evelia Marmolejo. Anonymous 1. 1981. Source: MAMBO Collection.",
+      "src": "mv9/2g1.jpg",
+      "caption": "<a href='https://www.artnexus.com/es/magazines/article-magazine/5d64034190cc21cf7c0a342e/85/maria-evelia-marmolejo-s-political-body' target='blank'> Maria Evelia Marmolejo </a> (Pradera, Colombia, 1958) is an artist who since the 1980s has used her body as a tool for creating and communicating her denunciations against oppression and violence. Her marked feminist, environmentalist character and antimilitarist has defined his works as radicals and activists. "
+    }
   },
   {
     "id": 9,
@@ -842,7 +966,7 @@
     "url": "https://drive.google.com/file/u/0/d/1rD5R1UYHyJ9Y97uvZ9J3ngT8ezMbAWN8/view"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "BETANCUR PRESIDENTE CONSERVADOR",
     "year": "1982",
     "description": "Presidential term: August 7, 1982 - August 7, 1986",
@@ -855,15 +979,24 @@
     "year": "1983",
     "description": "Rosa Navarro (Barranquilla, Colombia - 1955) was a conceptual artist interested in language. Her work starts from the exploration of her name as the central theme of her work. This series of self-portraits is a sample of the game of meanings with the word rose ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1ifX1O1XF3iuAURMHj21U1JqfXJ5mEuLn/view"
+    "url": "https://drive.google.com/file/d/1ifX1O1XF3iuAURMHj21U1JqfXJ5mEuLn/view",
+    "image": {
+      "alt": "Rosa Navarro. Wind Rose series. Color photography. 1983. Source: MAMBO Collection.",
+      "src": "mv9/3g2.jpg",
+      "caption": "<a href='https://www.espacioeldorado.com/rosa-navarro' target='blank' Battalion Rosa Navarro </a> (Barranquilla, Colombia, 1955) is a conceptual artist interested in the. language, her work starts from the exploration of her name as the central theme of her work. This series of self-portraits is a sample of the play of meanings with the word rose. "
+    }
   },
   {
     "id": 9,
     "title": "FROM THE INTERIOR SERIES. FERNELL FRANCO",
     "year": "1983",
-    "description": "Fernell Franco (Versalles, Colombia - 1942) develops his work mainly around the urban life of Cali in the 70's. In the city he captures images of the streets, prostitutes, billiards, demolitions, houses, festivals and bicycles. In this series in particular, he records interior spaces of places where he lived and worked through analog photography in 9 9 and then intervenes manually with color ",
+    "description": "Fernell Franco (Versalles, Colombia - 1942) develops her work mainly around the urban life of Cali in the 70's. In the city she captures images of the streets, prostitutes, billiards, demolitions., houses, festivals and bicycles. In this series in particular, he records interior spaces of places where he lived and worked through analog photography in 9 9 and then intervenes manually with color ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1YB5k79TwF9Gr0Et7ZD7dqYd79jABKvCH/view"
+    "url": "https://drive.google.com/file/d/1YB5k79TwF9Gr0Et7ZD7dqYd79jABKvCH/view",
+    "image": {
+      "alt": "Interior series (1983) by Fernell Franco Museum of Modern Art of Bogotá. MAMBO",
+      "src": "mv2/1g9.jpg"
+    }
   },
   {
     "id": 4,
@@ -871,7 +1004,11 @@
     "year": "1989",
     "description": "The fall of the Berlin Wall marked the fall of the U.S.S.R. and the end of the Cold War",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=EXijvhBQ-u8&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=EXijvhBQ-u8&feature=emb_logo",
+    "image": {
+      "src": "mv4/c1.jpg",
+      "alt": "Unknown author. Berlin Wall photograph. 1989. Source: <a href='https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg' targe='blank'> Wikimedia Commons </a> under the <a href='https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2' target='blank'> GNU license. </a> "
+    }
   },
   {
     "id": 1,
@@ -893,13 +1030,13 @@
     "id": 7,
     "title": "DIGITAL ART",
     "year": "1990",
-    "description": "Use ofdigital tools such as sensors, video projections, lights, etc ",
+    "description": "Use of digital tools such as sensors, video projections, lights, etc",
     "type": "image",
     "url": "https://www.gndiario.com/sites/default/files/styles/noticia_detalle_noticia_2_1/public/noticias/Arte.png?itok=LLJ821pd"
   },
   {
     "id": 7,
-    "title": "NET AR",
+    "title": "NET ART",
     "year": "1990",
     "description": "Use the internet as a platform for artistic creation",
     "type": "image",
@@ -919,7 +1056,12 @@
     "year": 1990,
     "description": "Maria Fernanda Cardoso (Bogotá, Colombia - 1963) is a multidisciplinary artist who has investigated nature through photography, sculpture and performance. Her work has taken her to important stages such as the Venice Biennale. In this work, the artist makes a crown with stuffed lizards. ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1fsOtGUO_ljhV9nDC-mZy32URj0k5qNvY/view"
+    "url": "https://drive.google.com/file/d/1fsOtGUO_ljhV9nDC-mZy32URj0k5qNvY/view",
+    "image": {
+      "src": "mv8/3.jpg",
+      "alt": "Maria Fernanda Cardoso. Crown for a chibcha princess. Lizards and Metal. 1990. Source: MAMBO Collection",
+      "caption": "<a href='http://camilolamprea.blogspot.com/2015/03/referentes-en-el-tema-de-y-bi-ologia.html' target='blank'> Maria Fernanda Cardoso </a> (Bogotá, Colombia, 1963) is a multidisciplinary artist who has investigated nature through photography, sculpture and performance. Her work has taken her to important stages such as the Venice Biennale. This work is a crown of stuffed lizards. "
+    }
   },
   {
     "id": 9,
@@ -934,7 +1076,7 @@
     "year": "1991",
     "description": "Damien Hirst (Bristol, United Kingdom - 1965) is one of the most sought-after contemporary artists on the art market. He makes this series of sculptures with animals dissected in formaldehyde to question the public about the ephemeral and the limits between life and death",
     "type": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg "
   },
   {
     "id": 7,
@@ -945,12 +1087,16 @@
     "url": "http://www.artnet.com/artists/gabriel-orozco/mis-manos-son-mi-coraz%C3%B3n-my-hands-are-my-heart-2iHZAlMkQsd5GdgCMLsUBg2"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "CONSTITUENT ASSEMBLY",
     "year": "1991",
     "description": "Declaration of the new constitution in Colombia that decrees the Social State of Law",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=rQGFUE5wikU&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=rQGFUE5wikU&feature=emb_logo",
+    "image": {
+      "src": "mv8/c3.jpg",
+      "alt": "Photograph of a publication of the Colombian constitution. The book was printed in December 1991, in the workshops of IMPREANDES, SA, Bogotá, Colombia. 2019. Source: <a href = 'https://commons.wikimedia.org/wiki/File:Constituc%C3%B3n_Pol%C3%ADtica_de_Colombia_1991.jpg 'target =' blank '> Wikimedia Commons </a> under license <a href =' https: //creativecommons.org/ licenses/by-sa/3.0/deed.en 'target =' blank '> CC BY SA 3.0 </a> "
+    }
   },
   {
     "id": 9,
@@ -958,7 +1104,12 @@
     "year": "1992",
     "description": "Elías Heim (Cali, Colombia - 1966) is recognized for his on-site installations, which incorporate facts and situations from the assembly site. Heim's works blend with architecture using industrial technologies and materials, such as this work in which he draws a skeleton with aluminum grilles connected to an air conditioner ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1HA7k63jA3gEIuIE4-2hm04OXQDlEitQl/view"
+    "url": "https://drive.google.com/file/d/1HA7k63jA3gEIuIE4-2hm04OXQDlEitQl/view",
+    "image": {
+      "alt": "Elías Heim. The Master of Celán. 1992. Air conditioning duct, aluminum grilles and refrigeration unit. Source: MAMBO Collection.",
+      "caption": "<a href='' target='blank'> Elías Heim </a> (Cali, Colombia, 1966) is recognized for his on-site installations, which incorporate facts and situations from the assembly site. by Heim blend with architecture using industrial technologies and materials, such as this work in which he draws a skull with aluminum grilles connected to an air conditioner. ",
+      "src": "mv9/5g3.jpg"
+    }
   },
   {
     "id": 9,
@@ -973,7 +1124,12 @@
     "year": "1997",
     "description": "Fernando Arias (Armenia, Colombia - 1963) works around multiple socio-political problems such as the exploitation of resources, HIV and the armed conflict. This work is the photographic record of a tattoo of his signature on his skin , which was later sold at auction questioning art and the body as consumer objects ",
     "type": "image",
-    "url": "https://www.daros-latinamerica.net/es/artwork/%C2%BFqui%C3%A9n-da-m%C3%A1s"
+    "url": "https://www.daros-latinamerica.net/es/artwork/%C2%BFqui%C3%A9n-da-m%C3%A1s",
+    "image": {
+      "alt": "Fernando Cepeda. Who gives more? 1997. Source: Mambo Collection.",
+      "src": "mv9/2g3.jpg",
+      "caption": "<a href = 'https: //www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-320/ni-reciente-ni-importado-historia-del-performance-en-colombia' target = 'blank'> Fernando Cepeda </a> (sf) made MAMBO his home for two weeks. Cepeda built a kind of cell on the first floor of the Museum, exposing his private life to all visitors. Photographer Oscar Monsalve periodically recorded the artist's stay in the Museum while brushing his teeth, before sleeping, during his reading hours, etc. These photographs were pasted on a wall outside the cell and in this way the visitors could see the day-to-day of the artist."
+    }
   },
   {
     "id": 7,
@@ -981,15 +1137,25 @@
     "year": "1999",
     "description": "Yayoi Kusama (Matsumoto, Japan - 1929) is an artist who builds large environments with textures, spots and colors, offering an immersive experience in which the sensation of space and the body change completely. His artistic installations are spaces. Amazing ",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1BZmlkfLEEB7IDPiMjB47Yc4Tw19OBjP5/view"
+    "url": "https://drive.google.com/file/d/1BZmlkfLEEB7IDPiMjB47Yc4Tw19OBjP5/view",
+    "image": {
+      "src": "mv7/2.jpg",
+      "alt": "<a href='https://www.vice.com/en/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama' target='blank'> Yayoi Kusama. Obsession points. 1999. </a> Source: Wikimedia Commons under the CC BY 2.0 license. ",
+      "caption": "<a href = 'https: //www.alejandradeargos.com/index.php/es/completas/32-artistas/41530-yayoi-kusama-biografia-obra-y-exhibitions' target = 'blank'> Yayoi Kusama </a> (Matsumoto, Japan, 1929) is an artist who builds large environments with textures, stains and colors offering an immersive experience in which the sensation of space and the body change completely. Its art installations are amazing spaces. "
+    }
   },
   {
     "id": 7,
     "title": "URBAN ART",
     "year": "2000",
-    "description ": " Art that intervenes in the public space through techniques such as graffiti, muralism, posters, and performance ",
+    "description": "Art that intervenes in the public space through techniques such as graffiti, muralism, posters, and performance",
     "type": "image",
-    "url": "https://www.fundeu.es/wp-content/uploads/2018/05/arte-urbano.jpg"
+    "url": "https://www.fundeu.es/wp-content/uploads/2018/05/arte-urbano.jpg",
+    "image": {
+      "src": "mv7/3.jpg",
+      "alt": "Banksy. <a href='https://commons.wikimedia.org/wiki/File:Banksy_lovers.jpg' target='blank'> Lovers. </a> 2006. Source: Wikimedia Commons under the CC BY 2.0 license. ",
+      "caption": "<a href='https://www.oldskull.net/design/banksy-mas-que-un-artista/' target='blank'> Banksy </a> (Bristol, UK, 1974) is the nickname of one of the best-known artists of urban art. Since Pop Art's foray into graphic and advertising media, artistic practices in urban space have acquired an important role. In this work Banksy recreates a scene funny, using the wall as a narrative surface in public space. "
+    }
   },
   {
     "id": 7,
@@ -1017,11 +1183,16 @@
   },
   {
     "id": 9,
-    "title": "NATALIA RIVERA",
+    "title": "NATALIA RIVERA. THE FINALISTS",
     "year": "2001",
     "description": "Natalia Rivera (Bogotá, 1953) uses everyday objects to create installations. In this work she reconstructs a scene from a beauty reign with three pairs of heels, questioning the viewer about the stereotypes of the female body",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1HSrPCKmolJzPGKpPP1F1eBDqiYhx1CkS/view"
+    "url": "https://drive.google.com/file/d/1HSrPCKmolJzPGKpPP1F1eBDqiYhx1CkS/view",
+    "image": {
+      "alt": "Natalia Rivera. The finalists. 1980. Source: MAMBO Collection. Natalia Rivera (Bogotá, 1953) uses everyday objects to make installations. In this work she reconstructs a scene from a beauty reign with pairs of heels, questioning the viewer on the stereotypes of the female body. ",
+      "src": "mv9/1g2.jpg",
+      "caption": "<a href='' target='blank'> Natalia Rivera </a> (Bogotá, 1953) uses everyday objects to make installations. In this work she reconstructs a scene from a beauty reign with pairs of heels , questioning the viewer about the stereotypes of the female body. "
+    }
   },
   {
     "id": 9,
@@ -1029,18 +1200,23 @@
     "year": "2005",
     "description": "Ana Adarve (Bogotá, Colombia - 1976) is a Colombian artist who has stood out in recent years for her work with digital photography. She carries out a meticulous job of photomontage with which she composes large-format panoramic photographs of the urban space",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1c-ywaXW4DOIIt-R1efpz7YTvEK3oy0TK/view"
+    "url": "https://drive.google.com/file/d/1c-ywaXW4DOIIt-R1efpz7YTvEK3oy0TK/view",
+    "image": {
+      "alt": "Ana Adarve. Detection 1. 2005. Digital photography. Source: MAMBO Collection.",
+      "src": "mv9/3g3.jpg",
+      "caption": "<a href='https://issuu.com/anaadarve/docs/adarve_portafolio_2017_issuu' target='blank'> Ana Adarve </a> (Bogotá, Colombia, 1976) is a Colombian artist who has Highlighted in recent years for his work with digital photography. He does a meticulous photomontage job with which he composes large-format panoramic photographs of urban space. "
+    }
   },
   {
     "id": 7,
     "title": "MAID IN LONDON. BANKSY",
     "year": "2006",
-    "description": "Banksy (Bristol, United Kingdom - 1974) is the nickname of one of the best-known artists of urban art. From the incursion of Pop Art in graphic and advertising media, artistic practices in urban space have acquired an important role. In this work Banksy makes a critical comment on social inequality and the way in which society hides its problems ",
+    "description": "Banksy (Bristol, UK - 1974) is the nickname of one of the best known artistsof urban art. From the incursion of Pop Art in graphic and advertising media, artistic practices in urban space have acquired an important role. In this work, Banksy makes a critical comment on social inequality and the way in which society hides its problems ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1KcLwuLLj0EJa2CX-KyzX-22jz_TouKBo/view"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "REQUIEM N.N. JUAN MANUEL ECHAVARRÍA",
     "year": "2006",
     "description": "Juan Manuel Echavarría (Medellín, Colombia - 1947) is an artist who since the 90's explores the different territories of the country in search of the trace of the armed conflict. Through photography and video, he records scenarios where they happened acts of violence to preserve their memory and generate a poetic look at reality. In this work, he photographed the tombstones of a cemetery on the banks of the Magdalena River where the bodies of the NN dumped downstream have been buried ",
@@ -1053,7 +1229,12 @@
     "year": "2006",
     "description": "Santiago Cárdenas (Bogotá, Colombia - 1937) is recognized as an exponent of contemporary painting for revisiting and deepening realism. In this installation, the artist uses painting to recreate unreal spaces that play with the perception of the viewer. This work was made for the first time in the exhibition Espacios Ambientales at the Museum of Modern Art of Bogotá - MAMBO in 1968 ",
     "type": "image",
-    "url": "https://drive.google.com/file/u/0/d/1zYA3Ax1CPLOrrEASmcd48yvE2gpzLTtT/view"
+    "url": "https://drive.google.com/file/u/0/d/1zYA3Ax1CPLOrrEASmcd48yvE2gpzLTtT/view",
+    "image": {
+      "alt": "Santiago Cárdenas. Environmental Spaces II, Tribute to Marta Traba. 2006. Source: MAMBO Collection.",
+      "caption": "<a href='' target='blank'> Santiago Cárdenas </a> (Bogotá, Colombia, 1937) is recognized as an exponent of contemporary painting for taking up and deepening realism. In this installation , the artist uses painting to recreate unreal spaces that play with the perception of the viewer. This work was made for the first time in the exhibition Espacios Ambientales del MAMBO in 1968. ",
+      "src": "mv9/5g2.jpg"
+    }
   },
   {
     "id": 9,
@@ -1074,7 +1255,7 @@
     "id": 7,
     "title": "GENERATIVE ART",
     "year": "2010",
-    "description": "It is one that partially or in its entirety, has been created with the use of an autonomous system. Explore these references",
+    "description": "It is one that partially or in its entirety has been created with the use of an autonomous system. Explore these references",
     "type": "image",
     "url": "https://i2.wp.com/www.hisour.com/wp-content/uploads/2018/01/Generative-art.jpg?w=960&ssl=1"
   },
@@ -1090,24 +1271,28 @@
     "id": 8,
     "title": "ROSES AND THORNS. CATALINA MEJÍA",
     "year": "2011",
-    "description": "Catalina Mejía (Bogotá, Colombia - 1962) is a representative artist of contemporary painting in Colombia. She has experimented with collage proposing enigmatic images with nostalgic atmospheres, where the figurative and the abstract inhabit through the management of the light. This work shows the simplicity and sensitivity of the artist who in a subtle way transmits a deep and dramatic feeling ",
+    "description": "Catalina Mejía (Bogotá, Colombia - 1962) is a representative artist of contemporary painting in Colombia. She has experimented with collage proposing enigmatic images with nostalgic atmospheres, where the figurative and the abstract inhabit through the management of the light. This work shows the simplicity and sensitivity of the artist who in a subtle way gives us a deep and dramatic feeling ",
     "type": "image",
     "url": "https://drive.google.com/file/d/1kaVUdt93itMhCgVjvnhZFaWPwAf1Cc8k/view"
   },
   {
     "id": 1,
-    "title": "CLAUDIA HAKIM TAKES THE DIRECTION OF THE MAMBO",
+    "title": "CLAUDIA HAKIM ASSUMES THE DIRECTION OF THE MAMBO ",
     "year": "2016",
-    "description": "The artist assumed the direction with a new team that proposes a Museum with all citizens and with various proposals for curatorship, museography and education.",
+    "description": "The artist assumed the leadership with a new team that proposes a Museum with all citizens and with various proposals for curatorship, museography and education.",
     "type": "image",
     "url": "https://www.youtube.com/watch?v=SJqC_B_idBI&feature=emb_logo"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "SIGNING OF THE PEACE AGREEMENT WITH THE FARC",
     "year": "2016",
     "description": "End of a conflict of more than 50 years",
-    "type": "image"
+    "type": "image",
+    "image": {
+      "src": "mv8/c2.jpg",
+      "alt": "Head of State participates in the Peace Signing ceremony between the Government of Colombia and the FARC EP Government of Chile. 2016. Source: <a href = 'https: //commons.wikimedia.org/wiki /File:Jefa_de_Estado_participa_en_ceremonia_de_la_La_Firma_de_la_Paz_entre_el_Gobierno_de_Colombia_y_las_FARC_E.P._(29953487045).jpg 'target =' blank '> Wikiveimedia Commons </a> under license <a/hrecreative_commons/license/https://https://www.recreativemons.com/https: //a> 'target =' blank '> CC BY 2.0 </a> "
+    }
   },
   {
     "id": 9,

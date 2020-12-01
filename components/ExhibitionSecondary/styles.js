@@ -256,8 +256,8 @@ export const QuestionContainer = styled.div`
       margin-bottom: 20px;
     }
     :first-child {
-      min-height: 250px;
-      height: 250px;
+      min-height: ${({ height }) => (height ? height : "250px")};
+      height: ${({ height }) => (height ? height : "250px")};
       padding-left: 0;
     }
   }

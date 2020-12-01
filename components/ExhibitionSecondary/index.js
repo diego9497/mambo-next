@@ -145,7 +145,7 @@ function ExhibitionSecondary({ exhibition, config }) {
               </CloseButton>
             </MenuContentTitleContainer>
             <MenuContentDetailContainer>
-              <QuestionContainer>
+              <QuestionContainer height="100%">
                 <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
                 <div>
                   {questionsAudio && (

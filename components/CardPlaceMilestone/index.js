@@ -19,6 +19,7 @@ import {
 import Next from "../Icons/Next";
 import Before from "../Icons/Before";
 import Close from "../Icons/Close";
+import MAMBOImage from "../MAMBOImage";
 
 export default function CardPlaceMilestone({
   color,
@@ -34,6 +35,7 @@ export default function CardPlaceMilestone({
   first,
   text,
   url,
+  image,
 }) {
   return (
     <ContainerInfo>
@@ -47,7 +49,9 @@ export default function CardPlaceMilestone({
             <Close />
           </button>
         </HeaderInfo>
-        <ContainerImage color={color}></ContainerImage>
+        <ContainerImage color={color}>
+          {image && <MAMBOImage {...image} />}
+        </ContainerImage>
         <ContainerContent text={text}>
           <SubtitleInfo>{subtitle}</SubtitleInfo>
           <TextContent>{content}</TextContent>
