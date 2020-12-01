@@ -214,7 +214,7 @@ function ExhibitionSecondary({ exhibition, config }) {
           });
         }
         scrollToTargetAdjusted();
-      }, 750);
+      }, 150);
     }
   }, []);
   return (
