@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import DidYouKnow from "../Icons/DidYouKnow";
 import Activities from "../Icons/Activities";
 import Questions from "../Icons/Questions";
@@ -36,6 +36,7 @@ import {
   RowEnd,
   ImageOfMenuContainer,
 } from "./styles";
+import { useRouter } from "next/router";
 
 const menu = {
   ACTIVITY: "activity",
@@ -198,81 +199,102 @@ function ExhibitionSecondary({ exhibition, config }) {
     }
   }
 
+  const content = useRef(null);
+  const router = useRouter();
+  useEffect(() => {
+    if (router.asPath.split("#")[1] === "content") {
+      setTimeout(() => {
+        function scrollToTargetAdjusted() {
+          let headerOffset = 50;
+          let elementPosition = content.current.getBoundingClientRect().top;
+          let offsetPosition = elementPosition - headerOffset;
+
+          window.scrollTo({
+            top: offsetPosition,
+          });
+        }
+        scrollToTargetAdjusted();
+      }, 750);
+    }
+  }, []);
   return (
-    <ContainerDetail id="content">
-      <ContainerTitle>
-        <Title color={color}>
-          {forWhatAudio && (
-            <AudioContainer>
-              <Accessibility />
-            </AudioContainer>
+    <>
+      <div ref={content}></div>
+      <ContainerDetail>
+        <ContainerTitle>
+          <Title color={color}>
+            {forWhatAudio && (
+              <AudioContainer>
+                <Accessibility />
+              </AudioContainer>
+            )}
+            {forWhat}
+          </Title>
+        </ContainerTitle>
+        <ContainerContent>
+          <TextContent
+            dangerouslySetInnerHTML={{ __html: proposal }}
+          ></TextContent>
+        </ContainerContent>
+        <ContainerContentSecond></ContainerContentSecond>
+        <ContainerMenu>
+          {didYouKnow && (
+            <ItemMenu
+              color={color}
+              text={text}
+              onClick={() => changeCurrent(menu.DID_YOU_KNOW)}
+            >
+              <DidYouKnow />
+              <TextItem>{config.didYouKnow}</TextItem>
+            </ItemMenu>
           )}
-          {forWhat}
-        </Title>
-      </ContainerTitle>
-      <ContainerContent>
-        <TextContent
-          dangerouslySetInnerHTML={{ __html: proposal }}
-        ></TextContent>
-      </ContainerContent>
-      <ContainerContentSecond></ContainerContentSecond>
-      <ContainerMenu>
-        {didYouKnow && (
-          <ItemMenu
-            color={color}
-            text={text}
-            onClick={() => changeCurrent(menu.DID_YOU_KNOW)}
-          >
-            <DidYouKnow />
-            <TextItem>{config.didYouKnow}</TextItem>
-          </ItemMenu>
+          {activity && (
+            <ItemMenu
+              color={color}
+              text={text}
+              onClick={() => changeCurrent(menu.ACTIVITY)}
+            >
+              <Activities />
+              <TextItem>{config.activity}</TextItem>
+            </ItemMenu>
+          )}
+          {questions && (
+            <ItemMenu
+              color={color}
+              text={text}
+              onClick={() => changeCurrent(menu.QUESTIONS)}
+            >
+              <Questions />
+              <TextItem>{config.questions}</TextItem>
+            </ItemMenu>
+          )}
+          {keyConcepts && (
+            <ItemMenu
+              color={color}
+              text={text}
+              onClick={() => changeCurrent(menu.CONCEPTS)}
+            >
+              <KeyConcepts />
+              <TextItem>{config.keyConcepts}</TextItem>
+            </ItemMenu>
+          )}
+        </ContainerMenu>
+        <ImageBgContainer>
+          <Image
+            src={img2.src}
+            alt={img2.alt}
+            width={1200}
+            height={800}
+            loading="eager"
+          />
+        </ImageBgContainer>
+        {current !== "" && (
+          <MenuContentContainer color={color} text={text}>
+            {renderCurrentItem(current)}
+          </MenuContentContainer>
         )}
-        {activity && (
-          <ItemMenu
-            color={color}
-            text={text}
-            onClick={() => changeCurrent(menu.ACTIVITY)}
-          >
-            <Activities />
-            <TextItem>{config.activity}</TextItem>
-          </ItemMenu>
-        )}
-        {questions && (
-          <ItemMenu
-            color={color}
-            text={text}
-            onClick={() => changeCurrent(menu.QUESTIONS)}
-          >
-            <Questions />
-            <TextItem>{config.questions}</TextItem>
-          </ItemMenu>
-        )}
-        {keyConcepts && (
-          <ItemMenu
-            color={color}
-            text={text}
-            onClick={() => changeCurrent(menu.CONCEPTS)}
-          >
-            <KeyConcepts />
-            <TextItem>{config.keyConcepts}</TextItem>
-          </ItemMenu>
-        )}
-      </ContainerMenu>
-      <ImageBgContainer>
-        <Image
-          src={img2.src}
-          alt={img2.alt}
-          width={1200}
-          height={800}
-          loading="eager"
-        />
-      </ImageBgContainer>
-      {current !== "" && (
-        <MenuContentContainer color={color} text={text}>
-          {renderCurrentItem(current)}
-        </MenuContentContainer>
-      )}
-    </ContainerDetail>
+      </ContainerDetail>
+    </>
   );
 }
 export default ExhibitionSecondary;

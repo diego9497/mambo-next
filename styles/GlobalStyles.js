@@ -20,5 +20,9 @@ export default createGlobalStyle`
     padding-top: var(--headerHeight);
     padding-bottom: var(--footerHeight);  
   }
+
+  body{
+    scroll-margin: var(----headerHeight);
+  }
   
 `;
