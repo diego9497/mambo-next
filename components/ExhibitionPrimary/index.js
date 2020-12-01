@@ -31,7 +31,6 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     color,
     text,
     author,
-    authorContent,
     authorAudio,
     keyConcepts,
     didYouKnowImg,
@@ -138,7 +137,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           </TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color}>
-          {authorAudio && (
+          {img1.audio && (
             <AudioContainer stroke={text}>
               <Accessibility />
             </AudioContainer>
@@ -147,7 +146,9 @@ export default function ExhibitionPrimary({ exhibition, config }) {
             color={text}
             dangerouslySetInnerHTML={{ __html: author }}
           ></TitleContentSecond>
-          <TextContentSecond color={text}>{authorContent}</TextContentSecond>
+          <TextContentSecond color={text}>
+            <p dangerouslySetInnerHTML={{ __html: img1.caption }}></p>
+          </TextContentSecond>
         </ContentSecond>
         <FirstEmpty />
         <SecondEmpty />
@@ -158,7 +159,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           slidesToShow={process.env.SPA ? numberOfSlides : 1}
         >
           {generatedGallery?.map((img, index) => (
-            <GalleryImageContainer num={index + 1}>
+            <GalleryImageContainer num={index + 1} key={index}>
               <MAMBOGallery
                 gallery={generatedGallery}
                 index={index}

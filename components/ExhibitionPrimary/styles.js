@@ -134,6 +134,10 @@ export const TitleContentSecond = styled.h3`
 export const TextContentSecond = styled.p`
   font-size: 1.17em;
   color: ${(props) => props.color};
+
+  a {
+    color: inherit;
+  }
 `;
 
 export const FirstEmpty = styled.div`
