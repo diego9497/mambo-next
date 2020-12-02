@@ -51,6 +51,13 @@ export default function MapPage({ config, locations }) {
     setOpen(true);
   };
 
+  const handleNext = () => {
+    setCurrent(current + 1);
+  };
+  const handlePrev = () => {
+    setCurrent(current - 1);
+  };
+
   useEffect(() => {
     if (current) {
       const location = locations[current];
@@ -113,7 +120,11 @@ export default function MapPage({ config, locations }) {
             subtitle={detailInfo.topic}
             handleClose={handleClose}
             iconHeader={<MapIcon />}
-            controls={false}
+            controls={true}
+            handleNext={handleNext}
+            handlePrev={handlePrev}
+            last={current === locations.length - 1}
+            first={current === 0}
           ></CardPlaceMilestone>
         </ContainerDetail>
       )}
