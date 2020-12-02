@@ -91,6 +91,11 @@ export const TextContentHistory = styled.p`
     span {
       font-weight: 500;
     }
+    a {
+      font-weight: 500;
+      color: inherit;
+      text-decoration: none;
+    }
     small {
       font-size: 1em;
       font-weight: 500;

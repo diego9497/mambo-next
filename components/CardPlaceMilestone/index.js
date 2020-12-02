@@ -20,6 +20,7 @@ import Next from "../Icons/Next";
 import Before from "../Icons/Before";
 import Close from "../Icons/Close";
 import MAMBOImage from "../MAMBOImage";
+import { useRouter } from "next/router";
 
 export default function CardPlaceMilestone({
   color,
@@ -37,6 +38,7 @@ export default function CardPlaceMilestone({
   url,
   image,
 }) {
+  const router = useRouter();
   return (
     <ContainerInfo>
       <ContainerTop color={color}>
@@ -57,9 +59,9 @@ export default function CardPlaceMilestone({
           <TextContent>
             <p dangerouslySetInnerHTML={{ __html: content }}></p>
           </TextContent>
-          {url && (
+          {url && !image && (
             <a href={url} target="blank">
-              {url}
+              {router.asPath.includes("/en") ? "See link" : "Ver link"}
             </a>
           )}
         </ContainerContent>
