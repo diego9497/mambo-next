@@ -47,7 +47,6 @@ export const ModalImage = styled.div`
 
   img {
     object-fit: contain;
-    height: 100%;
     max-height: 95vh;
     max-width: 95vw;
     visibility: hidden;

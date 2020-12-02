@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const GridHistory = styled.div`
   display: grid;
@@ -61,7 +61,7 @@ export const ContentHistory = styled.div`
   padding-bottom: 0px;
   margin-bottom: 15px;
 
-  ::-webkit-scrollbar {
+  /* ::-webkit-scrollbar {
     width: 7px;
   }
   ::-webkit-scrollbar-track {
@@ -69,6 +69,16 @@ export const ContentHistory = styled.div`
   }
   ::-webkit-scrollbar-thumb {
     background: rgba(187, 187, 187, 0.3);
+    border-radius: 4px;
+  } */
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.3);
     border-radius: 4px;
   }
 `;
@@ -80,11 +90,10 @@ export const TextContentHistory = styled.p`
   p {
     span {
       font-weight: 500;
-      font-style: italic;
     }
     small {
       font-size: 1em;
-      font-style: italic;
+      font-weight: 500;
     }
   }
 `;
@@ -118,12 +127,24 @@ export const ContentSecond = styled.div`
     width: 7px;
   }
   ::-webkit-scrollbar-track {
-    background: rgba(202, 202, 202, 0.2);
+    background: rgba(255, 255, 255, 0.2);
   }
   ::-webkit-scrollbar-thumb {
-    background: rgba(187, 187, 187, 0.3);
+    background: rgba(255, 255, 255, 0.3);
     border-radius: 4px;
   }
+  ${({ color }) =>
+    color === "black"
+      ? css`
+          ::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.2);
+          }
+          ::-webkit-scrollbar-thumb {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 4px;
+          }
+        `
+      : null}
 `;
 export const TitleContentSecond = styled.h3`
   font-size: 1.3em;

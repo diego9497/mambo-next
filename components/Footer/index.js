@@ -2,7 +2,6 @@ import {
   ContainerFooter,
   TimeLineMapContainer,
   LeftContainer,
-  Anchor,
   Option,
   ItemOption,
   ContainerActivities,
@@ -12,6 +11,7 @@ import Before from "../Icons/Before";
 import Game from "../Icons/Game";
 import TimeLine from "../Icons/TimeLine";
 import Map from "../Icons/Map";
+import Next from "../Icons/Next";
 import Link from "../Link";
 import { useRouter } from "next/router";
 import { useCallback, useState } from "react";
@@ -71,9 +71,24 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
           <Option>{config.games}</Option>
           {openGames && (
             <ContainerActivities>
-              <a>Trivia</a>
-              <a>Rana</a>
-              <a>Runner</a>
+              <li>
+                <a>
+                  Trivia
+                  <Next size={22} />
+                </a>
+              </li>
+              <li>
+                <a>
+                  Rana
+                  <Next size={22} />
+                </a>
+              </li>
+              <li>
+                <a>
+                  Runner
+                  <Next size={22} />
+                </a>
+              </li>
             </ContainerActivities>
           )}
         </ItemOption>

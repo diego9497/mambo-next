@@ -10,6 +10,8 @@ import {
   CloseButton,
   ReferenceContent,
   ImageBgContainer,
+  SeeLink,
+  SeeMore,
 } from "./styles";
 
 import Image from "../Image";
@@ -34,34 +36,28 @@ function KnowMore({ exhibition, config }) {
       <ContainerSection>
         <Title color={color}>{config.more}</Title>
       </ContainerSection>
-      <ContainerSection onClick={handleOpen} color={color} text={text}>
+      <ContainerSection onClick={handleOpen} color={color} text={text} main>
         <Subtitle>{config.references}</Subtitle>
+        <SeeMore>Ver más</SeeMore>
       </ContainerSection>
-      <ContainerSection href={knowMore[3]?.link} text={text} target="blank">
-        {knowMore[3] ? (
-          <>
-            <ImageBgContainer>
-              <Image
-                src={keyConcepts[0].img.src}
-                alt={keyConcepts[0].img.alt}
-                width={600}
-                height={350}
-              />
-            </ImageBgContainer>
-            <ContainerInfo color={color}>
-              <Text>{knowMore[3].title}</Text>
-            </ContainerInfo>
-          </>
-        ) : (
-          <ImageBgContainer>
-            <Image
-              src={keyConcepts[0].img.src}
-              alt={keyConcepts[0].img.alt}
-              width={600}
-              height={350}
-            />
-          </ImageBgContainer>
-        )}
+      <ContainerSection
+        href={knowMore[3]?.link}
+        text={text}
+        target="blank"
+        color={color}
+      >
+        <ImageBgContainer>
+          <Image
+            src={keyConcepts[0].img.src}
+            alt={keyConcepts[0].img.alt}
+            width={600}
+            height={350}
+          />
+        </ImageBgContainer>
+        <ContainerInfo color={color}>
+          <Text>{knowMore[3]?.title}</Text>
+          <SeeLink color={color}>Ver link</SeeLink>
+        </ContainerInfo>
       </ContainerSection>
       <ContainerSection href={knowMore[0].link} text={text} target="blank">
         <ImageBgContainer>
@@ -69,6 +65,7 @@ function KnowMore({ exhibition, config }) {
         </ImageBgContainer>
         <ContainerInfo color={color}>
           <Text>{knowMore[0].title}</Text>
+          <SeeLink color={color}>Ver link</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       <ContainerSection href={knowMore[1].link} text={text} target="blank">
@@ -77,6 +74,7 @@ function KnowMore({ exhibition, config }) {
         </ImageBgContainer>
         <ContainerInfo color={color}>
           <Text>{knowMore[1].title}</Text>
+          <SeeLink color={color}>Ver link</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       <ContainerSection href={knowMore[2].link} text={text} target="blank">
@@ -85,6 +83,7 @@ function KnowMore({ exhibition, config }) {
         </ImageBgContainer>
         <ContainerInfo color={color}>
           <Text>{knowMore[2].title}</Text>
+          <SeeLink color={color}>Ver link</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       {open && (
@@ -95,7 +94,7 @@ function KnowMore({ exhibition, config }) {
               <Close />
             </CloseButton>
           </ReferencesHeader>
-          <ReferenceContent>
+          <ReferenceContent text={text}>
             <p>
               {exhibition?.references?.map((reference) => (
                 <>

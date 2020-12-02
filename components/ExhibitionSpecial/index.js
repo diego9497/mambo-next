@@ -14,7 +14,7 @@ import {
   ContainerImagePrincipal,
   ContentHistory,
   TextContentHistory,
-  AudioContainerHistory,
+  TextContentSecond,
   ContentSecond,
   FirstEmpty,
   SecondEmpty,
@@ -29,7 +29,9 @@ export default function ExhibitionSpecial({ exhibition, config }) {
   const {
     color,
     content,
-    mainAudio,
+    text,
+    guide,
+    here,
     withPrimary,
     description,
     title,
@@ -52,7 +54,14 @@ export default function ExhibitionSpecial({ exhibition, config }) {
               <p dangerouslySetInnerHTML={{ __html: description }}></p>
             </TextContentHistory>
           </ContentHistory>
-          <ContentSecond background={color}></ContentSecond>
+          <ContentSecond background={color}>
+            <TextContentSecond color={text}>
+              {guide}
+              <a href="/MV-Guia2020-arte.pdf" target="_blank">
+                {here}
+              </a>
+            </TextContentSecond>
+          </ContentSecond>
           <FirstEmpty />
           <SecondEmpty />
         </GridHistory>

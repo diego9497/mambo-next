@@ -63,10 +63,10 @@ export const ContainerContent = styled.div`
     width: 7px;
   }
   ::-webkit-scrollbar-track {
-    background: rgba(202, 202, 202, 0.2);
+    background: rgba(0, 0, 0, 0.2);
   }
   ::-webkit-scrollbar-thumb {
-    background: rgba(187, 187, 187, 0.3);
+    background: rgba(0, 0, 0, 0.3);
     border-radius: 4px;
   }
 `;
@@ -173,16 +173,28 @@ export const MenuContentDetailContainer = styled.div`
     width: 7px;
   }
   ::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.2);
   }
   ::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(255, 255, 255, 0.3);
     border-radius: 4px;
   }
+  ${({ text }) =>
+    text === "black"
+      ? css`
+          ::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.2);
+          }
+          ::-webkit-scrollbar-thumb {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 4px;
+          }
+        `
+      : null}
 `;
 
 export const BigFont = styled.p`
-  font-size: 2.5em;
+  font-size: 1em;
   padding: 0 30px 15px;
 `;
 

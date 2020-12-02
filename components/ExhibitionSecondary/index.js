@@ -82,7 +82,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
-            <MenuContentDetailContainer>
+            <MenuContentDetailContainer text={text}>
               <RowEnd>
                 {didYouKnowAudio && (
                   <AudioContainerAlt text={text}>
@@ -116,7 +116,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
-            <MenuContentDetailContainer>
+            <MenuContentDetailContainer text={text}>
               <RowEnd>
                 {activityAudio && (
                   <AudioContainerAlt text={text}>
@@ -145,7 +145,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
-            <MenuContentDetailContainer>
+            <MenuContentDetailContainer text={text}>
               <QuestionContainer height="100%">
                 <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
                 <div>
@@ -174,7 +174,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                 <Close />
               </CloseButton>
             </MenuContentTitleContainer>
-            <MenuContentDetailContainer>
+            <MenuContentDetailContainer text={text}>
               {keyConcepts.map((keyConcept, index) => (
                 <ConceptContainer key={index}>
                   <ConceptImageContainer>

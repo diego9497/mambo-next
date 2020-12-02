@@ -4,14 +4,14 @@
     "color": "#3D57D5",
     "text": "white",
     "title": "MAMBO Pop Up",
-    "history": "Historia del Museo MAMBO",
-    "historyDescription": "En el año 1953, <span> Rojas Pinilla </span> lideró un golpe de estado con el que instauró una Junta Militar como gobierno durante los siguientes años, que se caracterizaron por la restricción de libertades y derechos. Sin embargo, durante el régimen militar se llevaron a cabo importantes obras para el proceso de modernización de Colombia, como la fundación del Museo de Arte Moderno. Con un acta firmada por intelectuales, artistas y ministros, se decretó la creación del Museo en el año 1955. Antes de la construcción del edificio actual, el Museo duró varios años sin una sede fija, estuvo en diferentes espacios de la ciudad como la Universidad Nacional y el Planetario Distrital, entre otros. La crítica y gestora <span> Marta Traba </span> impulsó la apertura del Museo al público desde el año 1962 hasta su expulsión del país en 1967 por cuestionar la intervención militar en la universidad donde el Museo tenía su sede. En 1969, <span> Gloria Zea </span> asumió la dirección del Museo cuando este salió del campus universitario, Zea gestionó varias sedes hasta que finalmente se adquirió un lote en 1974 donde se construyó la sede actual del Museo entre 1979 y 1985 (Zea, 1994, pp.50-78). El edificio del Museo está ubicado en el centro de la ciudad y colinda con el <span> Parque Bicentenario </span>, el <span> Parque de la Independencia </span> y el <span> Planetario Distrital </span>. Fue diseñado por el arquitecto <span> Rogelio Salmona </span> como una muestra de los criterios geométricos del arte abstracto y la <span> arquitectura moderna </span> en Bogotá (Moreno y Medina, 1994, pp.88-92). \n\n Desde hace 57 años el MAMBO ha trabajado para investigar, preservar y promover las manifestaciones del arte Moderno y contemporáneo. En el 2016, la artista <span> Claudia Hakim </span> asumió la dirección con un nuevo equipo que plantea un museo con toda la ciudadanía y con diversas propuestas de <span> curaduría, museografía y educación. </span> ",
+    "history": "La historia del MAMBO",
+    "historyDescription": "En el año 1953, <span> Rojas Pinilla </span> lideró un golpe de estado con el que instauró una Junta Militar como gobierno durante los siguientes años, que se caracterizaron por la restricción de libertades y derechos. Sin embargo, durante el régimen militar se llevaron a cabo importantes obras para el proceso de modernización de Colombia, como la fundación del Museo de Arte Moderno. Con un acta firmada por intelectuales, artistas y ministros, se decretó la creación del Museo en el año 1955. Antes de la construcción del edificio actual, el Museo duró varios años sin una sede fija, estuvo en diferentes espacios de la ciudad como la Universidad Nacional y el Planetario Distrital, entre otros. La crítica y gestora <span> Marta Traba </span> impulsó la apertura del Museo al público desde el año 1962 hasta su expulsión del país en 1967 por cuestionar la intervención militar en la universidad donde el Museo tenía su sede. En 1969, <span> Gloria Zea </span> asumió la dirección del Museo cuando este salió del campus universitario, Zea gestionó varias sedes hasta que finalmente se adquirió un lote en 1974 donde se construyó la sede actual del Museo entre 1979 y 1985 (Zea, 1994, pp.50-78). El edificio está ubicado en el centro de la ciudad y colinda con el <span> Parque Bicentenario </span>, el <span> Parque de la Independencia </span> y el <span> Planetario Distrital </span>. Fue diseñado por el arquitecto <span> Rogelio Salmona </span> como una muestra de los criterios geométricos del arte abstracto y la <span> arquitectura moderna </span> en Bogotá (Moreno y Medina, 1994, pp.88-92). \n\n Desde hace 57 años el MAMBO ha trabajado para investigar, preservar y promover las manifestaciones del arte Moderno y contemporáneo. En el 2016, la artista <span> Claudia Hakim </span> asumió la dirección con un nuevo equipo que plantea un museo con toda la ciudadanía y con diversas propuestas de <span> curaduría, museografía y educación. </span> ",
     "mainAudio": "url",
     "author": "<span> Oscar Monsalve </span>",
     "forWhat": "¿Un museo para qué?",
     "forWhatContent": "Los museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro.\n Son participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)",
     "forWhatAudio": "url",
-    "proposal": " <span> En esta sección se propone reflexionar sobre el valor de los museos, teniendo en cuenta la nueva definición global que aún está en discusión y la historia del Museo de Arte Moderno (MAMBO) </span> \n\n",
+    "proposal": " <span> En esta sección se propone reflexionar sobre el valor de los museos, teniendo en cuenta la nueva definición global que aún está en discusión y la historia del Museo de Arte Moderno (MAMBO) </span> \n\n Los museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro. Son participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)",
     "questions": [
       "¿Por qué la creación del Museo de Arte Moderno fue importante para la modernización del país?",
       " ¿Cómo crees que amplían la comprensión del mundo los museos?",
@@ -71,7 +71,7 @@
         }
       },
       {
-        "title": "educación en la museos",
+        "title": "educación en los museos",
         "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
         "audio": "url",
         "img": {
@@ -83,7 +83,7 @@
     "img1": {
       "src": "mv1/1.jpg",
       "alt": "1979. Valla de la inauguración de la Primera Etapa del MAMBO en la sede actual. Fotografía de Oscar Monsalve.",
-      "caption": "Oscar Monsalve fue el fotógrafo oficial del Museo durante varios años, consolidando una importante memoria visual del arte Moderno y contemporáneo en Colombia. En esta serie de fotografías se pueden observar la construcción de la sede actual del Museo y el montaje de algunas exposiciones representativas.",
+      "caption": "<a href='https://www.wradio.com.co/noticias/actualidad/fotografiar-arte-exige-el-maximo-respeto-al-artista-oscar-monsalve/20200624/nota/4049652.aspx' target='_blank' >Oscar Monsalve</a> fue el fotógrafo oficial del Museo durante varios años, consolidando una importante memoria visual del arte Moderno y contemporáneo en Colombia. En esta serie de fotografías se pueden observar la construcción de la sede actual del Museo y el montaje de algunas exposiciones representativas.",
       "audio": "url"
     },
     "img2": {
@@ -136,12 +136,16 @@
         "link": "https://www.youtube.com/watch?v=DfxT_lg-DUA"
       },
       {
-        "title": "Museos y educación.\nEVE Museos. 2018.",
+        "title": "Museos y educación.\nEVE Museos. 2018",
         "link": "https://evemuseografia.com/2014/05/14/museos-y-educacion/"
       },
       {
-        "title": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar.",
+        "title": "Guía de arquitectura moderna de Bogotá. \nFabián Dejtiar",
         "link": "https://www.archdaily.co/co/910192/guia-de-arquitectura-moderna-de-bogota"
+      },
+      {
+        "title": "Claudia Hakim nos cuenta sobre el Museo de Arte Moderno de Bogotá MAMBO",
+        "link": "https://www.youtube.com/watch?time_continue=14&v=HR30F7Dgy_o&feature=emb_title&ab_channel=CanalTreceColombia"
       }
     ],
     "references": [
@@ -173,7 +177,7 @@
     "title": "Arte Moderno en el Mundo",
     "mainAudio": "url",
     "history": "Cómo surgió el arte moderno",
-    "historyDescription": "El <span> Arte Moderno </span> fue un proceso de transformación en el cual pintores, escultores y escritores de ese periodo buscaron <span> nuevas formas de representación </span>. Se dio aproximadamente entre 1850 y 1970, como consecuencia de la <span> Revolución Industrial</span>, la Revolución Francesa y la caída de la monarquía. Los artistas se rebelaron frente a la inspiración renacentista del arte <span>académico</span>, fundamentada en la religión, la mitología griega, el retrato y el bodegón, para plasmar en sus obras sus intereses y cuestionamientos propios (Gallerix, 2009).\n\n La invención de la cámara y de la fotografía alrededor de la década de 1830 impulsó a los artistas a romper con la tradición de la <span>representación figurativa</span> para crear obras desde su <span>estética</span> personal. Las <span>vanguardias europeas</span> son ejemplo de las diferentes exploraciones formales y conceptuales de los artistas de este periodo quienes experimentaron con nuevos temas, materiales, técnicas y procesos, ampliando el concepto del arte, sus límites y funciones (Academia Play, 2016).",
+    "historyDescription": "El <span> Arte Moderno </span> fue un proceso de transformación en el cual pintores, escultores y escritores de ese periodo buscaron <span> nuevas formas de representación </span>. Se dio aproximadamente entre 1850 y 1970, como consecuencia de la <span> Revolución Industrial</span>, la <a href='https://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa' target='_blank'>Revolución Francesa y la caída de la monarquía.</a> Los artistas se rebelaron frente a la inspiración renacentista del arte <span>académico</span>, fundamentada en la religión, la mitología griega, el retrato y el bodegón, para plasmar en sus obras sus intereses y cuestionamientos propios (Gallerix, 2009).\n\n La invención de la cámara y de la fotografía alrededor de la década de 1830 impulsó a los artistas a romper con la tradición de la <span>representación figurativa</span> para crear obras desde su <span>estética</span> personal. Las <span>vanguardias europeas</span> son ejemplo de las diferentes exploraciones formales y conceptuales de los artistas de este periodo quienes experimentaron con nuevos temas, materiales, técnicas y procesos, ampliando el concepto del arte, sus límites y funciones (Academia Play, 2016).",
     "author": "<span>Edouard Manet</span>",
     "forWhat": "¿Una revolución para qué?",
     "forWhatContent": "<span>En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.</span>",
@@ -241,11 +245,12 @@
     "img3": {
       "src": "mv3/3.jpg",
       "alt": "<span>Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo.</span> Fuente: <a href='https://pablo-picasso.space/obras-de-picasso/las-senoritas-de-avignon-les-demoiselles-davignon/' target='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0</a> ",
-      "caption": "<a href='https://www.youtube.com/watch?v=oOOY6GbV9Ks' target='blank' >Pablo Picasso</a> (Málaga, España, 1881-1973) fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo."
+      "caption": "<a href='https://www.youtube.com/watch?v=oOOY6GbV9Ks' target='blank' >Pablo Picasso</a> (Málaga, España, 1881-1973) fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo.",
+      "audio": "url"
     },
     "didYouKnowImg": {
       "src": "mv3/did_you_know.jpg",
-      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
+      "alt": "Nicéphore Niépce, sin título. 1826. Fuente:<a href='https://upload.wikimedia.org/wikipedia/commons/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg' target='_blank'> Wikimedia Commons</a> bajo dominio público. "
     },
     "questionImg": {
       "src": "mv3/question.jpg",
@@ -253,16 +258,20 @@
     },
     "knowMore": [
       {
-        "title": "Arte Académico.",
+        "title": "Arte Académico",
         "link": "https://www.hisour.com/es/academic-art-3023/"
       },
       {
-        "title": "Vanguardias Europeas.",
+        "title": "Vanguardias Europeas",
         "link": "https://www.youtube.com/watch?v=vQxNi2MNHhY&ab_channel=AyaAltamirano"
       },
       {
-        "title": "Revolución Francesa.",
+        "title": "Revolución Francesa",
         "link": "https://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa"
+      },
+      {
+        "title": "Revolución industrial",
+        "link": "http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html"
       }
     ],
     "references": [
@@ -382,7 +391,8 @@
     "img3": {
       "src": "mv4/3.jpg",
       "alt": "Edgar Negret. Rostro de Cristo. 1949. Acero y Madera. Fuente: Colección MAMBO",
-      "caption": "<a href='https://www.latinamericanart.com/es/artista/edgar-negret/' target='blank'>Edgar Negret</a> (Popayán, Colombia, 1920-2012) fue uno de los escultores más influyentes de las artes plásticas en Colombia. Cuestionó las nociones de lo industrial y lo natural al incorporar en su escultura materiales representativos de la modernidad como el hierro, el aluminio y la madera. En esta obra, se aprecia una representación abstracta de una figura de la cultura religiosa colombiana. "
+      "caption": "<a href='https://www.latinamericanart.com/es/artista/edgar-negret/' target='blank'>Edgar Negret</a> (Popayán, Colombia, 1920-2012) fue uno de los escultores más influyentes de las artes plásticas en Colombia. Cuestionó las nociones de lo industrial y lo natural al incorporar en su escultura materiales representativos de la modernidad como el hierro, el aluminio y la madera. En esta obra, se aprecia una representación abstracta de una figura de la cultura religiosa colombiana. ",
+      "audio": "url"
     },
     "didYouKnowImg": {
       "src": "mv4/did_you_know.jpg",
@@ -398,7 +408,7 @@
     },
     "knowMore": [
       {
-        "title": "Padilla, C. (2013). El Bogotazo y los artistas colombianos.",
+        "title": "Padilla, C. (2013). El Bogotazo y los artistas colombianos",
         "link": "https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/"
       },
       {
@@ -406,11 +416,11 @@
         "link": "https://www.youtube.com/watch?time_continue=155&amp;v=pKUahH5uT5M&amp;feature=emb_logo"
       },
       {
-        "title": "Esguerra, C. (2017, 5 de junio). Andrés de Santa María, un pintor Moderno. El Espectador.",
+        "title": "Esguerra, C. (2017, 5 de junio). Andrés de Santa María, un pintor Moderno. El Espectador",
         "link": "https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-pintor-moderno/"
       },
       {
-        "title": "Rubiano, G. (2016). Pintores colombianos de 1905 a 1933.",
+        "title": "Rubiano, G. (2016). Pintores colombianos de 1905 a 1933",
         "link": "http://www.revistacredencial.com/credencial/historia/temas/pintores-colombianos-de-1905-1933"
       }
     ],
@@ -439,7 +449,7 @@
     "id": 5,
     "color": "#162D1C",
     "text": "white",
-    "title": "Arte Conceptual en el Mundo",
+    "title": "Arte Conceptual en el mundo",
     "history": "¿Qué es el arte conceptual?",
     "historyDescription": "Esta corriente aparece hacia la década de 1960 y consiste en reconocer el arte no solo por su valor <span>estético</span> sino por su valor intelectual. El arte conceptual no usa un medio específico pues no depende de la forma sino del contenido y de la capacidad de comunicar una idea, por eso puede ser una <span>instalación, fotografía, ready-made, performance, obra gráfica o video-arte.</span> \n Los artistas conceptuales se interesan por su <span>contexto</span>, se apropian de un <span>tema</span> y por medio de una obra resignifican los objetos, las imágenes y los conceptos. Por ejemplo, en el <span>Land Art</span> el interés por el espacio llevó a los artistas a alterar el paisaje y a usar los materiales disponibles; por otro lado, en el <span>Minimalismo</span> los artistas se interesaron por la percepción alejándose de la representación realista (Tate, s. f.). \n\n El periodo comprendido entre las décadas de 1960 y 1970 se caracterizó por grandes cambios sociales generados por diversos movimientos activistas en el mundo: los <span>movimientos feministas</span> y <span> LGBT</span>, las <span>organizaciones antirracistas</span>, las <span>manifestaciones en contra de la guerra de Vietnam</span> y las revueltas de París en <span>Mayo del 68.</span> \n\n En el arte conceptual a menudo se identifican y denuncian problemas del entorno social, político, religioso o ecológico, usando frecuentemente la ironía y la sátira. En adición, se cuestiona el significado mismo del arte afirmando que la subjetividad del artista define qué es arte y el espectador completa la obra con su interpretación (EcuRed, 2019). ",
     "mainAudio": "url",
@@ -447,7 +457,7 @@
     "forWhat": "¿Un concepto para qué?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
     "forWhatAudio": "url",
-    "didYouKnow": "Una de las primeras obras de arte conceptual fue un orinal instalado en una galería por Marcel Duchamp.",
+    "didYouKnow": "Una de las primeras obras de arte conceptual fue un orinal instalado en una galería por Marcel Duchamp. IX Salón en 1952.",
     "didYouKnowAudio": "url",
     "questions": [
       "¿Qué significa que el contenido sea más importante que la forma?",
@@ -526,7 +536,7 @@
         "link": "https://www.youtube.com/watch?v=o6zoap0iSFw"
       },
       {
-        "title": "NBC News (26 de abril de 2016). The Fight for Women&#39;s Rights | Flashback | NBC News [video].",
+        "title": "NBC News (26 de abril de 2016). The Fight for Women's Rights | Flashback | NBC News [video]",
         "link": "https://www.youtube.com/watch?v=g2CewziXoDg"
       }
     ],
@@ -567,7 +577,7 @@
     "forWhat": "¿Contexto y arte?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la contracultura (los movimientos sociales de los 60 y 70) y la creación de nuevas expresiones artísticas en Colombia. ",
     "forWhatAudio": "url",
-    "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá.",
+    "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá. ",
     "didYouKnowAudio": "url",
     "questions": [
       "¿Cómo se refleja la democracia en el arte?",
@@ -615,7 +625,7 @@
     },
     "img2": {
       "src": "mv6/2.jpg",
-      "alt": "Jonier Marín. Papel Y Lápiz.  1976. Fuente: Colección MAMBO",
+      "alt": "Jonier Marín. Papel y lápiz.  1976. Fuente: Colección MAMBO",
       "caption": "<a href='https://ceronresumido.com/Jonier-Marin-Obra-activa' target='blank'>Jonier Marín</a> (Argelia, Colombia, 1946) cuestiona los procesos tradicionales del arte, y con su propuesta genera una obra que nos plantea la pregunta ¿qué es el arte y quién lo valida?</br></br> 'Sin perder tiempo propuse a artistas que conocí viajando, dibujar a lápiz en una hoja cualquier cosa, y adjuntar su retrato al dibujo, validando así la obra'. Jonier Marín.",
       "audio": "url"
     },
@@ -630,16 +640,20 @@
     },
     "knowMore": [
       {
-        "title": "Vallejo, V. (2014). A la memoria de Feliza Bursztyn.",
+        "title": "Vallejo, V. (2014). A la memoria de Feliza Bursztyn",
         "link": "https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn"
       },
       {
-        "title": "Al Derecho (2019). Tradición, novedad y escándalo: un prólogo al Salón Nacional de Artistas en su versión 45.",
+        "title": "Al Derecho (2019). Tradición, novedad y escándalo: un prólogo al Salón Nacional de Artistas en su versión 45",
         "link": "https://alderecho.org/2019/10/20/tradicion-novedad-y-escandalo-un-prologo-al-salon-nacional-de-artistas-en-su-version-45/"
       },
       {
-        "title": "Márceles, E. (3 de noviembre de 2018). El Sindicato de Barranquilla: la aventura del arte conceptual.",
+        "title": "Márceles, E. (3 de noviembre de 2018). El Sindicato de Barranquilla: la aventura del arte conceptual",
         "link": "https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/"
+      },
+      {
+        "title": "Lo que Dante nunca supo",
+        "link": "https://www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-111/lo-que-dante-nunca-supo-bernardo-salcedo"
       }
     ],
     "references": [
@@ -732,7 +746,7 @@
     ],
     "img1": {
       "src": "mv7/1.jpg",
-      "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: <a href='https://en.wikipedia.org/wiki/File:Hirst-Shark.jpg' target='blank'>Wikimedia Commons</a> bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 3.0.",
+      "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Shark83.JPG' target='blank'>Wikimedia Commons</a> bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 3.0.",
       "caption": "<a href='http://velvet-mag.lat/2019/07/04/controversia-muerte-y-colores-damien-hirst/' target='blank'>Damien Hirst</a> (Bristol, Reino Unido, 1965) es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte. ",
       "audio": "url"
     },
@@ -758,16 +772,20 @@
     },
     "knowMore": [
       {
-        "title": "Pinzón, D. (1950). Happening.",
+        "title": "Pinzón, D. (1950). Happening",
         "link": "https://proyectoidis.org/happening/"
       },
       {
-        "title": "Abigail, L. (2014). La “Princesa de los lunares” Yayoi Kusama. Vice.",
+        "title": "Abigail, L. (2014). La “Princesa de los lunares” Yayoi Kusama. Vice",
         "link": "https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama"
       },
       {
-        "title": "Hisour (s. f.). Arte Interactivo. Consultado el 20 de junio del 2020.",
+        "title": "Hisour (s. f.). Arte Interactivo. Consultado el 20 de junio del 2020",
         "link": "https://www.hisour.com/es/interactive-art-21343/"
+      },
+      {
+        "title": "¿Qué es el arte relacional?",
+        "link": "https://culturacolectiva.com/generales/que-es-el-arte-relacional"
       }
     ],
     "references": [
@@ -871,7 +889,7 @@
     },
     "didYouKnowImg": {
       "src": "mv8/did_you_know.jpg",
-      "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3.="
+      "alt": "Manifestación estudiantil. 7 de Abril del 2011. Fuente: Wikimedia Commons bajo licencia CC BY S.A 3."
     },
     "questionImg": {
       "src": "mv8/question.jpg",
@@ -883,19 +901,19 @@
     },
     "knowMore": [
       {
-        "title": "Carlos Caicedo: el fotógrafo del instante por Estefanía Avella Bermúdez. ",
+        "title": "Carlos Caicedo: el fotógrafo del instante por Estefanía Avella Bermúdez",
         "link": "https://cerosetenta.uniandes.edu.co/carlos-caicedo-el-fotografo-del-instante/"
       },
       {
-        "title": "Bernardo Salcedo: Cómo hacer las cosas con palabras. Revista Artishock. ",
+        "title": "Bernardo Salcedo: Cómo hacer las cosas con palabras. Revista Artishock",
         "link": "https://artishockrevista.com/2017/02/21/bernardo-salcedo-las-cosas-palabras/ "
       },
       {
-        "title": "Hace 50 años: Inaugura la exposición Espacios Ambientales en el Museo de Arte Moderno. ",
+        "title": "Hace 50 años: Inaugura la exposición Espacios Ambientales en el Museo de Arte Moderno",
         "link": "http://www.museonacional.gov.co/noticias/Paginas/inaugura%20la%20exposicio%CC%81n%20Espacios%20Ambientales%20en%20el%20Museo%20de%20Arte%20Moderno.aspx"
       },
       {
-        "title": "La Constitución de 1991: 25 años de un proyecto humanista y democrático por José Gregorio Hernández. Razón Pública.",
+        "title": "La Constitución de 1991: 25 años de un proyecto humanista y democrático por José Gregorio Hernández. Razón Pública",
         "link": "https://razonpublica.com/la-constitucion-de-1991-25-anos-de-un-proyecto-humanista-y-democratico/"
       }
     ],

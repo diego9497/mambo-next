@@ -135,7 +135,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
             <p dangerouslySetInnerHTML={{ __html: historyDescription }}></p>
           </TextContentHistory>
         </ContentHistory>
-        <ContentSecond background={color}>
+        <ContentSecond background={color} color={text}>
           {img1.audio && (
             <AudioContainer stroke={text}>
               <Accessibility />

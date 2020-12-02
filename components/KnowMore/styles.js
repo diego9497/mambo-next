@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Container = styled.div`
   display: grid;
@@ -19,15 +19,21 @@ export const Container = styled.div`
   }
 `;
 export const ContainerSection = styled.a`
+  background: ${({ color }) => color};
   position: relative;
   color: ${({ text }) => text};
   cursor: pointer;
 
-  :hover {
-    > div {
-      display: initial;
-    }
-  }
+  ${({ main }) =>
+    main &&
+    css`
+      :hover {
+        filter: brightness(1.1);
+        div {
+          display: initial;
+        }
+      }
+    `}
   :nth-child(1) {
     grid-area: Title;
     padding: 30px;
@@ -78,10 +84,21 @@ export const ContainerInfo = styled.div`
   position: absolute;
   bottom: 0;
   width: 100%;
+  height: 100%;
   padding: 20px 20px 40px 20px;
-  background: blue;
-  display: none;
-  background: ${(props) => props.color};
+  background: ${(props) => props.color}77;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 3px black;
+
+  :hover {
+    div {
+      display: initial;
+    }
+  }
 `;
 export const Text = styled.p`
   font-weight: 100;
@@ -142,12 +159,24 @@ export const ReferenceContent = styled.div`
     width: 7px;
   }
   ::-webkit-scrollbar-track {
-    background: rgba(202, 202, 202, 0.2);
+    background: rgba(255, 255, 255, 0.2);
   }
   ::-webkit-scrollbar-thumb {
-    background: rgba(187, 187, 187, 0.3);
+    background: rgba(255, 255, 255, 0.3);
     border-radius: 4px;
   }
+  ${({ text }) =>
+    text === "black"
+      ? css`
+          ::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.2);
+          }
+          ::-webkit-scrollbar-thumb {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 4px;
+          }
+        `
+      : null}
 
   p {
     column-count: 2;
@@ -160,11 +189,25 @@ export const ImageBgContainer = styled.div`
   height: 100%;
   width: 100%;
 
-  > div {
-    height: 100% !important;
-    width: 100% !important;
-    > img {
-      object-fit: cover;
-    }
+  img {
+    object-fit: cover;
+    filter: grayscale(1);
   }
+`;
+
+export const SeeLink = styled.div`
+  background: ${({ color }) => color};
+  width: 100%;
+  padding: 15px 20px;
+  position: absolute;
+  bottom: 0;
+  font-size: 0.8em;
+  display: none;
+`;
+
+export const SeeMore = styled.div`
+  display: none;
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
 `;

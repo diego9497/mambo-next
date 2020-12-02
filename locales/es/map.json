@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Gran Bretaña (Islas Británicas)",
     "description": "La Revolución Industrial o Primera Revolución Industrial es el proceso de transformación económica, social y tecnológica que se inició en la segunda mitad del siglo XVIII en el Reino de Gran Bretaña, lo cual es fuente de grandes obras en el campo artístico, innovando también con nuevos artefactos en la captura de la imagen como la cámara. Esta imagen corresponde a las primeras maquinas a vapor que facilitaban el transporte. <a href=http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html'' target='blank'/>http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html</a>",
     "location": [
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "París (Francia)",
     "description": "Paris fue uno de los centros donde se gestaron las primeras manifestaciones del Estados Moderno, consagrado en los derechos humanos. Así mismo, fue un epicentro del arte moderno y del espíritu anti académico. Manet fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que, al parecer, es una trabajadora sexual; desafiando los códigos morales y la tradición del desnudo femenino en el arte. <a href='https://historia-arte.com/obras/olympia-de-manet' target='blank'/>https://historia-arte.com/obras/olympia-de-manet</a>",
     "location": [
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Guanajuato (México) ",
     "description": "Lugar de nacimiento del artista muralista Diego Rivera famoso por plasmar obras de alto contenido político y social en edificios públicos. La obra de Diego y de su esposa, la pintora Frida Kahlo, se influyeron mutuamente, y fueron determinantes para la identidad visual de los artistas latinoamericanos. <a href='https://es.wikipedia.org/wiki/Diego_Rivera' target='blank'/>https://es.wikipedia.org/wiki/Diego_Rivera</a>",
     "location": [
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Ciudad de México (México)",
     "description": "La gráfica popular Mexicana ha influenciado a todos los países latinoamericanos, convirtiendo a la cultura popular visual una fuente inagotable de inspiración para artistas modernos y contemporáneos.\n <a target='_blank 'href='https://mxcity.mx/2016/11/la-fabulosa-historia-la-grafica-popular-mexicana/'>https://mxcity.mx/2016/11/la-fabulosa-historia-la-grafica-popular-mexicana/</a>",
     "location": [
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Málaga (España)",
     "description": "Lugar de nacimiento de Pablo Picasso, uno de los representantes más importantes de la pintura moderna. La Imagen corresponde al Guernica famoso cuadro de Picasso, pintado entre los meses de mayo y junio de 1937, cuyo título alude al bombardeo de Guernica, ocurrido el 26 de abril de dicho año, durante la guerra civil española. <a rel='nofollow' target='_blank' href='https://historia-arte.com/artistas/pablo-picasso'>https://historia-arte.com/artistas/pablo-picasso</a>",
     "location": [
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Weimar (Alemania )",
     "description": "La Escuela de la Bauhaus ubicada en esta ciudad tuvo una importante influencia en el diseño y la arquitectura moderna. <a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=mHQmnumnNgo&amp;t=483s'>https://www.youtube.com/watch?v=mHQmnumnNgo&amp;t=483s</a>",
     "location": [
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Montaña Sainte-Victoire (Francia)",
     "description": "Esta imagen corresponde a muchas de las pinturas que desarrolló Cezanne inspirado en la contemplación de estas Montañas en una serie de pinturas entre los años 1904-1906.\n <a rel='nofollow' target='_blank' href='https://www.biografiasyvidas.com/biografia/c/cezanne.htm'>https://www.biografiasyvidas.com/biografia/c/cezanne.htm</a>",
     "location": [
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Plaza de Bolívar de Bogotá (Colombia)",
     "description": "Se conoce como El Bogotazo a una serie de disturbios ocurridos en la capital de Colombia, Bogotá, que fueron consecuencia del magnicidio al líder del Partido Liberal, Jorge Eliécer Gaitán, ocurrido el 9 de abril de 1948 , hecho que partió la historia de Colombia en dos. \n <a rel='nofollow' target='_blank' href='https://www.semana.com/nacion/articulo/que-fue-el-bogotazo-que-estremecio-colombia-hace-70-anos-y-por-que-cambio-la-historia-de-ese-pais/563036'>https://www.semana.com/nacion/articulo/que-fue-el-bogotazo-que-estremecio-colombia-hace-70-anos-y-por-que-cambio-la-historia-de-ese-pais/563036</a> ",
     "location": [
@@ -234,6 +234,33 @@
     ]
   },
   {
+    "id": 7,
+    "name": "Brístol",
+    "description": "Banksy (Bristol, Reino Unido - 1974) es el sobrenombre de uno de los artistas británicos más conocidos del arte urbano. A partir de la incursión del Arte Pop en medios gráficos y publicitarios, las prácticas artísticas en el espacio urbano han adquirido un importante protagonismo. En esta obra Banksy hace un comentario crítico sobre la desigualdad social y la forma en la que la sociedad oculta sus problemas.\n<a rel='nofollow' target='_blank' href='https://www.oldskull.net/design/banksy-mas-que-un-artista/'>https://www.oldskull.net/design/banksy-mas-que-un-artista/</a>",
+    "location": [
+      51.45451300000002,
+      -2.5879099999999955
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rosario (Argentina) ",
+    "description": "Lugar de nacimiento de  la artista Graciela Sacco.\n<a rel='nofollow' target='_blank' href='https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/'>https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/</a>\n<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=FGVY6iC7xGY'>https://www.youtube.com/watch?v=FGVY6iC7xGY</a>",
+    "location": [
+      -32.95870219999999,
+      -60.693041600000015
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Springfield (Estados Unidos) ",
+    "description": "Lugar de nacimiento de David Hammons,para el objeto efímero se vende y se transforma también el artista en un mediador para hablar con el espectador y el objeto como se ve en la imagen, donde vendía sus bolas de hielo. \n<a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>https://publicdelivery.org/david-hammons-snowball/</a>",
+    "location": [
+      37.20895719999999,
+      -93.2922989
+    ]
+  },
+  {
     "id": 8,
     "name": "Bucaramanga (Colombia)",
     "description": "Lugar de nacimiento de Beatriz Gonzalez. <a rel='nofollow' target='_blank' href='https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html'>https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html</a>",
@@ -339,33 +366,6 @@
     "location": [
       -18.794764999999988,
       -64.2014337
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Brístol",
-    "description": "Banksy (Bristol, Reino Unido - 1974) es el sobrenombre de uno de los artistas británicos más conocidos del arte urbano. A partir de la incursión del Arte Pop en medios gráficos y publicitarios, las prácticas artísticas en el espacio urbano han adquirido un importante protagonismo. En esta obra Banksy hace un comentario crítico sobre la desigualdad social y la forma en la que la sociedad oculta sus problemas.\n<a rel='nofollow' target='_blank' href='https://www.oldskull.net/design/banksy-mas-que-un-artista/'>https://www.oldskull.net/design/banksy-mas-que-un-artista/</a>",
-    "location": [
-      51.45451300000002,
-      -2.5879099999999955
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Rosario (Argentina) ",
-    "description": "Lugar de nacimiento de  la artista Graciela Sacco.\n<a rel='nofollow' target='_blank' href='https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/'>https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/</a>\n<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=FGVY6iC7xGY'>https://www.youtube.com/watch?v=FGVY6iC7xGY</a>",
-    "location": [
-      -32.95870219999999,
-      -60.693041600000015
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Springfield (Estados Unidos) ",
-    "description": "Lugar de nacimiento de David Hammons,para el objeto efímero se vende y se transforma también el artista en un mediador para hablar con el espectador y el objeto como se ve en la imagen, donde vendía sus bolas de hielo. \n<a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>https://publicdelivery.org/david-hammons-snowball/</a>",
-    "location": [
-      37.20895719999999,
-      -93.2922989
     ]
   }
 ]

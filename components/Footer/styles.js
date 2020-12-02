@@ -128,25 +128,43 @@ export const ContainerActivities = styled.div`
   min-width: 240px;
   background: white;
   border-radius: 7px;
-  padding: 20px 0;
+  overflow: hidden;
   display: flex;
   flex-direction: column;
 
-  a {
+  li {
+    list-style: none;
     color: black;
     font-weight: 500;
     text-decoration: none;
-    padding: 10px 25px;
+    padding-left: 0;
     cursor: pointer;
+    border-bottom: 1px solid black;
+
+    a {
+      padding: 10px 25px;
+      height: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      fill: black;
+    }
 
     :nth-child(1) {
-      color: #ffcf12;
+      a {
+        border-left: 5px solid #ffcf12;
+      }
     }
     :nth-child(2) {
-      color: #17331c;
+      a {
+        border-left: 5px solid #17331c;
+      }
     }
     :nth-child(3) {
-      color: #335fd7;
+      a {
+        border-left: 5px solid #335fd7;
+      }
+      border-bottom: none;
     }
 
     :hover {

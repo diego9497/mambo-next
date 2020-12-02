@@ -145,6 +145,10 @@ export const SubtitleAuthorContainer = styled.p`
     color: white;
     display: block;
   }
+  a {
+    color: white;
+    text-decoration: none;
+  }
 `;
 
 export const AudioContainer = styled.div`

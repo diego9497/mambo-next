@@ -25,7 +25,7 @@
     }
   },
   "mv3": {
-    "title": "Arte Moderno en el Mundo",
+    "title": "Arte Moderno en el mundo",
     "text": "black",
     "color": "#ed96ae",
     "img": {
@@ -43,7 +43,7 @@
     }
   },
   "mv5": {
-    "title": "Arte Conceptual en el Mundo",
+    "title": "Arte Conceptual en el mundo",
     "text": "white",
     "color": "#17331c",
     "img": {
@@ -61,7 +61,7 @@
     }
   },
   "mv7": {
-    "title": "Arte Contemporáneo en el Mundo",
+    "title": "Arte Contemporáneo en el mundo",
     "text": "white",
     "color": "#6133a1",
     "img": {
