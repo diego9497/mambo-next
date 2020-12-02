@@ -88,15 +88,19 @@ export default function MapPage({ config, locations }) {
           </HeaderMapIconContainer>
         </HeaderMap>
         <div className="map">
-          <Map
-            markers={locations.map((location) => ({
-              ...location,
-              color: config[`mv${location.id}`].color,
-            }))}
-            center={center}
-            zoom={zoom}
-            handleClick={clickOnMarker}
-          />
+          {process.env.SPA ? (
+            <Map
+              markers={locations.map((location) => ({
+                ...location,
+                color: config[`mv${location.id}`].color,
+              }))}
+              center={center}
+              zoom={zoom}
+              handleClick={clickOnMarker}
+            />
+          ) : (
+            <img src="/mapa.png" alt="" />
+          )}
         </div>
       </ContainerMap>
       {open && (
