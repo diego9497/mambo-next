@@ -20,14 +20,14 @@
   {
     "id": 1,
     "name": "Planetarium of Bogotá",
-    "description": "<a href='https://planetariodebogota.gov.co/ 'target='blank'> https://planetariodebogota.gov.co/ </a>",
+    "description": "<a href='https://planetariodebogota.gov.co/ 'target='blank'>See link</a>",
     "location": [
       4.6120462,
       -74.068775
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Great Britain (British Isles)",
     "description": "The Industrial Revolution or First Industrial Revolution is the process of economic, social and technological transformation that began in the second half of the 18th century in the Kingdom of Great Britain, which is a source of great works in the artistic field , also innovating with new artifacts in image capture such as the camera. This image corresponds to the first steam machines that facilitated transport. <a href = http: //www.finanzasparatodos.es/gepeese/es/inicio/ laEconomiaEn / laHistoria / revolucion_industrial.html '' target = 'blank' /> http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html </a> ",
     "location": [
@@ -36,16 +36,16 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Paris (France)",
-    "description": "Paris was one of the centers where the first manifestations of the Modern State, enshrined in human rights, took place. Likewise, it was an epicenter of modern art and the anti-academic spirit. Manet was one of the precursor artists of the Impressionism and modern painting. This work called Olympia, in ironic reference to Greek history, generated controversy for presenting a nude woman who, apparently, is a sex worker; challenging moral codes and the tradition of the female nude in art . <a href='https://historia-arte.com/obras/olympia-de-manet' target='blank'/> https://historia-arte.com/obras/olympia-de-manet</ a> ",
+    "description": "Paris was one of the centers where the first manifestations of the Modern State, enshrined in human rights, took place. Likewise, it was an epicenter of modern art and the anti-academic spirit. Manet was one of the precursor artists of the Impressionism and modern painting. <a href='https://historia-arte.com/obras/olympia-de-manet' target='blank'/> https://historia-arte.com/obras/olympia-de-manet</ a> ",
     "location": [
       48.85661400000001,
       2.3522218999999955
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Guanajuato (Mexico)",
     "description": "Birthplace of the mural artist Diego Rivera famous for capturing works of high political and social content in public buildings. The work of Diego and his wife, the painter Frida Kahlo, influenced each other, and were decisive for the visual identity of Latin American artists. <a href='https://es.wikipedia.org/wiki/Diego_Rivera' target='blank'/> https://es.wikipedia.org/wiki/Diego_Rivera </a> ",
     "location": [
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Mexico City (Mexico)",
     "description": "Mexican popular graphics has influenced all Latin American countries, making visual popular culture an inexhaustible source of inspiration for modern and contemporary artists. \n <a target = '_ blank' href = 'https: // mxcity.mx/2016/11/la-fabulosa-historia-la-grafica-popular-mexicana/'>https://mxcity.mx/2016/11/la-fabulosa-historia-la-grafica-popular-mexicana/ </a> ",
     "location": [
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Málaga (Spain)",
     "description": "Place of birth of Pablo Picasso, one of the most important representatives of modern painting. The Image corresponds to the famous Guernica painting by Picasso, painted between the months of May and June 1937, whose title refers to the bombing of Guernica, which occurred on April 26 of that year, during the Spanish civil war. <a rel='nofollow' target='_blank' href='https://historia-arte.com/artistas/pablo-picasso'> https : //historia-arte.com/artistas/pablo-picasso </a> ",
     "location": [
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Weimar (Germany)",
     "description": "The Bauhaus School located in this city had an important influence on modern design and architecture. <a rel = 'nofollow' target = '_ blank' href = 'https: //www.youtube.com /watch?v=mHQmnumnNgo&amp;t=483s'>https://www.youtube.com/watch?v=mHQmnumnNgo&amp;t=483s </a> ",
     "location": [
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Sainte-Victoire Mountain (France)",
     "description": "This image corresponds to many of the paintings that Cezanne developed inspired by the contemplation of these Mountains in a series of paintings between the years 1904-1906. \n <a rel = 'nofollow' target = '_ blank' href = 'https: //www.biografiasyvidas.com/biografia/c/cezanne.htm'> https://www.biografiasyvidas.com/biografia/c/cezanne.htm </a> ",
     "location": [
@@ -234,6 +234,33 @@
     ]
   },
   {
+    "id": 7,
+    "name": "Bristol",
+    "description": "Banksy (Bristol, United Kingdom - 1974) is the nickname of one of the best known British artists of urban art. From the incursion of Pop Art in graphic and advertising media, artistic practices in urban space have acquired an important role. In this work Banksy makes a critical comment on social inequality and the way in which society hides its problems. \n <a rel = 'nofollow' target = '_ blank' href = 'https: / /www.oldskull.net/design/banksy-mas-que-un-artista/'>https://www.oldskull.net/design/banksy-mas-que-un-artista/ </a> ",
+    "location": [
+      51.45451300000002,
+      -2.5879099999999955
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rosario (Argentina)",
+    "description": "Birthplace of the artist Graciela Sacco. \n <a rel = 'nofollow' target = '_ blank' href = 'https: //gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre -us / '> https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/ </a> \n <a rel =' nofollow 'target =' _ blank 'href =' https: //www.youtube.com/watch?v=FGVY6iC7xGY'>https://www.youtube.com/watch?v=FGVY6iC7xGY </a> ",
+    "location": [
+      -32.95870219999999,
+      -60.693041600000015
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Springfield (United States)",
+    "description": "Birthplace of David Hammons, for the ephemeral object is sold and the artist is also transformed into a mediator to talk with the viewer and the object as seen in the image, where he sold his ice balls. \n <a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'> https://publicdelivery.org/david-hammons-snowball/ </a> ",
+    "location": [
+      37.20895719999999,
+      -93.2922989
+    ]
+  },
+  {
     "id": 8,
     "name": "Bucaramanga (Colombia)",
     "description": "Beatriz Gonzalez's birthplace. <a rel='nofollow' target='_blank' href='https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html'> https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html </a> ",
@@ -339,33 +366,6 @@
     "location": [
       -18.794764999999988,
       -64.2014337
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Bristol",
-    "description": "Banksy (Bristol, United Kingdom - 1974) is the nickname of one of the best known British artists of urban art. From the incursion of Pop Art in graphic and advertising media, artistic practices in urban space have acquired an important role. In this work Banksy makes a critical comment on social inequality and the way in which society hides its problems. \n <a rel = 'nofollow' target = '_ blank' href = 'https: / /www.oldskull.net/design/banksy-mas-que-un-artista/'>https://www.oldskull.net/design/banksy-mas-que-un-artista/ </a> ",
-    "location": [
-      51.45451300000002,
-      -2.5879099999999955
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Rosario (Argentina)",
-    "description": "Birthplace of the artist Graciela Sacco. \n <a rel = 'nofollow' target = '_ blank' href = 'https: //gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre -us / '> https://gracielasacco.com/series_de_trabajos/esperando-a-los-barbaros-entre-nosotros/ </a> \n <a rel =' nofollow 'target =' _ blank 'href =' https: //www.youtube.com/watch?v=FGVY6iC7xGY'>https://www.youtube.com/watch?v=FGVY6iC7xGY </a> ",
-    "location": [
-      -32.95870219999999,
-      -60.693041600000015
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Springfield (United States)",
-    "description": "Birthplace of David Hammons, for the ephemeral object is sold and the artist is also transformed into a mediator to talk with the viewer and the object as seen in the image, where he sold his ice balls. \n <a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'> https://publicdelivery.org/david-hammons-snowball/ </a> ",
-    "location": [
-      37.20895719999999,
-      -93.2922989
     ]
   }
 ]

@@ -20,7 +20,7 @@
   {
     "id": 1,
     "name": "Planetario de Bogotá",
-    "description": "<a href='https://planetariodebogota.gov.co/ ' target='blank'>https://planetariodebogota.gov.co/ </a>",
+    "description": "<a href='https://planetariodebogota.gov.co/ ' target='blank'>Ver link</a>",
     "location": [
       4.6120462,
       -74.068775
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "name": "París (Francia)",
-    "description": "Paris fue uno de los centros donde se gestaron las primeras manifestaciones del Estados Moderno, consagrado en los derechos humanos. Así mismo, fue un epicentro del arte moderno y del espíritu anti académico. Manet fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que, al parecer, es una trabajadora sexual; desafiando los códigos morales y la tradición del desnudo femenino en el arte. <a href='https://historia-arte.com/obras/olympia-de-manet' target='blank'/>https://historia-arte.com/obras/olympia-de-manet</a>",
+    "description": "Paris fue uno de los centros donde se gestaron las primeras manifestaciones del Estados Moderno, consagrado en los derechos humanos. Así mismo, fue un epicentro del arte moderno y del espíritu anti académico. Manet fue uno de los artistas precursores del impresionismo y de la pintura moderna. <a href='https://historia-arte.com/obras/olympia-de-manet' target='blank'/>https://historia-arte.com/obras/olympia-de-manet</a>",
     "location": [
       48.85661400000001,
       2.3522218999999955

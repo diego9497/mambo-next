@@ -77,9 +77,9 @@ export default function MapPage({ config, locations }) {
         <List>
           {locations.map((location, index) => (
             <ListItem
-              fill={config[`mv${location.id}`].color}
+              color={config[`mv${location.id}`].color}
               onClick={() => handleOpen(location)}
-              color={config.mv1.color}
+              text={config[`mv${location.id}`].text}
             >
               <MapIcon />
               <span>{location.name}</span>

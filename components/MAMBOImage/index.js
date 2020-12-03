@@ -1,4 +1,3 @@
-//TODO Wikicommos y enlace en alts
 //TODO Poner video en sección video nuevos medios
 import { useRef, useState } from "react";
 import ClientPortal from "../ClientPortal";

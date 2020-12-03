@@ -50,6 +50,7 @@ function KnowMore({ exhibition, config }) {
           <Image
             src={keyConcepts[0].img.src}
             alt={keyConcepts[0].img.alt}
+            position={exhibition.id === 8 ? "bottom" : "center"}
             width={600}
             height={350}
           />

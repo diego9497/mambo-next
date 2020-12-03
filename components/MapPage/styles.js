@@ -88,7 +88,7 @@ export const ListItem = styled.li`
   align-items: center;
   padding: 10px 15px;
   font-size: 1.17em;
-  fill: ${({ fill }) => fill};
+  fill: ${({ color }) => color};
   color: black;
   border-bottom: 1px solid var(--borderColor);
   cursor: pointer;
@@ -113,7 +113,8 @@ export const ListItem = styled.li`
 
   :hover {
     background: ${({ color }) => color};
-    fill: black;
+    fill: ${({ text }) => text};
+    color: ${({ text }) => text};
   }
 `;
 

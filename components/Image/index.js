@@ -1,6 +1,4 @@
-// import Img from "next/image";
-
-import { ImageContainer, Picture } from "./styles";
+import { Picture } from "./styles";
 
 export default function Image({
   width,
