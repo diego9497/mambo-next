@@ -79,6 +79,12 @@ export const TextContent = styled.p`
     font-size: 1em;
     font-style: italic;
   }
+  a {
+    font-size: 1em;
+    font-weight: 500;
+    text-decoration: none;
+    color: inherit;
+  }
 `;
 export const ContainerMenu = styled.div`
   grid-area: menu;
