@@ -6,7 +6,11 @@
     "location": [
       4.610238600000005,
       -74.0692515
-    ]
+    ],
+    "image": {
+      "src": "mv1/did_you_know.jpg",
+      "alt": "Instagram: @mambogota </br>Facebook: @fanmambogota</br>Twitter: @_mambogota</br>YouTube: Museo de Arte Moderno de Bogotá"
+    }
   },
   {
     "id": 1,

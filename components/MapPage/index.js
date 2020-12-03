@@ -117,7 +117,7 @@ export default function MapPage({ config, locations }) {
             content={detailInfo.description}
             text={detailInfo.text}
             title={detailInfo.name}
-            subtitle={detailInfo.topic}
+            image={detailInfo.image}
             handleClose={handleClose}
             iconHeader={<MapIcon />}
             controls={true}
