@@ -20,10 +20,28 @@ import {
   SecondEmpty,
 } from "../ExhibitionPrimary/styles";
 
+import {
+  Container as ContainerKnowMore,
+  ContainerSection,
+  Title as KTitle,
+  Subtitle,
+  SeeMore,
+  SeeLink,
+  ImageBgContainer,
+  ContainerInfo,
+  ReferenceContainer,
+  ReferencesHeader,
+  CloseButton,
+  ReferenceContent,
+} from "../KnowMore/styles";
+
 import { GalleryContainer } from "./styles";
 import Accessibility from "../Icons/Accessibility";
+import Close from "../Icons/Close";
 import Gallery from "../Gallery";
 import MAMBOImage from "../MAMBOImage";
+import Image from "../Image";
+import { useState } from "react";
 
 export default function ExhibitionSpecial({ exhibition, config }) {
   const {
@@ -35,7 +53,18 @@ export default function ExhibitionSpecial({ exhibition, config }) {
     withPrimary,
     description,
     title,
+    references,
   } = exhibition;
+  const [open, setOpen] = useState(false);
+
+  const handleOpen = () => {
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+  };
+  console.log(content[0]);
   return (
     <>
       {withPrimary && (
@@ -97,6 +126,74 @@ export default function ExhibitionSpecial({ exhibition, config }) {
             </GalleryContainer>
           </ContainerDetail>
         )
+      )}
+      {references && (
+        <ContainerKnowMore>
+          <ContainerSection>
+            <KTitle color={color}>{config.more}</KTitle>
+          </ContainerSection>
+          <ContainerSection onClick={handleOpen} color={color} text={text} main>
+            <Subtitle>{config.references}</Subtitle>
+            <SeeMore>{config.seeMore}</SeeMore>
+          </ContainerSection>
+          <ContainerSection text={text}>
+            <ImageBgContainer>
+              <Image
+                src={content[0].gallery[0].src}
+                alt={content[0].gallery[0].alt}
+              />
+            </ImageBgContainer>
+            <ContainerInfo color={color}></ContainerInfo>
+          </ContainerSection>
+          <ContainerSection text={text}>
+            <ImageBgContainer>
+              <Image
+                src={content[1].gallery[0].src}
+                alt={content[1].gallery[0].alt}
+              />
+            </ImageBgContainer>
+            <ContainerInfo color={color}></ContainerInfo>
+          </ContainerSection>
+          <ContainerSection text={text}>
+            <ImageBgContainer>
+              <Image
+                src={content[2].gallery[0].src}
+                alt={content[2].gallery[0].alt}
+              />
+            </ImageBgContainer>
+            <ContainerInfo color={color}></ContainerInfo>
+          </ContainerSection>
+          <ContainerSection text={text}>
+            <ImageBgContainer>
+              <Image
+                src={content[4].gallery[0].src}
+                alt={content[4].gallery[0].alt}
+              />
+            </ImageBgContainer>
+            <ContainerInfo color={color}></ContainerInfo>
+          </ContainerSection>
+          {open && (
+            <ReferenceContainer color={color} text={text}>
+              <ReferencesHeader>
+                <h3>{config.references}</h3>
+                <CloseButton onClick={handleClose}>
+                  <Close />
+                </CloseButton>
+              </ReferencesHeader>
+              <ReferenceContent text={text}>
+                <p>
+                  {exhibition?.references?.map((reference) => (
+                    <>
+                      <span>{reference}</span>
+                      <br />
+                      <br />
+                    </>
+                  ))}
+                </p>
+              </ReferenceContent>
+            </ReferenceContainer>
+          )}
+        </ContainerKnowMore>
       )}
     </>
   );

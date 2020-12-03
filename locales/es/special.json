@@ -218,6 +218,7 @@
   {
     "id": 9,
     "color": "#1A1A1A",
+    "text": "white",
     "withPrimary": false,
     "title": "Nuevos medios",
     "content": [

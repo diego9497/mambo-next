@@ -2,6 +2,7 @@
   {
     "id": 2,
     "color": "#ED4040",
+    "text": "white",
     "guide": "Look the exploration guide",
     "here": "here",
     "withPrimary": true,
@@ -213,6 +214,7 @@
   {
     "id": 9,
     "color": "#1A1A1A",
+    "text": "white",
     "withPrimary": false,
     "title": "New media",
     "content": [

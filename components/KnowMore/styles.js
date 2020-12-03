@@ -90,9 +90,10 @@ export const ContainerInfo = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: ${({ text }) => text};
   font-size: 1.5em;
-  text-shadow: 1px 1px 3px black;
+  text-shadow: 1px 1px 3px
+    ${({ text }) => (text === "white" ? "black" : "white")};
 
   :hover {
     div {
@@ -203,6 +204,7 @@ export const SeeLink = styled.div`
   bottom: 0;
   font-size: 0.8em;
   display: none;
+  text-shadow: none;
 `;
 
 export const SeeMore = styled.div`

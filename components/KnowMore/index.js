@@ -38,7 +38,7 @@ function KnowMore({ exhibition, config }) {
       </ContainerSection>
       <ContainerSection onClick={handleOpen} color={color} text={text} main>
         <Subtitle>{config.references}</Subtitle>
-        <SeeMore>Ver más</SeeMore>
+        <SeeMore>{config.seeMore}</SeeMore>
       </ContainerSection>
       <ContainerSection
         href={knowMore[3]?.link}
@@ -55,36 +55,36 @@ function KnowMore({ exhibition, config }) {
             height={350}
           />
         </ImageBgContainer>
-        <ContainerInfo color={color}>
+        <ContainerInfo color={color} text={text}>
           <Text>{knowMore[3]?.title}</Text>
-          <SeeLink color={color}>Ver link</SeeLink>
+          <SeeLink color={color}>{config.seeLink}</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       <ContainerSection href={knowMore[0].link} text={text} target="blank">
         <ImageBgContainer>
           <Image src={img1.src} alt={img1.alt} width={600} height={350} />
         </ImageBgContainer>
-        <ContainerInfo color={color}>
+        <ContainerInfo color={color} text={text}>
           <Text>{knowMore[0].title}</Text>
-          <SeeLink color={color}>Ver link</SeeLink>
+          <SeeLink color={color}>{config.seeLink}</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       <ContainerSection href={knowMore[1].link} text={text} target="blank">
         <ImageBgContainer>
           <Image src={img2.src} alt={img2.alt} width={600} height={350} />
         </ImageBgContainer>
-        <ContainerInfo color={color}>
+        <ContainerInfo color={color} text={text}>
           <Text>{knowMore[1].title}</Text>
-          <SeeLink color={color}>Ver link</SeeLink>
+          <SeeLink color={color}>{config.seeLink}</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       <ContainerSection href={knowMore[2].link} text={text} target="blank">
         <ImageBgContainer>
           <Image src={img3.src} alt={img3.alt} width={600} height={350} />
         </ImageBgContainer>
-        <ContainerInfo color={color}>
+        <ContainerInfo color={color} text={text}>
           <Text>{knowMore[2].title}</Text>
-          <SeeLink color={color}>Ver link</SeeLink>
+          <SeeLink color={color}>{config.seeLink}</SeeLink>
         </ContainerInfo>
       </ContainerSection>
       {open && (

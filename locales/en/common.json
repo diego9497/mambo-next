@@ -16,7 +16,7 @@
     }
   },
   "mv2": {
-    "title": "MAMBO Traveler Exhibition",
+    "title": "The Art of Disobedience",
     "text": "white",
     "color": "#e9421f",
     "img": {
@@ -94,5 +94,7 @@
   "archive": "MAMBO Archive",
   "more": "Learn more",
   "games": "Games",
-  "references": "References"
+  "references": "References",
+  "seeMore": "See more",
+  "seeLink": "See link"
 }
