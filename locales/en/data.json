@@ -7,9 +7,9 @@
     "history": "The story of the Bogota Museum of Modern Art MAMBO",
     "historyDescription": "In 1953, General Gustavo Rojas Pinilla mounted a military coup, establishing a dictatorship that restricted the rights and freedoms of the citizens of Colombia. Nevertheless, during this period important steps were taken in the modernisation of the country. One of these was a decree leading to the creation of the Museum of Modern Art, signed in 1955 by a group comprising intellectuals, artists and government ministers. \n\n The Museum existed for several years without a permanent site. During this time, it occupied various venues, including the National University and the District Planetarium. The critic and administrator Marta Traba was a driving force behind opening the Museum to the public from 1962, until 1967, when she was expelled from the country for her objection to military intervention at the National University, where the Museum was then based. Gloria Zea took over as director when the Museum left the university campus, managing various sites until the acquisition in 1974, of the plot on which the present building now stands. Construction began in 1979 and was completed in 1985 (Zea, 1994, pp.50-78).n\n Today, MAMBO is situated in the centre of the city, neighbouring both the Parque Bicentenario and the Parque de la Independencia and within easy walking distance of the District Planetarium. It is housed in a building designed by Colombian architect Rogelio Salmona, based on the principles of abstract art, and modern architecture in Bogotá (Moreno y Medina,1994, pp.88-92).n\n MAMBO has worked for 57 years in the research, preservation and promotion of modern and contemporary art. The artist Claudia Hakim took over as director in 2016, heading a new team with aims to work with the general public on a variety of projects involving curatorship, museography, and education. ",
     "author": "<span> Oscar Monsalve </span>",
-    "forWhat": "Why museums exist?",
-    "forWhatContent": "Museums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
-    "proposal": "Museums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
+    "forWhat": "A museum, what for?",
+    "forWhatContent": "Museums and their social function.\nMuseums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
+    "proposal": "\nMuseums are democratising, inclusive and polyphonic spaces for critical dialogue about pasts and futures. Acknowledging and addressing the conflicts and challenges of the present, they hold artefacts and specimens in trust for society, safeguard diverse memories for future generations and guarantee equal rights and equal access to heritage for all people. Museums are not for profit. They are participatory and transparent, and work in active partnership with and for diverse communities to collect, preserve, research, interpret, exhibit, and enhance understandings of the world, aiming to contribute to human dignity and social justice, global equality and planetary wellbeing. (Icom, 2019)",
     "questions": [
       "Why was the creation of MAMBO important for the modernisation of Colombia? ",
       "How do museums help us understand the world?",
@@ -17,7 +17,7 @@
       "Why do museums want to safeguard diverse memories for future generations?",
       "How can a museum contribute to human dignity, social justice and planetary wellbeing?"
     ],
-    "didYouKnow": "Did you know the collection of the Bogotá Museum of Modern Art MAMBO numbers over 4500 works of art, forming part of Colombia’s cultural heritage.",
+    "didYouKnow": "Did you know the collection of The Museum of Modern Art of Bogotá numbers over 4500 works of art, forming part of Colombia’s cultural heritage.",
     "activity": "Design and make your own museum out of paper and show it to your class.",
     "keyConcepts": [
       {
@@ -80,7 +80,7 @@
     },
     "img3": {
       "src": "mv1/3.jpg",
-      "alt": "977. Selection of works in MAMBO collection on show at the District Planetarium. Photo: Oscar Monsalve."
+      "alt": "1977. Selection of colombian artworks in MAMBO collection on show at the District Planetarium. Photo: Oscar Monsalve."
     },
     "gallery": [
       {
@@ -164,11 +164,11 @@
     "id": 3,
     "color": "#EFB8BC",
     "text": "black",
-    "title": "Modern Art and the world.",
-    "history": "The emergence of Modern Art",
+    "title": "Modern Art in the world.",
+    "history": "How did Modern Art emerge?",
     "historyDescription": "Modern Art was a process during which painters, sculptors and writers sought out novel forms of representation. The modern period in art is usually described as occurring between 1850 – 1970. The industrial revolutions of nineteenth century Europe and the violent upheavals inspired by the 1789 Revolution in France, all contributed to the modern movement. Artists rebelled against academic art with its Renaissance preoccupations; religion, Greek mythology, and the traditional genres of portrait and still life, preferring to explore individual interests and problems in their work (Gallerix, 2009).\n\n In the 1830s the invention of photography caused a break with the tradition of figurative representation and led artists to create work according to a personal aesthetic. The work of the European vanguards exemplifies formal and conceptual explorations made by artists of this period as they experimented with new subjects, materials, techniques and processes, pushing the boundaries of what was understood as “art”. (Academia Play, 2016). ",
     "author": "<span>Edouard Manet</span>",
-    "forWhat": "Why do revolutions happen?",
+    "forWhat": "A revolution, what for?",
     "forWhatContent": "The rebellious roots of modern art.",
     "didYouKnow": "Did you know the advent of photography radically altered the way we see the world. It brought about great changes in the image-making process and the materiality of works of art. ",
     "questions": [
@@ -179,7 +179,7 @@
     "gallery": [],
     "keyConcepts": [
       {
-        "title": "Academism",
+        "title": "Academic art",
         "content": "Artistic current emerging from the Paris Academy of Fine Arts at the start of the nineteenth century and which looks back to art of the classical period. Also known as Neoclassicism; it is a romantic and idealist movement, linking art to ideas of beauty, perfection and technical skill.",
         "img": {
           "src": "mv3/c1.jpg",
@@ -461,7 +461,7 @@
     "img2": {
       "src": "mv5/2.jpg",
       "alt": "Andy Warhol. Campbell's Soup Cans. 1962. Special edition. 2015. Source: Wikimedia Commons under Creative Commons licence Attribution 3.0 Unported.",
-      "caption": "Andy Warhol (Pittsburg, USA, 1928-1987) was one of the pioneers of Pop Art in the United States. Warhol used grocery products to reflect on consumerism and originality in art. In this well-known work, the artist copied the packaging of a product of mass consumption. He then reproduced it, marking consumerism as a contemporary way of life, and posing the question:  can any object can be considered art?"
+      "caption": "Andy Warhol (Pittsburg, USA, 1928-1987) was one of the pioneers of Pop Art in the United States. Warhol used grocery products to reflect on consumerism and originality in art. In this well-known work, the artist copied the packaging of a product of mass consumption. He then reproduced it, marking consumerism as a contemporary way of life, and posing the question:  can any object be considered art?"
     },
     "img3": {
       "src": "mv5/3.jpg",
@@ -622,7 +622,7 @@
     "id": 7,
     "color": "#6133A1",
     "text": "white",
-    "title": "Contemporary Art and the world",
+    "title": "Contemporary Art in the world",
     "history": "Contemporary Art and its origins.",
     "historyDescription": "The emergence of contemporary art in the second half of the twentieth century is characterised by a variety of theoretical and technical approaches. Contemporary artists take art practice to its limits and seek to generate critical reflection in the observer through their enquiries. Artists embrace other fields of knowledge in a transdisciplinary manner.\n\n Globalisation and internet access permit expansion of new technologies, the screen affording the public a new and greater proximity to the image (Ampudia, 2016). The incursion of technology and new media brings diverse possibilities for the relationship between artworks, artist and public, frequently resulting in offerings that are in interactive and relational, such as the happening and the performance. In contemporary art, the spectator is often required to step up and participate in the work, giving them the opportunity to immerse themselves in multi-sensory environments (Pazos, 2018). ",
     "author": "Damien Hirst",
@@ -752,7 +752,7 @@
     "text": "black",
     "title": "Contemporary Art in Colombia",
     "history": "Contemporary Art in Colombia",
-    "historyDescription": "From the 1950s onwards, Colombia underwent significant social change marked by rapid urban growth due to internal displacement and modernisation. New ways of representing the urban landscape were a recurrent theme for artists such as Fernell Franco, Carlos Caicedo and Dora Franco, who used photography in an artistic manner, connecting with other areas of visual production such as design, publicity, popular graphics, and the media.\n\n Struggles for rights and gender equality drove the creation of works centred around the body, homoerotism and sexuality, with art becoming a space for free expression. María Evelia Marmolejo, Luis Caballero and Karen Lamassonne all created work based around their gender identity, combining techniques such as drawing, video and performance. Social and political tensions during the 60s and 70s prompted art that dared call into question national, religious and cultural symbols; as reflected in the work of Antonio Caro and Bernardo Salcedo (Jaramillo, Suarez and Wills, 2018).\n\n The Bogotá Museum of Modern Art (MAMBO) joined with the Modern Art Museums of Medellín, Cali y Barranquilla in highlighting artists of different regions. Two decisive events for contemporary art in Colombia took place at the MAMBO: the exhibition Espacios Ambientales (Environmental Spaces), which brought the installation to Colombia; and the Salones Atenas, which reinforced the country’s burgeoning contemporary art movement (Jaramillo, 2012).",
+    "historyDescription": "From the 1950s onwards, Colombia underwent significant social change marked by rapid urban growth due to internal displacement and modernisation. New ways of representing the urban landscape were a recurrent theme for artists such as Fernell Franco, Carlos Caicedo and Dora Franco, who used photography in an artistic manner, connecting with other areas of visual production such as design, publicity, popular graphics, and the media.\n\n Struggles for rights and gender equality drove the creation of works centred around the body, homoerotism and sexuality, with art becoming a space for free expression. María Evelia Marmolejo, Luis Caballero and Karen Lamassonne all created work based around their gender identity, combining techniques such as drawing, video and performance. Social and political tensions during the 60s and 70s prompted art that dared call into question national, religious and cultural symbols; as reflected in the work of Antonio Caro and Bernardo Salcedo (Jaramillo, Suarez and Wills, 2018).\n\n The Museum of Modern Art of Bogota MAMBO joined with the Modern Art Museums of Medellín, Cali y Barranquilla in highlighting artists of different regions. Two decisive events for contemporary art in Colombia took place at the MAMBO: the exhibition Espacios Ambientales (Environmental Spaces), which brought the installation to Colombia; and the Salones Atenas, which reinforced the country’s burgeoning contemporary art movement (Jaramillo, 2012). ",
     "author": "Beatriz González",
     "forWhat": "An art for the here and now? ",
     "forWhatContent": "Forms of expression used in contemporary art and the role played by contemporary artists in Colombia.",
@@ -793,12 +793,12 @@
     ],
     "img1": {
       "src": "mv8/1.jpg",
-      "alt": "Beatriz González. Almost Still Life. 1970. Synthetic enamel on metal sheet assembled into furniture. Source: MAMBO Collection.",
+      "alt": "Beatriz González. Almost Still Life. 1970. Source: MAMBO Collection.",
       "caption": "Beatriz González (Bucaramanga, Colombia, 1938) is one of Colombia’s best-known artists. In her work she explores the divide between painting and sculpture, inserting images from popular culture into everyday objects to communicate ideas around the Colombian context, gender and landscape. In this work, the artist intervenes in a wooden bed with a religious image. "
     },
     "img2": {
       "src": "mv8/2.jpg",
-      "alt": "Óscar Muñoz. Shower Curtains. 1986. Acrylic on Plastic. Source: MAMBO Collection.",
+      "alt": "Óscar Muñoz. Shower Curtains. 1986. Source: MAMBO Collection.",
       "caption": "Oscar Muñoz (Popayán, Colombia, 1951). This artist has explored different formats and materials, including  video and photography  in creating work whose design incorporates both space and time. In this series, consisting of shower curtains with the outlines of human bodies drawn onto them, the artist considers intimacy and absence."
     },
     "img3": {
