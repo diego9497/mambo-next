@@ -279,14 +279,11 @@
       {
         "title": "Video",
         "description": "In the USA in 1961, the art movement Fluxus burst onto the scene in a search for fusion of all artistic practice: music, action, visual arts. Artists who were part of this movement, such as John Cage and Nam June Paik, were the first to use video and tv sets within their sculptures and installations. The advent of video radically altered artistic progress, permitting artists to record their processes easily and at low cost. During the 1980s, video-art in Colombia became accepted as a new artistic practice; artists experimented with other creative fields such as theatre and cinema, using moving images, domestic audiovisual appliances and televisual images.",
-        "video": true,
-        "gallery": [
-          {
-            "alt": "Mario Opazo. Forgetfulness in Sand.  2007. Source: Opazo Vimeo.",
-            "caption": "Mario Opazo (Tomé, Chile, 1969) As a result of the dictatorship in her home country, this Chilean artist emigrated to Colombia. In her prizewinning artwork he uses installation, videos, performance and drawing to creating poetic pieces that allude to memory and displacement. This piece of action art, performed on a beach in the Magdalena Medio region, shows Opazo’s interest in video-performance.",
-            "src": "mv9/video.mp4"
-          }
-        ]
+        "video": {
+          "alt": "Mario Opazo. Forgetfulness in Sand.  2007. Source: Opazo Vimeo.",
+          "caption": "Mario Opazo (Tomé, Chile, 1969) As a result of the dictatorship in her home country, this Chilean artist emigrated to Colombia. In her prizewinning artwork he uses installation, videos, performance and drawing to creating poetic pieces that allude to memory and displacement. This piece of action art, performed on a beach in the Magdalena Medio region, shows Opazo’s interest in video-performance.",
+          "src": "mv9/video.mp4"
+        }
       },
       {
         "title": "Installation",
