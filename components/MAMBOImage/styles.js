@@ -31,6 +31,10 @@ export const ContainerImage = styled.div`
   justify-content: center;
   align-items: center;
   position: relative;
+
+  @media screen and (max-width: 575px) {
+    padding: 0;
+  }
 `;
 
 export const ModalImage = styled.div`
@@ -44,7 +48,6 @@ export const ModalImage = styled.div`
 
   img {
     object-fit: contain;
-    height: 100%;
     max-height: 95vh;
     max-width: 95vw;
     visibility: hidden;

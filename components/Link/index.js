@@ -9,7 +9,7 @@ export default function Link({ href, children, hash = "" }) {
   } else {
     return (
       <a
-        href={href === "/" ? href : href + ".html" + hash}
+        href={href === "/" ? href : href.replace(".html", "") + ".html" + hash}
         style={{ textDecoration: "none" }}
       >
         {children}

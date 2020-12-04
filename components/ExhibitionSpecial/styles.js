@@ -11,6 +11,8 @@ export const GalleryContainer = styled.div`
     grid-column: 1/-1;
     grid-row: -2/-1;
     height: 70vh;
+    width: 100%;
+    max-width: 100vw;
   }
 
   ${({ invert }) =>

@@ -64,11 +64,11 @@ export const ContainerSection = styled.a`
   :nth-child(6) {
     grid-area: EmptyTh;
   }
-
   @media screen and (max-width: 575px) {
     > div {
       display: initial;
     }
+    border-right: none !important;
   }
 `;
 export const Title = styled.p`
@@ -202,9 +202,14 @@ export const SeeLink = styled.div`
   padding: 15px 20px;
   position: absolute;
   bottom: 0;
+  left: 0;
   font-size: 0.8em;
   display: none;
   text-shadow: none;
+
+  @media screen and (max-width: 575px) {
+    display: initial;
+  }
 `;
 
 export const SeeMore = styled.div`

@@ -39,6 +39,9 @@ export const ContainerTitle = styled.div`
   padding: 20px;
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
+  @media screen and (max-width: 575px) {
+    border-right: none;
+  }
 `;
 export const Title = styled.h1`
   color: ${(props) => props.color};
@@ -58,6 +61,10 @@ export const ContainerContent = styled.div`
   border-right: 1px solid var(--borderColor);
   position: relative;
   overflow-y: auto;
+
+  @media screen and (max-width: 575px) {
+    border-right: none;
+  }
 
   ::-webkit-scrollbar {
     width: 7px;

@@ -34,6 +34,9 @@ export const ImageContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  @media screen and (max-width: 575px) {
+    padding: 0;
+  }
 `;
 export const ModalImage = styled.div`
   max-height: 95vh;

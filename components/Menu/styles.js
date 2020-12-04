@@ -41,7 +41,7 @@ export const Language = styled.div`
   }
 `;
 
-export const Lang = styled.a`
+export const Lang = styled.p`
   padding-top: 8px;
   margin: 0 8px;
   color: black;

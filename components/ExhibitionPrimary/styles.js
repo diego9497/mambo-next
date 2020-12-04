@@ -26,6 +26,9 @@ export const ContainerTitle = styled.div`
   grid-area: title;
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
+  @media screen and (max-width: 575px) {
+    border-right: none;
+  }
 `;
 export const Title = styled.h1`
   padding: 20px;
@@ -47,6 +50,12 @@ export const ContainerImagePrincipal = styled.div`
     width: 100%;
     object-fit: cover;
     display: block;
+  }
+
+  @media screen and (max-width: 575px) {
+    height: 320px;
+    border-bottom: 1px solid var(--borderColor);
+    border-right: none;
   }
 `;
 
@@ -128,6 +137,10 @@ export const ContentSecond = styled.div`
   position: relative;
   overflow-y: auto;
 
+  @media screen and (max-width: 575px) {
+    border-right: none;
+  }
+
   ::-webkit-scrollbar {
     width: 7px;
   }
@@ -171,6 +184,9 @@ export const FirstEmpty = styled.div`
   border-top: 1px solid var(--borderColor);
   border-bottom: 1px solid var(--borderColor);
   border-right: 1px solid var(--borderColor);
+  @media screen and (max-width: 575px) {
+    border: none;
+  }
 `;
 export const SecondEmpty = styled.div`
   grid-area: secondEmpty;
