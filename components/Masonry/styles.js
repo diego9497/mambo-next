@@ -14,7 +14,8 @@ export const Container = styled.div`
 
   @media screen and (max-width: 575px) {
     grid-template-columns: initial;
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: repeat(3, auto);
+    height: initial;
   }
 `;
 
