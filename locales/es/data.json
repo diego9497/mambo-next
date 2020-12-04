@@ -31,7 +31,7 @@
         "audio": "url",
         "img": {
           "src": "mv1/c1.jpg",
-          "alt": "1978. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. Fotografía de Oscar Monsalve."
+          "alt": "Oscar Monsalve. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. 1978. Archivo MAMBO. "
         }
       },
       {
@@ -40,7 +40,7 @@
         "audio": "url",
         "img": {
           "src": "mv1/c2.jpg",
-          "alt": "1981. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. Fotografía de Oscar Monsalve."
+          "alt": "Oscar Monsalve. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. 1981. Archivo MAMBO. "
         }
       },
       {
@@ -49,7 +49,7 @@
         "audio": "url",
         "img": {
           "src": "mv1/c3.jpg",
-          "alt": "1983. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
+          "alt": "Oscar Monsalve. Construcción del tercer piso de la sede actual. 1983. Archivo MAMBO"
         }
       },
       {
@@ -58,7 +58,7 @@
         "audio": "url",
         "img": {
           "src": "mv1/c4.jpg",
-          "alt": "1981. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. Fotografía de Oscar Monsalve."
+          "alt": "Oscar Monsalve. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. 1981. Archivo MAMBO."
         }
       },
       {
@@ -67,7 +67,7 @@
         "audio": "url",
         "img": {
           "src": "mv1/c5.jpg",
-          "alt": "1982. Taller educativo con niños y Daniel Castro. Fotografía de Oscar Monsalve"
+          "alt": "Oscar Monsalve. Taller educativo con niños y Daniel Castro. 1982. Archivo MAMBO."
         }
       },
       {
@@ -76,7 +76,7 @@
         "audio": "url",
         "img": {
           "src": "mv1/c6.jpg",
-          "alt": "1982. Auditorio del Museo de Arte Moderno. Fotografía de Oscar Monsalve."
+          "alt": "Oscar Monsalve. 1982. Auditorio del Museo de Arte Moderno. 1982.  Archivo MAMBO."
         }
       }
     ],
@@ -123,11 +123,11 @@
     },
     "questionImg": {
       "src": "mv1/question.jpg",
-      "alt": "1978. Construcción de la sede actual del Museo. Fotografía de Oscar Monsalve"
+      "alt": "Oscar Monsalve. Construcción de la sede actual del Museo. 1978. Archivo MAMBO."
     },
     "activityImg": {
       "src": "mv1/activity.jpg",
-      "alt": "<strong>Planos del Museo</strong>. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). ",
+      "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). ",
       "audio": "url"
     },
     "knowMore": [
