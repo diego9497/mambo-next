@@ -109,6 +109,9 @@ export const ContainerContent = styled.div`
     display: inline-block;
     line-break: anywhere;
     color: ${({ text }) => text};
+    @media screen and (max-width: 768px) {
+      color: black;
+    }
   }
 `;
 
