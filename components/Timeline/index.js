@@ -25,11 +25,7 @@ function Timeline({ config, timeline }) {
   const tAux = timeline.map((timeline, index) => ({ ...timeline, key: index }));
 
   const handleClick = (key) => {
-    router.push(router.pathname, {
-      query: {
-        id: key,
-      },
-    });
+    router.push(router.pathname + "#" + key);
     setCurrent(key);
     setOpen(true);
   };
@@ -57,9 +53,10 @@ function Timeline({ config, timeline }) {
   }, [current]);
 
   useEffect(() => {
-    if (router.query.id) {
-      setScrollIndex(parseInt(router.query.id));
-      setCurrent(parseInt(router.query.id));
+    const id = parseInt(router.asPath.split("#")[1]);
+    if (id) {
+      setScrollIndex(id);
+      setCurrent(id);
       setOpen(true);
     }
   }, [router.query]);

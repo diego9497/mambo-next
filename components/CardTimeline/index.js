@@ -14,8 +14,7 @@ function CardTimeline({
   const el = useRef(null);
 
   useEffect(() => {
-    if (scrollIndex == index) {
-      console.log("Scroll true", content);
+    if (scrollIndex === index) {
       el.current.scrollIntoView();
     }
   }, [scrollIndex]);
