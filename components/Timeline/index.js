@@ -12,16 +12,24 @@ import {
 import CardTimeline from "../CardTimeline";
 import InfoTimeline from "../InfoTimeline";
 
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
+import { useRouter } from "next/router";
 
 function Timeline({ config, timeline }) {
+  const router = useRouter();
   const [current, setCurrent] = useState(0);
   const [infoCard, setInfoCard] = useState();
   const [open, setOpen] = useState(false);
+  const [scrollIndex, setScrollIndex] = useState(null);
 
   const tAux = timeline.map((timeline, index) => ({ ...timeline, key: index }));
 
   const handleClick = (key) => {
+    router.push(router.pathname, {
+      query: {
+        id: key,
+      },
+    });
     setCurrent(key);
     setOpen(true);
   };
@@ -48,6 +56,14 @@ function Timeline({ config, timeline }) {
     });
   }, [current]);
 
+  useEffect(() => {
+    if (router.query.id) {
+      setScrollIndex(parseInt(router.query.id));
+      setCurrent(parseInt(router.query.id));
+      setOpen(true);
+    }
+  }, [router.query]);
+
   return (
     <Container>
       <ContainerList open={open}>
@@ -62,6 +78,7 @@ function Timeline({ config, timeline }) {
                   <CardTimelineLeft>
                     <CardTimeline
                       key={event.key}
+                      index={event.key}
                       onClick={() => handleClick(event.key)}
                       ubication="right"
                       color={config[`mv${event.id}`].color}
@@ -69,6 +86,7 @@ function Timeline({ config, timeline }) {
                       type={event.type}
                       year={event.year}
                       textColor={config[`mv${event.id}`].text}
+                      scrollIndex={scrollIndex}
                     />
                   </CardTimelineLeft>
                   <ContainerEmpty />
@@ -81,6 +99,7 @@ function Timeline({ config, timeline }) {
                   <CardTimelineRight>
                     <CardTimeline
                       key={event.key}
+                      index={event.key}
                       onClick={() => handleClick(event.key)}
                       ubication="left"
                       color={config[`mv${event.id}`].color}
@@ -88,6 +107,7 @@ function Timeline({ config, timeline }) {
                       type={event.type}
                       year={event.year}
                       textColor={config[`mv${event.id}`].text}
+                      scrollIndex={scrollIndex}
                     />
                   </CardTimelineRight>
                 </>

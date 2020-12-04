@@ -1,15 +1,34 @@
+import { useEffect, useRef } from "react";
 import { ContainerCard, ContainerTitleYear, Title, Year } from "./styles";
 
-function CardTimeline(props) {
+function CardTimeline({
+  scrollIndex,
+  index,
+  content,
+  year,
+  textColor,
+  ubication,
+  onClick,
+  color,
+}) {
+  const el = useRef(null);
+
+  useEffect(() => {
+    if (scrollIndex == index) {
+      console.log("Scroll true", content);
+      el.current.scrollIntoView();
+    }
+  }, [scrollIndex]);
   return (
     <ContainerCard
-      onClick={props.onClick}
-      pointUbication={props.ubication}
-      color={props.color}
+      ref={el}
+      onClick={onClick}
+      pointUbication={ubication}
+      color={color}
     >
       <ContainerTitleYear>
-        <Title text={props.textColor}>{props.content}</Title>
-        <Year text={props.textColor}>{props.year}</Year>
+        <Title text={textColor}>{content}</Title>
+        <Year text={textColor}>{year}</Year>
       </ContainerTitleYear>
     </ContainerCard>
   );
