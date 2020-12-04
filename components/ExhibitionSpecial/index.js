@@ -33,6 +33,7 @@ import {
   ReferencesHeader,
   CloseButton,
   ReferenceContent,
+  Text,
 } from "../KnowMore/styles";
 
 import { GalleryContainer } from "./styles";
@@ -52,6 +53,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
     here,
     withPrimary,
     description,
+    knowMore,
     title,
     references,
   } = exhibition;
@@ -136,41 +138,53 @@ export default function ExhibitionSpecial({ exhibition, config }) {
             <Subtitle>{config.references}</Subtitle>
             <SeeMore>{config.seeMore}</SeeMore>
           </ContainerSection>
-          <ContainerSection text={text}>
+          <ContainerSection text={text} href={knowMore[0].url} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[0].gallery[0].src}
                 alt={content[0].gallery[0].alt}
               />
             </ImageBgContainer>
-            <ContainerInfo color={color}></ContainerInfo>
+            <ContainerInfo color={color}>
+              <Text>{knowMore[0].title}</Text>
+              <SeeLink color={color}>{config.seeLink}</SeeLink>
+            </ContainerInfo>
           </ContainerSection>
-          <ContainerSection text={text}>
+          <ContainerSection text={text} href={knowMore[1].url} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[1].gallery[0].src}
                 alt={content[1].gallery[0].alt}
               />
             </ImageBgContainer>
-            <ContainerInfo color={color}></ContainerInfo>
+            <ContainerInfo color={color}>
+              <Text>{knowMore[1].title}</Text>
+              <SeeLink color={color}>{config.seeLink}</SeeLink>
+            </ContainerInfo>
           </ContainerSection>
-          <ContainerSection text={text}>
+          <ContainerSection text={text} href={knowMore[2].url} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[2].gallery[0].src}
                 alt={content[2].gallery[0].alt}
               />
             </ImageBgContainer>
-            <ContainerInfo color={color}></ContainerInfo>
+            <ContainerInfo color={color}>
+              <Text>{knowMore[2].title}</Text>
+              <SeeLink color={color}>{config.seeLink}</SeeLink>
+            </ContainerInfo>
           </ContainerSection>
-          <ContainerSection text={text}>
+          <ContainerSection text={text} href={knowMore[3].url} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[4].gallery[0].src}
                 alt={content[4].gallery[0].alt}
               />
             </ImageBgContainer>
-            <ContainerInfo color={color}></ContainerInfo>
+            <ContainerInfo color={color}>
+              <Text>{knowMore[3].title}</Text>
+              <SeeLink color={color}>{config.seeLink}</SeeLink>
+            </ContainerInfo>
           </ContainerSection>
           {open && (
             <ReferenceContainer color={color} text={text}>

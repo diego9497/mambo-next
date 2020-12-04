@@ -66,7 +66,7 @@ export const ContainerSection = styled.a`
   }
   @media screen and (max-width: 575px) {
     > div {
-      display: initial;
+      display: flex;
     }
     border-right: none !important;
   }
@@ -85,15 +85,14 @@ export const ContainerInfo = styled.div`
   bottom: 0;
   width: 100%;
   height: 100%;
-  padding: 20px 20px 40px 20px;
+  padding: 20px 20px 57px 20px;
   background: ${(props) => props.color}77;
   display: flex;
-  justify-content: center;
-  align-items: center;
   color: ${({ text }) => text};
   font-size: 1.5em;
   text-shadow: 1px 1px 3px
     ${({ text }) => (text === "white" ? "black" : "white")};
+  align-items: flex-end;
 
   :hover {
     div {
