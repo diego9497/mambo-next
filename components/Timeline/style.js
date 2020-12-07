@@ -105,3 +105,92 @@ export const CardTimelineRight = styled.div`
   padding-right: 10px;
   background: white;
 `;
+
+export const Filters = styled.div`
+  position: fixed;
+  top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  z-index: 9;
+  @media screen and (max-width: 575px) {
+    align-items: flex-end;
+    right: 0;
+    top: 65px;
+  }
+`;
+
+export const FilterOptions = styled.div`
+  padding: 7px 15px;
+  transform: ${({ open }) => (open ? "translateX(0)" : "translateX(-100%)")};
+  transition: all 0.3s ease;
+  background: white;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 0px 9px 15px #00000012;
+
+  > div {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    cursor: pointer;
+
+    p {
+      line-height: 1;
+      margin-top: 6px;
+      margin-left: 5px;
+    }
+  }
+  @media screen and (max-width: 575px) {
+    border-radius: 5px 0 0 5px;
+    transform: ${({ open }) => (open ? "translateX(0)" : "translateX(100%)")};
+  }
+`;
+
+export const Check = styled.div`
+  height: 20px;
+  width: 20px;
+  border-radius: 3px;
+  border: 1px solid ${({ color }) => color};
+  background: ${({ color }) => color};
+  position: relative;
+  cursor: pointer;
+
+  ::before {
+    content: "";
+    height: 5px;
+    width: 10px;
+    position: absolute;
+    top: 3px;
+    left: 2px;
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+    transform: rotate(-45deg);
+    display: none;
+    ${({ check }) => check && `display: initial`}
+  }
+`;
+
+export const ShowAll = styled.p`
+  font-weight: 500;
+  font-size: 1.05em;
+  margin-left: 0 !important;
+  color: #335fd7;
+`;
+
+export const FilterModal = styled.div`
+  border-left: 0;
+  border-radius: 0 5px 5px 0;
+  padding: 5px 15px;
+  box-shadow: 0px 9px 15px #00000012;
+  cursor: pointer;
+  background: white;
+
+  p {
+    line-height: 1;
+    margin-top: 3px;
+  }
+
+  @media screen and (max-width: 575px) {
+    border-radius: 5px 0 0 5px;
+  }
+`;

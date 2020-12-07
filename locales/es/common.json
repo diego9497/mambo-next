@@ -89,12 +89,15 @@
   },
   "mv10": {
     "text": "white",
-    "color": "#9B9B9B"
+    "color": "#9B9B9B",
+    "title": "Otros"
   },
   "archive": "Archivo del MAMBO",
   "more": "Conoce más",
   "games": "Juegos",
   "references": "Referencias",
   "seeMore": "Ver más",
-  "seeLink": "Ver link"
+  "seeLink": "Ver link",
+  "showAll": "Mostrar todos",
+  "filters": "Filtros"
 }
