@@ -97,9 +97,9 @@ export const ContainerInfo = styled.div`
   display: flex;
   color: ${({ text }) => text};
   font-size: 1.1em;
-  text-shadow: 1px 1px 3px
-    ${({ text }) => (text === "white" ? "black" : "white")};
+  /* text-shadow: 1px 1px 3px */
   align-items: flex-end;
+  ${({ text }) => (text === "white" ? "black" : "white")};
 
   :hover {
     div {

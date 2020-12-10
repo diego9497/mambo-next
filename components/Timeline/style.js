@@ -121,13 +121,13 @@ export const Filters = styled.div`
 `;
 
 export const FilterOptions = styled.div`
+  transform: translateX(-100%);
   padding: 7px 15px;
-  transform: ${({ open }) => (open ? "translateX(0)" : "translateX(-100%)")};
-  transition: all 0.3s ease;
+  animation: open 0.3s ease forwards;
   background: white;
   border-radius: 0 5px 5px 0;
-  /* box-shadow: 0px 9px 15px #00000012; */
   border: 1px solid black;
+  display: ${({ open }) => (open ? "initial" : "none")};
 
   > div {
     display: flex;
@@ -143,9 +143,27 @@ export const FilterOptions = styled.div`
   }
   @media screen and (max-width: 768px) {
     border-radius: 5px 0 0 5px;
-    transform: ${({ open }) => (open ? "translateX(0)" : "translateX(100%)")};
     border-left: 1px solid black;
     border-right: none;
+    transform: translateX(100%);
+    animation: openMobile 0.3s ease forwards;
+  }
+
+  @keyframes open {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  @keyframes openMobile {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
   }
 `;
 
