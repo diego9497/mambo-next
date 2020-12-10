@@ -77,6 +77,7 @@ export const Options = styled.ul`
 export const OptionContent = styled.span`
   color: black;
   text-decoration: none;
+  text-transform: uppercase;
   height: 100%;
   display: flex;
   align-items: center;
