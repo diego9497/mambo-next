@@ -73,9 +73,11 @@ function Timeline({ config, timeline }) {
   };
 
   const handleNext = () => {
+    router.push(`${router.pathname}#${current + 1}`);
     setCurrent(current + 1);
   };
   const handlePrev = () => {
+    router.push(`${router.pathname}#${current - 1}`);
     setCurrent(current - 1);
   };
 
@@ -104,7 +106,7 @@ function Timeline({ config, timeline }) {
       <ContainerList>
         <ContainerHeaderTimeline color={config.mv1.color}>
           <TextHeaderTimeline>
-            {config.timeline}: {config.subtime}
+            {config.timeline.toUpperCase()} {config.subtime}
           </TextHeaderTimeline>
         </ContainerHeaderTimeline>
         <Filters>

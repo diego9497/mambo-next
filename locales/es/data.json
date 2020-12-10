@@ -97,23 +97,23 @@
     "gallery": [
       {
         "src": "mv1/g1.jpg",
-        "alt": "1965. Fachada del Museo de Arte Moderno, sede Universidad Nacional de Colombia. Fotografía de Efraín García.jpg"
+        "alt": "Efraín García. Fachada del Museo de Arte Moderno, sede Universidad Nacional de Colombia. 1965. Archivo MAMBO. "
       },
       {
         "src": "mv1/g2.jpg",
-        "alt": "1979. Valla 'Museo de Arte Moderno 25 años después'. Fotografía de Oscar Monsalve."
+        "alt": "Oscar Monsalve. Valla 'Museo de Arte Moderno 25 años después'. 1979. Archivo MAM"
       },
       {
         "src": "mv1/g3.jpg",
-        "alt": "1982. Construcción del tercer piso de la sede actual. Fotografía de Oscar Monsalve."
+        "alt": "Oscar Monsalve. Construcción del tercer piso de la sede actual. 1982. Archivo MAMBO"
       },
       {
         "src": "mv1/g4.jpg",
-        "alt": "1976. Santiago Cárdenas, sede del Planetario Distrital. Fotografía de Oscar Monsalve."
+        "alt": "Oscar Monsalve. Santiago Cárdenas, sede del Planetario Distrital.1976.  Archivo "
       },
       {
         "src": "mv1/g5.jpg",
-        "alt": "1976. Ana Mercedes Hoyos, Eduardo Serrano y John Stringer durante montaje en la sede del Planetario Distrital. Fotografía de Oscar Monsalve."
+        "alt": "Oscar Monsalve. Ana Mercedes Hoyos, Eduardo Serrano y John Stringer durante montaje en la sede del Planetario Distrital. 1976. Archivo MAMBO."
       }
     ],
     "didYouKnowImg": {
@@ -136,7 +136,7 @@
         "link": "https://www.youtube.com/watch?v=DfxT_lg-DUA"
       },
       {
-        "title": "Museos y educación.",
+        "title": "Museos y educación",
         "link": "https://evemuseografia.com/2014/05/14/museos-y-educacion/"
       },
       {
@@ -502,7 +502,7 @@
     ],
     "img1": {
       "src": "mv5/1.jpg",
-      "alt": "Cildo Meireles.<a href='https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw' target='blank'>Zero cruzeiro.</a> 1974. Litografía. Fuente: Colección MAMBO. ",
+      "alt": "Cildo Meireles.<a href='https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw' target='blank'>Zero cruzeiro.</a> 1974. Fuente: Colección MAMBO. ",
       "caption": "<a href='http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm' target='blank'>Cildo Meireles</a> (Rio de Janeiro, Brasil, 1948) es un reconocido artista por sus aportes al arte conceptual latinoamericano mediante obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericanos. En esta serie que vemos él recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. ",
       "audio": "url"
     },
@@ -646,6 +646,10 @@
     "questionImg": {
       "src": "mv6/question.jpg",
       "alt": "Carlos Echeverry. El que siembra recoge, 1982. Impresión. Fuente: Colección MAMBO. "
+    },
+    "didYouKnowImg": {
+      "src": "mv6/c3.jpg",
+      "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
     },
     "knowMore": [
       {
@@ -801,7 +805,7 @@
         "link": "https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama"
       },
       {
-        "title": "Arte Interactivo. Consultado el 20 de junio del 2020",
+        "title": "Arte Interactivo",
         "link": "https://www.hisour.com/es/interactive-art-21343/"
       },
       {
@@ -938,7 +942,7 @@
         "link": "https://cerosetenta.uniandes.edu.co/carlos-caicedo-el-fotografo-del-instante/"
       },
       {
-        "title": "Bernardo Salcedo: Cómo hacer las cosas con palabras.",
+        "title": "Bernardo Salcedo: Cómo hacer las cosas con palabras",
         "link": "https://artishockrevista.com/2017/02/21/bernardo-salcedo-las-cosas-palabras/ "
       },
       {
@@ -946,7 +950,7 @@
         "link": "http://www.museonacional.gov.co/noticias/Paginas/inaugura%20la%20exposicio%CC%81n%20Espacios%20Ambientales%20en%20el%20Museo%20de%20Arte%20Moderno.aspx"
       },
       {
-        "title": "La Constitución de 1991: 25 años de un proyecto humanista y democrático por José Gregorio Hernández.",
+        "title": "La Constitución de 1991: 25 años de un proyecto humanista y democrático por José Gregorio Hernández",
         "link": "https://razonpublica.com/la-constitucion-de-1991-25-anos-de-un-proyecto-humanista-y-democratico/"
       }
     ],

@@ -30,15 +30,9 @@ export default function MapPage({ config, locations }) {
     setCenter([51.505, -0.09]);
   };
 
-  const handleOpen = (location) => {
+  const handleOpen = (index) => {
     setOpen(true);
-    setDetailInfo({
-      ...location,
-      color: config[`mv${location.id}`].color,
-      text: config[`mv${location.id}`].text,
-      topic: config[`mv${location.id}`].title,
-    });
-    setCenter(location.location);
+    setCurrent(index);
     setZoom(15);
   };
 
@@ -52,10 +46,10 @@ export default function MapPage({ config, locations }) {
   };
 
   const handleNext = () => {
-    setCurrent(current + 1);
+    setCurrent((state) => state + 1);
   };
   const handlePrev = () => {
-    setCurrent(current - 1);
+    setCurrent((state) => state - 1);
   };
 
   useEffect(() => {
@@ -78,7 +72,7 @@ export default function MapPage({ config, locations }) {
           {locations.map((location, index) => (
             <ListItem
               color={config[`mv${location.id}`].color}
-              onClick={() => handleOpen(location)}
+              onClick={() => handleOpen(index)}
               text={config[`mv${location.id}`].text}
             >
               <MapIcon />
@@ -90,7 +84,7 @@ export default function MapPage({ config, locations }) {
       <ContainerMap>
         <HeaderMap color={config.mv1.color}>
           <span>
-            {config.map}: {config.submap}
+            {config.map.toUpperCase()} {config.submap}
           </span>
           <HeaderMapIconContainer onClick={handleClickList}>
             {openList ? <Close /> : <MenuIcon />}
