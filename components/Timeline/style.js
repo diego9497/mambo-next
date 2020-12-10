@@ -17,10 +17,10 @@ export const ContainerList = styled.div`
     width: 7px;
   }
   ::-webkit-scrollbar-track {
-    background: rgba(80, 21, 21, 0.2);
+    background: rgba(0, 0, 0, 0.2);
   }
   ::-webkit-scrollbar-thumb {
-    background: rgba(175, 175, 175, 0.3);
+    background: rgba(0, 0, 0, 0.3);
     border-radius: 4px;
   }
 
@@ -113,10 +113,10 @@ export const Filters = styled.div`
   flex-direction: column;
   align-items: baseline;
   z-index: 9;
-  @media screen and (max-width: 575px) {
+  @media screen and (max-width: 768px) {
     align-items: flex-end;
     right: 0;
-    top: 65px;
+    top: 115px;
   }
 `;
 
@@ -126,7 +126,8 @@ export const FilterOptions = styled.div`
   transition: all 0.3s ease;
   background: white;
   border-radius: 0 5px 5px 0;
-  box-shadow: 0px 9px 15px #00000012;
+  /* box-shadow: 0px 9px 15px #00000012; */
+  border: 1px solid black;
 
   > div {
     display: flex;
@@ -140,9 +141,11 @@ export const FilterOptions = styled.div`
       margin-left: 5px;
     }
   }
-  @media screen and (max-width: 575px) {
+  @media screen and (max-width: 768px) {
     border-radius: 5px 0 0 5px;
     transform: ${({ open }) => (open ? "translateX(0)" : "translateX(100%)")};
+    border-left: 1px solid black;
+    border-right: none;
   }
 `;
 
@@ -174,23 +177,27 @@ export const ShowAll = styled.p`
   font-weight: 500;
   font-size: 1.05em;
   margin-left: 0 !important;
-  color: #335fd7;
 `;
 
 export const FilterModal = styled.div`
   border-left: 0;
   border-radius: 0 5px 5px 0;
   padding: 5px 15px;
-  box-shadow: 0px 9px 15px #00000012;
+  /* box-shadow: 0px 9px 15px #00000012; */
+  border: 1px solid black;
+  border-left: none;
   cursor: pointer;
   background: white;
 
   p {
     line-height: 1;
     margin-top: 3px;
+    text-transform: uppercase;
   }
 
-  @media screen and (max-width: 575px) {
+  @media screen and (max-width: 768px) {
     border-radius: 5px 0 0 5px;
+    border-left: 1px solid black;
+    border-right: none;
   }
 `;

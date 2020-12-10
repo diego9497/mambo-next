@@ -89,7 +89,9 @@ export default function MapPage({ config, locations }) {
       </ContainerList>
       <ContainerMap>
         <HeaderMap color={config.mv1.color}>
-          <span>{config.map}</span>
+          <span>
+            {config.map}: {config.submap}
+          </span>
           <HeaderMapIconContainer onClick={handleClickList}>
             {openList ? <Close /> : <MenuIcon />}
           </HeaderMapIconContainer>

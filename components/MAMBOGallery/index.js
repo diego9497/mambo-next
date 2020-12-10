@@ -30,6 +30,7 @@ export default function MAMBOGallery({
   animation = false,
 }) {
   const [open, setOpen] = useState(false);
+  const [hover, setHover] = useState(false);
   const [current, setCurrent] = useState(index);
 
   const openModal = () => {
@@ -63,6 +64,23 @@ export default function MAMBOGallery({
     let childElement = e.target.querySelector("div");
     if (childElement?.getAttribute("src")) {
       setOpen(false);
+    }
+  };
+
+  const removeHover = () => {
+    if (window.innerWidth < 576) {
+      setHover(!hover);
+    }
+  };
+
+  const onMouseOver = () => {
+    if (window.innerWidth > 576) {
+      setHover(true);
+    }
+  };
+  const onMouseLeave = () => {
+    if (window.innerWidth > 576) {
+      setHover(false);
     }
   };
 
@@ -106,6 +124,10 @@ export default function MAMBOGallery({
                         ? `/image/${img.src}`
                         : `/image/optimizado/${img.src}`
                     }
+                    hover={hover}
+                    onMouseOver={onMouseOver}
+                    onMouseLeave={onMouseLeave}
+                    onClick={removeHover}
                   >
                     <img
                       src={

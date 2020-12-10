@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Image = styled.img`
   height: 100%;
@@ -52,10 +52,22 @@ export const ModalImage = styled.div`
     max-width: 95vw;
     visibility: hidden;
   }
-  :hover {
-    > p {
-      display: initial;
+
+  @media screen and (min-width: 576px) {
+    :hover {
+      > p {
+        display: initial;
+      }
     }
+  }
+  @media screen and (max-width: 575px) {
+    ${({ hover }) =>
+      hover &&
+      css`
+        > p {
+          display: initial;
+        }
+      `}
   }
 `;
 

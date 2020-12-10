@@ -137,7 +137,7 @@ export const HeaderMap = styled.div`
 
 export const HeaderMapIconContainer = styled.div`
   height: 34px;
-  width: 34px;
+  min-width: 34px;
   border-radius: 50%;
   display: flex;
   align-items: center;

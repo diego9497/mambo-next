@@ -38,6 +38,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     img1,
     img2,
     img3,
+    gallery,
   } = exhibition;
 
   const [numberOfSlides, setNumberOfSlides] = useState(3);
@@ -106,6 +107,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
   }, [width]);
 
   let generatedGallery = [
+    ...gallery,
     ...keyConcepts.map(({ img }) => img),
     img1,
     img2,

@@ -103,16 +103,15 @@ function Timeline({ config, timeline }) {
     <Container>
       <ContainerList>
         <ContainerHeaderTimeline color={config.mv1.color}>
-          <TextHeaderTimeline>{config.timeline}</TextHeaderTimeline>
+          <TextHeaderTimeline>
+            {config.timeline}: {config.subtime}
+          </TextHeaderTimeline>
         </ContainerHeaderTimeline>
         <Filters>
           <FilterModal onClick={handleOpenFilters}>
             <p>{config.filters}</p>
           </FilterModal>
           <FilterOptions open={filtersOpen}>
-            <div onClick={handleAllFilters}>
-              <ShowAll>{config.showAll}</ShowAll>
-            </div>
             <div onClick={() => handleFilter(1)}>
               <Check color={config.mv1.color} check={filters.includes(1)} />
               <p>{config.mv1.title}</p>
@@ -148,6 +147,9 @@ function Timeline({ config, timeline }) {
             <div onClick={() => handleFilter(10)}>
               <Check color={config.mv10.color} check={filters.includes(10)} />
               <p>{config.mv10.title}</p>
+            </div>
+            <div onClick={handleAllFilters}>
+              <ShowAll>{config.showAll}</ShowAll>
             </div>
           </FilterOptions>
         </Filters>

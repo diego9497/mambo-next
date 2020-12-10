@@ -39,7 +39,7 @@ export default function Gallery({ gallery }) {
       <GallerySlide current={current}>
         {gallery.map((img, index) => (
           <SlideContainer key={index}>
-            <MAMBOGallery gallery={gallery} index={index} fit={"contain"} />
+            <MAMBOGallery gallery={gallery} index={index} />
           </SlideContainer>
         ))}
       </GallerySlide>

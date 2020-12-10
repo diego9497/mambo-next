@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Museo de Arte Moderno de Bogotá",
-    "description": "Museo de Arte Moderno de Bogota. Sede actual en el centro de la ciudad. \n Instagram: @mambogota\n Facebook: @fanmambogota\n Twitter: @_mambogota\n YouTube: Museo de Arte Moderno de Bogotá",
+    "description": "Museo de Arte Moderno de Bogota. Sede actual en el centro de la ciudad. \n Instagram: @mambogota\n Facebook: @fanmambogota\n Twitter: @_mambogota\n YouTube: Museo de Arte Moderno de Bogotá\n<a target='_blank' href='https://www.mambogota.com/'>Ver link</a>",
     "location": [
       4.610238600000005,
       -74.0692515
@@ -294,7 +294,7 @@
   {
     "id": 8,
     "name": "Huila (Colombia)",
-    "description": "Lugar de nacimiento de Carlos salas. <a rel='nofollow' target='_blank' href='https://www.eltiempo.com/bocas/carlos-salas-entrevista-revista-bocas-299032'>Ver link</a>",
+    "description": "Lugar de nacimiento de Carlos Salas. <a rel='nofollow' target='_blank' href='https://www.eltiempo.com/bocas/carlos-salas-entrevista-revista-bocas-299032'>Ver link</a>",
     "location": [
       2.535934900000005,
       -75.52766990000002
@@ -303,7 +303,7 @@
   {
     "id": 8,
     "name": "Museo de Arte Moderno de Medellín (Colombia)",
-    "description": "'Tan solo un año después de inaugurar su sede, el Museo realizó en mayo de 1981 el Primer Coloquio Latinoamericano de Arte No Objetual y Arte Urbano. Críticos y académicos debatieron durante cuatro días sobre el no-objetualismo'\n<a rel='nofollow' target='_blank' href='https://www.elmamm.org/I-Coloquio-de-Arte-No-Objetual'>Ver link</a>",
+    "description": "Tan solo un año después de inaugurar su sede, el Museo realizó en mayo de 1981 el Primer Coloquio Latinoamericano de Arte No Objetual y Arte Urbano. Críticos y académicos debatieron durante cuatro días sobre el no-objetualismo\n<a rel='nofollow' target='_blank' href='https://www.elmamm.org/I-Coloquio-de-Arte-No-Objetual'>Ver link</a>",
     "location": [
       6.223506899999996,
       -75.5741653
@@ -311,7 +311,7 @@
   },
   {
     "id": 8,
-    "name": "Tome (Chile)",
+    "name": "Tomé (Chile)",
     "description": "Maria Opazo (Tomé, Chile - 1969) emigró como consecuencia de la dictadura hacia Colombia, donde ha recibido varios premios por su labor artística. Su obra incluye instalaciones, videos, performances y dibujos, con los que crea obras poéticas como actos de resistencia que aluden a la memoria y el desplazamiento. En esta acción realizada en una playa del Magdalena Medio se evidencia su interés performativo en el video. \n<a rel='nofollow' target='_blank' href='https://www.utadeo.edu.co/es/comunidad/artes-plasticas/42/mario-opazo'>Ver link</a>",
     "location": [
       -36.613156199999985,
@@ -361,15 +361,6 @@
     "location": [
       21.027764399999995,
       105.83415980000001
-    ]
-  },
-  {
-    "id": 10,
-    "name": "La Higuera (Bolivia)",
-    "description": "En este lugar fue capturado y ejecutado el 9 de octubre de 1967, Ernesto 'el Che' Guevara, uno de los íconos revolucionarios latinoamericanos mas importantes.<a rel='nofollow' target='_blank' href='https://www.youtube.com/watch?v=fkDrMOUa2Us'>Ver link</a>",
-    "location": [
-      -18.794764999999988,
-      -64.2014337
     ]
   }
 ]

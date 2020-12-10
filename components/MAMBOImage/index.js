@@ -27,6 +27,7 @@ export default function MAMBOImage({
   loading = "lazy",
 }) {
   const [open, setOpen] = useState(false);
+  const [hover, setHover] = useState(false);
   const imageModal = useRef(null);
 
   const openModal = () => {
@@ -42,6 +43,22 @@ export default function MAMBOImage({
     }
   };
 
+  const removeHover = () => {
+    if (window.innerWidth < 576) {
+      setHover(!hover);
+    }
+  };
+
+  const onMouseOver = () => {
+    if (window.innerWidth > 576) {
+      setHover(true);
+    }
+  };
+  const onMouseLeave = () => {
+    if (window.innerWidth > 576) {
+      setHover(false);
+    }
+  };
   return (
     <>
       <ImageContainer>
@@ -64,6 +81,10 @@ export default function MAMBOImage({
                 src={
                   process.env.SPA ? `/image/${src}` : `/image/optimizado/${src}`
                 }
+                hover={hover}
+                onMouseOver={onMouseOver}
+                onMouseLeave={onMouseLeave}
+                onClick={removeHover}
               >
                 <img
                   src={

@@ -535,7 +535,13 @@
       "Why do you think artists engage in disruptive artworks and activities? ",
       " Which struggles of the 60s and 70s are still relevant today, and why?"
     ],
-    "gallery": [],
+    "gallery": [
+      {
+        "src": "mv6/g1.jpg",
+        "alt": "Bernardo Salcedo. What Dante did not know, Beatriz loved birth control. 1966. Source: MAMBO Collection",
+        "caption": "<a href='https://www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-111/lo-que-dante-nunca-supo-bernardo-salcedo' target='blank'> Bernardo Salcedo (Bogotá, Colombia, 1939-2007) </a> was one of the pioneers of conceptual art in Colombia. He worked combining elements of painting, writing, and sculpture to generate questions about the socio-historical context. This work arises as a tribute to the life of Dante Alighieri and his muse Beatriz Portinari, with whom he never consummated his love. This work was awarded for reflecting the new proposals of conceptual art with the use of minimalist volumes and irony in his name. "
+      }
+    ],
     "proposal": "This section proposes to reflect on the relationship between 60s and 70s Counterculture and new forms of artistic expression in Colombia.",
     "keyConcepts": [
       {
@@ -634,7 +640,18 @@
       "How does technology affect our relationship with the world around us? ",
       "What opportunities are offered by works involving the spectator? "
     ],
-    "gallery": [],
+    "gallery": [
+      {
+        "src": "mv7/g1.jpg",
+        "alt": "Kara Walker. A subtlety. 2014. Source: <a href = 'https: //commons.wikimedia.org/wiki/File: Kara_Walker_Sculpture_exhibition._Brooklyn_ (2014) _-_ 2.jpg' target = '_ blank '> Wikimedia Commons </a> under the <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' target='_blank'> license CC BY - SA 3.0. </ a> ",
+        "caption": "<a href='https://nodisparenalartista.wordpress.com/2012/09/28/kara-walker/' target='_blank'> Kara Walker </a> (Stockton, United States, 1969 ) is an Afro artist who has dabbled in drawing, collage, installation and film since the 1960s. Her work is set in the pre-American civil war era, she uses characters built with silhouettes, questions notions of race, gender and identity. This work made with sugar known as “sugar mammy” is a reflection on racism and colonization. "
+      },
+      {
+        "src": "mv7/g2.jpg",
+        "alt": "<a href='https://www.youtube.com/watch?v=traUaknfR5o' target='_blank'> Marina Abramovic. The artist is present. 2010 </a>. Source: <a href = 'https: //commons.wikimedia.org/wiki/File: ArtistIsPresent.jpg' target = '_ blank'> Wikimedia Commons </a> under the <a href = 'https: //creativecommons.org/licenses/ by-sa / 3.0 / deed.en 'target =' _ blank '> CC BY-SA 3.0 license. </a> ",
+        "caption": "<a href='https://www.alejandradeargos.com/index.php/es/completas/32-artistas/41444-marina-abramovic-biografia-obra-exposiciones' target='_blank'> Marina Abramovic </a> (Belgrade, Serbia, 1946) is an artist known for being a forerunner of performance, and throughout her life she proposed different artistic actions that tended to involve the public, questioning the limits between art and life. This work proposes a very simple action: look into the viewer's eyes for as long as he or she decides. This performance invites the public to participate through silence and gaze, creating an intimate and deep space in the museum. "
+      }
+    ],
     "proposal": "This section proposes to reflect on transdisciplinarity in art, use of technology and the possibilities of spectator interaction.",
     "keyConcepts": [
       {
@@ -763,7 +780,18 @@
       " What topics will you explore in your own art?",
       " How can art help bring about an end to stereotypes and discrimination? "
     ],
-    "gallery": [],
+    "gallery": [
+      {
+        "src": "mv8/g1.jpg",
+        "alt": "Catalina Mejía. Roses and thorns. 2011. Mixed on canvas. Source: MAMBO Collection.",
+        "caption": "<a target='_blank' href='http://www.artnet.com/artists/catalina-mej%C3%ADa/biography'> Catalina Mejía </a> (Bogotá, Colombia, 1962 ) is a representative artist of contemporary painting in Colombia. She has experimented with collage, proposing enigmatic images with nostalgic atmospheres through the use of light. This work shows the simplicity and sensitivity of the artist, between the figurative and the Abstract gives us a deep and dramatic feeling. "
+      },
+      {
+        "src": "mv8/g2.jpg",
+        "alt": "Juan Manuel Echavarría. Requiem NN. 2006-2015. Source: MAMBO Collection.",
+        "caption": "<a target='_blank' href='https://jmechavarria.com/es/work/requiem-nn/'> Juan Manuel Echavarría </a> (Medellín, Colombia, 1947) is an artist who has been exploring the different territories of the country in search of the trace of the armed conflict since the 1990s, through photography and video recording scenes where acts of violence occurred to preserve his memory and generate a poetic view of reality. This work consists of photographs of the tombstones of a cemetery on the banks of the Magdalena River where the bodies of the NN dumped downstream have been buried. "
+      }
+    ],
     "proposal": "This section proposes to reflect on the forms of expression used in contemporary art and the role played by contemporary artists in Colombia.",
     "keyConcepts": [
       {

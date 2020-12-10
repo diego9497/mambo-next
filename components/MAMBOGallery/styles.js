@@ -55,10 +55,21 @@ export const ModalImage = styled.div`
     visibility: hidden;
   }
 
-  :hover {
-    > p {
-      display: initial;
+  @media screen and (min-width: 576px) {
+    :hover {
+      > p {
+        display: initial;
+      }
     }
+  }
+  @media screen and (max-width: 575px) {
+    ${({ hover }) =>
+      hover &&
+      css`
+        > p {
+          display: initial;
+        }
+      `}
   }
 `;
 

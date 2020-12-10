@@ -32,8 +32,7 @@ export const ContainerTitleYear = styled.div`
 export const Title = styled.p`
   font-size: 0.85em;
   line-height: 1;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: 500;
   color: ${({ text }) => (text ? text : "white")};
   hyphens: auto;
 `;

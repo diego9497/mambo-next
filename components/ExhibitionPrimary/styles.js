@@ -99,16 +99,12 @@ export const TextContentHistory = styled.p`
 
   p {
     span {
-      font-weight: 500;
     }
     a {
-      font-weight: 500;
-      color: inherit;
-      text-decoration: none;
+      text-decoration: underline;
     }
     small {
       font-size: 1em;
-      font-weight: 500;
     }
   }
 `;

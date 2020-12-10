@@ -28,11 +28,7 @@
     "title": "fundación de la escuela de bellas artes en Paris",
     "year": "1797",
     "description": "En esta escuela se forjó el academicismo contra el cual se rebelarían las vanguardias.",
-    "type": "image",
-    "image": {
-      "src": "mv3/did_you_know.jpg",
-      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
-    }
+    "type": "image"
   },
   {
     "id": 3,
@@ -40,7 +36,11 @@
     "year": "1836",
     "description": "Daguerre crea lo que es considerado la primera fotografía. La fotografía trajó importantes cambios en la cultura visual e impulsó a los artistas modernos a plasmar su visión personal más alla de la representación fiel de la realidad.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?time_continue=2&v=ixDuIxQuTeQ&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?time_continue=2&v=ixDuIxQuTeQ&feature=emb_logo",
+    "image": {
+      "src": "mv3/did_you_know.jpg",
+      "alt": "Nicéphore Niépce, sin título. 1826. Fuente: Wikimedia Commons bajo dominio público. "
+    }
   },
   {
     "id": 3,
@@ -356,12 +356,12 @@
     "id": 1,
     "title": "FUNDACIÓN DEL MUSEO DE ARTE MODERNO",
     "year": "1955",
-    "description": "Aunque el museo se funda en este año, inicia sus labores en 1963 bajo la dirección de Marta Traba. Conoce la historia del museo en:",
+    "description": "Aunque el museo se funda en este año, inicia sus labores en 1963 bajo la dirección de Marta Traba. <a href='www.mambogota.com ' target='_blank'>Ver link</a>",
     "type": "image",
-    "url": "https://www.mambogota.com/el-museo/#historia",
+    "url": "https://www.mambogota.com/",
     "image": {
       "src": "mv1/did_you_know.jpg",
-      "alt": "Instagram: @mambogota </br>Facebook: @fanmambogota</br>Twitter: @_mambogota</br>YouTube: Museo de Arte Moderno de Bogotá"
+      "alt": "Instagram: @mambogota </br>Facebook: @fanmambogota</br>Twitter: @_mambogota</br>YouTube: Museo de Arte Moderno de Bogotá\n"
     }
   },
   {
@@ -387,7 +387,7 @@
     "type": "image",
     "image": {
       "alt": "Miguel Ángel Rojas. Grano, el túnel del tiempo. 2018. Reconstrucción que se presentó en la Sala de Proyectos en 1981. Polvo de carbón, piedras y arena. Fuente: Colección MAMBO.",
-      "caption": "<a href='' target='blank'>Miguel Ángel Rojas</a> (Bogotá, Colombia, 1946) es uno de los artistas más importantes del país. La observación de la arquitectura de los siglos XIX y XX ha sido una de las fuentes de inspiración de su trabajo. En esta instalación el artista reconstruye mediante carbón y arena las baldosas de cemento del piso de la casa de sus abuelos en Girardot, lugar donde vivió su infancia. La instalación habla de la sutileza de la memoria a través del material que se desvanece a lo largo de la exposición.",
+      "caption": "< href='' target='blank'>Miguel Ángel Rojas</> (Bogotá, Colombia, 1946) es uno de los artistas más importantes del país. La observación de la arquitectura de los siglos XIX y XX ha sido una de las fuentes de inspiración de su trabajo. En esta instalación el artista reconstruye mediante carbón y arena las baldosas de cemento del piso de la casa de sus abuelos en Girardot, lugar donde vivió su infancia. La instalación habla de la sutileza de la memoria a través del material que se desvanece a lo largo de la exposición.",
       "src": "mv9/5g1.jpg"
     }
   },
@@ -549,7 +549,7 @@
   },
   {
     "id": 8,
-    "title": "EXPOSICIÓN ESPACIO AMBIENTALES EN EL MAMBO",
+    "title": "exposición espacios ambientales en el mambo",
     "year": "1968",
     "description": "Marcó el inicio de la instalación en el país al ser una de las primeras muestras en integrar el espacio arquitectónico y la experiencia del público, al arte",
     "type": "image",
@@ -622,7 +622,11 @@
     "year": "1969",
     "description": "Famoso festival que duró varios días en el que se reunieron los músicos más importantes del Rock'n Roll, como Jimi Hendrix, Janis Joplin y Santana, entre otros. Este festival fue un hito en el movimiento hippie. “Yo soy de la nación de Woodstock, es un estado mental.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=q_9veLjxRG8&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=q_9veLjxRG8&feature=emb_logo",
+    "img": {
+      "src": "mv5/c1.jpg",
+      "alt": "Mark Goff. Ceremonia de apertura del festival de Woodstock. 1969. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Swami_opening.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
+    }
   },
   {
     "id": 10,
@@ -748,9 +752,9 @@
   },
   {
     "id": 9,
-    "title": "A COLOMBIAN HISTORY BY ESSO. NIRMA ZARATE Y DIEGO ARANGO",
+    "title": "A colombian history by esso. Nirma zarate y Diego arango",
     "year": "1973",
-    "description": "El reportero que hablaba con imágenes",
+    "description": "Nirma Zárate (Bogotá, 1936-1999) y Diego Arango (Medellín, 1946) fueron fundadores del Taller 4 Rojo, uno de los colectivos artísticos más importantes para la producción gráfica y crítica en el país. En esta obra se refleja su interés por denunciar el imperialismo con imágenes sugerentes y simbólicas.",
     "type": "image",
     "url": "https://drive.google.com/file/u/0/d/1nxwAO0YBWPMPWYnZddJGP7MqQrbE8OXt/view",
     "image": {
@@ -777,11 +781,16 @@
   },
   {
     "id": 9,
-    "title": "PAISAJE, DE LA SERIE PARTITURAS MENTALES. GUSTAVO SORZANO",
+    "title": "Paisaje, de la serie partituras mentales. Gustavo Sorzano",
     "year": "1974",
     "description": "Gustavo Sorzano (Bucaramanga, Colombia - 1944) se interesó por involucrar al espectador de forma activa. En esta obra reproduce en serigrafía y en impresión offset, íconos del arte como La Mona Lisa, modificando su color, formato y técnica para atribuirle un carácter popular, dejando un espacio 9 para ser intervenido por el espectador.",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1NLpeCsONQx15yGHQqW_lFHoqYpkDBq0-/view"
+    "url": "https://drive.google.com/file/d/1NLpeCsONQx15yGHQqW_lFHoqYpkDBq0-/view",
+    "image": {
+      "alt": "Gustavo Sorzano. Paisaje, de la serie Partituras mentales, momentum 43 evento de participación. 1974. Impresión offset. Fuente: Colección MAMBO. ",
+      "caption": "<a href='https://www.espacioeldorado.com/partiturasmentales' target='blank'>Gustavo Sorzano</a> (Bucaramanga, Colombia, 1944) se interesó por involucrar al espectador de forma activa. En esta obra reproduce en <a href='https://www.gestiopolis.com/produccion-y-tecnicas-de-serigrafia/' target='blank'>serigrafía</a> y en impresión offset íconos del arte como La Mona Lisa, modificando su color, formato y técnica para atribuirle un carácter popular, dejando un espacio en blanco para ser intervenido por el espectador.",
+      "src": "mv9/6g4.jpg"
+    }
   },
   {
     "id": 8,
@@ -897,7 +906,12 @@
     "year": "1979",
     "description": "Adolfo Bernal (Medellín, 1954) es un artista que aborda el contexto urbano y sus interacciones. Estudió minuciosamente las tipografías, convirtiendo las palabras en imágenes; esta obra instalada en el espacio público propone carteles con palabras sin una relación aparente, abriendo posibilidades de interpretación en cada transeúnte.",
     "type": "image",
-    "url": "https://drive.google.com/file/u/0/d/1gQ2jdSGNPCEYJTjznmbccq36L21Ji04W/view"
+    "url": "https://drive.google.com/file/u/0/d/1gQ2jdSGNPCEYJTjznmbccq36L21Ji04W/view",
+    "image": {
+      "alt": "Luna Papel, Camisa Bicicleta, Amante Chicago, Rana Jinete. Adolfo Bernal 1979. Impresión Offset. Fuente: Colección MAMBO.",
+      "caption": "<a href='https://www.casasriegner.com/artistas/adolfo-bern%C3%A1l' target='blank'>Adolfo Bernal.</a> (Medellín, 1954) es un artista que aborda el contexto urbano y sus interacciones. Estudió minuciosamente las tipografías, convirtiendo las palabras en imágenes. Esta obra instalada en el espacio público propone carteles con palabras sin una relación aparente, lo que abre posibilidades de interpretación en cada transeúnte.",
+      "src": "mv9/6g1.jpg"
+    }
   },
   {
     "id": 10,
@@ -963,7 +977,11 @@
     "year": "1981",
     "description": "Miguel Ángel Rojas (Bogotá, Colombia - 1946 ) es uno de los artistas más importantes del país. La observación de la arquitectura del siglo XIX y XX ha sido una de las fuentes de inspiración de su trabajo. En esta instalación, el artista reconstruye (con carbón y arena) las baldosas de cemento del piso de la casa de sus abuelos en Girardot, lugar donde vivió su infancia. La instalación habla de la sutileza de la memoria a través del material que se desvanece a lo largo de la exposición.",
     "type": "image",
-    "url": "https://drive.google.com/file/u/0/d/1rD5R1UYHyJ9Y97uvZ9J3ngT8ezMbAWN8/view"
+    "url": "https://drive.google.com/file/u/0/d/1rD5R1UYHyJ9Y97uvZ9J3ngT8ezMbAWN8/view",
+    "image": {
+      "alt": "Miguel Ángel Rojas. Grano. 1975 Colección MAMBO ",
+      "src": "mv2/1g7.jpg"
+    }
   },
   {
     "id": 10,
@@ -1065,10 +1083,11 @@
   },
   {
     "id": 9,
-    "title": "UNA COSA ES UNA COSA Y OTRA COSA ES OTRA COSA. MARIA TERESA HINCAPIÉ",
+    "title": "Una cosa es una cosa y otra cosa es otra cosa. Maria Teresa Hincapié",
     "year": "1990",
     "description": "Esta obra ganó el premio en el Salon Nacional de Artistas, siendo el primer reconocimiento oficial al performance en Colombia",
-    "type": "image"
+    "type": "image",
+    "url": "https://www.youtube.com/watch?v=8Ip1roBSA0o&ab_channel=Banrepcultural"
   },
   {
     "id": 7,
@@ -1076,7 +1095,12 @@
     "year": "1991",
     "description": "Damien Hirst (Bristol, Reino Unido - 1965) es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte",
     "type": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg",
+    "image": {
+      "src": "mv7/1.jpg",
+      "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Shark83.JPG' target='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.es' target='_blank'>Creative Commons Genérica de Atribución/Compartir-Igual 3.0.</a>",
+      "caption": "<a href='http://velvet-mag.lat/2019/07/04/controversia-muerte-y-colores-damien-hirst/' target='blank'>Damien Hirst</a> (Bristol, Reino Unido, 1965) es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte. "
+    }
   },
   {
     "id": 7,
@@ -1116,7 +1140,8 @@
     "title": "ELECTRONIC SUPERHIGHWAY: CONTINENTAL U.S., NAM JUNE PAIK",
     "year": "1995",
     "description": "Videoinstalación del artista representante del Fluxus",
-    "type": "image"
+    "type": "image",
+    "url": "https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478"
   },
   {
     "id": 9,
@@ -1217,15 +1242,20 @@
   },
   {
     "id": 10,
-    "title": "REQUIEM N.N. JUAN MANUEL ECHAVARRÍA",
+    "title": "Requiem N.N. Juan Manuel Echavarría",
     "year": "2006",
     "description": "Juan Manuel Echavarría (Medellín, Colombia - 1947) es un artista que desde los 90’s explora los diferentes territorios del país en busca de la huella del conflicto armado. A través de la fotografía y el video, registra escenarios donde sucedieron hechos de violencia para conservar su memoria y generar una mirada poética sobre la realidad. En esta obra, fotografió las lápidas de un cementerio a orillas del Río Magdalena donde han sido enterrados los cuerpos de los N.N. arrojados río abajo",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1rHmxVf7MGrMRY4k0JTNZr3zPbbOvHsWb/view"
+    "url": "https://drive.google.com/file/d/1rHmxVf7MGrMRY4k0JTNZr3zPbbOvHsWb/view",
+    "image": {
+      "src": "mv8/g2.jpg",
+      "alt": "Juan Manuel Echavarría. Requiem NN.  2006-2015. Fuente: Colección MAMBO. ",
+      "caption": "<a target='_blank' href='https://jmechavarria.com/es/work/requiem-nn/'>Juan Manuel Echavarría</a>(Medellín, Colombia, 1947) es un artista que desde la década de los 90 explora los diferentes territorios del país en busca de la huella del conflicto armado. A través de la fotografía y el video registra escenarios donde sucedieron hechos de violencia para conservar su memoria y generar una mirada poética sobre la realidad. Esta obra son fotografías de las lápidas de un cementerio a orillas del río Magdalena donde han sido enterrados los cuerpos de los N.N. arrojados río abajo. "
+    }
   },
   {
     "id": 9,
-    "title": "ESPACIOS AMBIENTALES II. HOMENAJE A MARTA TRABA. SANTIAGO CÁRDENAS",
+    "title": "Espacios ambientales II. homenaje a Marta Traba. Santiago Cárdenas",
     "year": "2006",
     "description": "Santiago Cárdenas (Bogotá, Colombia - 1937) es reconocido como un exponente de la pintura contemporánea por retomar y profundizar en el realismo. En esta instalación, el artista utiliza la pintura para recrear espacios irreales que juegan con la percepción del espectador. Esta obra fue realizada por primera vez en la exposición Espacios Ambientales del Museo de Arte Moderno de Bogotá - MAMBO en 1968",
     "type": "image",
@@ -1238,10 +1268,15 @@
   },
   {
     "id": 9,
-    "title": "OLVIDO DE ARENA. MARIO OPAZO",
+    "title": "Olvido de arena. Mario Opazo",
     "year": "2007",
     "description": "Mario Opazo (Tomé, Chile - 1969) emigró como consecuencia de la dictadura hacia Colombia, donde ha recibido varios premios por su labor artística. Su obra incluye instalaciones, videos, performance y dibujos, con los que crea obras poéticas como actos de resistencia que aluden a la memoria y el desplazamiento. En esta acción realizada en una playa del Magdalena Medio se evidencia su interés por el video-performance",
-    "type": "image"
+    "type": "image",
+    "image": {
+      "src": "olvido_de_arena.jpg",
+      "alt": "<a href='https://vimeo.com/437501508' target='blank'>Olvido de Arena. Mario Opazo. 2007.</a> Fuente: Opazo (s. f). Vimeo.",
+      "caption": "<a href='https://meopazoc.wordpress.com/' target='blank'>Mario Opazo</a> (Tomé, Chile, 1969) Emigró como consecuencia de la dictadura hacia Colombia. Ha recibido varios premios por su labor artística. Su obra incluye instalaciones, videos, performance y dibujos, con los que crea obras poéticas como actos de resistencia que aluden a la memoria y el desplazamiento. En esta acción realizada en una playa del Magdalena Medio se evidencia su interés por el video-performance."
+    }
   },
   {
     "id": 7,
@@ -1261,27 +1296,42 @@
   },
   {
     "id": 7,
-    "title": "LA ARTISTA ESTÁ PRESENTE. MARINA ABRÁMOVIC",
+    "title": "La artista está presente. Marina Abrámovic",
     "year": "2010",
     "description": "Marina Abramovic (Belgrado, Serbia - 1946) es una artista conocida por ser precursora del performance. A lo largo de su vida propuso diferentes acciones artísticas que tendían a involucrar al público, cuestionando los límites entre el arte y la vida. En esta obra, propone una acción muy simple: mirar a los ojos al espectador durante el tiempo que éste decida. Este performance invita a la participación del público y genera un espacio íntimo y profundo en el museo, a partir del silencio y la mirada",
     "type": "image",
-    "url": "https://historia-arte.com/obras/la-artista-esta-presente"
+    "url": "https://historia-arte.com/obras/la-artista-esta-presente",
+    "image": {
+      "src": "mv7/g2.jpg",
+      "alt": "<a href='https://www.youtube.com/watch?v=traUaknfR5o' target='_blank'>Marina Abramovic. La artista está presente. 2010</a>. Fuente: <a href='https://commons.wikimedia.org/wiki/File:ArtistIsPresent.jpg' target='_blank'>Wikimedia Commons</a> bajo la <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' target='_blank'>licencia CC BY-SA 3.0.</a>",
+      "caption": "<a href='https://www.alejandradeargos.com/index.php/es/completas/32-artistas/41444-marina-abramovic-biografia-obra-exposiciones' target='_blank'>Marina Abramovic</a> (Belgrado, Serbia, 1946) es una artista conocida por ser precursora del performance. A lo largo de su vida propuso diferentes acciones artísticas que tendían a involucrar al público, cuestionando los límites entre el arte y la vida. Esta obra propone una acción muy simple: mirar a los ojos del espectador durante el tiempo que este decida. Este performance invita a la participación del público a partir del silencio y la mirada generando un espacio íntimo y profundo en el museo. ",
+      "audio": "url"
+    }
   },
   {
     "id": 8,
-    "title": "ROSAS Y ESPINAS. CATALINA MEJÍA",
+    "title": "Rosas y espinas. Catalina Mejía",
     "year": "2011",
     "description": "Catalina Mejía (Bogotá, Colombia - 1962) es una artista representativa de la pintura contemporánea en Colombia. Ha experimentado con el collage proponiendo imágenes enigmáticas con atmósferas nostálgicas, donde habitan lo figurativo y lo abstracto a través del manejo de la luz. En esta obra se evidencia la sencillez y sensibilidad de la artista que de forma sutil nos transmite una sensación profunda y dramática",
     "type": "image",
-    "url": "https://drive.google.com/file/d/1kaVUdt93itMhCgVjvnhZFaWPwAf1Cc8k/view"
+    "url": "https://drive.google.com/file/d/1kaVUdt93itMhCgVjvnhZFaWPwAf1Cc8k/view",
+    "image": {
+      "src": "mv8/g1.jpg",
+      "alt": "Catalina Mejía. Rosas y espinas.  2011. Mixta sobre tela. Fuente: Colección MAMBO.",
+      "caption": "<a target='_blank' href='http://www.artnet.com/artists/catalina-mej%C3%ADa/biography'>Catalina Mejía</a> (Bogotá, Colombia, 1962) es una artista representativa de la pintura contemporánea en Colombia. Ha experimentado con el collage, proponiendo imágenes enigmáticas con atmósferas nostálgicas a través del manejo de la luz. En esta obra se evidencia la sencillez y sensibilidad de la artista, entre lo figurativo y lo abstracto nos transmite una sensación profunda y dramática."
+    }
   },
   {
     "id": 1,
-    "title": "CLAUDIA HAKIM ASUME LA DIRECCIÓN DEL MAMBO",
+    "title": "Claudia Hakim asume la dirección del MAMBO",
     "year": "2016",
     "description": "La artista asumió la dirección con un nuevo equipo que plantea un Museo con toda la ciudadanía y con diversas propuestas de curaduría, museografía y educación.",
     "type": "image",
-    "url": "https://www.youtube.com/watch?v=SJqC_B_idBI&feature=emb_logo"
+    "url": "https://www.youtube.com/watch?v=SJqC_B_idBI&feature=emb_logo",
+    "image": {
+      "src": "claudia_hakim.jpg",
+      "alt": "Claudia Hakim, directora del MAMBO"
+    }
   },
   {
     "id": 10,

@@ -129,9 +129,9 @@ export const SubtitleInfo = styled.p`
   color: ${({ text }) => text};
   padding-left: 15px;
   font-size: 1em;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
   @media screen and (max-width: 768px) {
-    margin-bottom: 20px;
+    padding-bottom: 20px;
   }
 `;
 export const TextContent = styled.p`

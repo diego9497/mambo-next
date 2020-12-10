@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Museum of Modern Art of Bogotá",
-    "description": "Museum of Modern Art of Bogota. Current headquarters in the center of the city. \n Instagram: @mambogota \n Facebook: @fanmambogota \n Twitter: @_mambogota \n YouTube: Museum of Modern Art of Bogota",
+    "description": "Museum of Modern Art of Bogota. Current headquarters in the center of the city. \n Instagram: @mambogota \n Facebook: @fanmambogota \n Twitter: @_mambogota \n YouTube: Museum of Modern Art of Bogota\n<a target='_blank' href='https://www.mambogota.com/'>See link</a> ",
     "location": [
       4.610238600000005,
       -74.0692515
@@ -276,7 +276,7 @@
   {
     "id": 8,
     "name": "Medellín (Colombia)",
-    "description": "Capital of Antioquia, second largest city in Colombia. Birthplace of many modern and contemporary artists, including Pedro Nel Ospina, Gonzalo Arango, and Juan Manuel Echavarría, among others. <a rel = 'nofollow 'target =' _ blank 'href =' https: //jmechavarria.com/es/#1 '>See link</a> ",
+    "description": "Capital of Antioquia, second largest city in Colombia. Birthplace of many modern and contemporary artists, including Pedro Nel Ospina, Gonzalo Arango, and Juan Manuel Echavarría, among others. <a rel='nofollow' target ='_blank' href='https://jmechavarria.com/es/#1'>See link</a> ",
     "location": [
       6.2476376000000124,
       -75.56581530000001
@@ -294,7 +294,7 @@
   {
     "id": 8,
     "name": "Huila (Colombia)",
-    "description": "Birthplace of Carlos Salas. <a rel = 'nofollow' target = '_ blank' href = 'https: //www.eltiempo.com/bocas/carlos-salas-entrevista-revista-bocas-299032 '>See link</a> ",
+    "description": "Birthplace of Carlos Salas. <a rel = 'nofollow' target = '_blank' href = 'https://www.eltiempo.com/bocas/carlos-salas-entrevista-revista-bocas-299032 '>See link</a> ",
     "location": [
       2.535934900000005,
       -75.52766990000002
@@ -303,7 +303,7 @@
   {
     "id": 8,
     "name": "Museum of Modern Art of Medellín (Colombia)",
-    "description": "'Just one year after opening its headquarters, the Museum held the First Latin American Colloquium on Non-Objectual Art and Urban Art in May 1981. Critics and academics debated non-objectualism for four days' \n <a rel='nofollow' target='_blank' href='https://www.elmamm.org/I-Coloquio-de-Arte-No-Objetual'>See link</a> ",
+    "description": "Just one year after opening its headquarters, the Museum held the First Latin American Colloquium on Non-Objectual Art and Urban Art in May 1981. Critics and academics debated non-objectualism for four days \n <a rel='nofollow' target='_blank' href='https://www.elmamm.org/I-Coloquio-de-Arte-No-Objetual'>See link</a> ",
     "location": [
       6.223506899999996,
       -75.5741653
@@ -311,7 +311,7 @@
   },
   {
     "id": 8,
-    "name": "Tome (Chile)",
+    "name": "Tomé (Chile)",
     "description": "Maria Opazo (Tomé, Chile - 1969) emigrated as a result of the dictatorship to Colombia, where she has received several awards for her artistic work. Her work includes installations, videos, performances and drawings, with which she creates poetic works as acts of resistance that allude to memory and displacement. In this action carried out on a beach in Magdalena Medio, his performative interest in the video is evidenced. \n <a rel = 'nofollow' target = '_ blank' href = 'https : //www.utadeo.edu.co/es/comunidad/artes-plasticas/42/mario-opazo '>See link</a> ",
     "location": [
       -36.613156199999985,
@@ -361,15 +361,6 @@
     "location": [
       21.027764399999995,
       105.83415980000001
-    ]
-  },
-  {
-    "id": 10,
-    "name": "La Higuera (Bolivia)",
-    "description": "In this place, Ernesto 'el Che' Guevara, one of the most important Latin American revolutionary icons, was captured and executed on October 9, 1967. <a rel = 'nofollow' target = '_ blank' href = ' https://www.youtube.com/watch?v=fkDrMOUa2Us'>See link</a> ",
-    "location": [
-      -18.794764999999988,
-      -64.2014337
     ]
   }
 ]
