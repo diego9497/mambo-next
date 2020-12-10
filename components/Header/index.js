@@ -39,7 +39,6 @@ const Header = ({ config, locale = "es" }) => {
       <div></div>
       <Options>
         <div></div>
-        <div></div>
         <div>
           <Link
             href={

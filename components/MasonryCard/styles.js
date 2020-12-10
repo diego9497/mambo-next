@@ -46,6 +46,7 @@ export const Text = styled.div`
   display: flex;
   justify-content: space-between;
   fill: white;
+  text-transform: uppercase;
 
   & svg {
     display: none;

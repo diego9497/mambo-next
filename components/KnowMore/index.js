@@ -30,7 +30,6 @@ function KnowMore({ exhibition, config }) {
   const handleClose = () => {
     setOpen(false);
   };
-
   return (
     <Container id="more">
       <ContainerSection>

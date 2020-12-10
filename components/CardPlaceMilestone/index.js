@@ -52,10 +52,10 @@ export default function CardPlaceMilestone({
           </button>
         </HeaderInfo>
         <ContainerImage color={color}>
+          <SubtitleInfo text={text}>{subtitle}</SubtitleInfo>
           {image && <MAMBOImage {...image} />}
         </ContainerImage>
         <ContainerContent text={text}>
-          <SubtitleInfo>{subtitle}</SubtitleInfo>
           <TextContent>
             <p dangerouslySetInnerHTML={{ __html: content }}></p>
           </TextContent>

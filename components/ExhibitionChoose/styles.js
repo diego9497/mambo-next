@@ -31,8 +31,7 @@ export const Top = styled.div`
       font-size: 2.5em;
       font-weight: normal;
       text-transform: uppercase;
-      -webkit-text-stroke: 1px ${(props) => props.color};
-      color: transparent;
+      color: ${(props) => props.color};
     }
   }
   & > div:nth-child(2) {

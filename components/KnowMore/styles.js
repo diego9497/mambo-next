@@ -39,14 +39,20 @@ export const ContainerSection = styled.a`
     padding: 30px;
     border-right: 1px solid var(--borderColor);
     border-bottom: 1px solid var(--borderColor);
+    @media screen and (max-width: 575px) {
+      padding: 20px;
+    }
   }
   :nth-child(2) {
     background: red;
     grid-area: Information;
-    padding: 20px;
+    padding: 30px;
     background: ${(props) => props.color};
     border-right: 1px solid var(--borderColor);
     border-bottom: 1px solid var(--borderColor);
+    @media screen and (max-width: 575px) {
+      padding: 20px;
+    }
   }
   :nth-child(3) {
     grid-area: EmptyO;
@@ -72,6 +78,7 @@ export const ContainerSection = styled.a`
   }
 `;
 export const Title = styled.p`
+  text-transform: uppercase;
   font-size: 3.2em;
   line-height: 1em;
   width: 50%;
@@ -89,7 +96,7 @@ export const ContainerInfo = styled.div`
   background: ${(props) => props.color}77;
   display: flex;
   color: ${({ text }) => text};
-  font-size: 1.5em;
+  font-size: 1.1em;
   text-shadow: 1px 1px 3px
     ${({ text }) => (text === "white" ? "black" : "white")};
   align-items: flex-end;
@@ -202,7 +209,8 @@ export const SeeLink = styled.div`
   position: absolute;
   bottom: 0;
   left: 0;
-  font-size: 0.8em;
+  font-size: 0.91em;
+  text-align: right;
   display: none;
   text-shadow: none;
 

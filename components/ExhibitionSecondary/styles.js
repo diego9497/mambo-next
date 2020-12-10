@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 export const ContainerDetail = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 200px 1fr;
+  grid-template-rows: 180px 1fr;
   grid-template-areas:
     "title contentSecond menu"
     "content contentSecond menu";
@@ -45,6 +45,7 @@ export const ContainerTitle = styled.div`
 `;
 export const Title = styled.h1`
   color: ${(props) => props.color};
+  text-transform: uppercase;
   font-size: 3.2em;
   line-height: 1em;
   font-weight: normal;

@@ -21,7 +21,6 @@ export const ContainerList = styled.article`
     max-width: 270px;
     margin-left: auto;
     padding-left: 3px;
-    background: ${({ color }) => color};
     z-index: 1001;
     grid-column: 1/-1;
   }
@@ -96,8 +95,10 @@ export const ListItem = styled.li`
   transition: background 0.2s ease;
 
   @media screen and (max-width: 768px) {
-    color: white;
-    fill: white;
+    background: ${({ color }) => color};
+    fill: ${({ text }) => text};
+    color: ${({ text }) => text};
+    min-height: 50px;
   }
 
   span {

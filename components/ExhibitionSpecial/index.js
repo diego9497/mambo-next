@@ -66,7 +66,6 @@ export default function ExhibitionSpecial({ exhibition, config }) {
   const handleClose = () => {
     setOpen(false);
   };
-  console.log(content[0]);
   return (
     <>
       {withPrimary && (
@@ -88,6 +87,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
           <ContentSecond background={color}>
             <TextContentSecond color={text}>
               {guide}
+              <br />
               <a href="/MV-Guia2020-arte.pdf" target="_blank">
                 {here}
               </a>
@@ -138,7 +138,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
             <Subtitle>{config.references}</Subtitle>
             <SeeMore>{config.seeMore}</SeeMore>
           </ContainerSection>
-          <ContainerSection text={text} href={knowMore[0].url} target="_blank">
+          <ContainerSection text={text} href={knowMore[0].link} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[0].gallery[0].src}
@@ -150,7 +150,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
               <SeeLink color={color}>{config.seeLink}</SeeLink>
             </ContainerInfo>
           </ContainerSection>
-          <ContainerSection text={text} href={knowMore[1].url} target="_blank">
+          <ContainerSection text={text} href={knowMore[1].link} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[1].gallery[0].src}
@@ -162,7 +162,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
               <SeeLink color={color}>{config.seeLink}</SeeLink>
             </ContainerInfo>
           </ContainerSection>
-          <ContainerSection text={text} href={knowMore[2].url} target="_blank">
+          <ContainerSection text={text} href={knowMore[2].link} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[2].gallery[0].src}
@@ -174,7 +174,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
               <SeeLink color={color}>{config.seeLink}</SeeLink>
             </ContainerInfo>
           </ContainerSection>
-          <ContainerSection text={text} href={knowMore[3].url} target="_blank">
+          <ContainerSection text={text} href={knowMore[3].link} target="_blank">
             <ImageBgContainer>
               <Image
                 src={content[4].gallery[0].src}

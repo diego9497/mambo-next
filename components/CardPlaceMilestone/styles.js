@@ -75,7 +75,6 @@ export const ContainerIconHeader = styled.div`
 `;
 export const TitleHeader = styled.p`
   font-size: 1.1em;
-  text-transform: uppercase;
   margin-right: auto;
   margin-left: 10px;
   color: ${({ text }) => (text ? text : "white")};
@@ -103,11 +102,13 @@ export const ContainerContent = styled.div`
   }
 
   a {
-    margin-top: 10px;
+    margin-top: 25px;
     font-weight: 100;
     font-size: 0.9em;
     display: inline-block;
     line-break: anywhere;
+    position: absolute;
+    right: 15px;
     color: ${({ text }) => text};
     @media screen and (max-width: 768px) {
       color: black;
@@ -125,8 +126,9 @@ export const TitleContentInfo = styled.p`
   font-weight: bold;
 `;
 export const SubtitleInfo = styled.p`
+  color: ${({ text }) => text};
+  padding-left: 15px;
   font-size: 1em;
-  font-weight: bold;
   margin-bottom: 10px;
   @media screen and (max-width: 768px) {
     margin-bottom: 20px;

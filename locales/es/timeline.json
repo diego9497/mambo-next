@@ -1,7 +1,7 @@
 [
   {
     "id": 9,
-    "title": "INVENCIÓN DE LA IMPRENTA",
+    "title": "invención de la imprenta",
     "year": "1455",
     "description": "Johannes Gutenberg imprime 180 copias de un texto dando inicio a la época de la impresión moderna.",
     "type": "image",
@@ -9,7 +9,7 @@
   },
   {
     "id": 3,
-    "title": "REVOLUCIÓN INDUSTRIAL",
+    "title": "revolución industrial",
     "year": "1760",
     "description": "La revolución industrial tuvo una gran influencia en el mundo moderno, en especial la economía y la cultura.",
     "type": "image",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "title": "REVOLUCIÓN FRANCESA",
+    "title": "revolución francesa",
     "year": "1789",
     "description": "La revolución francesa marcó el origen de los estados modernos.",
     "type": "image",
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "title": "FUNDACIÓN DE LA ESCUELA DE BELLAS ARTES EN PARIS",
+    "title": "fundación de la escuela de bellas artes en Paris",
     "year": "1797",
     "description": "En esta escuela se forjó el academicismo contra el cual se rebelarían las vanguardias.",
     "type": "image",
@@ -36,7 +36,7 @@
   },
   {
     "id": 3,
-    "title": "PRIMERA FOTOGRAFÍA",
+    "title": "primera fotografía",
     "year": "1836",
     "description": "Daguerre crea lo que es considerado la primera fotografía. La fotografía trajó importantes cambios en la cultura visual e impulsó a los artistas modernos a plasmar su visión personal más alla de la representación fiel de la realidad.",
     "type": "image",
@@ -44,7 +44,7 @@
   },
   {
     "id": 3,
-    "title": "MODERNISMO",
+    "title": "modernismo",
     "year": "1850",
     "description": "El arte moderno es un proceso de transformación en el cual los artistas de intentan superar las formas artísticas tradicionales para buscar unas nuevas formas de representación en el arte. Se puede ubicar aproximadamente el periodo de Arte Moderno entre 1850 a 1960 y comprende una multiplicidad de artistas y movimientos. Esta obra de Manet fue una de las primeras pinturas modernas y causó un gran rechazo en París.",
     "type": "image",
@@ -57,7 +57,7 @@
   },
   {
     "id": 3,
-    "title": "OLIMPIA. ÈDOUARD MANET",
+    "title": "olimpia. èdouard manet",
     "year": "1836",
     "description": "fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que, al parecer, es una trabajadora sexual; desafiando los códigos morales y la tradición del desnudo femenino en el arte.",
     "type": "image",
@@ -65,7 +65,7 @@
   },
   {
     "id": 3,
-    "title": "LA EDAD MADURA CAMILLE CLAUDEL",
+    "title": "la edad madura camille claudel",
     "year": "1864",
     "description": "fue una de las precursoras de la escultura moderna en oposición a la Academia Francesa. En esta obra cargada de simbolismo, se evidencia su interés por temas diferentes a los que dictaba el canon clásico: la exaltación de la belleza y la perfección.",
     "type": "image",
@@ -78,7 +78,7 @@
   },
   {
     "id": 3,
-    "title": "LAS DAMAS DE AVIGNON. PABLO PICASSO",
+    "title": "las damas de avignon. pablo picasso",
     "year": "1881",
     "description": "fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo.",
     "type": "image",
@@ -91,7 +91,7 @@
   },
   {
     "id": 3,
-    "title": "FAUVISMO",
+    "title": "fauvismo",
     "year": "1904",
     "description": "Tal es su sentido de independencia, que el colorido de una línea va cambiando, de suerte que en una misma figura puede haber partes de un color y partes de otro.",
     "type": "image",

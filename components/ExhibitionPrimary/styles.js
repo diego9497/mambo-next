@@ -34,6 +34,7 @@ export const Title = styled.h1`
   padding: 20px;
   font-size: 2.8em;
   font-weight: normal;
+  text-transform: uppercase;
   line-height: 1em;
   color: ${(props) => props.color};
 `;
@@ -166,7 +167,6 @@ export const ContentSecond = styled.div`
 `;
 export const TitleContentSecond = styled.h3`
   font-size: 1.3em;
-  text-transform: uppercase;
   padding-bottom: 8px;
   color: ${(props) => props.color};
 `;

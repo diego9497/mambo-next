@@ -49,7 +49,7 @@ export const LogoContainer = styled.div`
 
 export const Options = styled.div`
   display: grid;
-  grid-template-columns: 4fr 1fr 4fr 2fr;
+  grid-template-columns: 6fr 4fr 2fr;
 
   @media screen and (max-width: 575px) {
     grid-template-columns: 1fr;
@@ -68,11 +68,6 @@ export const Options = styled.div`
     }
   }
   & > div:nth-child(2) {
-    @media screen and (max-width: 575px) {
-      display: none;
-    }
-  }
-  & > div:nth-child(3) {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -85,7 +80,7 @@ export const Options = styled.div`
       display: none;
     }
   }
-  & > div:nth-child(4) {
+  & > div:nth-child(3) {
     display: flex;
     justify-content: center;
     align-items: center;
