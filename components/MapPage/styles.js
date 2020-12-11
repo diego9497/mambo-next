@@ -121,14 +121,19 @@ export const ListItem = styled.li`
 
 export const HeaderMap = styled.div`
   padding: 10px 10px 10px 20px;
-  text-transform: capitalize;
   display: none;
   display: flex;
   align-items: center;
-  font-size: 1.17em;
+  font-size: 1.1em;
   justify-content: space-between;
   color: white;
   background: ${({ color }) => color};
+  span {
+    > span {
+      font-weight: 500;
+      font-size: 1.2em;
+    }
+  }
 `;
 
 export const HeaderMapIconContainer = styled.div`

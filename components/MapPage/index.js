@@ -93,7 +93,8 @@ export default function MapPage({ config, locations }) {
       <ContainerMap>
         <HeaderMap color={config.mv1.color}>
           <span>
-            {config.map.toUpperCase()} {config.submap}
+            <span>{config.map.toUpperCase()} </span>
+            {config.submap}
           </span>
           <HeaderMapIconContainer onClick={handleClickList}>
             {openList ? <Close /> : <MenuIcon />}

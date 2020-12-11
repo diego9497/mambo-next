@@ -47,7 +47,11 @@ export const ContainerHeaderTimeline = styled.div`
   }
 `;
 export const TextHeaderTimeline = styled.div`
-  font-size: 1.2em;
+  span {
+    font-size: 1.2em;
+    font-weight: 500;
+  }
+  font-size: 1.1em;
 `;
 export const ContainerIconHeaderTimeline = styled.div`
   width: 30px;

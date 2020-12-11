@@ -106,7 +106,8 @@ function Timeline({ config, timeline }) {
       <ContainerList>
         <ContainerHeaderTimeline color={config.mv1.color}>
           <TextHeaderTimeline>
-            {config.timeline.toUpperCase()} {config.subtime}
+            <span>{config.timeline.toUpperCase()} </span>
+            {config.subtime}
           </TextHeaderTimeline>
         </ContainerHeaderTimeline>
         <Filters>
