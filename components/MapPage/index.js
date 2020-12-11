@@ -31,6 +31,7 @@ export default function MapPage({ config, locations }) {
   };
 
   const handleOpen = (index) => {
+    console.log(index);
     setOpen(true);
     setCurrent(index);
     setZoom(15);
@@ -63,6 +64,14 @@ export default function MapPage({ config, locations }) {
       });
       setCenter(location.location);
       setZoom(15);
+    } else {
+      const location = locations[0];
+      setDetailInfo({
+        ...location,
+        color: config[`mv${location.id}`].color,
+        text: config[`mv${location.id}`].text,
+        topic: config[`mv${location.id}`].title,
+      });
     }
   }, [current]);
   return (

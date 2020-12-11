@@ -258,7 +258,7 @@
   {
     "id": 7,
     "name": "Springfield (United States)",
-    "description": "Birthplace of David Hammons, for the ephemeral object is sold and the artist is also transformed into a mediator to talk with the viewer and the object as seen in the image, where he sold his ice balls. \n <a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>See link</a> ",
+    "description": "Birthplace of David Hammons, an artist who also became a mediator to talk to the viewer and sell his works of art. <a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>See link</a>",
     "location": [
       37.20895719999999,
       -93.2922989
@@ -348,11 +348,15 @@
   {
     "id": 10,
     "name": "Berlin (Germany)",
-    "description": "The fall of the Berlin Wall was a pivotal event in world history that marked the fall of the Iron Curtain. The fall of the inter-German border took place soon after. <a rel='nofollow' target = '_blank' href=' https://www.lavanguardia.com/vida/junior-report/20191030/471292597858/caida-muro-berlin-fin-era '>See link</a> ",
+    "description": "The fall of the Berlin Wall was a pivotal event in world history that marked the fall of the Iron Curtain. The fall of the inter-German border took place soon after.",
     "location": [
       52.5200066,
       13.404954
-    ]
+    ],
+    "image": {
+      "src": "mv4/c1.jpg",
+      "alt": "Unknown author. Photograph of the Berlin Wall. 1989. Source: Wikimedia Commons under GNU licence. "
+    }
   },
   {
     "id": 10,

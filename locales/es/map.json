@@ -258,7 +258,7 @@
   {
     "id": 7,
     "name": "Springfield (Estados Unidos) ",
-    "description": "Lugar de nacimiento de David Hammons,para el objeto efímero se vende y se transforma también el artista en un mediador para hablar con el espectador y el objeto como se ve en la imagen, donde vendía sus bolas de hielo. \n<a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>Ver link</a>",
+    "description": "Lugar de nacimiento de David Hammons,  artista que se transformó también en un mediador para hablar con el espectador y lograr vender sus obras de arte <a rel='nofollow' target='_blank' href='https://publicdelivery.org/david-hammons-snowball/'>Ver link</a>",
     "location": [
       37.20895719999999,
       -93.2922989
@@ -348,11 +348,15 @@
   {
     "id": 10,
     "name": "Berlín (Alemania)",
-    "description": "La caída del Muro de Berlín fue un acontecimiento esencial en la historia mundial que marcó la caída de la Cortina de Hierro.La caída de la frontera interalemana tuvo lugar poco después.<a rel='nofollow' target='_blank' href='https://www.lavanguardia.com/vida/junior-report/20191030/471292597858/caida-muro-berlin-fin-era'>Ver link</a>",
+    "description": "La caída del Muro de Berlín fue un acontecimiento esencial en la historia mundial que marcó la caída de la Cortina de Hierro.La caída de la frontera interalemana tuvo lugar poco después.",
     "location": [
       52.5200066,
       13.404954
-    ]
+    ],
+    "image": {
+      "src": "mv4/c1.jpg",
+      "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: <a href='https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg' targe='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2' target='blank'>GNU.</a> "
+    }
   },
   {
     "id": 10,
