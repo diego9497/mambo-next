@@ -38,7 +38,8 @@ export const ContainerHeaderTimeline = styled.div`
   align-items: center;
   color: white;
   line-height: 17px;
-  padding: 10px 20px;
+  min-height: 60px;
+  padding: 15px 20px;
   margin-bottom: 40px;
   @media screen and (max-width: 768px) {
     display: flex;
