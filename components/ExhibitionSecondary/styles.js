@@ -81,17 +81,12 @@ export const ContainerContent = styled.div`
 export const TextContent = styled.p`
   white-space: pre-wrap;
   font-size: 1.1em;
-  color: black;
 
   small {
     font-size: 1em;
-    font-style: italic;
   }
   a {
     font-size: 1em;
-    font-weight: 500;
-    text-decoration: none;
-    color: inherit;
   }
 `;
 export const ContainerMenu = styled.div`
