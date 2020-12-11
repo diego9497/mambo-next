@@ -11,7 +11,6 @@ export const Container = styled.div`
 export const ContainerList = styled.div`
   width: 100%;
   height: 100%;
-  padding-top: 40px;
   overflow-y: scroll;
   ::-webkit-scrollbar {
     width: 7px;
@@ -32,15 +31,15 @@ export const ContainerList = styled.div`
   }
 `;
 export const ContainerHeaderTimeline = styled.div`
-  display: none;
-  height: 60px;
+  display: flex;
   background: ${({ color }) => color};
   width: 100%;
   justify-content: space-between;
   align-items: center;
   color: white;
   line-height: 17px;
-  padding: 0 20px;
+  padding: 10px 20px;
+  margin-bottom: 40px;
   @media screen and (max-width: 768px) {
     display: flex;
     margin-bottom: 15px;
@@ -108,7 +107,7 @@ export const CardTimelineRight = styled.div`
 
 export const Filters = styled.div`
   position: fixed;
-  top: 60px;
+  top: 115px;
   display: flex;
   flex-direction: column;
   align-items: baseline;
@@ -116,7 +115,7 @@ export const Filters = styled.div`
   @media screen and (max-width: 768px) {
     align-items: flex-end;
     right: 0;
-    top: 115px;
+    top: 130px;
   }
 `;
 
