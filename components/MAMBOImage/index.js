@@ -25,6 +25,7 @@ export default function MAMBOImage({
   width = 500,
   height = 300,
   loading = "lazy",
+  position = "center",
 }) {
   const [open, setOpen] = useState(false);
   const [hover, setHover] = useState(false);
@@ -70,6 +71,7 @@ export default function MAMBOImage({
           width={width}
           height={height}
           loading={loading}
+          position={position}
         />
         <Tooltip>{alt}</Tooltip>
       </ImageContainer>

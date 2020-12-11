@@ -62,6 +62,7 @@ function ExhibitionSecondary({ exhibition, config }) {
     didYouKnowImg,
     activityImg,
     questionImg,
+    id,
   } = exhibition;
 
   const [current, setCurrent] = useState("");
@@ -96,6 +97,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                     <MAMBOImage
                       src={didYouKnowImg.src}
                       alt={didYouKnowImg.alt}
+                      position={id === 6 ? "top" : "center"}
                     />
                   </ImageOfMenuContainer>
                 )}
