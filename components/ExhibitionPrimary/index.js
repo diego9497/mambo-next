@@ -88,7 +88,6 @@ export default function ExhibitionPrimary({ exhibition, config }) {
       />
     );
   }
-
   const settings = {
     infinite: true,
     slidesToScroll: 1,
