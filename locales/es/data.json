@@ -10,7 +10,7 @@
     "author": "Oscar Monsalve",
     "forWhat": "¿Un museo para qué?",
     "forWhatContent": "Los museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro.\nSon participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv1/forwhat.mp3",
     "proposal": "En esta sección se propone reflexionar sobre el valor de los museos, teniendo en cuenta la nueva definición global que aún está en discusión y la historia del Museo de Arte Moderno (MAMBO)\n\nLos museos son espacios democratizadores, inclusivos y polifónicos para el diálogo crítico sobre los pasados y los futuros. Reconociendo y abordando los conflictos y desafíos del presente, custodian artefactos y especímenes para la sociedad, salvaguardan memorias diversas para las generaciones futuras, y garantizan la igualdad de derechos y la igualdad de acceso al patrimonio para todos los pueblos. Los museos no tienen ánimo de lucro. Son participativos y transparentes, y trabajan en colaboración activa con y para diversas comunidades a fin de coleccionar, preservar, investigar, interpretar, exponer, y ampliar las comprensiones del mundo, con el propósito de contribuir a la dignidad humana y a la justicia social, a la igualdad mundial y al bienestar planetario. (Icom, 2019)",
     "questions": [
       "¿Por qué la creación del Museo de Arte Moderno fue importante para la modernización del país?",
@@ -19,16 +19,16 @@
       " ¿Por qué los museos buscan salvaguardar memorias diversas para las generaciones futuras?",
       " ¿Cómo puede un museo contribuir a la dignidad humana, la justicia social y el bienestar planetario? "
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv1/question.mp3",
     "didYouKnow": "En tu ciudad tienes el Museo de Arte Moderno de Bogotá - MAMBO, con una colección de más de 4.500 piezas de arte, las cuales hacen parte del patrimonio cultural de nuestro país.",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv1/didyouknow.mp3",
     "activity": "Mambo Pop Up: Diseña y construye tu museo imaginario con papel y muéstralo a tu clase.",
-    "activityAudio": "url",
+    "activityAudio": "mv1/activity.mp3",
     "keyConcepts": [
       {
         "title": "Curaduría",
         "content": "Es el ejercicio de seleccionar y organizar una serie de obras de arte para la realización de una exposición bajo un marco temático definido por un(a) curador(a). ",
-        "audio": "url",
+        "audio": "mv1/c1.mp3",
         "img": {
           "src": "mv1/c1.jpg",
           "alt": "Oscar Monsalve. Eduardo Serrano junto a la escultura 'Toro de lidia' de Maria Cristina Franco. Montaje del IV Salón Atenas. 1978. Archivo MAMBO. "
@@ -37,7 +37,7 @@
       {
         "title": "Museografía",
         "content": "Disciplina que se ocupa de desarrollar métodos y técnicas para el funcionamiento de un museo, principalmente de los aspectos arquitectónicos y espaciales de las exposiciones y la colección. ",
-        "audio": "url",
+        "audio": "mv1/c2.mp3",
         "img": {
           "src": "mv1/c2.jpg",
           "alt": "Oscar Monsalve. Montaje de 'Amarillos y rojos' de Pedro Ramoss del VII Salón Atenas. 1981. Archivo MAMBO. "
@@ -46,7 +46,7 @@
       {
         "title": "patrimonio cultural",
         "content": "Es un conjunto de bienes tangibles e intangibles que constituyen la memoria e identidad de un grupo humano y tienen un valor simbólico, histórico y económico. ",
-        "audio": "url",
+        "audio": "mv1/c3.mp3",
         "img": {
           "src": "mv1/c3.jpg",
           "alt": "Oscar Monsalve. Construcción del tercer piso de la sede actual. 1983. Archivo MAMBO"
@@ -55,7 +55,7 @@
       {
         "title": "colección",
         "content": "Es el conjunto de productos materiales de la cultura que son parte de una institución dedicada a preservar el patrimonio. Pueden ser objetos diversos como herramientas y vestidos en el caso de los museos de antropología o pinturas y esculturas en el caso de los museos de arte.",
-        "audio": "url",
+        "audio": "mv1/c4.mp3",
         "img": {
           "src": "mv1/c4.jpg",
           "alt": "Oscar Monsalve. Obras de Mónica Negret y Pedro Ramos en el VII Salón Atenas. 1981. Archivo MAMBO."
@@ -64,7 +64,7 @@
       {
         "title": "democracia",
         "content": "Es un sistema de organización social en donde se le atribuye el poder a los ciudadanos a partir de la toma de decisiones colectivamente, que garanticen una participación mayoritaria de la sociedad. ",
-        "audio": "url",
+        "audio": "mv1/c5.mp3",
         "img": {
           "src": "mv1/c5.jpg",
           "alt": "Oscar Monsalve. Taller educativo con niños y Daniel Castro. 1982. Archivo MAMBO."
@@ -73,7 +73,7 @@
       {
         "title": "educación en los museos",
         "content": "Es el campo que promueve el aprendizaje en el museo, estudia los públicos, diseña actividades y programas pedagógicos dirigidos a diversos públicos.",
-        "audio": "url",
+        "audio": "mv1/c6.mp3",
         "img": {
           "src": "mv1/c6.jpg",
           "alt": "Oscar Monsalve. 1982. Auditorio del Museo de Arte Moderno. 1982.  Archivo MAMBO."
@@ -119,7 +119,7 @@
     "didYouKnowImg": {
       "src": "mv1/did_you_know.jpg",
       "alt": "Instagram: @mambogota </br>Facebook: @fanmambogota</br>Twitter: @_mambogota</br>YouTube: Museo de Arte Moderno de Bogotá",
-      "audio": "url"
+      "audio": "mv1/didyouknowimg.mp3"
     },
     "questionImg": {
       "src": "mv1/question.jpg",
@@ -128,7 +128,7 @@
     "activityImg": {
       "src": "mv1/activity.jpg",
       "alt": "Planos del Museo. Diseños de Rogelio Salmona. Fuente: Moreno y Medina (1994. pp.88-92). ",
-      "audio": "url"
+      "audio": "mv1/activityimg.mp3"
     },
     "knowMore": [
       {
@@ -179,27 +179,27 @@
     "color": "#EFB8BC",
     "text": "black",
     "title": "Arte Moderno en el Mundo",
-    "mainAudio": "url",
+    "mainAudio": "mv3/main.mp3",
     "history": "Cómo surgió el arte moderno",
     "historyDescription": "El <a href='https://www.capitaldelarte.com/el-arte-moderno/' target='_blank'> Arte Moderno </a> fue un proceso de transformación en el cual pintores, escultores y escritores de ese periodo buscaron <a href='https://www.aboutespanol.com/caracteristicas-del-arte-moderno-180218' target='_blank'> nuevas formas de representación </a>. Se dio aproximadamente entre 1850 y 1970, como consecuencia de la <a href='http://www.finanzasparatodos.es/gepeese/es/inicio/laEconomiaEn/laHistoria/revolucion_industrial.html' target='_blank'> Revolución Industrial</a>, la <a href='https://mihistoriauniversal.com/edad-contemporanea/revolucion-francesa' target='_blank'>Revolución Francesa y la caída de la monarquía.</a> Los artistas se rebelaron frente a la inspiración renacentista del arte <a href='https://www.capitaldelarte.com/arte-academico-principales-caracteristicas/' target='_blank'>académico</a>, fundamentada en la religión, la mitología griega, el retrato y el bodegón, para plasmar en sus obras sus intereses y cuestionamientos propios (Gallerix, 2009).\n\nLa invención de la cámara y de la fotografía alrededor de la década de 1830 impulsó a los artistas a romper con la tradición de la <a href='https://www.youtube.com/watch?v=Oke3xat764A' target='_blank'>representación figurativa</a> para crear obras desde su <a href='https://www.significados.com/estetica/' target='_blank'>estética</a> personal. Las <a href='https://www.youtube.com/watch?v=vQxNi2MNHhY' target='_blank'>vanguardias europeas</a> son ejemplo de las diferentes exploraciones formales y conceptuales de los artistas de este periodo quienes experimentaron con nuevos temas, materiales, técnicas y procesos, ampliando el concepto del arte, sus límites y funciones (Academia Play, 2016).",
     "author": "Edouard Manet",
     "forWhat": "¿Una revolución para qué?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la Revolución Industrial, la Revolución Francesa y el origen del Arte Moderno que se rebela en contra de la tradición histórica.",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv3/forwhat.mp3",
     "didYouKnow": "La fotografía modificó radicalmente la materialidad de las obras de arte, la forma de producir imágenes y de relacionarnos con el mundo. ",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv3/didyouknow.mp3",
     "questions": [
       "¿Por qué fue importante para los artistas de la época cuestionar los ideales de belleza clásicos? ",
       "¿Por qué rebelarse y cuestionarse es importante para la creación artística?",
       "¿Por qué crees que deben existir espacios para la libre expresión?"
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv3/question.mp3",
     "gallery": [],
     "keyConcepts": [
       {
         "title": "arte académico",
         "content": "Corriente artística que surge en la Escuela de Bellas Artes de París a principios del siglo XIV que retoma los intereses del arte clásico, también se le conoce como Neoclasicismo: una corriente romántica e idealista, en la que el arte se asociaba a la belleza, a la perfección y al dominio de la técnica. ",
-        "audio": "url",
+        "audio": "mv3/c1.mp3",
         "img": {
           "src": "mv3/c1.jpg",
           "alt": "Ricardo Acevedo Bernal. Modelo en París, 1889. Fuente: Colección MAMBO."
@@ -208,7 +208,7 @@
       {
         "title": "vanguardias",
         "content": "Movimientos artísticos anti académicos y experimentales de principio del siglo XX que surgieron en el contexto de la guerra y la posguerra europea. Vanguardias como el cubismo, el dadaísmo y el futurismo, fueron determinantes para la consolidación del arte moderno.",
-        "audio": "url",
+        "audio": "mv3/c2.mp3",
         "img": {
           "src": "mv3/c2.jpg",
           "alt": "Salvador Dalí. La venus con cabeza de flechas. Sin fecha. Fuente: Colección MAMBO."
@@ -217,7 +217,7 @@
       {
         "title": "arte abstracto",
         "content": "Término para referirse a las obras que no representan ningún objeto o escena de forma exacta.",
-        "audio": "url",
+        "audio": "mv3/c3.mp3",
         "img": {
           "src": "mv3/c3.jpg",
           "alt": "Amelia Peláez. Sin título, 1967. Fuente: Colección MAMBO."
@@ -226,7 +226,7 @@
       {
         "title": "arte figurativo",
         "content": "Término para referirse a las obras que representan imágenes, objetos y escenas de la vida de forma realista y reconocible.",
-        "audio": "url",
+        "audio": "mv3/c4.mp3",
         "img": {
           "src": "mv3/c4.jpg",
           "alt": "Liliana Porter. Rasgadura, 1974. Fuente: Colección MAMBO."
@@ -238,19 +238,19 @@
       "src": "mv3/1.jpg",
       "alt": "<a href='https://www.todocuadros.com.co/pintores-famosos/manet/' target='_blank'>Édouard Manet. Olimpia. 1863. Óleo sobre lienzo.</a> Fuente: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'>Fundación Wikimedia</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0.</a> ",
       "caption": "Fue uno de los artistas precursores del impresionismo y de la pintura moderna. Esta obra llamada Olimpia, en referencia irónica a la historia griega, generó polémica por presentar una mujer desnuda que al parecer era una trabajadora sexual, desafiando los códigos morales y la tradición del desnudo femenino en el arte. ",
-      "audio": "url"
+      "audio": "mv3/1.mp3"
     },
     "img2": {
       "src": "mv3/2.jpg",
       "alt": "<a href='http://www.musee-rodin.fr/es/colecciones/esculturas/la-edad-madura-o-el-destino-o-el-camino-de-la-vida-o-la-fatalidad' target='_blank'>Camille Claudel. La Edad Madura. 1899. Bronce.</a> Fuente: <a href='https://commons.wikimedia.org/wiki/Main_Page' target='blank'>Wikimedia Commons</a> bajo la <a href='https://es.wikipedia.org/wiki/Licencia_de_documentaci%C3%B3n_libre_de_GNU' target='blank'>licencia de documentación libre de GNU.</a> ",
       "caption": "Camille Claudel (Fère-en-Tardenois, Francia, 1864-1943) fue una de las precursoras de la escultura moderna en oposición a la Academia Francesa. En esta obra cargada de simbolismo se evidencia su interés por temas diferentes a los que dictaba el canon clásico: la exaltación de la belleza y la perfección. ",
-      "audio": "url"
+      "audio": "mv3/2.mp3"
     },
     "img3": {
       "src": "mv3/3.jpg",
       "alt": "<a href='https://pablo-picasso.space/obras-de-picasso/las-senoritas-de-avignon-les-demoiselles-davignon/' target='_blank'>Pablo Picasso. Las señoritas de Avignon. 1907. Óleo sobre lienzo.</a> Fuente: <a href='https://pablo-picasso.space/obras-de-picasso/las-senoritas-de-avignon-les-demoiselles-davignon/' target='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/' target='blank'>C.C. BY 2.0</a> ",
       "caption": "<a href='https://www.youtube.com/watch?v=oOOY6GbV9Ks' target='_blank' >Pablo Picasso</a> (Málaga, España, 1881-1973) fue probablemente el referente más conocido de la pintura moderna, por desafiar la figura y plantear imágenes con marcadas alteraciones. Esta obra introdujo la deformación de los cuerpos y la abstracción geométrica. como un nuevo procedimiento en la pintura, que más tarde se consolidó en el cubismo.",
-      "audio": "url"
+      "audio": "mv3/3.mp3"
     },
     "didYouKnowImg": {
       "src": "mv3/did_you_know.jpg",
@@ -306,29 +306,29 @@
     "title": "Arte Moderno en Colombia",
     "history": "Cómo surgió el arte moderno",
     "historyDescription": "A principios del siglo XX se ven los <a href='https://www.elespectador.com/noticias/cultura/andres-de-santa-maria-un-pintor-moderno/' target='_blank'>primeros ejemplos</a> de pintura <a href='https://www.eltiempo.com/archivo/documento/MAM-674453' target='_blank'>moderna</a> en Colombia. Apropiándose de la herencia del <a href='https://historia-arte.com/movimientos/dadaismo' target='_blank'>dadaísmo</a> y el <a href='https://historia-arte.com/movimientos/cubismo' target='_blank'>cubismo</a>, los artistas buscaron nuevas formas de pintura y escultura para desligarse de la estética de lo bello. Colombia también fue escenario del debate mundial entre el <a href='https://www.youtube.com/watch?v=vSsJQ1UsIpE' target='_blank'>capitalismo vs. comunismo</a> y el impulso por transformar su contexto llevó a los artistas a cuestionar la moral establecida y proponer obras de arte con contenido político transgresor. El deseo por desvincular la historia del arte colombiano de la tradición europea motivó a los artistas del grupo <a href='https://www.radionacional.co/detalle-hitos/los-artistas-bachues' target='_blank'>“Bachué”</a> a investigar símbolos e imágenes de las expresiones indígenas y campesinas locales. \n\nA partir de la década de 1950, e influenciados por acontecimientos políticos como <a href='https://esferapublica.org/nfblog/el-bogotazo-y-los-artistas-colombianos/' target='_blank'>El Bogotazo</a>, los artistas asumieron fuertes posturas políticas, expresadas en el enfrentamiento entre quienes defendieron el <a href='https://historia-arte.com/movimientos/realismo-social' target='_blank'>realismo socialista</a> y la defensa de una identidad propia y quienes apoyaron el <a href='https://historia-arte.com/movimientos/expresionismo-abstracto' target='_blank'>expresionismo abstracto</a>. Esta contraposición entre la abstracción y el arte figurativo fue determinante para los artistas de la década de los sesenta y el origen del arte contemporáneo (Jaramillo, 2012, pp. 129-206). ",
-    "mainAudio": "url",
+    "mainAudio": "mv4/main.mp3",
     "author": "Beatriz Daza",
     "forWhat": "¿Política y arte?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionalistas frente a las influencias extranjeras.",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv4/forwhat.mp3",
     "didYouKnow": "La época conocida como La Violencia, caracterizada por los enfrentamientos entre los partidos liberal y conservador, impulsó a los artistas a manifestarse ante la situación social y política. ",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv4/didyouknow.mp3",
     "activity": "Investiga tu árbol genealógico, identifica los orígenes y rasgos de tu familia, y dibuja un rostro o diseña un logo que los represente. Explica por qué. ",
-    "activityAudio": "url",
+    "activityAudio": "mv4/activity.mp3",
     "questions": [
       "¿Cuáles eran las diferencias ideológicas entre el realismo socialista y el expresionismo abstracto?",
       "¿Cómo definirías la identidad nacional?",
       "¿Qué valores tradicionales y modernos identificas en tu familia?",
       "¿Si la moral, las creencias y los valores no son los mismos para todos y todas, cómo se puede llegar a un consenso y evitar la violencia? "
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv4/question.mp3",
     "gallery": [],
     "proposal": "En esta sección se propone reflexionar sobre la relación entre el contexto político y el arte, y la necesidad de construir discursos nacionales frente a las influencias extranjeras.",
     "keyConcepts": [
       {
         "title": "guerra fría",
         "content": "Enfrentamiento militar, político y cultural que se desarrolló entre los años 1945 y 1989 entre el bloque occidental, representado por Estados Unidos en defensa del capitalismo contra la Unión Soviética (U.R.R.S) en defensa del comunismo. ",
-        "audio": "url",
+        "audio": "mv4/c1.mp3",
         "img": {
           "src": "mv4/c1.jpg",
           "alt": "Autor desconocido. Fotografía del muro de Berlin. 1989. Fuente: <a href='https://commons.wikimedia.org/wiki/File:West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg' targe='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2' target='blank'>GNU.</a> "
@@ -337,7 +337,7 @@
       {
         "title": "el bogotazo",
         "content": "Revueltas populares que sucedieron en Bogotá después del asesinato de Jorge Eliécer Gaitán el 9 de Abril de 1948, que originaron el periodo que se conoció como La Violencia en el que se enfrentaron los partidos liberal y conservador. ",
-        "audio": "url",
+        "audio": "mv4/c2.mp3",
         "img": {
           "src": "mv4/c2.jpg",
           "alt": "Sady González. Tranvía incendiándose. 1948. Fuente: Colección MAMBO. "
@@ -346,7 +346,7 @@
       {
         "title": "realismo socialista",
         "content": "Corriente artística que surge en los años 20 en la Unión Soviética, motivada por la representación de la realidad con fines ideológicos y muchas veces con contenido de denuncia. Fue influyente en la creación de movimientos latinoamericanos que defendieron el realismo social como un instrumento contra el imperialismo. ",
-        "audio": "url",
+        "audio": "mv4/c3.mp3",
         "img": {
           "src": "mv4/c3.jpg",
           "alt": "Autor desconocido. Monumento a los combatientes de la revolución de Octubre. en Almaty, Kasakhstan. Fuente: <a href='https://commons.wikimedia.org/wiki/File:ALAOctober.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público."
@@ -355,7 +355,7 @@
       {
         "title": "expresionismo norteamericano",
         "content": "Se considera la primera corriente de arte abstracto en Estados Unidos, caracterizada por obras pictóricas en lienzos de gran formato en donde arrojaban la pintura espontáneamente, creando imágenes libres y expresivas. Esta corriente se opuso al realismo socialista y se usó como una herramienta de expansión de las ideas expresadas por el bloque capitalista en la Guerra Fría.",
-        "audio": "url",
+        "audio": "mv4/c4.mp3",
         "img": {
           "src": "mv4/c4.jpg",
           "alt": "Jackson Pollock. Head. 1938-1941. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Head_(1938-1941)_-_Jackson_Pollock_(1912-1956).jpg' target='blank'> Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/deed.en' target='blank'>CC BY 2.0.</a>"
@@ -364,7 +364,7 @@
       {
         "title": "comunismo",
         "content": "Sistema económico propuesto por Karl Marx en el cual no existe la propiedad privada y la ganancia producida por los trabajadores se distribuye equitativamente, siendo todos los medios de producción administrados por el Estado. ",
-        "audio": "url",
+        "audio": "mv4/c5.mp3",
         "img": {
           "src": "mv4/c5.jpg",
           "alt": "John Jabez Edwin Mayall. Portrait of Karl Marx. 1875. Fuente:<a href='https://commons.wikimedia.org/wiki/File:Karl_Marx_001.jpg' target='blank'> Wikimedia Commons</a> bajo dominio público. "
@@ -373,7 +373,7 @@
       {
         "title": "capitalismo",
         "content": "Sistema económico propuesto por Adam Smith en donde el capital producido por los medios de producción a partir de la fuerza de trabajo obrera es de una persona o empresa privada; siendo éste, el motor de la economía de mercados y lo que diferencia las clases socioeconómicas.",
-        "audio": "url",
+        "audio": "mv4/c6.mp3",
         "img": {
           "src": "mv4/c6.jpg",
           "alt": "Autor desconocido. Retrato de Adam Smith. 1800. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Adam_Smith_The_Muir_portrait.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
@@ -384,19 +384,19 @@
       "src": "mv4/1.jpg",
       "alt": "Beatriz Daza. Dos días amarillos. 1966. Fuente: Colección MAMBO",
       "caption": "<a href='https://www.museolatertulia.com/beatriz-daza/' target='blank'>Beatriz Daza</a> (Pamplona, Colombia, 1927-1968) fue una ceramista y pintora pionera en los <a href='https://www.lifeder.com/ensamblaje-artistico/' target='blank'>ensamblajes</a> y la experimentación del lienzo como soporte de diferentes objetos. Esta obra es una de sus representaciones de espacios domésticos a partir de bodegones fragmentados.",
-      "audio": "url"
+      "audio": "mv4/1.mp3"
     },
     "img2": {
       "src": "mv4/2.jpg",
       "alt": "Alejandro Obregón. Violencia.  1962. Obregón. Hernán Díaz. Fuente: Colección MAMBO",
       "caption": "<a href='https://www.youtube.com/watch?v=P5MEvSnlxhM' target='blank'>Alejandro Obregón</a> (Barcelona, España, 1920-1992) vivió en el país desde los 6 años, hizo parte del Grupo de Barranquilla y fue un referente de la pintura moderna y contemporánea en Colombia. Creó imágenes que se debatían entre la figuración y la abstracción (expresionismo figurativo), que resaltaban las pinceladas expresivas y la mancha de color. Esta emblemática obra es un reflejo de su interés por denunciar la crudeza de la realidad nacional. ",
-      "audio": "url"
+      "audio": "mv4/2.mp3"
     },
     "img3": {
       "src": "mv4/3.jpg",
       "alt": "Edgar Negret. Rostro de Cristo. 1949. Fuente: Colección MAMBO",
       "caption": "<a href='https://www.latinamericanart.com/es/artista/edgar-negret/' target='blank'>Edgar Negret</a> (Popayán, Colombia, 1920-2012) fue uno de los escultores más influyentes de las artes plásticas en Colombia. Cuestionó las nociones de lo industrial y lo natural al incorporar en su escultura materiales representativos de la modernidad como el hierro, el aluminio y la madera. En esta obra, se aprecia una representación abstracta de una figura de la cultura religiosa colombiana. ",
-      "audio": "url"
+      "audio": "mv4/3.mp3"
     },
     "didYouKnowImg": {
       "src": "mv4/did_you_know.jpg",
@@ -456,26 +456,26 @@
     "title": "Arte Conceptual en el mundo",
     "history": "¿Qué es el arte conceptual?",
     "historyDescription": "Esta corriente aparece hacia la década de 1960 y consiste en reconocer el arte no solo por su valor <a href='https://www.significados.com/estetica/' target='_blank'>estético</a> sino por su valor intelectual. El arte conceptual no usa un medio específico pues no depende de la forma sino del contenido y de la capacidad de comunicar una idea, por eso puede ser una instalación, fotografía, ready-made, performance, obra gráfica o video-arte. \nLos artistas conceptuales se interesan por su <a href='https://www.definicionabc.com/general/contexto.php' target='_blank'>contexto</a>, se apropian de un <a href='https://www.unprofesor.com/ciencias-sociales/arte-conceptual-definicion-y-caracteristicas-1989.html' target='_blank'>tema</a> y por medio de una obra resignifican los objetos, las imágenes y los conceptos. Por ejemplo, en el <a href='https://www.landuum.com/historia-y-cultura/land-art-el-paisaje-como-lienzo/' target='_blank'>Land Art</a> el interés por el espacio llevó a los artistas a alterar el paisaje y a usar los materiales disponibles; por otro lado, en el <a href='https://tiposdearte.com/arte-minimalista-que-es/' target='_blank'>Minimalismo</a> los artistas se interesaron por la percepción alejándose de la representación realista (Tate, s. f.). \n\nEl periodo comprendido entre las décadas de 1960 y 1970 se caracterizó por grandes cambios sociales generados por diversos movimientos activistas en el mundo: los <a href='https://www.youtube.com/watch?v=g2CewziXoDg' target='_blank'>movimientos feministas</a> y <a href='https://www.youtube.com/watch?v=o6zoap0iSFw' target='_blank'> LGBT</a>, las <a href='https://www.youtube.com/watch?v=qGZpDt6OYnI' target='_blank'>organizaciones antirracistas</a>, las <a href='https://www.youtube.com/watch?v=eamLnq7Diyw' target='_blank'>manifestaciones en contra de la guerra de Vietnam</a> y las revueltas de París en <a href='https://www.youtube.com/watch?v=Tp-VXKQuQig' target='_blank'>Mayo del 68.</a> \n\nEn el arte conceptual a menudo se identifican y denuncian problemas del entorno social, político, religioso o ecológico, usando frecuentemente la ironía y la sátira. En adición, se cuestiona el significado mismo del arte afirmando que la subjetividad del artista define qué es arte y el espectador completa la obra con su interpretación (EcuRed, 2019). ",
-    "mainAudio": "url",
+    "mainAudio": "mv5/main.mp3",
     "author": "Cildo Merireles",
     "forWhat": "¿Un concepto para qué?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv5/forwhat.mp3",
     "didYouKnow": "Una de las primeras obras de arte conceptual fue un orinal instalado en una galería por Marcel Duchamp. IX Salón en 1952.",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv5/didyouknow.mp3",
     "questions": [
       "¿Qué significa que el contenido sea más importante que la forma?",
       "¿Qué crees que es arte y qué no?",
       "¿Cuáles son los métodos de investigación de los artistas? "
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv5/question.mp3",
     "gallery": [],
     "proposal": "En esta sección se propone reflexionar sobre las implicaciones de entender el arte como un proceso intelectual fundamentado en las ideas y conceptos.",
     "keyConcepts": [
       {
         "title": "contracultura",
         "content": "La contracultura son los valores y las expresiones sociales que se oponen a las establecidas en una sociedad. El término aparece en el año 1968, en uno de los libros del historiador Theodore Roszak para referirse a la generación beat, el movimiento hippie, la revolución sexual y los movimientos pacifistas estadounidenses.",
-        "audio": "url",
+        "audio": "mv5/c1.mp3",
         "img": {
           "src": "mv5/c1.jpg",
           "alt": "Mark Goff. Ceremonia de apertura del festival de Woodstock. 1969. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Swami_opening.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
@@ -484,7 +484,7 @@
       {
         "title": "contexto",
         "content": "Es el conjunto de condiciones físicas, sociopolíticas y culturales que rodean a un objeto o a una circunstancia. Define el uso, las costumbres y los valores de un grupo humano específico.",
-        "audio": "url",
+        "audio": "mv5/c2.mp3",
         "img": {
           "src": "mv5/c2.jpg",
           "alt": "Carlos Caicedo. Bogotá, 1975. Fuente: Colección MAMBO. "
@@ -493,7 +493,7 @@
       {
         "title": "estética",
         "content": "Es una disciplina filosófica que estudia la percepción, las sensaciones y los criterios para valorar la belleza y el gusto en el arte.",
-        "audio": "url",
+        "audio": "mv5/c3.mp3",
         "img": {
           "src": "mv5/c3.jpg",
           "alt": "Francisco Antonio Cano. Bodegón. 1912. Fuente: Colección MAMBO. "
@@ -504,19 +504,19 @@
       "src": "mv5/1.jpg",
       "alt": "Cildo Meireles.<a href='https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw' target='blank'>Zero cruzeiro.</a> 1974. Fuente: Colección MAMBO. ",
       "caption": "<a href='http://www.geifco.org/actionart/actionart03/secciones/1marca/artistas/EspacioAlObjeto/meireles/meireles.htm' target='blank'>Cildo Meireles</a> (Rio de Janeiro, Brasil, 1948) es un reconocido artista por sus aportes al arte conceptual latinoamericano mediante obras realizadas a partir del análisis de los sistemas económicos y políticos latinoamericanos. En esta serie que vemos él recrea una serie de billetes falsos para reflexionar sobre el capital, el poder y la explotación. ",
-      "audio": "url"
+      "audio": "mv5/1.mp3"
     },
     "img2": {
       "src": "mv5/2.jpg",
       "alt": "Andy Warhol. Campbell's soup cans. 1962. Edición especial. 2015. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Campbell%27s_%28Andy_Warhol_Special_edition%29.jpg' target='_blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/3.0/' target='_blank'>Creative Commons Attribution 3.0 Unported.</a>",
       "caption": "<a href='https://culturacolectiva.com/arte/andy-warhol-biografia-corta-obras-importantes-y-frases' target='blank'>Andy Warhol</a> (Pittsburg, Estados Unidos, 1928-1987) es reconocido como uno de los pioneros del Arte Pop en Estados Unidos. Warhol utilizó productos del mercado para reflexionar sobre el consumismo y la originalidad en el arte. En esta obra el artista copió la caja de un producto de consumo masivo y elaboró reproducciones de los empaques, poniendo en tela de juicio si cualquier objeto puede ser arte y señalando el consumismo como el modo de vida contemporáneo. ",
-      "audio": "url"
+      "audio": "mv5/2.mp3"
     },
     "img3": {
       "src": "mv5/3.jpg",
       "alt": "Nancy Holt. Sun Tunnels.  1976. Tubos de cemento agujereados. Fuente: Wikimedia Commons bajo la licencia C.C. 2.0.",
       "caption": "<a href='https://exit-express.com/adios-a-nancy-holt-pionera-del-land-art/' target='blank'>Nancy Holt </a>(Worcester, Estados Unidos, 1938-2014) fue una de las precursoras de nuevas formas de percibir el paisaje a través de obras transdisciplinares. En esta obra característica del Land Art y el Minimalismo instaló una serie de túneles de cemento con agujeros en una planicie. Cada 21 de diciembre, solsticio de invierno, el sol se alinea con los túneles reflejándose en el interior del túnel. ",
-      "audio": "url"
+      "audio": "mv5/3.mp3"
     },
     "didYouKnowImg": {
       "src": "mv5/did_you_know.jpg",
@@ -575,20 +575,22 @@
     "title": "Arte Conceptual en Colombia",
     "history": "¿Por qué surge el arte conceptual en Colombia?",
     "historyDescription": "En Colombia, como en la mayoría de países latinoamericanos, se vivía un estado de tensión social y político reflejado en un periodo de democracia restringida que inició con el <a href='https://www.radionacional.co/linea-tiempo-paz/golpe-estado-1953' target='_blank'>Golpe de Estado</a> de Rojas Pinilla en 1953 y continuó durante 16 años en el periodo conocido como <a href='https://enciclopedia.banrepcultural.org/index.php/El_Frente_Nacional' target='_blank'>Frente Nacional.</a> El arte conceptual surge como una reacción en contra de la arbitrariedad de las instituciones artísticas y políticas, razón por la que algunos artistas, como <a href='https://www.radionacional.co/noticia/la-memoria-de-feliza-bursztyn' target='_blank'>Feliza Bursztyn</a>, fueron perseguidos y tuvieron que exiliarse. \n\nLos artistas conceptuales en Colombia experimentaron con nuevos medios y formatos, combinando diferentes disciplinas artísticas como el ready-made, la fotografía y la instalación, entre otras. Los artistas crearon colectivos como <a href='https://www.elespectador.com/noticias/cultura/el-sindicato-de-barranquilla-la-aventura-del-arte-conceptual/' target='_blank'>el grupo de arte experimental El Sindicato</a> para cuestionar el individualismo y proponer nuevas ideas sobre la sociedad, consignadas en sus <a href='https://www.youtube.com/watch?v=tXHxuxDE870' target='_blank'>manifiestos</a> (Barrios, 1999). El uso de medios de reproducción como fotocopias y serigrafías fue una herramienta para sacar el arte de lugares oficiales y democratizar sus creaciones. Los <a href='https://alderecho.org/2019/10/20/tradicion-novedad-y-escandalo-un-prologo-al-salon-nacional-de-artistas-en-su-version-45/' target='_blank'>debates y polémicas</a> asociados al <a href='https://universes.art/es/sna-colombia/salon-nacional-colombia-historia' target='_blank'>Salón Nacional de Artistas</a> revelan el deseo de los artistas por transgredir esta institución que hasta el año 1978 reconoció las propuestas del arte conceptual y dio el primer premio a la obra <a href='http://liberatorio.org/?p=8026' target='_blank'>“A-la-cena con Zapatos”</a> de El Sindicato. (Herrera, 2011) ",
-    "mainAudio": "url",
+    "mainAudio": "mv6/main.mp3",
     "author": "Feliza Burstyn",
     "forWhat": "¿Contexto y arte?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la relación entre la contracultura (los movimientos sociales de los 60 y 70) y la creación de nuevas expresiones artísticas en Colombia. ",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv6/forwhat.mp3",
     "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá. ",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv6/didyouknow.mp3",
+    "activity": "",
+    "activityAudio": "mv6/activity.mp3",
     "questions": [
       "¿Cómo se refleja la democracia en el arte?",
       "¿Qué elementos podrías reconocer del contexto histórico en una obra de arte?",
       "¿Por qué crees que los artistas se manifiestan con obras y acciones disruptivas?",
       "¿Cuáles luchas de los movimientos sociales de los 60 y 70 siguen vigentes y por qué?"
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv6/question.mp3",
     "gallery": [
       {
         "src": "mv6/g1.jpg",
@@ -601,7 +603,7 @@
       {
         "title": "golpe de estado",
         "content": "Derrocamiento civil o militar de un gobierno elegido democráticamente. En el caso Colombiano se refiere al gobierno militar liderado por Gustavo Rojas Pinilla instaurado después de un golpe de estado al presidente conservador Laureano Gómez, caracterizado por una alta restricción de derechos y libertades civiles y la construcción de importantes obras de infraestructura para el país.",
-        "audio": "url",
+        "audio": "mv6/c1.mp3",
         "img": {
           "src": "mv6/c1.jpg",
           "alt": "Autor desconocido. Retrato de Gustavo Rojas Pinilla. S,f. Fuente: Wikimedia Commons bajo la licencia CC BY SA 4.0."
@@ -610,7 +612,7 @@
       {
         "title": "frente nacional",
         "content": "Periodo de democracia restringida entre 1957 y 1974 en el que los partidos liberal y conservador se tomaron la presidencia. Se le atribuye a este periodo el origen del conflicto armado por la exclusión de las ideas socialistas del escenario político.",
-        "audio": "url",
+        "audio": "mv6/c2.mp3",
         "img": {
           "src": "mv6/c2.jpg",
           "alt": "Revista Semana. General Gustavo Rojas Pinilla, Presidente de Colombia rodeado por su gabinete. 1956. Fuente:<a href='https://commons.wikimedia.org/wiki/File:Cabinet_of_Rojas_Pinilla.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
@@ -619,7 +621,7 @@
       {
         "title": "salón nacional de arte",
         "content": "Exposición anual que se inauguró en 1940 por el entonces Ministro de Educación Jorge Eliécer Gaitán y el presidente Eduardo Santos. Este evento, en el que se premiaba a los artistas más destacados, fue una plataforma de exhibición y debate nacional que documentó importantes propuestas del arte moderno y contemporáneo durante las siguientes décadas.",
-        "audio": "url",
+        "audio": "mv6/c3.mp3",
         "img": {
           "src": "mv6/c3.jpg",
           "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
@@ -630,18 +632,20 @@
       "src": "mv6/1.jpg",
       "alt": "Feliza Bursztyn. Cuja. 1972. Fuente: Colección MAMBO",
       "caption": "<a href='https://cerosetenta.uniandes.edu.co/feliza-bursztyn-en-un-pais-de-machistas-hagase-la-loca/' target='blank'>Feliza Burstyn</a> (Bogotá, Colombia, 1933-1982) es considerada la precursora de la instalación en Colombia. Una escultora polémica y transgresora que fue capaz de ir en contra del orden establecido en el arte, usando materiales no convencionales como chatarra de hierro, desperdicios de acero inoxidable y motores para realizar sus composiciones escultóricas. De igual manera, se interesó por incluir movimiento y sonido en sus obras; en su serie de camas-esculturas cubiertas de telas brillantes se sugieren cuerpos en movimiento durante sus actos sexuales. Con esto Feliza buscó escenificar un momento íntimo y privado para sacarlo a lo público, creando un ambiente de erotismo que envuelve al espectador en una experiencia emotiva y sensorial. ",
-      "audio": "url"
+      "audio": "mv6/1.mp3"
     },
     "img2": {
       "src": "mv6/2.jpg",
       "alt": "Jonier Marín. Papel y lápiz.  1976. Fuente: Colección MAMBO",
       "caption": "<a href='https://ceronresumido.com/Jonier-Marin-Obra-activa' target='blank'>Jonier Marín</a> (Argelia, Colombia, 1946) cuestiona los procesos tradicionales del arte, y con su propuesta genera una obra que nos plantea la pregunta ¿qué es el arte y quién lo valida?</br></br> 'Sin perder tiempo propuse a artistas que conocí viajando, dibujar a lápiz en una hoja cualquier cosa, y adjuntar su retrato al dibujo, validando así la obra'. Jonier Marín.",
-      "audio": "url"
+      "audio": "mv6/2.mp3"
     },
     "img3": {
       "src": "mv6/3.jpg",
       "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO",
       "caption": "<a href='http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html' target='blank'>Álvaro Barrios</a> (Cartagena, Colombia, 1945) es un artista del Caribe colombiano que desde joven manifestó su interés por el conceptualismo, realizando ready-mades y apropiaciones de la gráfica popular. En esta obra, el artista hace referencia a la obra de Marcel Duchamp; Barrios utiliza plexiglás e incorpora una serie de cartas, notas y fotografías que hicieron parte de un intercambio realizado con un amigo suyo. "
+      ,"audio": "mv6/3.mp3"
+      
     },
     "questionImg": {
       "src": "mv6/question.jpg",
@@ -694,31 +698,31 @@
     "title": "Arte Contemporáneo en el Mundo",
     "history": "Orígenes del arte contemporáneo",
     "historyDescription": "El <a href='https://arteaunclick.es/2018/06/13/arte-contemporaneo/' target='_blank'>arte contemporáneo</a> surge en la segunda mitad del siglo XX y se caracteriza por una multiplicidad de abordajes teóricos y técnicos. Los artistas contemporáneos llevan las prácticas del arte hasta sus límites y buscan generar en el espectador una <a href='https://www.youtube.com/watch?v=5i5cEhd6Vt8' target='_blank'>reflexión crítica</a> a partir de sus investigaciones personales. Los artistas empiezan a abarcar los diferentes campos del conocimiento de manera <a href='http://ramonazocargestiondetalentohumano.blogspot.com/2013/05/distincion-entre-interdisciplinario.html' target='_blank'>transdisciplinar.</a> \n\nLa globalización y el acceso a internet han permitido la expansión de nuevas tecnologías, proporcionando al público un nuevo acercamiento de la imagen por medio de la pantalla (Ampudia, 2016). La incursión de la tecnología y los nuevos medios proponen diversas relaciones entre las obras de arte, el público y los artistas, lo que resulta en propuestas frecuentemente <a href='https://www.hisour.com/es/interactive-art-21343/' target='_blank'>interactivas</a> y <a href='https://culturacolectiva.com/generales/que-es-el-arte-relacional' target='_blank'>relacionales</a> como el <a href='https://proyectoidis.org/happening/' target='_blank'>happening</a> y el <a href='https://proyectoidis.org/performance/' target='_blank'>performance</a>. Muchas veces en el arte contemporáneo el espectador pasa participar en la obra, ofreciéndole la posibilidad de <a href='http://manifiestodearte.com/descubriendo-el-arte-inmersivo/' target='_blank'>inmergirse</a> en ambientes que involucran todos los sentidos (Pazos, 2018).",
-    "mainAudio": "url",
+    "mainAudio": "mv7/main.mp3",
     "author": "Damien Hirst",
     "forWhat": "¿Infinitas posibilidades?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador. ",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv7/forwhat.mp3",
     "didYouKnow": "El mercado del arte internacional ha crecido recientemente como una inversión, con obras de altos precios que circulan entre coleccionistas privados y museos.",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv7/didyouknow.mp3",
     "questions": [
       "¿Cuáles crees que son las posibilidades que se presentan al abordar el arte como una práctica transdisciplinar?",
       "¿Cómo afecta la tecnología nuestra relación con el mundo?",
       "¿Cuáles son las oportunidades que ofrecen las obras que involucran al espectador?"
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv7/question.mp3",
     "gallery": [
       {
         "src": "mv7/g1.jpg",
         "alt": "Kara Walker. A subtlety.  2014. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Kara_Walker_Sculpture_exhibition._Brooklyn_(2014)_-_2.jpg' target='_blank'> Wikimedia Commons</a> bajo la <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' target='_blank'>licencia CC BY - SA 3.0.</a>",
         "caption": "<a href='https://nodisparenalartista.wordpress.com/2012/09/28/kara-walker/' target='_blank'>Kara Walker</a> (Stockton, Estados Unidos, 1969) es una artista afro que desde los 60 ha incursionado en el dibujo, el collage, la instalación y el cine. Su obra está ambientada en la época de la preguerra civil norteamericana, usa personajes construidos con siluetas, cuestiona las nociones de raza, género e identidad. Esta obra realizada con azúcar conocida como “sugar mammy” es una reflexión sobre el racismo y la colonización.",
-        "audio": "url"
+        "audio": "mv7/g1.mp3"
       },
       {
         "src": "mv7/g2.jpg",
         "alt": "<a href='https://www.youtube.com/watch?v=traUaknfR5o' target='_blank'>Marina Abramovic. La artista está presente. 2010</a>. Fuente: <a href='https://commons.wikimedia.org/wiki/File:ArtistIsPresent.jpg' target='_blank'>Wikimedia Commons</a> bajo la <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' target='_blank'>licencia CC BY-SA 3.0.</a>",
         "caption": "<a href='https://www.alejandradeargos.com/index.php/es/completas/32-artistas/41444-marina-abramovic-biografia-obra-exposiciones' target='_blank'>Marina Abramovic</a> (Belgrado, Serbia, 1946) es una artista conocida por ser precursora del performance. A lo largo de su vida propuso diferentes acciones artísticas que tendían a involucrar al público, cuestionando los límites entre el arte y la vida. Esta obra propone una acción muy simple: mirar a los ojos del espectador durante el tiempo que este decida. Este performance invita a la participación del público a partir del silencio y la mirada generando un espacio íntimo y profundo en el museo. ",
-        "audio": "url"
+        "audio": "mv7/g2.mp3"
       }
     ],
     "proposal": "En esta sección se propone reflexionar sobre la transdisciplinariedad en el arte, el uso de las tecnologías y las múltiples posibilidades de interacción con el espectador.",
@@ -726,7 +730,7 @@
       {
         "title": "transdisciplinar",
         "content": "Es la práctica de un conocimiento integral que trasciende la división de las disciplinas para estimular la innovación y creatividad. Por ejemplo el arte en diálogo con otras disciplinas como la ciencia, la sociología o el diseño.",
-        "audio": "url",
+        "audio": "mv7/c1.mp3",
         "img": {
           "src": "mv7/c1.jpg",
           "alt": "Blake Patterson. The art of video games exhibition crowd. Fuente: <a href='https://es.wikipedia.org/wiki/Archivo:The_art_of_video_games_exhibition_crowd.jpg' target='blank'>Wikimedia Commons</a> bajo <a href='https://creativecommons.org/licenses/by/2.0/deed.es' target='blank'>CC BY 2.0</a>"
@@ -735,7 +739,7 @@
       {
         "title": "globalización",
         "content": "Proceso de intercambio y comunicación global potenciado por el internet, las tecnologías virtuales y la expansión del modelo económico de desarrollo.",
-        "audio": "url",
+        "audio": "mv7/c2.mp3",
         "img": {
           "src": "mv7/c2.jpg",
           "alt": "Internet map. The Opte Project. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Internet_map_1024.jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by/2.5/deed.en' target='blank'>CC BY S.A 2.5</a>"
@@ -744,7 +748,7 @@
       {
         "title": "arte interactivo",
         "content": "Obras de arte que proponen un intercambio con el espectador a través de sistemas mecánicos o interfaces digitales o virtuales que generan acción y reacción entre el público y la obra.",
-        "audio": "url",
+        "audio": "mv7/c3.mp3",
         "img": {
           "src": "mv7/c3.jpg",
           "alt": "Interactive whiteboard. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Interactive_whiteboard2.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
@@ -753,7 +757,7 @@
       {
         "title": "arte inmersivo",
         "content": "En su mayoría son instalaciones en donde el espectador ya no solo contempla la obra sino que es parte de ella y la experimenta a través de los sentidos.",
-        "audio": "url",
+        "audio": "mv7/c4.mp3",
         "img": {
           "src": "mv7/c4.jpg",
           "alt": "Immersive shadow. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Immersive_Shadow.jpg' target='blank'>Wikimedia Commons</a> bajo dominio público. "
@@ -762,7 +766,7 @@
       {
         "title": "arte relacional",
         "content": "Obras de arte que conciben las relaciones sociales como materia prima de la creación artística, por lo tanto muchas de estas obras han sido performances y happenings.",
-        "audio": "url",
+        "audio": "mv7/c5.mp3",
         "img": {
           "src": "mv7/c5.jpg",
           "alt": "Le tunnel sous l’atlantique, Moben. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Immersive_Shadow.jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by/3.0/deed.en' target='blank'>CC BY SA 3.0</a>"
@@ -773,19 +777,19 @@
       "src": "mv7/1.jpg",
       "alt": "Damien Hirst. La imposibilidad física de la muerte en la mente del vivo.  1991. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Shark83.JPG' target='blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.es' target='_blank'>Creative Commons Genérica de Atribución/Compartir-Igual 3.0.</a>",
       "caption": "<a href='http://velvet-mag.lat/2019/07/04/controversia-muerte-y-colores-damien-hirst/' target='blank'>Damien Hirst</a> (Bristol, Reino Unido, 1965) es uno de los artistas contemporáneos más cotizados en el mercado del arte. Realiza esta serie de esculturas con animales disecados en formol para cuestionar al público por lo efímero y los límites entre la vida y la muerte. ",
-      "audio": "url"
+      "audio": "mv7/1.mp3"
     },
     "img2": {
       "src": "mv7/2.jpg",
       "alt": "<a href='https://www.vice.com/es/article/xy5z97/la-princesa-de-los-lunares-yayoi-kusama' target='blank'>Yayoi Kusama. Obsesión de puntos. 1999.</a> Fuente: <a href='https://vivetotalmentepalacio.mx/perfil-yayoi-kusama/' target='_blank'>Wikimedia Commons</a> bajo la licencia <a href='https://creativecommons.org/licenses/by/2.0/deed.es' target='_blank'>CC BY 2.0.</a>",
       "caption": "<a href='https://www.alejandradeargos.com/index.php/es/completas/32-artistas/41530-yayoi-kusama-biografia-obra-y-exposiciones' target='blank'>Yayoi Kusama</a> (Matsumoto, Japón, 1929) es una artista que construye grandes ambientes con texturas, manchas y colores ofreciendo una experiencia inmersiva en la que la sensación del espacio y el cuerpo cambian por completo. Sus instalaciones artísticas son espacios alucinantes.",
-      "audio": "url"
+      "audio": "mv7/2.mp3"
     },
     "img3": {
       "src": "mv7/3.jpg",
       "alt": "Banksy. <a href='https://commons.wikimedia.org/wiki/File:Banksy_lovers.jpg' target='blank'>Lovers.</a>  2006. Fuente: Wikimedia Commons bajo la licencia CC BY 2.0.",
       "caption": "<a href='https://www.oldskull.net/design/banksy-mas-que-un-artista/' target='blank'>Banksy</a> (Bristol, Reino Unido, 1974) es el sobrenombre de uno de los artistas más conocidos del arte urbano. A partir de la incursión del Arte Pop en medios gráficos y publicitarios, las prácticas artísticas en el espacio urbano han adquirido un importante protagonismo. En esta obra Banksy recrea una escena graciosa, utilizando el muro como una superficie narrativa en el espacio público.",
-      "audio": "url"
+      "audio": "mv7/3.mp3"
     },
     "didYouKnowImg": {
       "src": "mv7/did_you_know.jpg",
@@ -847,33 +851,33 @@
     "title": "Arte contemporáneo en Colombia",
     "history": "Expresiones del arte contemporáneo en Colombia",
     "historyDescription": "A partir de la década de 1950 Colombia vivió importantes transformaciones sociales marcadas por el rápido crecimiento urbano, causado por el desplazamiento y la modernización. Las nuevas representaciones de la ciudad fueron un tema recurrente para artistas como <a href='http://fernellfranco.org/' target='_blank'>Fernell Franco</a>, <a href='https://cerosetenta.uniandes.edu.co/carlos-caicedo-el-fotografo-del-instante/' target='_blank'>Carlos Caicedo</a> o <a href='https://enciclopedia.banrepcultural.org/index.php/Dora_Franco' target='_blank'>Dora Franco</a>, quienes emplearon la fotografía artísticamente, conectándose con otros ámbitos de la producción visual como el diseño, la <a href='https://fabianfajardoescobar.wordpress.com/2016/11/30/arte-pop-y-publicidad/' target='_blank'>publicidad</a>, la <a href='https://www.youtube.com/watch?v=yUBmRk7rQzk' target='_blank'>gráfica popular</a> y los medios de <a href='https://www.youtube.com/watch?v=wyG7nuRAs6g' target='_blank'>comunicación</a>. \n\nLas luchas por los derechos y libertades de género motivaron la creación de obras en torno al cuerpo, el homoerotismo y la sexualidad, abriendo en el arte un espacio para la libre expresión. Artistas como María Evelia Marmolejo, <a href='https://enciclopedia.banrepcultural.org/index.php/Luis_Caballero_Holgu%C3%ADn' target='_blank'>Luis Caballero</a> o <a href='https://calicreativa.com/karen-lamassonne-exposicion-tertulia/' target='_blank'>Karen Lamassonne</a>, realizaron obras en torno a su identidad de género, combinando diferentes técnicas como el dibujo, el video y el performance. Las tensiones políticas y sociales de los decenios de 1960 y 1970, incitaron a la producción de obras que cuestionaron los símbolos patrios, religiosos y culturales; esto se refleja en las obras de <a href='https://tienda.artedos.com/collections/artista-antonio-caro' target='_blank'>Antonio Caro</a> y <a href='https://artishockrevista.com/2017/02/21/bernardo-salcedo-las-cosas-palabras/' target='_blank'>Bernardo Salcedo</a> (Jaramillo, Suarez y Wills, 2018) \n\nEl Museo de Arte Moderno de Bogotá (MAMBO) se conectó con los museos de Arte Moderno de Medellín, Cali y Barranquilla para visibilizar artistas de diferentes regiones. Dos acontecimientos determinantes para el Arte Contemporáneo en Colombia sucedieron en el MAMBO: la exposición <a href='http://www.museonacional.gov.co/noticias/Paginas/inaugura%20la%20exposicio%CC%81n%20Espacios%20Ambientales%20en%20el%20Museo%20de%20Arte%20Moderno.aspx' target='_blank'>Espacios Ambientales</a> que introdujo la instalación y los <a href='https://www.eltiempo.com/archivo/documento/MAM-6028570' target='_blank'>Salones Atenas</a que fortalecieron el surgimiento del arte contemporáneo (Jaramillo, 2012). ",
-    "mainAudio": "url",
+    "mainAudio": "mv8/main.mp3",
     "author": "Beatriz González",
     "forWhat": "¿Arte de hoy?",
     "forWhatContent": "En esta sección se propone que los docentes y estudiantes reflexionen sobre las expresiones particulares del arte contemporáneo y el rol de los artistas en el contexto social, político y cultural colombiano. ",
-    "forWhatAudio": "url",
+    "forWhatAudio": "mv8/forwhat.mp3",
     "didYouKnow": "En la Constitución de 1991 el Estado reconoce su deber de fomentar el acceso al arte y la cultura en la sociedad como garantía de los derechos de toda la ciudadanía a la libre expresión de su identidad.",
-    "didYouKnowAudio": "url",
+    "didYouKnowAudio": "mv8/didyouknow.mp3",
     "activity": "Después de realizar este recorrido desde el Arte Moderno en el mundo hasta el Arte Contemporáneo en Colombia, ya tienes las herramientas creativas para realizar una obra de arte. Te invitamos a proponer una obra de arte con los medios que tengas disponibles y que exprese una inconformidad personal.",
-    "activityAudio": "url",
+    "activityAudio": "mv8/activity.mp3",
     "questions": [
       "¿Cuáles han sido las influencias del arte en la historia de Colombia?",
       "¿Sobre qué temas te gustaría hacer arte hoy?",
       "¿Cómo el arte puede incidir en el cambio de los estereotipos y la discriminación? "
     ],
-    "questionsAudio": "url",
+    "questionsAudio": "mv8/question.mp3",
     "gallery": [
       {
         "src": "mv8/g1.jpg",
         "alt": "Catalina Mejía. Rosas y espinas.  2011. Mixta sobre tela. Fuente: Colección MAMBO.",
         "caption": "<a target='_blank' href='http://www.artnet.com/artists/catalina-mej%C3%ADa/biography'>Catalina Mejía</a> (Bogotá, Colombia, 1962) es una artista representativa de la pintura contemporánea en Colombia. Ha experimentado con el collage, proponiendo imágenes enigmáticas con atmósferas nostálgicas a través del manejo de la luz. En esta obra se evidencia la sencillez y sensibilidad de la artista, entre lo figurativo y lo abstracto nos transmite una sensación profunda y dramática.",
-        "audio": "url"
+        "audio": "mv8/g1.mp3"
       },
       {
         "src": "mv8/g2.jpg",
         "alt": "Juan Manuel Echavarría. Requiem NN.  2006-2015. Fuente: Colección MAMBO. ",
         "caption": "<a target='_blank' href='https://jmechavarria.com/es/work/requiem-nn/'>Juan Manuel Echavarría</a>(Medellín, Colombia, 1947) es un artista que desde la década de los 90 explora los diferentes territorios del país en busca de la huella del conflicto armado. A través de la fotografía y el video registra escenarios donde sucedieron hechos de violencia para conservar su memoria y generar una mirada poética sobre la realidad. Esta obra son fotografías de las lápidas de un cementerio a orillas del río Magdalena donde han sido enterrados los cuerpos de los N.N. arrojados río abajo. ",
-        "audio": "url"
+        "audio": "mv8/g2.mp3"
       }
     ],
     "proposal": "En esta sección se propone reflexionar sobre las expresiones particulares del arte contemporáneo y el papel de los artistas en el contexto social, político y cultural colombiano. ",
@@ -881,7 +885,7 @@
       {
         "title": "nuevos medios",
         "content": "Técnicas y estrategias del arte contemporáneo como el readymade, el video, el performance y la instalación entre otras, que ampliaron la tradición de la historia del arte fundamentada en el dibujo, la pintura y la escultura.",
-        "audio": "url",
+        "audio": "mv8/c1.mp3",
         "img": {
           "src": "mv8/c1.jpg",
           "alt": "José Alejandro Restrepo. Atrio y nave central. 1996. Videoinstalación. Fuente: Colección MAMBO."
@@ -890,7 +894,7 @@
       {
         "title": "conflicto armado",
         "content": "Enfrentamiento armado con más de ocho millones de víctimas que surgió en los años 60 con la fundación de la guerrilla de las Fuerzas Armadas Revolucionarias de Colombia FARC y culminó con el acuerdo de paz firmado en el gobierno de Juan Manuel Santos en el 2016. Sin embargo, aunque este acuerdo puso fin a un conflicto histórico, en algunas regiones la violencia continúa.",
-        "audio": "url",
+        "audio": "mv8/c2.mp3",
         "img": {
           "src": "mv8/c2.jpg",
           "alt": "Jefa de Estado participa en ceremonia de la Firma de la Paz entre el Gobierno de Colombia y las FARC E.P. Gobierno de Chile. 2016. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Jefa_de_Estado_participa_en_ceremonia_de_la_Firma_de_la_Paz_entre_el_Gobierno_de_Colombia_y_las_FARC_E.P._(29953487045).jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by/2.0/deed.en' target='blank'>CC BY 2.0</a>"
@@ -899,7 +903,7 @@
       {
         "title": "constitución del 91",
         "content": "La Asamblea Nacional Constituyente del año 1991 fue resultado del acuerdo de paz entre el gobierno de Belisario Betancur y el grupo guerrillero M - 19. En esta asamblea, se elaboró la Constitución Política de Colombia, documento que consolidó la democracia en nuestro país.",
-        "audio": "url",
+        "audio": "mv8/c3.mp3",
         "img": {
           "src": "mv8/c3.jpg",
           "alt": "Fotografía de una publicación de la constitución colombiana. El libro se imprimió en el mes de diciembre en 1991, en los talleres de IMPREANDES, S. A., Bogotá, Colombia. 2019. Fuente: <a href='https://commons.wikimedia.org/wiki/File:Constituc%C3%B3n_Pol%C3%ADtica_de_Colombia_1991.jpg' target='blank'>Wikimedia Commons</a> bajo licencia <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' target='blank'>CC BY SA 3.0</a>"
@@ -910,19 +914,19 @@
       "src": "mv8/1.jpg",
       "alt": "Beatriz González. Naturaleza casi muerta. 1970. Fuente: Colección MAMBO",
       "caption": "<a href='https://elpais.com/cultura/2018/03/15/babelia/1521129712_110230.html' target='blank'>Beatriz González</a> (Bucaramanga, Colombia, 1938) es una de las artistas más reconocidas de Colombia, su trabajo ha explorado los límites entre la pintura y la escultura, usando imágenes de la cultura popular en objetos cotidianos para comunicar sus reflexiones sobre el contexto colombiano y las problemáticas asociadas al conflicto, el género y el paisaje. En esta obra, la artista interviene una cama de madera con una imagen religiosa. ",
-      "audio": "url"
+      "audio": "mv8/1.mp3"
     },
     "img2": {
       "src": "mv8/2.jpg",
       "alt": "Óscar Muñoz. Cortinas de baño. 1986. Acrílico sobre plástico. Fuente: Colección MAMBO",
       "caption": "<a href='https://www.banrepcultural.org/oscar-munoz/cortinas-bano.html' target='blank'>Oscar Muñoz</a> (Popayán, Colombia, 1951) es un artista que ha explorado diferentes soportes y materiales; incluso el video y la fotografía para realizar propuestas que incorporan el tiempo y el espacio en el dibujo. En esta serie de cortinas de baño con siluetas humanas dibujadas en ellas, el artista realiza un comentario sobre la intimidad y la ausencia de los cuerpos.",
-      "audio": "url"
+      "audio": "mv8/2.mp3"
     },
     "img3": {
       "src": "mv8/3.jpg",
       "alt": "Maria Fernanda Cardoso. Corona para una princesa chibcha. 1990. Fuente: Colección MAMBO",
       "caption": "<a href='http://camilolamprea.blogspot.com/2015/03/referentes-en-el-tema-de-y-bi-ologia.html' target='blank'>Maria Fernanda Cardoso</a> (Bogotá, Colombia, 1963) es una artista multidisciplinar que ha investigado la naturaleza a través de la fotografía, la escultura y el performance. Su trabajo la ha llevado a importantes escenarios como la Bienal de Venecia. Esta obra es una corona de lagartijas disecadas. ",
-      "audio": "url"
+      "audio": "mv8/3.mp3"
     },
     "didYouKnowImg": {
       "src": "mv8/did_you_know.jpg",
