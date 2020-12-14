@@ -103,7 +103,7 @@ export default function MAMBOImage({
                   )}
                   {audio && (
                     <AudioContainer>
-                      <Accessibility />
+                      <Accessibility src={audio} />
                     </AudioContainer>
                   )}
                 </Description>

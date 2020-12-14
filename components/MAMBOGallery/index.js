@@ -145,7 +145,7 @@ export default function MAMBOGallery({
                       )}
                       {img.audio && (
                         <AudioContainer>
-                          <Accessibility />
+                          <Accessibility src={img.audio} />
                         </AudioContainer>
                       )}
                     </Description>

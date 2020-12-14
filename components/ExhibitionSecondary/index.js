@@ -87,7 +87,7 @@ function ExhibitionSecondary({ exhibition, config }) {
               <RowEnd>
                 {didYouKnowAudio && (
                   <AudioContainerAlt text={text}>
-                    <Accessibility />
+                    <Accessibility src={didYouKnowAudio} />
                   </AudioContainerAlt>
                 )}
               </RowEnd>
@@ -122,7 +122,7 @@ function ExhibitionSecondary({ exhibition, config }) {
               <RowEnd>
                 {activityAudio && (
                   <AudioContainerAlt text={text}>
-                    <Accessibility />
+                    <Accessibility src={activityAudio} />
                   </AudioContainerAlt>
                 )}
               </RowEnd>
@@ -153,7 +153,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                 <div>
                   {questionsAudio && (
                     <AudioContainerAlt text={text}>
-                      <Accessibility />
+                      <Accessibility src={questionsAudio} />
                     </AudioContainerAlt>
                   )}
                   {questions.map((question) => (
@@ -185,7 +185,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                   <ConceptInfoContainer>
                     {keyConcept.audio && (
                       <AudioContainerAlt text={text}>
-                        <Accessibility />
+                        <Accessibility src={keyConcept.audio} />
                       </AudioContainerAlt>
                     )}
                     <h3>{keyConcept.title}</h3>
@@ -227,7 +227,7 @@ function ExhibitionSecondary({ exhibition, config }) {
           <Title color={color}>
             {forWhatAudio && (
               <AudioContainer>
-                <Accessibility />
+                <Accessibility src={forWhatAudio} />
               </AudioContainer>
             )}
             {forWhat}
