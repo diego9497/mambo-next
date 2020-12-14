@@ -97,6 +97,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                     <MAMBOImage
                       src={didYouKnowImg.src}
                       alt={didYouKnowImg.alt}
+                      audio={didYouKnow.audio}
                       position={id === 6 ? "top" : "center"}
                     />
                   </ImageOfMenuContainer>
@@ -128,7 +129,11 @@ function ExhibitionSecondary({ exhibition, config }) {
               </RowEnd>
               <BigFont>
                 <ImageOfMenuContainer>
-                  <MAMBOImage src={activityImg.src} alt={activityImg.alt} />
+                  <MAMBOImage
+                    src={activityImg.src}
+                    alt={activityImg.alt}
+                    audio={activity.audio}
+                  />
                 </ImageOfMenuContainer>
                 {activity}
               </BigFont>
@@ -149,7 +154,11 @@ function ExhibitionSecondary({ exhibition, config }) {
             </MenuContentTitleContainer>
             <MenuContentDetailContainer text={text}>
               <QuestionContainer height="100%">
-                <MAMBOImage src={questionImg.src} alt={questionImg.alt} />
+                <MAMBOImage
+                  src={questionImg.src}
+                  alt={questionImg.alt}
+                  audio={questionImg.audio}
+                />
                 <div>
                   {questionsAudio && (
                     <AudioContainerAlt text={text}>
