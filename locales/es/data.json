@@ -84,7 +84,7 @@
       "src": "mv1/1.jpg",
       "alt": "Oscar Monsalve. Valla de la inauguración de la Primera Etapa del MAMBO en la sede actual. 1979. Archivo MAMBO.",
       "caption": "<a href='https://www.wradio.com.co/noticias/actualidad/fotografiar-arte-exige-el-maximo-respeto-al-artista-oscar-monsalve/20200624/nota/4049652.aspx' target='_blank' >Oscar Monsalve</a> fue el fotógrafo oficial del Museo durante varios años, consolidando una importante memoria visual del arte Moderno y contemporáneo en Colombia. En esta serie de fotografías se pueden observar la construcción de la sede actual del Museo y el montaje de algunas exposiciones representativas.",
-      "audio": "url"
+      "audio": "mv1/1.mp3"
     },
     "img2": {
       "src": "mv1/2.jpg",
@@ -582,7 +582,7 @@
     "forWhatAudio": "mv6/forwhat.mp3",
     "didYouKnow": "Uno de los primeros performance en Colombia fue realizado por un grupo de artistas que descolgaron sus cuadros del Salón Nacional de Artistas y quemaron después unos ataúdes en el centro de Bogotá. ",
     "didYouKnowAudio": "mv6/didyouknow.mp3",
-    "activity": "",
+    "activity": "Desarrolla una obra de arte conceptual en donde plasmes una problemática de tu contexto local.",
     "activityAudio": "mv6/activity.mp3",
     "questions": [
       "¿Cómo se refleja la democracia en el arte?",
@@ -643,9 +643,8 @@
     "img3": {
       "src": "mv6/3.jpg",
       "alt": "Álvaro Barrios. El Gran Plexi. 1979. Fuente: Colección MAMBO",
-      "caption": "<a href='http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html' target='blank'>Álvaro Barrios</a> (Cartagena, Colombia, 1945) es un artista del Caribe colombiano que desde joven manifestó su interés por el conceptualismo, realizando ready-mades y apropiaciones de la gráfica popular. En esta obra, el artista hace referencia a la obra de Marcel Duchamp; Barrios utiliza plexiglás e incorpora una serie de cartas, notas y fotografías que hicieron parte de un intercambio realizado con un amigo suyo. "
-      ,"audio": "mv6/3.mp3"
-      
+      "caption": "<a href='http://esculturasdecolombia.blogspot.com/2018/11/la-leyenda-del-sueno-alvaro-barrios.html' target='blank'>Álvaro Barrios</a> (Cartagena, Colombia, 1945) es un artista del Caribe colombiano que desde joven manifestó su interés por el conceptualismo, realizando ready-mades y apropiaciones de la gráfica popular. En esta obra, el artista hace referencia a la obra de Marcel Duchamp; Barrios utiliza plexiglás e incorpora una serie de cartas, notas y fotografías que hicieron parte de un intercambio realizado con un amigo suyo. ",
+      "audio": "mv6/3.mp3"
     },
     "questionImg": {
       "src": "mv6/question.jpg",
@@ -654,6 +653,10 @@
     "didYouKnowImg": {
       "src": "mv6/c3.jpg",
       "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional en Re-Vista del arte y la arquitectura en Ameríca Latina (Medellín, Colombia) - Vol. 2 no. 6 , p. 17-21, 1981. Cortesía Familia Sierra Maya. "
+    },
+    "activityImg": {
+      "src": "mv2/4g2.jpg",
+      "alt": "Grupo El Sindicato. Alacena con zapatos. 1978. Fuente: Colección MAMBO"
     },
     "knowMore": [
       {

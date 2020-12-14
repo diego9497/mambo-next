@@ -62,7 +62,7 @@ function Accessibility({ src, ...props }) {
           />
         </g>
       </svg>
-      <audio src={`/audio/${src}`} ref={audio} />
+      <audio src={`/audio/${src}`} ref={audio} onEnded={() => { setPlaying(false) }} />
     </div>
   );
 }

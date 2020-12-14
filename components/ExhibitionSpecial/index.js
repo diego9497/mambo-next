@@ -104,7 +104,7 @@ export default function ExhibitionSpecial({ exhibition, config }) {
               <Title color={color}>
                 {sectionAudio && (
                   <AudioContainer>
-                    <Accessibility sectionAudio={sectionAudio} />
+                    <Accessibility src={sectionAudio} />
                   </AudioContainer>
                 )}
                 {title}

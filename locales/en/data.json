@@ -529,6 +529,7 @@
     "forWhat": "Art and context",
     "forWhatContent": "This section proposes to reflect on the relationship between 60s and 70s Counterculture and new forms of artistic expression in Colombia.",
     "didYouKnow": "Did you one of the first pieces of performance art in Colombia occurred when a group of artists unhooked their paintings from the wall in the Salón Nacional de Artistas, and set fire to several coffins in the centre of Bogotá.",
+    "activity": "Develop a work of conceptual art where you capture a problem from your local context.",
     "questions": [
       "How is democracy reflected in art?",
       "What elements of historical context do you recognise in a work of art? ",
@@ -591,6 +592,10 @@
     "didYouKnowImg": {
       "src": "mv6/c3.jpg",
       "alt": "José Hernán Aguilar. Salón Atenas vs Salón Nacional in Re-Vista of Latin American Art and Architecture (Medellín, Colombia) - Vol. 2 no. 6, pp. 17-21, 1981. Courtesy of Familia Sierra Maya. "
+    },
+    "activityImg": {
+      "src": "mv2/4g2.jpg",
+      "alt": "El Sindicato Group. Dinner with shoes. 1978. Source: MAMBO Collection"
     },
     "knowMore": [
       {

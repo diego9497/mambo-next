@@ -97,7 +97,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                     <MAMBOImage
                       src={didYouKnowImg.src}
                       alt={didYouKnowImg.alt}
-                      audio={didYouKnow.audio}
+                      audio={didYouKnowImg.audio}
                       position={id === 6 ? "top" : "center"}
                     />
                   </ImageOfMenuContainer>
@@ -132,7 +132,7 @@ function ExhibitionSecondary({ exhibition, config }) {
                   <MAMBOImage
                     src={activityImg.src}
                     alt={activityImg.alt}
-                    audio={activity.audio}
+                    audio={activityImg.audio}
                   />
                 </ImageOfMenuContainer>
                 {activity}
