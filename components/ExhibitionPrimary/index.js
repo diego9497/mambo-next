@@ -31,6 +31,7 @@ export default function ExhibitionPrimary({ exhibition, config }) {
     color,
     text,
     author,
+    authorAudio,
     keyConcepts,
     didYouKnowImg,
     activityImg,
@@ -137,9 +138,9 @@ export default function ExhibitionPrimary({ exhibition, config }) {
           </TextContentHistory>
         </ContentHistory>
         <ContentSecond background={color} color={text}>
-          {img1.audio && (
+          {authorAudio && (
             <AudioContainer stroke={text}>
-              <Accessibility src={img1.audio} />
+              <Accessibility src={authorAudio} />
             </AudioContainer>
           )}
           <TitleContentSecond
