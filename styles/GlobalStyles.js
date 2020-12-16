@@ -28,4 +28,7 @@ export default createGlobalStyle`
     color: blue
   }
   
+  i{
+    font-weight: 300;
+  }
 `;
