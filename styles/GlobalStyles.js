@@ -24,5 +24,8 @@ export default createGlobalStyle`
   body{
     scroll-margin: var(----headerHeight);
   }
+  a{
+    color: blue
+  }
   
 `;
