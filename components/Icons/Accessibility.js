@@ -1,20 +1,7 @@
 import { useRef, useState } from 'react'
 import styled, { css } from 'styled-components'
 
-function Accessibility({ src, ...props }) {
-  const audio = useRef(null)
-  const [playing, setPlaying] = useState(false)
-
-  const playPause = () => {
-    if (!playing) {
-      audio.current.play()
-    } else {
-      audio.current.pause()
-    }
-    setPlaying(!playing)
-  }
-
-  const common = css`
+const common = css`
     height: 30px;
     width: 30px;
     border-radius: 50%;
@@ -29,14 +16,28 @@ function Accessibility({ src, ...props }) {
       }
     }
   `
-  const Wave = styled.div`
+const Wave = styled.div`
     ${common};
     animation: wave 1s ease 0s infinite alternate-reverse forwards;
   `
-  const Wave2 = styled.div`
+const Wave2 = styled.div`
     ${common};
     animation: wave 1s ease .3s infinite alternate-reverse forwards;
   `
+
+function Accessibility({ src, ...props }) {
+  const audio = useRef(null)
+  const [playing, setPlaying] = useState(false)
+
+  const playPause = () => {
+    if (!playing) {
+      audio.current.play()
+    } else {
+      audio.current.pause()
+    }
+    setPlaying(!playing)
+  }
+
   return (
     <div onClick={playPause} style={{ position: 'relative' }}>
       {playing &&
