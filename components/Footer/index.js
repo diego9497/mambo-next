@@ -50,8 +50,8 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
             </Option>
           </ItemOption>
         ) : (
-          <Empty></Empty>
-        )}
+            <Empty></Empty>
+          )}
         {!index && exhibition.id !== 9 ? (
           <Link href={locale === "es" ? `/special/9` : `/en/special/9`}>
             <ItemOption text="white" color="black">
@@ -59,8 +59,8 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
             </ItemOption>
           </Link>
         ) : (
-          <Empty></Empty>
-        )}
+            <Empty></Empty>
+          )}
         <ItemOption
           onClick={clickGames}
           text={text}
@@ -79,7 +79,7 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
               </li>
               <li>
                 <a>
-                  Rana
+                  Cruza con zapatos
                   <Next size={22} />
                 </a>
               </li>
