@@ -148,6 +148,8 @@ export const ContainerActivities = styled.div`
       justify-content: space-between;
       align-items: center;
       fill: black;
+      color: black;
+      text-decoration: none;
     }
 
     :nth-child(1) {

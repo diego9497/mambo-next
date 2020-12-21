@@ -72,19 +72,19 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
           {openGames && (
             <ContainerActivities>
               <li>
-                <a>
+                <a href="/juegos/#/login?play=0">
                   Trivia
                   <Next size={22} />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="/juegos/#/login?play=1">
                   Cruza con zapatos
                   <Next size={22} />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="/juegos/#/login?play=2">
                   Runner
                   <Next size={22} />
                 </a>
