@@ -61,37 +61,43 @@ function Footer({ exhibition, config, index, choose, locale = "es" }) {
         ) : (
             <Empty></Empty>
           )}
-        <ItemOption
-          onClick={clickGames}
-          text={text}
-          color={color}
-          active={openGames}
-        >
-          <Game />
-          <Option>{config.games}</Option>
-          {openGames && (
-            <ContainerActivities>
-              <li>
-                <a href="/juegos/#/login?play=0">
-                  Trivia
+        {process.env.SPA ? (
+          <ItemOption
+            onClick={clickGames}
+            text={text}
+            color={color}
+            active={openGames}
+          >
+            <>
+              <Game />
+              <Option>{config.games}</Option>
+              {openGames && (
+                <ContainerActivities>
+                  <li>
+                    <a href="/juegos/#/login?play=0">
+                      Trivia
                   <Next size={22} />
-                </a>
-              </li>
-              <li>
-                <a href="/juegos/#/login?play=1">
-                  Cruza con zapatos
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/juegos/#/login?play=1">
+                      Cruza con zapatos
                   <Next size={22} />
-                </a>
-              </li>
-              <li>
-                <a href="/juegos/#/login?play=2">
-                  Runner
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/juegos/#/login?play=2">
+                      Runner
                   <Next size={22} />
-                </a>
-              </li>
-            </ContainerActivities>
+                    </a>
+                  </li>
+                </ContainerActivities>
+              )}
+            </>
+          </ItemOption>
+        ) : (
+            <Empty />
           )}
-        </ItemOption>
       </LeftContainer>
       <TimeLineMapContainer>
         <Link href={locale === "es" ? "/timeline" : "/en/timeline"}>

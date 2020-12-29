@@ -83,7 +83,7 @@ export const ContainerImage = styled.div`
   width: 100%;
   background: ${({ color }) => color};
   @media screen and (max-width: 768px) {
-    height: 200px;
+    min-height: 200px;
   } ;
 `;
 export const ImageInfo = styled.img`
@@ -109,7 +109,7 @@ export const ContainerContent = styled.div`
     line-break: anywhere;
     position: absolute;
     right: 15px;
-    color: ${({ text }) => text};
+    color: #000090;
     @media screen and (max-width: 768px) {
       color: black;
     }
